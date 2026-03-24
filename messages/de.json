@@ -1,0 +1,254 @@
+{
+  "metadata": {
+    "home": {
+      "title": "IAPME Suisse – KI im Dienste Schweizer KMU",
+      "description": "Strategische Begleitung, Schulung und Integration von KI-Tools für Schweizer KMU. Kostenloses Audit."
+    },
+    "services": {
+      "title": "Unsere KI-Dienstleistungen für KMU – IAPME Suisse",
+      "description": "KI-Audit, Schulungen, Tool-Integration und strategische Begleitung für Schweizer KMU."
+    },
+    "about": {
+      "title": "Über IAPME Suisse – Unsere Mission",
+      "description": "Lernen Sie das Team von IAPME Suisse kennen und unsere Mission: KI für alle Schweizer KMU zugänglich machen."
+    },
+    "blog": {
+      "title": "KI-Blog für KMU – IAPME Suisse",
+      "description": "Aktuelle Beiträge, praktische Tipps und Leitfäden zur künstlichen Intelligenz für Schweizer KMU."
+    },
+    "contact": {
+      "title": "Kontaktieren Sie IAPME Suisse – Kostenloses KI-Audit",
+      "description": "Nehmen Sie Kontakt mit unserem Team auf für ein kostenloses und individuelles KI-Audit für Ihr KMU."
+    },
+    "resources": {
+      "title": "KI-Ressourcen für KMU – IAPME Suisse",
+      "description": "Leitfäden, Tools, FAQ und nützliche Links für den Einstieg in die künstliche Intelligenz in Ihrem KMU."
+    }
+  },
+  "nav": {
+    "home": "Startseite",
+    "services": "Dienstleistungen",
+    "about": "Über uns",
+    "blog": "Blog",
+    "contact": "Kontakt",
+    "resources": "Ressourcen"
+  },
+  "hero": {
+    "title": "KI im Dienste Schweizer KMU",
+    "subtitle": "Strategische Begleitung, Schulung und Integration von KI-Tools zur Transformation Ihres Unternehmens.",
+    "cta": "Kostenloses Audit anfordern",
+    "secondary_cta": "Unsere Dienstleistungen entdecken"
+  },
+  "home": {
+    "why_title": "Warum KI für Schweizer KMU?",
+    "why_description": "Künstliche Intelligenz ist längst nicht mehr nur Grossunternehmen vorbehalten. Schweizer KMU können bereits heute KI nutzen, um effizienter zu arbeiten, Kosten zu senken und Innovationen voranzutreiben.",
+    "why_items": [
+      {
+        "title": "Produktivität",
+        "description": "Automatisieren Sie repetitive Aufgaben und gewinnen Sie Zeit für das Wesentliche."
+      },
+      {
+        "title": "Wettbewerbsfähigkeit",
+        "description": "Bleiben Sie der Konkurrenz dank modernster Technologien einen Schritt voraus."
+      },
+      {
+        "title": "Innovation",
+        "description": "Nutzen Sie die Technologien von morgen schon heute, um die Zukunft zu gestalten."
+      }
+    ],
+    "services_title": "Unsere Dienstleistungen",
+    "stats": {
+      "title": "Messbare Ergebnisse",
+      "items": [
+        { "value": "200+", "label": "Begleitete KMU" },
+        { "value": "40%", "label": "Durchschnittlicher Produktivitätsgewinn" },
+        { "value": "98%", "label": "Kundenzufriedenheit" },
+        { "value": "4", "label": "Gesprochene Sprachen" }
+      ]
+    },
+    "cta_title": "Bereit, Ihr KMU zu transformieren?",
+    "cta_description": "Kontaktieren Sie uns für ein kostenloses Audit und erfahren Sie, wie KI Ihr Unternehmen voranbringen kann.",
+    "cta_button": "Kontakt aufnehmen"
+  },
+  "services": {
+    "title": "Unsere Dienstleistungen",
+    "subtitle": "KI-Lösungen, massgeschneidert für Schweizer KMU",
+    "audit": {
+      "title": "KI-Audit für KMU",
+      "description": "Umfassende Analyse Ihres Unternehmens zur Identifizierung von Automatisierungs- und Optimierungsmöglichkeiten durch künstliche Intelligenz.",
+      "features": [
+        "Prozessanalyse",
+        "Identifizierung von Potenzialen",
+        "Individueller Umsetzungsplan",
+        "ROI-Schätzung"
+      ]
+    },
+    "training": {
+      "title": "Schulungen & Workshops",
+      "description": "Schulen Sie Ihre Teams in den relevantesten KI-Tools für Ihre Branche. Praxisnahe Workshops und massgeschneiderte Schulungen.",
+      "features": [
+        "ChatGPT für Unternehmen",
+        "Workflow-Automatisierung",
+        "Datenanalyse",
+        "Generative KI"
+      ]
+    },
+    "integration": {
+      "title": "Integration von KI-Tools",
+      "description": "Implementierung von KI-Tools in Ihre bestehende Infrastruktur. ChatGPT, Automatisierung, prädiktive Analyse.",
+      "features": [
+        "ChatGPT & Copilots",
+        "Automatisierung (Make, Zapier)",
+        "Intelligentes CRM",
+        "Massgeschneiderte Chatbots"
+      ]
+    },
+    "strategy": {
+      "title": "Strategische Begleitung",
+      "description": "Definieren Sie Ihre langfristige KI-Strategie mit persönlicher Begleitung durch unsere Experten.",
+      "features": [
+        "Digitale KI-Strategie",
+        "Digitale Transformation",
+        "Technologie-Monitoring",
+        "Quartalsweise Nachverfolgung"
+      ]
+    },
+    "cta": "Mehr erfahren"
+  },
+  "about": {
+    "title": "Über IAPME Suisse",
+    "mission_title": "Unsere Mission",
+    "mission_text": "Künstliche Intelligenz für alle Schweizer KMU zugänglich und nutzbar machen – unabhängig von Grösse oder Branche.",
+    "why_title": "Warum die Schweiz KI für ihre KMU braucht",
+    "why_text": "Die Schweiz zählt über 600'000 KMU, die 99% des Wirtschaftsgefüges ausmachen. Angesichts der KI-Revolution müssen sich diese Unternehmen anpassen, um wettbewerbsfähig zu bleiben. IAPME Suisse begleitet sie bei diesem Wandel.",
+    "values_title": "Unsere Werte",
+    "values": [
+      {
+        "title": "Nähe",
+        "description": "Persönliche Begleitung in allen vier Landessprachen."
+      },
+      {
+        "title": "Pragmatismus",
+        "description": "Konkrete Lösungen, angepasst an Ihre Unternehmensrealität."
+      },
+      {
+        "title": "Innovation",
+        "description": "Neueste KI-Technologien, für alle zugänglich."
+      },
+      {
+        "title": "Swissness",
+        "description": "Qualität, Zuverlässigkeit und Diskretion. Made in Switzerland."
+      }
+    ],
+    "team_title": "Das Team",
+    "founder": {
+      "name": "Das IAPME-Team",
+      "role": "Gründer & KI-Berater",
+      "bio": "Begeistert von KI und Schweizer Unternehmertum, helfen wir KMU, die technologische Revolution mit Pragmatismus und Effizienz zu meistern."
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Aktuelles, Tipps und Leitfäden zu KI für KMU",
+    "read_more": "Weiterlesen",
+    "back": "Zurück zum Blog"
+  },
+  "contact": {
+    "title": "Kontaktieren Sie uns",
+    "subtitle": "Bereit für den nächsten Schritt? Sprechen wir über Ihr Projekt.",
+    "form": {
+      "name": "Vollständiger Name",
+      "email": "E-Mail",
+      "company": "Unternehmen",
+      "message": "Ihre Nachricht",
+      "submit": "Absenden",
+      "success": "Nachricht erfolgreich gesendet! Wir melden uns in Kürze bei Ihnen.",
+      "name_placeholder": "Max Muster",
+      "email_placeholder": "max@unternehmen.ch",
+      "company_placeholder": "Mein KMU AG",
+      "message_placeholder": "Beschreiben Sie Ihr Projekt oder Ihren KI-Bedarf..."
+    },
+    "info": {
+      "title": "Kontaktinformationen",
+      "email": "contact@iapmesuisse.ch",
+      "location": "Schweiz",
+      "hours": "Mo - Fr: 9:00 - 18:00"
+    }
+  },
+  "resources": {
+    "title": "Ressourcen",
+    "subtitle": "Leitfäden, Tools und FAQ für den Einstieg in die KI",
+    "guides_title": "Leitfäden zum Herunterladen",
+    "guides": [
+      {
+        "title": "KI-Einstiegsleitfaden für KMU",
+        "description": "Alles, was Sie wissen müssen, um KI in Ihrem Unternehmen einzusetzen."
+      },
+      {
+        "title": "Checkliste ChatGPT-Integration",
+        "description": "Die wesentlichen Schritte zur Integration von ChatGPT in Ihren Arbeitsablauf."
+      },
+      {
+        "title": "ROI der KI: Berechnungsmethode",
+        "description": "So messen Sie den Return on Investment Ihrer KI-Projekte."
+      }
+    ],
+    "download": "Herunterladen",
+    "coming_soon": "Demnächst verfügbar",
+    "links_title": "Nützliche Links",
+    "links": [
+      {
+        "title": "OpenAI",
+        "url": "https://openai.com",
+        "description": "ChatGPT und die KI-Tools von OpenAI"
+      },
+      {
+        "title": "Digitalswitzerland",
+        "url": "https://digitalswitzerland.com",
+        "description": "Initiative für die digitale Transformation in der Schweiz"
+      },
+      {
+        "title": "SECO KMU",
+        "url": "https://www.seco.admin.ch",
+        "description": "KMU-Portal des Staatssekretariats für Wirtschaft"
+      }
+    ],
+    "faq_title": "Häufig gestellte Fragen",
+    "faq": [
+      {
+        "question": "Ist KI auch für kleine Unternehmen geeignet?",
+        "answer": "Absolut. Viele KI-Tools sind zugänglich und erschwinglich, selbst für Kleinstunternehmen. Entscheidend ist, die richtigen Anwendungsfälle zu identifizieren."
+      },
+      {
+        "question": "Was kostet die Integration von KI?",
+        "answer": "Die Kosten variieren je nach Komplexität des Projekts. Ein erstes Audit ermöglicht es, die notwendigen Investitionen und den erwarteten ROI zu bewerten."
+      },
+      {
+        "question": "Braucht man technische Vorkenntnisse?",
+        "answer": "Nein. Unsere Schulungen sind für alle Niveaus geeignet. Wir begleiten Ihre Teams Schritt für Schritt."
+      },
+      {
+        "question": "Wie lange dauert eine Integration?",
+        "answer": "Ein einfaches Projekt kann innerhalb weniger Wochen einsatzbereit sein. Komplexere Projekte erstrecken sich über 2-3 Monate."
+      },
+      {
+        "question": "Bleiben meine Daten in der Schweiz?",
+        "answer": "Wir bevorzugen datenschutzkonforme Lösungen. Wir beraten Sie zu den besten Praktiken in Sachen Vertraulichkeit und Datenschutz."
+      }
+    ]
+  },
+  "footer": {
+    "description": "Künstliche Intelligenz im Dienste Schweizer KMU.",
+    "services": "Dienstleistungen",
+    "company": "Unternehmen",
+    "follow_us": "Folgen Sie uns",
+    "rights": "Alle Rechte vorbehalten.",
+    "privacy": "Datenschutz",
+    "terms": "AGB"
+  },
+  "common": {
+    "learn_more": "Mehr erfahren",
+    "contact_us": "Kontakt aufnehmen",
+    "back": "Zurück"
+  }
+}

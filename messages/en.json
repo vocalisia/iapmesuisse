@@ -1,0 +1,254 @@
+{
+  "metadata": {
+    "home": {
+      "title": "IAPME Suisse – AI for Swiss SMEs",
+      "description": "Strategic consulting, training and AI tool integration for Swiss SMEs. Free audit available."
+    },
+    "services": {
+      "title": "Our AI Services for SMEs – IAPME Suisse",
+      "description": "AI audit, training, tool integration and strategic consulting for Swiss SMEs."
+    },
+    "about": {
+      "title": "About IAPME Suisse – Our Mission",
+      "description": "Meet the IAPME Suisse team and our mission: making AI accessible to all Swiss SMEs."
+    },
+    "blog": {
+      "title": "AI Blog for SMEs – IAPME Suisse",
+      "description": "News, practical tips and guides on artificial intelligence for Swiss SMEs."
+    },
+    "contact": {
+      "title": "Contact IAPME Suisse – Free AI Audit",
+      "description": "Get in touch with our team for a free, personalised AI audit for your SME."
+    },
+    "resources": {
+      "title": "AI Resources for SMEs – IAPME Suisse",
+      "description": "Guides, tools, FAQ and useful links to get started with artificial intelligence in your SME."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "blog": "Blog",
+    "contact": "Contact",
+    "resources": "Resources"
+  },
+  "hero": {
+    "title": "AI at the service of Swiss SMEs",
+    "subtitle": "Strategic consulting, training and AI tool integration to transform your business.",
+    "cta": "Request a free audit",
+    "secondary_cta": "Discover our services"
+  },
+  "home": {
+    "why_title": "Why AI for Swiss SMEs?",
+    "why_description": "Artificial intelligence is no longer reserved for large corporations. Swiss SMEs can leverage AI today to boost efficiency, reduce costs and drive innovation.",
+    "why_items": [
+      {
+        "title": "Productivity",
+        "description": "Automate repetitive tasks and free up time for what truly matters."
+      },
+      {
+        "title": "Competitiveness",
+        "description": "Stay ahead of the competition with cutting-edge technology."
+      },
+      {
+        "title": "Innovation",
+        "description": "Embrace tomorrow's technologies today to future-proof your business."
+      }
+    ],
+    "services_title": "Our services",
+    "stats": {
+      "title": "Proven results",
+      "items": [
+        { "value": "200+", "label": "SMEs supported" },
+        { "value": "40%", "label": "Average productivity gain" },
+        { "value": "98%", "label": "Client satisfaction" },
+        { "value": "4", "label": "Languages spoken" }
+      ]
+    },
+    "cta_title": "Ready to transform your SME?",
+    "cta_description": "Contact us for a free audit and discover how AI can accelerate your business.",
+    "cta_button": "Get in touch"
+  },
+  "services": {
+    "title": "Our services",
+    "subtitle": "AI solutions tailored to the needs of Swiss SMEs",
+    "audit": {
+      "title": "AI Audit for SMEs",
+      "description": "Comprehensive analysis of your business to identify automation and optimisation opportunities through artificial intelligence.",
+      "features": [
+        "Process analysis",
+        "Opportunity identification",
+        "Customised roadmap",
+        "Estimated ROI"
+      ]
+    },
+    "training": {
+      "title": "Training & Workshops",
+      "description": "Train your teams on the most relevant AI tools for your industry. Hands-on workshops and bespoke training programmes.",
+      "features": [
+        "ChatGPT for business",
+        "Workflow automation",
+        "Data analysis",
+        "Generative AI"
+      ]
+    },
+    "integration": {
+      "title": "AI Tool Integration",
+      "description": "Implementation of AI tools into your existing infrastructure. ChatGPT, automation, predictive analytics.",
+      "features": [
+        "ChatGPT & copilots",
+        "Automation (Make, Zapier)",
+        "Intelligent CRM",
+        "Custom chatbots"
+      ]
+    },
+    "strategy": {
+      "title": "Strategic Consulting",
+      "description": "Define your long-term AI strategy with personalised guidance from our experts.",
+      "features": [
+        "AI digital strategy",
+        "Digital transformation",
+        "Technology watch",
+        "Quarterly follow-up"
+      ]
+    },
+    "cta": "Learn more"
+  },
+  "about": {
+    "title": "About IAPME Suisse",
+    "mission_title": "Our mission",
+    "mission_text": "Making artificial intelligence accessible and valuable to all Swiss SMEs, regardless of their size or industry.",
+    "why_title": "Why Switzerland needs AI for its SMEs",
+    "why_text": "Switzerland is home to over 600,000 SMEs, representing 99% of its economic fabric. In the face of the AI revolution, these businesses must adapt to remain competitive. IAPME Suisse guides them through this transition.",
+    "values_title": "Our values",
+    "values": [
+      {
+        "title": "Proximity",
+        "description": "Personalised support in all four national languages."
+      },
+      {
+        "title": "Pragmatism",
+        "description": "Practical solutions tailored to your business reality."
+      },
+      {
+        "title": "Innovation",
+        "description": "The latest AI technologies, accessible to everyone."
+      },
+      {
+        "title": "Swissness",
+        "description": "Quality, reliability and discretion. Made in Switzerland."
+      }
+    ],
+    "team_title": "The team",
+    "founder": {
+      "name": "The IAPME Team",
+      "role": "Founder & AI Consultant",
+      "bio": "Passionate about AI and Swiss entrepreneurship, we help SMEs navigate the technological revolution with pragmatism and efficiency."
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "News, tips and guides on AI for SMEs",
+    "read_more": "Read more",
+    "back": "Back to blog"
+  },
+  "contact": {
+    "title": "Contact us",
+    "subtitle": "Ready to take the next step? Let's talk about your project.",
+    "form": {
+      "name": "Full name",
+      "email": "Email",
+      "company": "Company",
+      "message": "Your message",
+      "submit": "Send",
+      "success": "Message sent successfully! We will get back to you shortly.",
+      "name_placeholder": "John Smith",
+      "email_placeholder": "john@company.ch",
+      "company_placeholder": "My SME Ltd",
+      "message_placeholder": "Describe your project or AI needs..."
+    },
+    "info": {
+      "title": "Contact information",
+      "email": "contact@iapmesuisse.ch",
+      "location": "Switzerland",
+      "hours": "Mon - Fri: 9am - 6pm"
+    }
+  },
+  "resources": {
+    "title": "Resources",
+    "subtitle": "Guides, tools and FAQ to get started with AI",
+    "guides_title": "Downloadable guides",
+    "guides": [
+      {
+        "title": "AI Starter Guide for SMEs",
+        "description": "Everything you need to know to get started with AI in your business."
+      },
+      {
+        "title": "ChatGPT Integration Checklist",
+        "description": "The essential steps to integrate ChatGPT into your workflow."
+      },
+      {
+        "title": "AI ROI: Calculation Method",
+        "description": "How to measure the return on investment of your AI projects."
+      }
+    ],
+    "download": "Download",
+    "coming_soon": "Coming soon",
+    "links_title": "Useful links",
+    "links": [
+      {
+        "title": "OpenAI",
+        "url": "https://openai.com",
+        "description": "ChatGPT and OpenAI's AI tools"
+      },
+      {
+        "title": "Digitalswitzerland",
+        "url": "https://digitalswitzerland.com",
+        "description": "Initiative for digital transformation in Switzerland"
+      },
+      {
+        "title": "SECO SME",
+        "url": "https://www.seco.admin.ch",
+        "description": "SME portal of the State Secretariat for Economic Affairs"
+      }
+    ],
+    "faq_title": "Frequently asked questions",
+    "faq": [
+      {
+        "question": "Is AI suitable for small businesses?",
+        "answer": "Absolutely. Many AI tools are accessible and affordable, even for micro-businesses. The key is identifying the right use cases."
+      },
+      {
+        "question": "How much does AI integration cost?",
+        "answer": "Costs vary depending on the complexity of the project. An initial audit helps assess the necessary investments and expected ROI."
+      },
+      {
+        "question": "Do I need technical skills?",
+        "answer": "No. Our training programmes are designed for all levels. We guide your teams every step of the way."
+      },
+      {
+        "question": "How long does an integration take?",
+        "answer": "A simple project can be up and running within a few weeks. More complex projects typically span 2-3 months."
+      },
+      {
+        "question": "Does my data stay in Switzerland?",
+        "answer": "We prioritise data-protection-compliant solutions. We advise you on best practices for confidentiality and privacy."
+      }
+    ]
+  },
+  "footer": {
+    "description": "Artificial intelligence at the service of Swiss SMEs.",
+    "services": "Services",
+    "company": "Company",
+    "follow_us": "Follow us",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy",
+    "terms": "Terms"
+  },
+  "common": {
+    "learn_more": "Learn more",
+    "contact_us": "Contact us",
+    "back": "Back"
+  }
+}

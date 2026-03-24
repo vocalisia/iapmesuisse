@@ -1,0 +1,254 @@
+{
+  "metadata": {
+    "home": {
+      "title": "IAPME Suisse – L'IA au service des PME suisses",
+      "description": "Accompagnement stratégique, formation et intégration d'outils d'intelligence artificielle pour les PME suisses. Audit gratuit."
+    },
+    "services": {
+      "title": "Nos services IA pour PME – IAPME Suisse",
+      "description": "Audit IA, formation, intégration d'outils et accompagnement stratégique pour les PME suisses."
+    },
+    "about": {
+      "title": "À propos d'IAPME Suisse – Notre mission",
+      "description": "Découvrez l'équipe IAPME Suisse et notre mission : rendre l'IA accessible à toutes les PME suisses."
+    },
+    "blog": {
+      "title": "Blog IA pour PME – IAPME Suisse",
+      "description": "Actualités, conseils pratiques et guides sur l'intelligence artificielle pour les PME suisses."
+    },
+    "contact": {
+      "title": "Contactez IAPME Suisse – Audit IA gratuit",
+      "description": "Prenez contact avec notre équipe pour un audit IA gratuit et personnalisé pour votre PME."
+    },
+    "resources": {
+      "title": "Ressources IA pour PME – IAPME Suisse",
+      "description": "Guides, outils, FAQ et liens utiles pour démarrer avec l'intelligence artificielle dans votre PME."
+    }
+  },
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "about": "À propos",
+    "blog": "Blog",
+    "contact": "Contact",
+    "resources": "Ressources"
+  },
+  "hero": {
+    "title": "L'IA au service des PME suisses",
+    "subtitle": "Accompagnement stratégique, formation et intégration d'outils d'intelligence artificielle pour transformer votre entreprise.",
+    "cta": "Demander un audit gratuit",
+    "secondary_cta": "Découvrir nos services"
+  },
+  "home": {
+    "why_title": "Pourquoi l'IA pour les PME suisses ?",
+    "why_description": "L'intelligence artificielle n'est plus réservée aux grandes entreprises. Les PME suisses peuvent dès aujourd'hui tirer parti de l'IA pour gagner en efficacité, réduire leurs coûts et innover.",
+    "why_items": [
+      {
+        "title": "Productivité",
+        "description": "Automatisez les tâches répétitives et libérez du temps pour ce qui compte vraiment."
+      },
+      {
+        "title": "Compétitivité",
+        "description": "Restez en tête face à la concurrence grâce aux technologies de pointe."
+      },
+      {
+        "title": "Innovation",
+        "description": "Adoptez les technologies de demain dès aujourd'hui pour préparer l'avenir."
+      }
+    ],
+    "services_title": "Nos services",
+    "stats": {
+      "title": "Des résultats concrets",
+      "items": [
+        { "value": "200+", "label": "PME accompagnées" },
+        { "value": "40%", "label": "Gain de productivité moyen" },
+        { "value": "98%", "label": "Satisfaction client" },
+        { "value": "4", "label": "Langues parlées" }
+      ]
+    },
+    "cta_title": "Prêt à transformer votre PME ?",
+    "cta_description": "Contactez-nous pour un audit gratuit et découvrez comment l'IA peut booster votre entreprise.",
+    "cta_button": "Nous contacter"
+  },
+  "services": {
+    "title": "Nos services",
+    "subtitle": "Des solutions IA adaptées aux besoins des PME suisses",
+    "audit": {
+      "title": "Audit IA pour PME",
+      "description": "Analyse complète de votre entreprise pour identifier les opportunités d'automatisation et d'optimisation grâce à l'intelligence artificielle.",
+      "features": [
+        "Analyse des processus",
+        "Identification des opportunités",
+        "Feuille de route personnalisée",
+        "ROI estimé"
+      ]
+    },
+    "training": {
+      "title": "Formation & Workshops",
+      "description": "Formez vos équipes aux outils IA les plus pertinents pour votre secteur. Workshops pratiques et formations sur mesure.",
+      "features": [
+        "ChatGPT pour entreprise",
+        "Automatisation workflows",
+        "Analyse de données",
+        "IA générative"
+      ]
+    },
+    "integration": {
+      "title": "Intégration d'outils IA",
+      "description": "Mise en place d'outils d'IA dans votre infrastructure existante. ChatGPT, automatisation, analyse prédictive.",
+      "features": [
+        "ChatGPT & copilots",
+        "Automatisation (Make, Zapier)",
+        "CRM intelligent",
+        "Chatbots sur mesure"
+      ]
+    },
+    "strategy": {
+      "title": "Accompagnement stratégique",
+      "description": "Définissez votre stratégie IA à long terme avec un accompagnement personnalisé par des experts.",
+      "features": [
+        "Stratégie digitale IA",
+        "Transformation numérique",
+        "Veille technologique",
+        "Suivi trimestriel"
+      ]
+    },
+    "cta": "En savoir plus"
+  },
+  "about": {
+    "title": "À propos d'IAPME Suisse",
+    "mission_title": "Notre mission",
+    "mission_text": "Rendre l'intelligence artificielle accessible et utile à toutes les PME suisses, quelle que soit leur taille ou leur secteur d'activité.",
+    "why_title": "Pourquoi la Suisse a besoin d'IA pour ses PME",
+    "why_text": "La Suisse compte plus de 600'000 PME qui représentent 99% du tissu économique. Face à la révolution IA, ces entreprises doivent s'adapter pour rester compétitives. IAPME Suisse les accompagne dans cette transition.",
+    "values_title": "Nos valeurs",
+    "values": [
+      {
+        "title": "Proximité",
+        "description": "Un accompagnement personnalisé, en quatre langues nationales."
+      },
+      {
+        "title": "Pragmatisme",
+        "description": "Des solutions concrètes, adaptées à votre réalité d'entreprise."
+      },
+      {
+        "title": "Innovation",
+        "description": "Les dernières technologies IA, accessibles à tous."
+      },
+      {
+        "title": "Suissitude",
+        "description": "Qualité, fiabilité et discrétion. Made in Switzerland."
+      }
+    ],
+    "team_title": "L'équipe",
+    "founder": {
+      "name": "L'équipe IAPME",
+      "role": "Fondateur & Consultant IA",
+      "bio": "Passionnés par l'IA et l'entrepreneuriat suisse, nous aidons les PME à naviguer la révolution technologique avec pragmatisme et efficacité."
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Actualités, conseils et guides sur l'IA pour les PME",
+    "read_more": "Lire la suite",
+    "back": "Retour au blog"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Prêt à franchir le pas ? Parlons de votre projet.",
+    "form": {
+      "name": "Nom complet",
+      "email": "Email",
+      "company": "Entreprise",
+      "message": "Votre message",
+      "submit": "Envoyer",
+      "success": "Message envoyé avec succès ! Nous vous répondrons rapidement.",
+      "name_placeholder": "Jean Dupont",
+      "email_placeholder": "jean@entreprise.ch",
+      "company_placeholder": "Ma PME SA",
+      "message_placeholder": "Décrivez votre projet ou besoin en IA..."
+    },
+    "info": {
+      "title": "Informations",
+      "email": "contact@iapmesuisse.ch",
+      "location": "Suisse",
+      "hours": "Lun - Ven : 9h - 18h"
+    }
+  },
+  "resources": {
+    "title": "Ressources",
+    "subtitle": "Guides, outils et FAQ pour démarrer avec l'IA",
+    "guides_title": "Guides téléchargeables",
+    "guides": [
+      {
+        "title": "Guide de démarrage IA pour PME",
+        "description": "Tout ce qu'il faut savoir pour commencer avec l'IA dans votre entreprise."
+      },
+      {
+        "title": "Checklist intégration ChatGPT",
+        "description": "Les étapes essentielles pour intégrer ChatGPT dans votre workflow."
+      },
+      {
+        "title": "ROI de l'IA : méthode de calcul",
+        "description": "Comment mesurer le retour sur investissement de vos projets IA."
+      }
+    ],
+    "download": "Télécharger",
+    "coming_soon": "Bientôt disponible",
+    "links_title": "Liens utiles",
+    "links": [
+      {
+        "title": "OpenAI",
+        "url": "https://openai.com",
+        "description": "ChatGPT et les outils IA d'OpenAI"
+      },
+      {
+        "title": "Digitalswitzerland",
+        "url": "https://digitalswitzerland.com",
+        "description": "Initiative pour la transformation digitale en Suisse"
+      },
+      {
+        "title": "SECO PME",
+        "url": "https://www.seco.admin.ch",
+        "description": "Portail PME du Secrétariat d'État à l'économie"
+      }
+    ],
+    "faq_title": "Questions fréquentes",
+    "faq": [
+      {
+        "question": "L'IA est-elle adaptée aux petites entreprises ?",
+        "answer": "Absolument. De nombreux outils IA sont accessibles et abordables, même pour les micro-entreprises. L'important est d'identifier les bons cas d'usage."
+      },
+      {
+        "question": "Combien coûte l'intégration de l'IA ?",
+        "answer": "Les coûts varient selon la complexité du projet. Un audit initial permet d'évaluer les investissements nécessaires et le ROI attendu."
+      },
+      {
+        "question": "Faut-il des compétences techniques ?",
+        "answer": "Non. Nos formations sont adaptées à tous les niveaux. Nous accompagnons vos équipes pas à pas."
+      },
+      {
+        "question": "Combien de temps dure une intégration ?",
+        "answer": "Un projet simple peut être opérationnel en quelques semaines. Les projets plus complexes s'étalent sur 2-3 mois."
+      },
+      {
+        "question": "Mes données restent-elles en Suisse ?",
+        "answer": "Nous privilégions les solutions respectueuses de la protection des données. Nous vous conseillons sur les meilleures pratiques en matière de confidentialité."
+      }
+    ]
+  },
+  "footer": {
+    "description": "L'intelligence artificielle au service des PME suisses.",
+    "services": "Services",
+    "company": "Entreprise",
+    "follow_us": "Suivez-nous",
+    "rights": "Tous droits réservés.",
+    "privacy": "Confidentialité",
+    "terms": "Conditions"
+  },
+  "common": {
+    "learn_more": "En savoir plus",
+    "contact_us": "Nous contacter",
+    "back": "Retour"
+  }
+}
