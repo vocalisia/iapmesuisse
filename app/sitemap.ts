@@ -14,6 +14,14 @@ const pages = [
   '/mentions-legales',
   '/politique-confidentialite',
   '/cgv',
+  '/formation-ia-pme',
+  '/consulting',
+  '/newsletter',
+  '/evenements-ia',
+  '/outils-ia',
+  '/temoignages',
+  '/faq',
+  '/partenaires',
 ];
 
 export default function sitemap(): MetadataRoute.Sitemap {

@@ -41,8 +41,10 @@ export default function Footer() {
             <ul className="mt-4 space-y-2">
               <li><Link href="/a-propos" className="text-sm text-gray-300 transition-colors hover:text-white">{nav('about')}</Link></li>
               <li><Link href="/blog" className="text-sm text-gray-300 transition-colors hover:text-white">{nav('blog')}</Link></li>
+              <li><Link href="/formation-ia-pme" className="text-sm text-gray-300 transition-colors hover:text-white">{nav('formation')}</Link></li>
+              <li><Link href="/consulting" className="text-sm text-gray-300 transition-colors hover:text-white">{nav('consulting')}</Link></li>
+              <li><Link href="/evenements-ia" className="text-sm text-gray-300 transition-colors hover:text-white">{nav('evenements')}</Link></li>
               <li><Link href="/contact" className="text-sm text-gray-300 transition-colors hover:text-white">{nav('contact')}</Link></li>
-              <li><Link href="/ressources" className="text-sm text-gray-300 transition-colors hover:text-white">{nav('resources')}</Link></li>
             </ul>
           </div>
 

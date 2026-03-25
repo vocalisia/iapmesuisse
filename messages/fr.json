@@ -23,6 +23,38 @@
     "resources": {
       "title": "Ressources IA pour PME – IAPME Suisse",
       "description": "Guides, outils, FAQ et liens utiles pour démarrer avec l'intelligence artificielle dans votre PME."
+    },
+    "faq": {
+      "title": "FAQ – Questions fréquentes sur l'IA pour PME",
+      "description": "Retrouvez les réponses aux questions les plus fréquentes sur l'intelligence artificielle pour les PME suisses."
+    },
+    "partners": {
+      "title": "Nos partenaires – IAPME Suisse",
+      "description": "Découvrez nos partenaires technologiques, institutionnels et stratégiques pour l'IA en PME."
+    },
+    "newsletter": {
+      "title": "Newsletter IA pour PME – IAPME Suisse",
+      "description": "Inscrivez-vous à notre newsletter pour recevoir les dernières actualités et conseils IA pour votre PME."
+    },
+    "formation": {
+      "title": "Formations IA pour PME – IAPME Suisse",
+      "description": "Formations en intelligence artificielle adaptées aux PME suisses. Du gratuit au premium, montez en compétences IA."
+    },
+    "consulting": {
+      "title": "Consulting IA pour PME – IAPME Suisse",
+      "description": "Accompagnement expert en intelligence artificielle pour les PME suisses. Audit, stratégie et intégration IA sur mesure."
+    },
+    "events": {
+      "title": "Événements IA Suisse – IAPME",
+      "description": "Conférences, workshops et meetups IA en Suisse"
+    },
+    "tools": {
+      "title": "Outils IA recommandés – IAPME Suisse",
+      "description": "Notre sélection d outils IA pour les PME suisses"
+    },
+    "testimonials": {
+      "title": "Témoignages – IAPME Suisse",
+      "description": "Ce que nos clients disent de nous"
     }
   },
   "nav": {
@@ -34,7 +66,15 @@
     "resources": "Ressources",
     "mentions": "Mentions légales",
     "privacy_page": "Confidentialité",
-    "terms_page": "Conditions générales"
+    "terms_page": "Conditions générales",
+    "formation": "Formation",
+    "outils": "Outils IA",
+    "consulting": "Consulting",
+    "newsletter": "Newsletter",
+    "evenements": "Événements",
+    "temoignages": "Témoignages",
+    "faq": "FAQ",
+    "partenaires": "Partenaires"
   },
   "hero": {
     "title": "L'IA au service des PME suisses",
@@ -63,10 +103,22 @@
     "stats": {
       "title": "Notre engagement",
       "items": [
-        { "value": "4", "label": "Langues de service" },
-        { "value": "100%", "label": "Solutions sur mesure" },
-        { "value": "PME", "label": "Focus exclusif" },
-        { "value": "CH", "label": "Ancrage suisse" }
+        {
+          "value": "4",
+          "label": "Langues de service"
+        },
+        {
+          "value": "100%",
+          "label": "Solutions sur mesure"
+        },
+        {
+          "value": "PME",
+          "label": "Focus exclusif"
+        },
+        {
+          "value": "CH",
+          "label": "Ancrage suisse"
+        }
       ]
     },
     "cta_title": "Prêt à transformer votre PME ?",
@@ -313,6 +365,118 @@
       "law_text": "Les présentes conditions sont soumises au droit suisse."
     }
   },
+  "formation": {
+    "title": "Formation IA pour PME",
+    "subtitle": "Développez les compétences IA de votre équipe avec nos formations adaptées",
+    "free": {
+      "name": "Découverte",
+      "price": "Gratuit",
+      "description": "Premiers pas dans l'IA",
+      "features": [
+        "Mini-cours email 5 jours",
+        "Webinaire mensuel gratuit",
+        "Accès communauté",
+        "Guide démarrage PDF"
+      ],
+      "cta": "S'inscrire gratuitement"
+    },
+    "starter": {
+      "name": "Starter",
+      "price": "97 CHF",
+      "description": "Les bases de l'IA pour votre PME",
+      "features": [
+        "3h de vidéo",
+        "Templates de prompts",
+        "Checklist digitalisation",
+        "Certificat de complétion",
+        "Support email"
+      ],
+      "cta": "Commencer"
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "297 CHF",
+      "description": "Maîtrisez l'IA pour votre entreprise",
+      "features": [
+        "10h de vidéo",
+        "Module LLMs (ChatGPT, Claude, Gemini)",
+        "Module automatisation (Zapier, Make)",
+        "Module marketing IA",
+        "Module cybersécurité",
+        "Conformité nLPD",
+        "Groupe privé",
+        "Session Q&A mensuelle"
+      ],
+      "cta": "S'inscrire",
+      "popular": "Populaire",
+      "badge": "Populaire"
+    },
+    "premium": {
+      "name": "Premium",
+      "price": "997 CHF",
+      "description": "Transformation complète avec accompagnement",
+      "features": [
+        "Tout le programme Pro",
+        "3 sessions consulting 1:1",
+        "Audit IA personnalisé",
+        "Plan d'action sur mesure",
+        "Support prioritaire 6 mois"
+      ],
+      "cta": "Nous contacter",
+      "badge": "VIP"
+    },
+    "guarantee": "Satisfait ou remboursé 30 jours",
+    "vat_note": "Prix en CHF, hors TVA"
+  },
+  "consulting": {
+    "title": "Consulting IA",
+    "subtitle": "Un accompagnement personnalisé pour votre transformation digitale",
+    "audit": {
+      "name": "Audit IA Express",
+      "price": "297 CHF",
+      "description": "Identifiez vos opportunités IA",
+      "features": [
+        "Appel diagnostic 1h",
+        "Analyse de votre PME",
+        "Rapport PDF recommandations",
+        "3 quick wins identifiés"
+      ],
+      "cta": "En savoir plus"
+    },
+    "accompagnement": {
+      "name": "Accompagnement",
+      "price": "1'497 CHF",
+      "description": "Implémentation guidée",
+      "features": [
+        "Audit complet (2h)",
+        "Plan d'action personnalisé",
+        "3 sessions d'implémentation (1h)",
+        "Support email 3 mois",
+        "Suivi résultats"
+      ],
+      "cta": "En savoir plus",
+      "badge": "Recommandé"
+    },
+    "custom": {
+      "name": "Sur mesure",
+      "price": "Sur devis",
+      "description": "Projets complexes et formations équipe",
+      "features": [
+        "Formation équipe sur site",
+        "Intégration outils IA",
+        "Partenariat long terme",
+        "Support dédié"
+      ],
+      "cta": "Nous contacter",
+      "badge": "Sur mesure"
+    },
+    "book_title": "Réservez un appel découverte",
+    "book_subtitle": "30 minutes gratuites pour discuter de votre projet",
+    "book_cta": "Réserver un créneau",
+    "cta": "En savoir plus",
+    "booking_title": "Réservez un appel découverte",
+    "booking_description": "30 minutes gratuites pour discuter de votre projet"
+  },
   "pricing": {
     "title": "Nos formules",
     "subtitle": "Des offres adaptées à chaque besoin",
@@ -320,20 +484,328 @@
       "name": "Découverte",
       "price": "Gratuit",
       "description": "Premier pas vers l'IA",
-      "features": ["Audit IA initial (1h)", "Rapport d'opportunités", "Recommandations personnalisées"]
+      "features": [
+        "Audit IA initial (1h)",
+        "Rapport d'opportunités",
+        "Recommandations personnalisées"
+      ]
     },
     "pro": {
       "name": "Professionnel",
       "price": "Sur devis",
       "description": "Intégration et formation",
-      "features": ["Audit IA approfondi", "Formation équipe (1 journée)", "Intégration d'un outil IA", "Support 30 jours"],
+      "features": [
+        "Audit IA approfondi",
+        "Formation équipe (1 journée)",
+        "Intégration d'un outil IA",
+        "Support 30 jours"
+      ],
       "popular": "Populaire"
     },
     "enterprise": {
       "name": "Entreprise",
       "price": "Sur devis",
       "description": "Transformation complète",
-      "features": ["Stratégie IA complète", "Formations illimitées (3 mois)", "Intégration multi-outils", "Accompagnement trimestriel", "Support prioritaire"]
+      "features": [
+        "Stratégie IA complète",
+        "Formations illimitées (3 mois)",
+        "Intégration multi-outils",
+        "Accompagnement trimestriel",
+        "Support prioritaire"
+      ]
     }
+  },
+  "events": {
+    "title": "Événements IA en Suisse",
+    "subtitle": "Retrouvez les conférences, workshops et meetups IA près de chez vous",
+    "upcoming": "Événements à venir",
+    "past": "Événements passés",
+    "all": "Tous",
+    "free": "Gratuit",
+    "paid": "Payant",
+    "online": "En ligne",
+    "add_calendar": "Ajouter à mon agenda",
+    "no_events": "Aucun événement à venir pour le moment",
+    "submit_title": "Proposer un événement",
+    "submit_text": "Vous organisez un événement IA en Suisse ? Faites-le nous savoir !",
+    "submit_cta": "Soumettre un événement",
+    "items": [
+      {
+        "name": "Applied Machine Learning Days",
+        "date": "2026-03-26",
+        "location": "EPFL, Lausanne",
+        "type": "Conférence",
+        "price": "Payant",
+        "url": "https://appliedmldays.org",
+        "description": "La plus grande conférence suisse sur le machine learning, organisée par l'EPFL."
+      },
+      {
+        "name": "Swiss Digital Day",
+        "date": "2026-11-01",
+        "location": "Suisse entière",
+        "type": "Journée nationale",
+        "price": "Gratuit",
+        "url": "https://digitaltag.swiss",
+        "description": "Journée nationale de la digitalisation organisée par digitalswitzerland."
+      },
+      {
+        "name": "AI & Automation Summit Zurich",
+        "date": "2026-06-15",
+        "location": "Zurich",
+        "type": "Sommet",
+        "price": "Payant",
+        "url": "#",
+        "description": "Sommet dédié à l'IA et l'automatisation pour les entreprises suisses."
+      },
+      {
+        "name": "Webinaire IAPME : IA pour PME",
+        "date": "2026-04-15",
+        "location": "En ligne",
+        "type": "Webinaire",
+        "price": "Gratuit",
+        "url": "#",
+        "description": "Webinaire mensuel gratuit : découvrez comment l'IA peut transformer votre PME."
+      }
+    ],
+    "submit_button": "Soumettre"
+  },
+  "tools": {
+    "title": "Outils IA recommandés",
+    "subtitle": "Notre sélection d'outils IA testés et approuvés pour les PME suisses",
+    "affiliate_note": "Certains liens sont des liens affiliés. Nous recommandons uniquement des outils que nous utilisons et approuvons.",
+    "categories": {
+      "all": "Tous",
+      "content": "Contenu & Marketing",
+      "automation": "Automatisation",
+      "productivity": "Productivité",
+      "hosting": "Hébergement",
+      "translation": "Traduction"
+    },
+    "free": "Gratuit",
+    "freemium": "Freemium",
+    "paid": "Payant",
+    "visit": "Visiter",
+    "items": [
+      {
+        "name": "ChatGPT",
+        "category": "content",
+        "rating": 5,
+        "price": "Freemium",
+        "description": "L'assistant IA le plus polyvalent pour rédaction, analyse et brainstorming.",
+        "url": "https://chat.openai.com"
+      },
+      {
+        "name": "Claude",
+        "category": "content",
+        "rating": 5,
+        "price": "Freemium",
+        "description": "IA d'Anthropic, excellente pour l'analyse de documents et la rédaction longue.",
+        "url": "https://claude.ai"
+      },
+      {
+        "name": "DeepL",
+        "category": "translation",
+        "rating": 5,
+        "price": "Freemium",
+        "description": "Le meilleur outil de traduction automatique, idéal pour les PME multilingues suisses.",
+        "url": "https://www.deepl.com"
+      },
+      {
+        "name": "Zapier",
+        "category": "automation",
+        "rating": 4,
+        "price": "Freemium",
+        "description": "Connectez vos applications et automatisez vos workflows sans coder.",
+        "url": "https://zapier.com"
+      },
+      {
+        "name": "Make",
+        "category": "automation",
+        "rating": 4,
+        "price": "Freemium",
+        "description": "Automatisation avancée avec une interface visuelle puissante.",
+        "url": "https://www.make.com"
+      },
+      {
+        "name": "Notion AI",
+        "category": "productivity",
+        "rating": 4,
+        "price": "Payant",
+        "description": "Organisation et productivité boostées par l'IA intégrée.",
+        "url": "https://notion.so"
+      },
+      {
+        "name": "Infomaniak",
+        "category": "hosting",
+        "rating": 5,
+        "price": "Payant",
+        "description": "Hébergement web suisse, écologique et souverain. Idéal pour les PME.",
+        "url": "https://www.infomaniak.com"
+      },
+      {
+        "name": "Canva",
+        "category": "content",
+        "rating": 4,
+        "price": "Freemium",
+        "description": "Création graphique simplifiée avec fonctions IA intégrées.",
+        "url": "https://www.canva.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Témoignages",
+    "subtitle": "Ce que nos clients disent de nous",
+    "cta_title": "Vous aussi, transformez votre PME",
+    "cta_text": "Rejoignez les PME suisses qui ont franchi le pas de l'IA",
+    "cta_button": "Demander un audit gratuit",
+    "items": [
+      {
+        "name": "Marc Keller",
+        "company": "Keller Treuhand AG",
+        "location": "Zurich",
+        "text": "L'audit IA d'IAPME nous a permis d'identifier des gains de productivité que nous n'aurions jamais trouvés seuls. En 3 mois, nous avons automatisé 40% de nos tâches administratives.",
+        "rating": 5
+      },
+      {
+        "name": "Sophie Durand",
+        "company": "Durand & Fils SA",
+        "location": "Lausanne",
+        "text": "La formation Pro est exactement ce dont notre équipe avait besoin. Pragmatique, adapté au contexte suisse, et directement applicable. Je recommande vivement.",
+        "rating": 5
+      },
+      {
+        "name": "Luca Bernasconi",
+        "company": "Bernasconi Consulenza",
+        "location": "Lugano",
+        "text": "Finalmente un servizio IA pensato per le PMI svizzere. Il team di IAPME comprende le nostre esigenze specifiche e offre soluzioni concrete.",
+        "rating": 5
+      }
+    ]
+  },
+  "faq_page": {
+    "title": "Questions fréquentes sur l'IA pour PME",
+    "subtitle": "Tout ce que vous devez savoir sur l'intégration de l'IA dans votre PME suisse",
+    "categories": {
+      "general": "Général",
+      "technical": "Technique",
+      "legal": "Légal & Conformité",
+      "pricing": "Tarifs"
+    },
+    "items": [
+      {
+        "question": "L'IA est-elle adaptée aux petites entreprises ?",
+        "answer": "Absolument. Des outils comme ChatGPT, DeepL ou Zapier sont accessibles dès quelques francs par mois et peuvent automatiser des tâches répétitives, améliorer le service client ou accélérer la création de contenu.",
+        "category": "general"
+      },
+      {
+        "question": "Par où commencer avec l'IA dans ma PME ?",
+        "answer": "Commencez par un audit de vos processus : identifiez les tâches répétitives, chronophages ou à faible valeur ajoutée. Notre audit gratuit vous aide à prioriser les opportunités.",
+        "category": "general"
+      },
+      {
+        "question": "Faut-il des compétences techniques ?",
+        "answer": "Non. La plupart des outils IA modernes sont conçus pour être utilisés sans compétences en programmation. Nos formations vous accompagnent pas à pas.",
+        "category": "technical"
+      },
+      {
+        "question": "L'IA va-t-elle remplacer mes employés ?",
+        "answer": "L'IA est un outil d'augmentation, pas de remplacement. Elle libère vos collaborateurs des tâches répétitives pour qu'ils se concentrent sur la valeur ajoutée.",
+        "category": "general"
+      },
+      {
+        "question": "Mes données sont-elles protégées ?",
+        "answer": "Nous privilégions les solutions conformes à la nLPD (loi suisse sur la protection des données). Nous vous conseillons sur le choix d'outils respectueux de la confidentialité.",
+        "category": "legal"
+      },
+      {
+        "question": "Qu'est-ce que la nLPD ?",
+        "answer": "La nouvelle Loi fédérale sur la Protection des Données (nLPD), en vigueur depuis le 1er septembre 2023, renforce les droits des individus et les obligations des entreprises en matière de données personnelles.",
+        "category": "legal"
+      },
+      {
+        "question": "Combien coûte un projet IA pour PME ?",
+        "answer": "Les coûts varient : de gratuit (outils de base) à quelques milliers de francs (intégration sur mesure). Notre audit express à 297 CHF vous donne une estimation précise du ROI.",
+        "category": "pricing"
+      },
+      {
+        "question": "Quelle est la durée d'un projet d'intégration ?",
+        "answer": "Un projet simple (ex: chatbot, automatisation email) peut être opérationnel en 2-4 semaines. Les projets plus complexes s'étalent sur 2-3 mois.",
+        "category": "technical"
+      },
+      {
+        "question": "Proposez-vous des formations en allemand et en italien ?",
+        "answer": "Oui, nos services sont disponibles en français, allemand, italien et anglais. Nous couvrons toutes les régions linguistiques de la Suisse.",
+        "category": "general"
+      },
+      {
+        "question": "Comment financer mon projet IA ?",
+        "answer": "Plusieurs cantons proposent des subventions pour la digitalisation des PME (VD, GE, VS, ZH, etc.). Nous vous aidons à identifier les aides disponibles dans votre région.",
+        "category": "pricing"
+      }
+    ]
+  },
+  "partners": {
+    "title": "Nos partenaires",
+    "subtitle": "Un écosystème de confiance pour accompagner votre transformation",
+    "become_partner": "Devenir partenaire",
+    "become_text": "Vous souhaitez collaborer avec IAPME Suisse ? Contactez-nous.",
+    "categories": {
+      "tech": "Technologie",
+      "institution": "Institutions",
+      "education": "Formation"
+    },
+    "items": [
+      {
+        "name": "Infomaniak",
+        "category": "tech",
+        "description": "Hébergement web suisse et écologique",
+        "url": "https://www.infomaniak.com"
+      },
+      {
+        "name": "digitalswitzerland",
+        "category": "institution",
+        "description": "Initiative pour la transformation digitale en Suisse",
+        "url": "https://digitalswitzerland.com"
+      },
+      {
+        "name": "EPFL Extension School",
+        "category": "education",
+        "description": "Formations continues en technologie",
+        "url": "https://www.extensionschool.ch"
+      },
+      {
+        "name": "Swiss AI Association",
+        "category": "institution",
+        "description": "Association suisse pour l'intelligence artificielle",
+        "url": "https://swissai.org"
+      }
+    ],
+    "become_partner_title": "Devenir partenaire",
+    "become_partner_description": "Vous souhaitez collaborer avec IAPME Suisse ?",
+    "become_partner_cta": "Nous contacter",
+    "visit_website": "Visiter le site"
+  },
+  "newsletter": {
+    "title": "Newsletter IA pour PME",
+    "subtitle": "Chaque semaine, recevez les meilleures astuces IA pour votre PME",
+    "features": [
+      "1 astuce IA pratique",
+      "1 outil de la semaine",
+      "1 actualité IA Suisse",
+      "Offres exclusives"
+    ],
+    "form": {
+      "email": "Votre email professionnel",
+      "email_placeholder": "jean@entreprise.ch",
+      "submit": "S'abonner gratuitement",
+      "consent": "En vous inscrivant, vous acceptez notre politique de confidentialité. Désabonnement possible à tout moment.",
+      "success": "Bienvenue ! Vérifiez votre boîte mail pour confirmer votre inscription."
+    },
+    "count": "Rejoignez notre communauté de PME innovantes",
+    "banner_text": "Recevez nos astuces IA chaque semaine",
+    "banner_cta": "S'abonner",
+    "benefit_title": "Restez à la pointe de l IA",
+    "benefit_description": "Chaque semaine, des conseils pratiques pour votre PME",
+    "features_title": "Ce que vous recevrez"
   }
 }

@@ -4,6 +4,9 @@ import { Inter } from 'next/font/google';
 import { routing } from '@/i18n/routing';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
+import NewsletterBanner from '@/components/NewsletterBanner';
+import CookieBanner from '@/components/CookieBanner';
+import SchemaMarkup from '@/components/SchemaMarkup';
 import { notFound } from 'next/navigation';
 
 const inter = Inter({ subsets: ['latin'] });
@@ -54,11 +57,16 @@ export default async function LocaleLayout({
 
   return (
     <html lang={locale} className={inter.className}>
+      <head>
+        <SchemaMarkup locale={locale} />
+      </head>
       <body className="min-h-screen flex flex-col bg-white">
         <NextIntlClientProvider messages={messages}>
           <Header />
           <main className="flex-1">{children}</main>
           <Footer />
+          <NewsletterBanner />
+          <CookieBanner />
         </NextIntlClientProvider>
       </body>
     </html>

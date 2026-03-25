@@ -23,6 +23,38 @@
     "resources": {
       "title": "KI-Ressourcen für KMU – IAPME Suisse",
       "description": "Leitfäden, Tools, FAQ und nützliche Links für den Einstieg in die künstliche Intelligenz in Ihrem KMU."
+    },
+    "formation": {
+      "title": "KI-Schulungen für KMU – IAPME Suisse",
+      "description": "KI-Schulungen für Schweizer KMU. Von kostenlos bis Premium – steigern Sie Ihre KI-Kompetenzen."
+    },
+    "consulting": {
+      "title": "KI-Beratung für KMU – IAPME Suisse",
+      "description": "Experten-KI-Beratung für Schweizer KMU. Audit, Strategie und massgeschneiderte KI-Integration."
+    },
+    "faq": {
+      "title": "FAQ – Häufig gestellte Fragen zu KI für KMU",
+      "description": "Finden Sie Antworten auf die häufigsten Fragen zur künstlichen Intelligenz für Schweizer KMU."
+    },
+    "partners": {
+      "title": "Unsere Partner – IAPME Suisse",
+      "description": "Entdecken Sie unsere Technologie-, Institutions- und Strategiepartner für KI in KMU."
+    },
+    "newsletter": {
+      "title": "KI-Newsletter für KMU – IAPME Suisse",
+      "description": "Abonnieren Sie unseren Newsletter für die neuesten KI-Nachrichten und Tipps für Ihr KMU."
+    },
+    "events": {
+      "title": "KI-Veranstaltungen Schweiz – IAPME",
+      "description": "Konferenzen, Workshops und Meetups zu KI"
+    },
+    "testimonials": {
+      "title": "Referenzen – IAPME Suisse",
+      "description": "Was unsere Kunden sagen"
+    },
+    "tools": {
+      "title": "Empfohlene KI-Tools – IAPME Suisse",
+      "description": "Unsere Auswahl an KI-Tools für KMU"
     }
   },
   "nav": {
@@ -34,7 +66,15 @@
     "resources": "Ressourcen",
     "mentions": "Impressum",
     "privacy_page": "Datenschutz",
-    "terms_page": "AGB"
+    "terms_page": "AGB",
+    "formation": "Schulung",
+    "outils": "KI-Tools",
+    "consulting": "Beratung",
+    "newsletter": "Newsletter",
+    "evenements": "Veranstaltungen",
+    "temoignages": "Referenzen",
+    "faq": "FAQ",
+    "partenaires": "Partner"
   },
   "hero": {
     "title": "KI im Dienste Schweizer KMU",
@@ -63,10 +103,22 @@
     "stats": {
       "title": "Unser Engagement",
       "items": [
-        { "value": "4", "label": "Servicesprachen" },
-        { "value": "100%", "label": "Massgeschneiderte Lösungen" },
-        { "value": "KMU", "label": "Exklusiver Fokus" },
-        { "value": "CH", "label": "Schweizer Verankerung" }
+        {
+          "value": "4",
+          "label": "Servicesprachen"
+        },
+        {
+          "value": "100%",
+          "label": "Massgeschneiderte Lösungen"
+        },
+        {
+          "value": "KMU",
+          "label": "Exklusiver Fokus"
+        },
+        {
+          "value": "CH",
+          "label": "Schweizer Verankerung"
+        }
       ]
     },
     "cta_title": "Bereit, Ihr KMU zu transformieren?",
@@ -313,6 +365,118 @@
       "law_text": "Diese AGB unterliegen dem Schweizer Recht."
     }
   },
+  "formation": {
+    "title": "KI-Schulung für KMU",
+    "subtitle": "Entwickeln Sie die KI-Kompetenzen Ihres Teams mit unseren massgeschneiderten Schulungen",
+    "free": {
+      "name": "Entdecken",
+      "price": "Kostenlos",
+      "description": "Erste Schritte in die KI",
+      "features": [
+        "5-Tage-E-Mail-Minikurs",
+        "Kostenloses monatliches Webinar",
+        "Community-Zugang",
+        "Starter-PDF-Leitfaden"
+      ],
+      "cta": "Kostenlos anmelden"
+    },
+    "starter": {
+      "name": "Starter",
+      "price": "97 CHF",
+      "description": "Die Grundlagen der KI für Ihr KMU",
+      "features": [
+        "3 Std. Video",
+        "Prompt-Vorlagen",
+        "Digitalisierungs-Checkliste",
+        "Abschlusszertifikat",
+        "E-Mail-Support"
+      ],
+      "cta": "Jetzt starten"
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "297 CHF",
+      "description": "Meistern Sie KI für Ihr Unternehmen",
+      "features": [
+        "10 Std. Video",
+        "Modul LLMs (ChatGPT, Claude, Gemini)",
+        "Modul Automatisierung (Zapier, Make)",
+        "Modul KI-Marketing",
+        "Modul Cybersicherheit",
+        "nDSG-Konformität",
+        "Private Gruppe",
+        "Monatliche Q&A-Session"
+      ],
+      "cta": "Anmelden",
+      "popular": "Beliebt",
+      "badge": "Beliebt"
+    },
+    "premium": {
+      "name": "Premium",
+      "price": "997 CHF",
+      "description": "Komplette Transformation mit Begleitung",
+      "features": [
+        "Gesamtes Pro-Programm",
+        "3 Einzelberatungs-Sessions",
+        "Persönliches KI-Audit",
+        "Massgeschneiderter Aktionsplan",
+        "6 Monate Prioritäts-Support"
+      ],
+      "cta": "Kontakt aufnehmen",
+      "badge": "VIP"
+    },
+    "guarantee": "30 Tage Geld-zurück-Garantie",
+    "vat_note": "Preise in CHF, exkl. MwSt."
+  },
+  "consulting": {
+    "title": "KI-Beratung",
+    "subtitle": "Persönliche Begleitung für Ihre digitale Transformation",
+    "audit": {
+      "name": "KI-Audit Express",
+      "price": "297 CHF",
+      "description": "Identifizieren Sie Ihre KI-Chancen",
+      "features": [
+        "1 Std. Diagnosegespräch",
+        "Analyse Ihres KMU",
+        "PDF-Bericht mit Empfehlungen",
+        "3 identifizierte Quick Wins"
+      ],
+      "cta": "Mehr erfahren"
+    },
+    "accompagnement": {
+      "name": "Begleitung",
+      "price": "1'497 CHF",
+      "description": "Begleitete Implementierung",
+      "features": [
+        "Vollständiges Audit (2 Std.)",
+        "Persönlicher Aktionsplan",
+        "3 Implementierungs-Sessions (je 1 Std.)",
+        "3 Monate E-Mail-Support",
+        "Ergebnis-Monitoring"
+      ],
+      "cta": "Mehr erfahren",
+      "badge": "Empfohlen"
+    },
+    "custom": {
+      "name": "Massgeschneidert",
+      "price": "Auf Anfrage",
+      "description": "Komplexe Projekte und Teamschulungen",
+      "features": [
+        "Teamschulung vor Ort",
+        "KI-Tool-Integration",
+        "Langfristige Partnerschaft",
+        "Dedizierter Support"
+      ],
+      "cta": "Kontakt aufnehmen",
+      "badge": "Massgeschneidert"
+    },
+    "book_title": "Buchen Sie ein Kennenlerngespräch",
+    "book_subtitle": "30 kostenlose Minuten, um über Ihr Projekt zu sprechen",
+    "book_cta": "Termin buchen",
+    "cta": "Mehr erfahren",
+    "booking_title": "Buchen Sie ein Kennenlerngespräch",
+    "booking_description": "30 Minuten kostenlos, um Ihr Projekt zu besprechen"
+  },
   "pricing": {
     "title": "Unsere Angebote",
     "subtitle": "Passende Pakete für jeden Bedarf",
@@ -320,20 +484,328 @@
       "name": "Einstieg",
       "price": "Kostenlos",
       "description": "Erster Schritt zur KI",
-      "features": ["Initiales KI-Audit (1 Std.)", "Chancenbericht", "Individuelle Empfehlungen"]
+      "features": [
+        "Initiales KI-Audit (1 Std.)",
+        "Chancenbericht",
+        "Individuelle Empfehlungen"
+      ]
     },
     "pro": {
       "name": "Professionell",
       "price": "Auf Anfrage",
       "description": "Integration und Schulung",
-      "features": ["Vertieftes KI-Audit", "Teamschulung (1 Tag)", "Integration eines KI-Tools", "30 Tage Support"],
+      "features": [
+        "Vertieftes KI-Audit",
+        "Teamschulung (1 Tag)",
+        "Integration eines KI-Tools",
+        "30 Tage Support"
+      ],
       "popular": "Beliebt"
     },
     "enterprise": {
       "name": "Unternehmen",
       "price": "Auf Anfrage",
       "description": "Komplette Transformation",
-      "features": ["Umfassende KI-Strategie", "Unbegrenzte Schulungen (3 Monate)", "Multi-Tool-Integration", "Quartalsweise Begleitung", "Prioritäts-Support"]
+      "features": [
+        "Umfassende KI-Strategie",
+        "Unbegrenzte Schulungen (3 Monate)",
+        "Multi-Tool-Integration",
+        "Quartalsweise Begleitung",
+        "Prioritäts-Support"
+      ]
     }
+  },
+  "newsletter": {
+    "title": "KI-Newsletter für KMU",
+    "subtitle": "Erhalten Sie jede Woche die besten KI-Tipps für Ihr KMU",
+    "features": [
+      "1 praktischer KI-Tipp",
+      "1 Tool der Woche",
+      "1 KI-News aus der Schweiz",
+      "Exklusive Angebote"
+    ],
+    "form": {
+      "email": "Ihre geschäftliche E-Mail",
+      "email_placeholder": "hans@unternehmen.ch",
+      "submit": "Kostenlos abonnieren",
+      "consent": "Mit Ihrer Anmeldung akzeptieren Sie unsere Datenschutzrichtlinie. Abmeldung jederzeit möglich.",
+      "success": "Willkommen! Überprüfen Sie Ihren Posteingang, um Ihre Anmeldung zu bestätigen."
+    },
+    "count": "Werden Sie Teil unserer Community innovativer KMU",
+    "banner_text": "Erhalten Sie unsere wöchentlichen KI-Tipps",
+    "banner_cta": "Abonnieren",
+    "benefit_title": "Bleiben Sie am Puls der KI",
+    "benefit_description": "Wöchentlich praktische Tipps für Ihr KMU",
+    "features_title": "Was Sie erhalten"
+  },
+  "events": {
+    "title": "KI-Veranstaltungen in der Schweiz",
+    "subtitle": "Entdecken Sie Konferenzen, Workshops und KI-Meetups in Ihrer Nähe",
+    "upcoming": "Kommende Veranstaltungen",
+    "past": "Vergangene Veranstaltungen",
+    "all": "Alle",
+    "free": "Kostenlos",
+    "paid": "Kostenpflichtig",
+    "online": "Online",
+    "add_calendar": "Zum Kalender hinzufügen",
+    "no_events": "Derzeit keine bevorstehenden Veranstaltungen",
+    "submit_title": "Veranstaltung vorschlagen",
+    "submit_text": "Sie organisieren eine KI-Veranstaltung in der Schweiz? Lassen Sie es uns wissen!",
+    "submit_cta": "Veranstaltung einreichen",
+    "items": [
+      {
+        "name": "Applied Machine Learning Days",
+        "date": "2026-03-26",
+        "location": "EPFL, Lausanne",
+        "type": "Konferenz",
+        "price": "Kostenpflichtig",
+        "url": "https://appliedmldays.org",
+        "description": "Die grösste Schweizer Konferenz für Machine Learning, organisiert von der EPFL."
+      },
+      {
+        "name": "Swiss Digital Day",
+        "date": "2026-11-01",
+        "location": "Ganze Schweiz",
+        "type": "Nationaler Tag",
+        "price": "Kostenlos",
+        "url": "https://digitaltag.swiss",
+        "description": "Nationaler Digitalisierungstag, organisiert von digitalswitzerland."
+      },
+      {
+        "name": "AI & Automation Summit Zurich",
+        "date": "2026-06-15",
+        "location": "Zürich",
+        "type": "Gipfel",
+        "price": "Kostenpflichtig",
+        "url": "#",
+        "description": "Gipfel für KI und Automatisierung für Schweizer Unternehmen."
+      },
+      {
+        "name": "Webinar IAPME: KI für KMU",
+        "date": "2026-04-15",
+        "location": "Online",
+        "type": "Webinar",
+        "price": "Kostenlos",
+        "url": "#",
+        "description": "Kostenloses monatliches Webinar: Erfahren Sie, wie KI Ihr KMU transformieren kann."
+      }
+    ],
+    "submit_button": "Einreichen"
+  },
+  "tools": {
+    "title": "Empfohlene KI-Tools",
+    "subtitle": "Unsere Auswahl getesteter und bewährter KI-Tools für Schweizer KMU",
+    "affiliate_note": "Einige Links sind Affiliate-Links. Wir empfehlen ausschliesslich Tools, die wir selbst nutzen und für gut befinden.",
+    "categories": {
+      "all": "Alle",
+      "content": "Inhalte & Marketing",
+      "automation": "Automatisierung",
+      "productivity": "Produktivität",
+      "hosting": "Hosting",
+      "translation": "Übersetzung"
+    },
+    "free": "Kostenlos",
+    "freemium": "Freemium",
+    "paid": "Kostenpflichtig",
+    "visit": "Besuchen",
+    "items": [
+      {
+        "name": "ChatGPT",
+        "category": "content",
+        "rating": 5,
+        "price": "Freemium",
+        "description": "Der vielseitigste KI-Assistent für Texterstellung, Analyse und Brainstorming.",
+        "url": "https://chat.openai.com"
+      },
+      {
+        "name": "Claude",
+        "category": "content",
+        "rating": 5,
+        "price": "Freemium",
+        "description": "KI von Anthropic, hervorragend für Dokumentenanalyse und lange Texte.",
+        "url": "https://claude.ai"
+      },
+      {
+        "name": "DeepL",
+        "category": "translation",
+        "rating": 5,
+        "price": "Freemium",
+        "description": "Das beste automatische Übersetzungstool, ideal für mehrsprachige Schweizer KMU.",
+        "url": "https://www.deepl.com"
+      },
+      {
+        "name": "Zapier",
+        "category": "automation",
+        "rating": 4,
+        "price": "Freemium",
+        "description": "Verbinden Sie Ihre Anwendungen und automatisieren Sie Workflows ohne zu programmieren.",
+        "url": "https://zapier.com"
+      },
+      {
+        "name": "Make",
+        "category": "automation",
+        "rating": 4,
+        "price": "Freemium",
+        "description": "Fortgeschrittene Automatisierung mit einer leistungsstarken visuellen Oberfläche.",
+        "url": "https://www.make.com"
+      },
+      {
+        "name": "Notion AI",
+        "category": "productivity",
+        "rating": 4,
+        "price": "Kostenpflichtig",
+        "description": "Organisation und Produktivität, unterstützt durch integrierte KI.",
+        "url": "https://notion.so"
+      },
+      {
+        "name": "Infomaniak",
+        "category": "hosting",
+        "rating": 5,
+        "price": "Kostenpflichtig",
+        "description": "Schweizer Webhosting, ökologisch und souverän. Ideal für KMU.",
+        "url": "https://www.infomaniak.com"
+      },
+      {
+        "name": "Canva",
+        "category": "content",
+        "rating": 4,
+        "price": "Freemium",
+        "description": "Vereinfachte Grafikgestaltung mit integrierten KI-Funktionen.",
+        "url": "https://www.canva.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Referenzen",
+    "subtitle": "Was unsere Kunden über uns sagen",
+    "cta_title": "Transformieren auch Sie Ihr KMU",
+    "cta_text": "Schliessen Sie sich den Schweizer KMU an, die den Schritt zur KI gewagt haben",
+    "cta_button": "Kostenloses Audit anfordern",
+    "items": [
+      {
+        "name": "Marc Keller",
+        "company": "Keller Treuhand AG",
+        "location": "Zürich",
+        "text": "Das KI-Audit von IAPME hat uns Produktivitätsgewinne aufgezeigt, die wir allein nie gefunden hätten. Innerhalb von 3 Monaten haben wir 40% unserer administrativen Aufgaben automatisiert.",
+        "rating": 5
+      },
+      {
+        "name": "Sophie Durand",
+        "company": "Durand & Fils SA",
+        "location": "Lausanne",
+        "text": "Die Pro-Schulung war genau das, was unser Team brauchte. Pragmatisch, auf den Schweizer Kontext zugeschnitten und direkt anwendbar. Sehr empfehlenswert.",
+        "rating": 5
+      },
+      {
+        "name": "Luca Bernasconi",
+        "company": "Bernasconi Consulenza",
+        "location": "Lugano",
+        "text": "Endlich ein KI-Service, der für Schweizer KMU konzipiert ist. Das IAPME-Team versteht unsere spezifischen Bedürfnisse und bietet konkrete Lösungen.",
+        "rating": 5
+      }
+    ]
+  },
+  "faq_page": {
+    "title": "Häufig gestellte Fragen zu KI für KMU",
+    "subtitle": "Alles, was Sie über die Integration von KI in Ihrem Schweizer KMU wissen müssen",
+    "categories": {
+      "general": "Allgemein",
+      "technical": "Technisch",
+      "legal": "Recht & Compliance",
+      "pricing": "Preise"
+    },
+    "items": [
+      {
+        "question": "Ist KI auch für kleine Unternehmen geeignet?",
+        "answer": "Absolut. Tools wie ChatGPT, DeepL oder Zapier sind bereits ab wenigen Franken pro Monat verfügbar und können repetitive Aufgaben automatisieren, den Kundenservice verbessern oder die Content-Erstellung beschleunigen.",
+        "category": "general"
+      },
+      {
+        "question": "Wo soll ich mit KI in meinem KMU anfangen?",
+        "answer": "Beginnen Sie mit einer Analyse Ihrer Prozesse: Identifizieren Sie repetitive, zeitaufwändige oder wenig wertschöpfende Aufgaben. Unser kostenloses Audit hilft Ihnen, Chancen zu priorisieren.",
+        "category": "general"
+      },
+      {
+        "question": "Braucht man technische Vorkenntnisse?",
+        "answer": "Nein. Die meisten modernen KI-Tools sind so konzipiert, dass sie ohne Programmierkenntnisse genutzt werden können. Unsere Schulungen begleiten Sie Schritt für Schritt.",
+        "category": "technical"
+      },
+      {
+        "question": "Wird KI meine Mitarbeiter ersetzen?",
+        "answer": "KI ist ein Werkzeug zur Unterstützung, nicht zum Ersatz. Sie befreit Ihre Mitarbeitenden von repetitiven Aufgaben, damit sie sich auf die Wertschöpfung konzentrieren können.",
+        "category": "general"
+      },
+      {
+        "question": "Sind meine Daten geschützt?",
+        "answer": "Wir bevorzugen Lösungen, die dem nDSG (Schweizer Datenschutzgesetz) entsprechen. Wir beraten Sie bei der Wahl datenschutzkonformer Tools.",
+        "category": "legal"
+      },
+      {
+        "question": "Was ist das nDSG?",
+        "answer": "Das neue Bundesgesetz über den Datenschutz (nDSG), in Kraft seit dem 1. September 2023, stärkt die Rechte der Einzelpersonen und die Pflichten der Unternehmen im Bereich personenbezogener Daten.",
+        "category": "legal"
+      },
+      {
+        "question": "Was kostet ein KI-Projekt für KMU?",
+        "answer": "Die Kosten variieren: von kostenlos (Basistools) bis zu einigen tausend Franken (massgeschneiderte Integration). Unser Express-Audit für 297 CHF liefert Ihnen eine präzise ROI-Schätzung.",
+        "category": "pricing"
+      },
+      {
+        "question": "Wie lange dauert ein Integrationsprojekt?",
+        "answer": "Ein einfaches Projekt (z.B. Chatbot, E-Mail-Automatisierung) kann in 2-4 Wochen betriebsbereit sein. Komplexere Projekte erstrecken sich über 2-3 Monate.",
+        "category": "technical"
+      },
+      {
+        "question": "Bieten Sie Schulungen auf Deutsch und Italienisch an?",
+        "answer": "Ja, unsere Dienstleistungen sind auf Deutsch, Französisch, Italienisch und Englisch verfügbar. Wir decken alle Sprachregionen der Schweiz ab.",
+        "category": "general"
+      },
+      {
+        "question": "Wie kann ich mein KI-Projekt finanzieren?",
+        "answer": "Mehrere Kantone bieten Subventionen für die Digitalisierung von KMU an (ZH, BE, VD, GE usw.). Wir helfen Ihnen, verfügbare Fördermittel in Ihrer Region zu identifizieren.",
+        "category": "pricing"
+      }
+    ]
+  },
+  "partners": {
+    "title": "Unsere Partner",
+    "subtitle": "Ein vertrauenswürdiges Ökosystem für Ihre Transformation",
+    "become_partner": "Partner werden",
+    "become_text": "Sie möchten mit IAPME Suisse zusammenarbeiten? Kontaktieren Sie uns.",
+    "categories": {
+      "tech": "Technologie",
+      "institution": "Institutionen",
+      "education": "Bildung"
+    },
+    "items": [
+      {
+        "name": "Infomaniak",
+        "category": "tech",
+        "description": "Schweizer und ökologisches Webhosting",
+        "url": "https://www.infomaniak.com"
+      },
+      {
+        "name": "digitalswitzerland",
+        "category": "institution",
+        "description": "Initiative für die digitale Transformation in der Schweiz",
+        "url": "https://digitalswitzerland.com"
+      },
+      {
+        "name": "EPFL Extension School",
+        "category": "education",
+        "description": "Weiterbildungen im Bereich Technologie",
+        "url": "https://www.extensionschool.ch"
+      },
+      {
+        "name": "Swiss AI Association",
+        "category": "institution",
+        "description": "Schweizerische Vereinigung für künstliche Intelligenz",
+        "url": "https://swissai.org"
+      }
+    ],
+    "become_partner_title": "Partner werden",
+    "become_partner_description": "Sie möchten mit IAPME Suisse zusammenarbeiten?",
+    "become_partner_cta": "Kontakt aufnehmen",
+    "visit_website": "Website besuchen"
   }
 }

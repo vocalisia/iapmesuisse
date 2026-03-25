@@ -23,6 +23,38 @@
     "resources": {
       "title": "AI Resources for SMEs – IAPME Suisse",
       "description": "Guides, tools, FAQ and useful links to get started with artificial intelligence in your SME."
+    },
+    "formation": {
+      "title": "AI Training for SMEs – IAPME Suisse",
+      "description": "AI training courses tailored to Swiss SMEs. From free to premium, level up your AI skills."
+    },
+    "consulting": {
+      "title": "AI Consulting for SMEs – IAPME Suisse",
+      "description": "Expert AI consulting for Swiss SMEs. Audit, strategy and bespoke AI integration."
+    },
+    "faq": {
+      "title": "FAQ – Frequently Asked Questions about AI for SMEs",
+      "description": "Find answers to the most frequently asked questions about artificial intelligence for Swiss SMEs."
+    },
+    "partners": {
+      "title": "Our Partners – IAPME Suisse",
+      "description": "Discover our technology, institutional and strategic partners for AI in SMEs."
+    },
+    "newsletter": {
+      "title": "AI Newsletter for SMEs – IAPME Suisse",
+      "description": "Subscribe to our newsletter for the latest AI news and tips for your SME."
+    },
+    "events": {
+      "title": "AI Events Switzerland – IAPME",
+      "description": "AI conferences, workshops and meetups in Switzerland"
+    },
+    "testimonials": {
+      "title": "Testimonials – IAPME Suisse",
+      "description": "What our clients say about us"
+    },
+    "tools": {
+      "title": "Recommended AI Tools – IAPME Suisse",
+      "description": "Our selection of AI tools for SMEs"
     }
   },
   "nav": {
@@ -34,7 +66,15 @@
     "resources": "Resources",
     "mentions": "Legal notice",
     "privacy_page": "Privacy policy",
-    "terms_page": "Terms & conditions"
+    "terms_page": "Terms & conditions",
+    "formation": "Training",
+    "outils": "AI Tools",
+    "consulting": "Consulting",
+    "newsletter": "Newsletter",
+    "evenements": "Events",
+    "temoignages": "Testimonials",
+    "faq": "FAQ",
+    "partenaires": "Partners"
   },
   "hero": {
     "title": "AI at the service of Swiss SMEs",
@@ -63,10 +103,22 @@
     "stats": {
       "title": "Our commitment",
       "items": [
-        { "value": "4", "label": "Service languages" },
-        { "value": "100%", "label": "Tailored solutions" },
-        { "value": "SME", "label": "Exclusive focus" },
-        { "value": "CH", "label": "Swiss roots" }
+        {
+          "value": "4",
+          "label": "Service languages"
+        },
+        {
+          "value": "100%",
+          "label": "Tailored solutions"
+        },
+        {
+          "value": "SME",
+          "label": "Exclusive focus"
+        },
+        {
+          "value": "CH",
+          "label": "Swiss roots"
+        }
       ]
     },
     "cta_title": "Ready to transform your SME?",
@@ -313,6 +365,118 @@
       "law_text": "These terms are governed by Swiss law."
     }
   },
+  "formation": {
+    "title": "AI Training for SMEs",
+    "subtitle": "Develop your team's AI skills with our tailored training programmes",
+    "free": {
+      "name": "Discovery",
+      "price": "Free",
+      "description": "First steps into AI",
+      "features": [
+        "5-day email mini-course",
+        "Free monthly webinar",
+        "Community access",
+        "Starter PDF guide"
+      ],
+      "cta": "Sign up for free"
+    },
+    "starter": {
+      "name": "Starter",
+      "price": "97 CHF",
+      "description": "AI fundamentals for your SME",
+      "features": [
+        "3h of video",
+        "Prompt templates",
+        "Digitalisation checklist",
+        "Certificate of completion",
+        "Email support"
+      ],
+      "cta": "Get started"
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "297 CHF",
+      "description": "Master AI for your business",
+      "features": [
+        "10h of video",
+        "LLMs module (ChatGPT, Claude, Gemini)",
+        "Automation module (Zapier, Make)",
+        "AI marketing module",
+        "Cybersecurity module",
+        "nFADP compliance",
+        "Private group",
+        "Monthly Q&A session"
+      ],
+      "cta": "Sign up",
+      "popular": "Popular",
+      "badge": "Popular"
+    },
+    "premium": {
+      "name": "Premium",
+      "price": "997 CHF",
+      "description": "Complete transformation with guidance",
+      "features": [
+        "Full Pro programme",
+        "3 one-to-one consulting sessions",
+        "Personalised AI audit",
+        "Bespoke action plan",
+        "6 months priority support"
+      ],
+      "cta": "Contact us",
+      "badge": "VIP"
+    },
+    "guarantee": "30-day money-back guarantee",
+    "vat_note": "Prices in CHF, excl. VAT"
+  },
+  "consulting": {
+    "title": "AI Consulting",
+    "subtitle": "Personalised guidance for your digital transformation",
+    "audit": {
+      "name": "AI Audit Express",
+      "price": "297 CHF",
+      "description": "Identify your AI opportunities",
+      "features": [
+        "1h diagnostic call",
+        "Analysis of your SME",
+        "PDF recommendations report",
+        "3 quick wins identified"
+      ],
+      "cta": "Learn more"
+    },
+    "accompagnement": {
+      "name": "Guidance",
+      "price": "1,497 CHF",
+      "description": "Guided implementation",
+      "features": [
+        "Full audit (2h)",
+        "Personalised action plan",
+        "3 implementation sessions (1h)",
+        "3 months email support",
+        "Results tracking"
+      ],
+      "cta": "Learn more",
+      "badge": "Recommended"
+    },
+    "custom": {
+      "name": "Bespoke",
+      "price": "On request",
+      "description": "Complex projects and team training",
+      "features": [
+        "On-site team training",
+        "AI tool integration",
+        "Long-term partnership",
+        "Dedicated support"
+      ],
+      "cta": "Contact us",
+      "badge": "Custom"
+    },
+    "book_title": "Book a discovery call",
+    "book_subtitle": "30 free minutes to discuss your project",
+    "book_cta": "Book a slot",
+    "cta": "Learn more",
+    "booking_title": "Book a discovery call",
+    "booking_description": "30 free minutes to discuss your project"
+  },
   "pricing": {
     "title": "Our plans",
     "subtitle": "Packages tailored to every need",
@@ -320,20 +484,328 @@
       "name": "Discovery",
       "price": "Free",
       "description": "First step towards AI",
-      "features": ["Initial AI audit (1h)", "Opportunities report", "Personalised recommendations"]
+      "features": [
+        "Initial AI audit (1h)",
+        "Opportunities report",
+        "Personalised recommendations"
+      ]
     },
     "pro": {
       "name": "Professional",
       "price": "On request",
       "description": "Integration and training",
-      "features": ["In-depth AI audit", "Team training (1 day)", "AI tool integration", "30-day support"],
+      "features": [
+        "In-depth AI audit",
+        "Team training (1 day)",
+        "AI tool integration",
+        "30-day support"
+      ],
       "popular": "Popular"
     },
     "enterprise": {
       "name": "Enterprise",
       "price": "On request",
       "description": "Complete transformation",
-      "features": ["Comprehensive AI strategy", "Unlimited training (3 months)", "Multi-tool integration", "Quarterly consulting", "Priority support"]
+      "features": [
+        "Comprehensive AI strategy",
+        "Unlimited training (3 months)",
+        "Multi-tool integration",
+        "Quarterly consulting",
+        "Priority support"
+      ]
     }
+  },
+  "newsletter": {
+    "title": "AI Newsletter for SMEs",
+    "subtitle": "Every week, receive the best AI tips for your SME",
+    "features": [
+      "1 practical AI tip",
+      "1 tool of the week",
+      "1 Swiss AI news item",
+      "Exclusive offers"
+    ],
+    "form": {
+      "email": "Your professional email",
+      "email_placeholder": "john@company.ch",
+      "submit": "Subscribe for free",
+      "consent": "By subscribing, you accept our privacy policy. You may unsubscribe at any time.",
+      "success": "Welcome! Please check your inbox to confirm your subscription."
+    },
+    "count": "Join our community of innovative SMEs",
+    "banner_text": "Receive our weekly AI tips",
+    "banner_cta": "Subscribe",
+    "benefit_title": "Stay ahead in AI",
+    "benefit_description": "Weekly practical tips for your SME",
+    "features_title": "What you will receive"
+  },
+  "events": {
+    "title": "AI Events in Switzerland",
+    "subtitle": "Discover conferences, workshops and AI meetups near you",
+    "upcoming": "Upcoming events",
+    "past": "Past events",
+    "all": "All",
+    "free": "Free",
+    "paid": "Paid",
+    "online": "Online",
+    "add_calendar": "Add to calendar",
+    "no_events": "No upcoming events at the moment",
+    "submit_title": "Suggest an event",
+    "submit_text": "Are you organising an AI event in Switzerland? Let us know!",
+    "submit_cta": "Submit an event",
+    "items": [
+      {
+        "name": "Applied Machine Learning Days",
+        "date": "2026-03-26",
+        "location": "EPFL, Lausanne",
+        "type": "Conference",
+        "price": "Paid",
+        "url": "https://appliedmldays.org",
+        "description": "Switzerland's largest machine learning conference, organised by EPFL."
+      },
+      {
+        "name": "Swiss Digital Day",
+        "date": "2026-11-01",
+        "location": "Across Switzerland",
+        "type": "National day",
+        "price": "Free",
+        "url": "https://digitaltag.swiss",
+        "description": "National digitalisation day organised by digitalswitzerland."
+      },
+      {
+        "name": "AI & Automation Summit Zurich",
+        "date": "2026-06-15",
+        "location": "Zurich",
+        "type": "Summit",
+        "price": "Paid",
+        "url": "#",
+        "description": "Summit dedicated to AI and automation for Swiss businesses."
+      },
+      {
+        "name": "IAPME Webinar: AI for SMEs",
+        "date": "2026-04-15",
+        "location": "Online",
+        "type": "Webinar",
+        "price": "Free",
+        "url": "#",
+        "description": "Free monthly webinar: discover how AI can transform your SME."
+      }
+    ],
+    "submit_button": "Submit"
+  },
+  "tools": {
+    "title": "Recommended AI Tools",
+    "subtitle": "Our curated selection of tested and approved AI tools for Swiss SMEs",
+    "affiliate_note": "Some links are affiliate links. We only recommend tools that we use and endorse.",
+    "categories": {
+      "all": "All",
+      "content": "Content & Marketing",
+      "automation": "Automation",
+      "productivity": "Productivity",
+      "hosting": "Hosting",
+      "translation": "Translation"
+    },
+    "free": "Free",
+    "freemium": "Freemium",
+    "paid": "Paid",
+    "visit": "Visit",
+    "items": [
+      {
+        "name": "ChatGPT",
+        "category": "content",
+        "rating": 5,
+        "price": "Freemium",
+        "description": "The most versatile AI assistant for writing, analysis and brainstorming.",
+        "url": "https://chat.openai.com"
+      },
+      {
+        "name": "Claude",
+        "category": "content",
+        "rating": 5,
+        "price": "Freemium",
+        "description": "Anthropic's AI, excellent for document analysis and long-form writing.",
+        "url": "https://claude.ai"
+      },
+      {
+        "name": "DeepL",
+        "category": "translation",
+        "rating": 5,
+        "price": "Freemium",
+        "description": "The finest machine translation tool, ideal for multilingual Swiss SMEs.",
+        "url": "https://www.deepl.com"
+      },
+      {
+        "name": "Zapier",
+        "category": "automation",
+        "rating": 4,
+        "price": "Freemium",
+        "description": "Connect your apps and automate workflows without coding.",
+        "url": "https://zapier.com"
+      },
+      {
+        "name": "Make",
+        "category": "automation",
+        "rating": 4,
+        "price": "Freemium",
+        "description": "Advanced automation with a powerful visual interface.",
+        "url": "https://www.make.com"
+      },
+      {
+        "name": "Notion AI",
+        "category": "productivity",
+        "rating": 4,
+        "price": "Paid",
+        "description": "Organisation and productivity boosted by integrated AI.",
+        "url": "https://notion.so"
+      },
+      {
+        "name": "Infomaniak",
+        "category": "hosting",
+        "rating": 5,
+        "price": "Paid",
+        "description": "Swiss, ecological and sovereign web hosting. Ideal for SMEs.",
+        "url": "https://www.infomaniak.com"
+      },
+      {
+        "name": "Canva",
+        "category": "content",
+        "rating": 4,
+        "price": "Freemium",
+        "description": "Simplified graphic design with built-in AI features.",
+        "url": "https://www.canva.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Testimonials",
+    "subtitle": "What our clients say about us",
+    "cta_title": "Transform your SME too",
+    "cta_text": "Join the Swiss SMEs that have embraced AI",
+    "cta_button": "Request a free audit",
+    "items": [
+      {
+        "name": "Marc Keller",
+        "company": "Keller Treuhand AG",
+        "location": "Zurich",
+        "text": "IAPME's AI audit helped us identify productivity gains we would never have found on our own. Within 3 months, we automated 40% of our administrative tasks.",
+        "rating": 5
+      },
+      {
+        "name": "Sophie Durand",
+        "company": "Durand & Fils SA",
+        "location": "Lausanne",
+        "text": "The Pro training was exactly what our team needed. Pragmatic, tailored to the Swiss context, and immediately applicable. Highly recommended.",
+        "rating": 5
+      },
+      {
+        "name": "Luca Bernasconi",
+        "company": "Bernasconi Consulenza",
+        "location": "Lugano",
+        "text": "Finally an AI service designed for Swiss SMEs. The IAPME team understands our specific needs and delivers concrete solutions.",
+        "rating": 5
+      }
+    ]
+  },
+  "faq_page": {
+    "title": "Frequently asked questions about AI for SMEs",
+    "subtitle": "Everything you need to know about integrating AI into your Swiss SME",
+    "categories": {
+      "general": "General",
+      "technical": "Technical",
+      "legal": "Legal & Compliance",
+      "pricing": "Pricing"
+    },
+    "items": [
+      {
+        "question": "Is AI suitable for small businesses?",
+        "answer": "Absolutely. Tools such as ChatGPT, DeepL and Zapier are available from just a few francs per month and can automate repetitive tasks, improve customer service or accelerate content creation.",
+        "category": "general"
+      },
+      {
+        "question": "Where should I start with AI in my SME?",
+        "answer": "Begin with a process audit: identify repetitive, time-consuming or low-value tasks. Our free audit helps you prioritise opportunities.",
+        "category": "general"
+      },
+      {
+        "question": "Do I need technical skills?",
+        "answer": "No. Most modern AI tools are designed to be used without programming skills. Our training programmes guide you every step of the way.",
+        "category": "technical"
+      },
+      {
+        "question": "Will AI replace my employees?",
+        "answer": "AI is an augmentation tool, not a replacement. It frees your staff from repetitive tasks so they can focus on higher-value work.",
+        "category": "general"
+      },
+      {
+        "question": "Is my data protected?",
+        "answer": "We favour solutions compliant with the nFADP (Swiss data protection law). We advise you on choosing privacy-respecting tools.",
+        "category": "legal"
+      },
+      {
+        "question": "What is the nFADP?",
+        "answer": "The new Federal Act on Data Protection (nFADP), in force since 1 September 2023, strengthens individuals' rights and businesses' obligations regarding personal data.",
+        "category": "legal"
+      },
+      {
+        "question": "How much does an AI project for an SME cost?",
+        "answer": "Costs range from free (basic tools) to several thousand francs (bespoke integration). Our express audit at 297 CHF provides a precise ROI estimate.",
+        "category": "pricing"
+      },
+      {
+        "question": "How long does an integration project take?",
+        "answer": "A straightforward project (e.g. chatbot, email automation) can be operational within 2-4 weeks. More complex projects span 2-3 months.",
+        "category": "technical"
+      },
+      {
+        "question": "Do you offer training in German and Italian?",
+        "answer": "Yes, our services are available in French, German, Italian and English. We cover all linguistic regions of Switzerland.",
+        "category": "general"
+      },
+      {
+        "question": "How can I fund my AI project?",
+        "answer": "Several cantons offer digitalisation grants for SMEs (ZH, VD, GE, BE, etc.). We help you identify available funding in your region.",
+        "category": "pricing"
+      }
+    ]
+  },
+  "partners": {
+    "title": "Our Partners",
+    "subtitle": "A trusted ecosystem to support your transformation",
+    "become_partner": "Become a partner",
+    "become_text": "Would you like to collaborate with IAPME Suisse? Get in touch.",
+    "categories": {
+      "tech": "Technology",
+      "institution": "Institutions",
+      "education": "Education"
+    },
+    "items": [
+      {
+        "name": "Infomaniak",
+        "category": "tech",
+        "description": "Swiss and ecological web hosting",
+        "url": "https://www.infomaniak.com"
+      },
+      {
+        "name": "digitalswitzerland",
+        "category": "institution",
+        "description": "Initiative for digital transformation in Switzerland",
+        "url": "https://digitalswitzerland.com"
+      },
+      {
+        "name": "EPFL Extension School",
+        "category": "education",
+        "description": "Continuing education in technology",
+        "url": "https://www.extensionschool.ch"
+      },
+      {
+        "name": "Swiss AI Association",
+        "category": "institution",
+        "description": "Swiss association for artificial intelligence",
+        "url": "https://swissai.org"
+      }
+    ],
+    "become_partner_title": "Become a partner",
+    "become_partner_description": "Want to collaborate with IAPME Suisse?",
+    "become_partner_cta": "Contact us",
+    "visit_website": "Visit website"
   }
 }
