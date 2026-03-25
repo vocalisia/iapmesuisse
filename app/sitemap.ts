@@ -1,4 +1,5 @@
 import type { MetadataRoute } from 'next';
+import { getBlogPosts } from '@/lib/markdown';
 
 const locales = ['fr', 'de', 'en', 'it'];
 const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://iapmesuisse.ch';
@@ -14,8 +15,6 @@ const pages = [
   '/politique-confidentialite',
   '/cgv',
 ];
-
-const blogSlugs = ['chatgpt-pme', 'outils-ia-gratuits', 'ia-suisse-2025'];
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const entries: MetadataRoute.Sitemap = [];
@@ -35,6 +34,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
       });
     }
   }
+
+  const blogSlugs = getBlogPosts('fr').map((post) => post.slug);
 
   for (const slug of blogSlugs) {
     for (const locale of locales) {

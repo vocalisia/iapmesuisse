@@ -1,0 +1,36 @@
+name: Daily Blog Generation
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # 06:00 UTC = 07:00/08:00 Swiss time
+  workflow_dispatch: {} # Manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - name: Generate blog article
+        run: npx tsx scripts/generate-blog.ts
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
+      - name: Commit and push new article
+        run: |
+          git config user.name "IAPME Blog Bot"
+          git config user.email "bot@iapmesuisse.ch"
+          git add content/blog/
+          git diff --cached --quiet && echo "No new content" && exit 0
+          git commit -m "blog: auto-publish daily article $(date +%Y-%m-%d)"
+          git push
