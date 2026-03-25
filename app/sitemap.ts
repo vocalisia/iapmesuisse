@@ -1,7 +1,7 @@
 import type { MetadataRoute } from 'next';
 
 const locales = ['fr', 'de', 'en', 'it'];
-const baseUrl = 'https://iapmesuisse.ch';
+const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://iapmesuisse.ch';
 
 const pages = [
   '',
@@ -10,6 +10,9 @@ const pages = [
   '/blog',
   '/contact',
   '/ressources',
+  '/mentions-legales',
+  '/politique-confidentialite',
+  '/cgv',
 ];
 
 const blogSlugs = ['chatgpt-pme', 'outils-ia-gratuits', 'ia-suisse-2025'];

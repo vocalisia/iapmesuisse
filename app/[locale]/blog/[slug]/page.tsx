@@ -79,12 +79,13 @@ export default async function BlogPostPage({
       <article className="mx-auto max-w-4xl px-4 pb-20 pt-4 sm:px-6 lg:px-8">
         {/* Header */}
         <header className="mb-10">
-          <time
-            dateTime={post.date}
-            className="text-sm font-medium uppercase tracking-wider text-gray-400"
-          >
-            {formattedDate}
-          </time>
+          <div className="flex items-center gap-3 text-sm font-medium text-gray-400">
+            <time dateTime={post.date} className="uppercase tracking-wider">
+              {formattedDate}
+            </time>
+            <span className="text-gray-300">|</span>
+            <span>{post.author}</span>
+          </div>
           <h1 className="mt-3 text-3xl font-extrabold leading-tight tracking-tight text-primary sm:text-4xl lg:text-5xl">
             {post.title}
           </h1>

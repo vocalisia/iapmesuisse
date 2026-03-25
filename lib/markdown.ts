@@ -11,6 +11,7 @@ export interface BlogPost {
   title: string;
   date: string;
   excerpt: string;
+  author: string;
   content: string;
 }
 
@@ -33,6 +34,7 @@ export function getBlogPosts(locale: string): BlogPost[] {
       title: data.title || '',
       date: data.date || '',
       excerpt: data.excerpt || '',
+      author: data.author || 'IAPME Suisse',
       content,
     };
   });
@@ -67,6 +69,7 @@ export async function getBlogPost(
         title: data.title || '',
         date: data.date || '',
         excerpt: data.excerpt || '',
+        author: data.author || 'IAPME Suisse',
         content: processedContent.toString(),
       };
     }

@@ -61,6 +61,7 @@ export default async function BlogPage({
                 date={post.date}
                 slug={post.slug}
                 locale={locale}
+                readMoreText={t('read_more')}
               />
             ))}
           </div>

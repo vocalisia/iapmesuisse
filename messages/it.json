@@ -31,7 +31,10 @@
     "about": "Chi siamo",
     "blog": "Blog",
     "contact": "Contatto",
-    "resources": "Risorse"
+    "resources": "Risorse",
+    "mentions": "Note legali",
+    "privacy_page": "Privacy",
+    "terms_page": "Condizioni generali"
   },
   "hero": {
     "title": "L'IA al servizio delle PMI svizzere",
@@ -58,12 +61,12 @@
     ],
     "services_title": "I nostri servizi",
     "stats": {
-      "title": "Risultati concreti",
+      "title": "Il nostro impegno",
       "items": [
-        { "value": "200+", "label": "PMI accompagnate" },
-        { "value": "40%", "label": "Guadagno medio di produttività" },
-        { "value": "98%", "label": "Soddisfazione dei clienti" },
-        { "value": "4", "label": "Lingue parlate" }
+        { "value": "4", "label": "Lingue di servizio" },
+        { "value": "100%", "label": "Soluzioni su misura" },
+        { "value": "PMI", "label": "Focus esclusivo" },
+        { "value": "CH", "label": "Radicamento svizzero" }
       ]
     },
     "cta_title": "Pronti a trasformare la vostra PMI?",
@@ -142,9 +145,9 @@
     ],
     "team_title": "Il team",
     "founder": {
-      "name": "Il team IAPME",
+      "name": "[Nome del fondatore]",
       "role": "Fondatore & Consulente IA",
-      "bio": "Appassionati di IA e imprenditorialità svizzera, aiutiamo le PMI a navigare la rivoluzione tecnologica con pragmatismo ed efficienza."
+      "bio": "Esperto in intelligenza artificiale e trasformazione digitale, accompagna le PMI svizzere nella loro transizione verso l'IA. [Da personalizzare con il percorso reale del fondatore]"
     }
   },
   "blog": {
@@ -171,7 +174,9 @@
     "info": {
       "title": "Informazioni di contatto",
       "email": "contact@iapmesuisse.ch",
-      "location": "Svizzera",
+      "location": "[Indirizzo da completare], Svizzera",
+      "phone": "[Telefono da completare]",
+      "ide": "N° IDI: CHE-XXX.XXX.XXX",
       "hours": "Lun - Ven: 9:00 - 18:00"
     }
   },
@@ -193,8 +198,7 @@
         "description": "Come misurare il ritorno sull'investimento dei vostri progetti IA."
       }
     ],
-    "download": "Scaricare",
-    "coming_soon": "Disponibile a breve",
+    "download": "Richiedere questa guida",
     "links_title": "Link utili",
     "links": [
       {
@@ -241,7 +245,7 @@
     "description": "L'intelligenza artificiale al servizio delle PMI svizzere.",
     "services": "Servizi",
     "company": "Impresa",
-    "follow_us": "Seguiteci",
+    "legal": "Legale",
     "rights": "Tutti i diritti riservati.",
     "privacy": "Privacy",
     "terms": "Condizioni"
@@ -250,5 +254,86 @@
     "learn_more": "Scopri di più",
     "contact_us": "Contattateci",
     "back": "Indietro"
+  },
+  "legal": {
+    "mentions": {
+      "meta_title": "Note legali – IAPME Suisse",
+      "meta_description": "Note legali e informazioni sull'editore di iapmesuisse.ch",
+      "title": "Note legali",
+      "editor_title": "Editore del sito",
+      "editor_text": "IAPME Suisse\nIndirizzo: [Da completare]\nN° IDI: CHE-XXX.XXX.XXX\nE-mail: contact@iapmesuisse.ch",
+      "hosting_title": "Hosting",
+      "hosting_text": "iapmesuisse.ch è ospitato da Vercel Inc., 340 S Lemon Ave #4133, Walnut, CA 91789, USA.",
+      "intellectual_title": "Proprietà intellettuale",
+      "intellectual_text": "Tutti i contenuti del sito (testi, immagini, loghi, icone) sono proprietà di IAPME Suisse o dei suoi partner. È vietata qualsiasi riproduzione, anche parziale, senza autorizzazione scritta.",
+      "liability_title": "Limitazione di responsabilità",
+      "liability_text": "IAPME Suisse si impegna a garantire l'accuratezza delle informazioni pubblicate. Tuttavia, non si assume alcuna garanzia sulla completezza o esattezza.",
+      "law_title": "Diritto applicabile",
+      "law_text": "Il presente sito è soggetto al diritto svizzero. Ogni controversia sarà di competenza esclusiva dei tribunali svizzeri."
+    },
+    "privacy": {
+      "meta_title": "Informativa sulla privacy – IAPME Suisse",
+      "meta_description": "Informativa sulla privacy conforme alla nLPD svizzera.",
+      "title": "Informativa sulla privacy",
+      "intro": "IAPME Suisse si impegna a proteggere i vostri dati personali conformemente alla nuova Legge federale sulla protezione dei dati (nLPD), in vigore dal 1° settembre 2023.",
+      "responsible_title": "Titolare del trattamento",
+      "responsible_text": "IAPME Suisse\nE-mail: contact@iapmesuisse.ch",
+      "data_collected_title": "Dati raccolti",
+      "data_collected_text": "Raccogliamo i seguenti dati tramite il modulo di contatto: nome completo, indirizzo e-mail, nome dell'impresa e messaggio. Questi dati sono raccolti esclusivamente per rispondere alla vostra richiesta.",
+      "purpose_title": "Finalità del trattamento",
+      "purpose_text": "I vostri dati personali sono utilizzati esclusivamente per rispondere alle richieste di contatto, fornire informazioni sui nostri servizi e migliorare le nostre prestazioni.",
+      "retention_title": "Durata della conservazione",
+      "retention_text": "I vostri dati sono conservati per il tempo necessario al trattamento della richiesta e per un massimo di 2 anni dall'ultimo contatto.",
+      "rights_title": "I vostri diritti",
+      "rights_text": "Conformemente alla nLPD, avete diritto di accesso, rettifica, cancellazione, portabilità e opposizione. Contatto: contact@iapmesuisse.ch",
+      "cookies_title": "Cookie",
+      "cookies_text": "Questo sito utilizza esclusivamente cookie tecnici necessari al funzionamento. Non vengono utilizzati cookie di tracciamento o pubblicitari.",
+      "transfer_title": "Trasferimento dei dati",
+      "transfer_text": "Il sito è ospitato da Vercel Inc. (USA). Sono in atto misure di protezione adeguate conformi alla nLPD.",
+      "update_title": "Modifiche",
+      "update_text": "IAPME Suisse si riserva il diritto di modificare la presente informativa in qualsiasi momento."
+    },
+    "terms": {
+      "meta_title": "Condizioni generali – IAPME Suisse",
+      "meta_description": "Condizioni generali di vendita e utilizzo dei servizi IAPME Suisse.",
+      "title": "Condizioni generali",
+      "scope_title": "Campo di applicazione",
+      "scope_text": "Le presenti condizioni si applicano a tutte le prestazioni offerte da IAPME Suisse.",
+      "services_title": "Descrizione dei servizi",
+      "services_text": "IAPME Suisse offre servizi di consulenza, formazione e integrazione nel campo dell'intelligenza artificiale per le PMI svizzere. L'ambito esatto è definito in un preventivo o contratto specifico.",
+      "pricing_title": "Tariffe e pagamento",
+      "pricing_text": "Le tariffe sono comunicate su richiesta. I prezzi si intendono in CHF IVA esclusa. Pagamento entro 30 giorni.",
+      "cancellation_title": "Annullamento",
+      "cancellation_text": "Ogni annullamento deve essere comunicato per iscritto almeno 5 giorni lavorativi prima della data prevista.",
+      "confidentiality_title": "Riservatezza",
+      "confidentiality_text": "IAPME Suisse tratta in modo riservato tutte le informazioni comunicate dal cliente.",
+      "liability_title": "Responsabilità",
+      "liability_text": "La responsabilità di IAPME Suisse è limitata all'importo della prestazione interessata.",
+      "law_title": "Diritto applicabile e foro competente",
+      "law_text": "Le presenti condizioni sono soggette al diritto svizzero."
+    }
+  },
+  "pricing": {
+    "title": "Le nostre formule",
+    "subtitle": "Offerte adatte a ogni esigenza",
+    "starter": {
+      "name": "Scoperta",
+      "price": "Gratuito",
+      "description": "Primo passo verso l'IA",
+      "features": ["Audit IA iniziale (1 ora)", "Rapporto sulle opportunità", "Raccomandazioni personalizzate"]
+    },
+    "pro": {
+      "name": "Professionale",
+      "price": "Su preventivo",
+      "description": "Integrazione e formazione",
+      "features": ["Audit IA approfondito", "Formazione del team (1 giornata)", "Integrazione di uno strumento IA", "Supporto 30 giorni"],
+      "popular": "Popolare"
+    },
+    "enterprise": {
+      "name": "Impresa",
+      "price": "Su preventivo",
+      "description": "Trasformazione completa",
+      "features": ["Strategia IA completa", "Formazioni illimitate (3 mesi)", "Integrazione multi-strumento", "Accompagnamento trimestrale", "Supporto prioritario"]
+    }
   }
 }

@@ -31,7 +31,10 @@
     "about": "About",
     "blog": "Blog",
     "contact": "Contact",
-    "resources": "Resources"
+    "resources": "Resources",
+    "mentions": "Legal notice",
+    "privacy_page": "Privacy policy",
+    "terms_page": "Terms & conditions"
   },
   "hero": {
     "title": "AI at the service of Swiss SMEs",
@@ -58,12 +61,12 @@
     ],
     "services_title": "Our services",
     "stats": {
-      "title": "Proven results",
+      "title": "Our commitment",
       "items": [
-        { "value": "200+", "label": "SMEs supported" },
-        { "value": "40%", "label": "Average productivity gain" },
-        { "value": "98%", "label": "Client satisfaction" },
-        { "value": "4", "label": "Languages spoken" }
+        { "value": "4", "label": "Service languages" },
+        { "value": "100%", "label": "Tailored solutions" },
+        { "value": "SME", "label": "Exclusive focus" },
+        { "value": "CH", "label": "Swiss roots" }
       ]
     },
     "cta_title": "Ready to transform your SME?",
@@ -142,9 +145,9 @@
     ],
     "team_title": "The team",
     "founder": {
-      "name": "The IAPME Team",
+      "name": "[Founder's name]",
       "role": "Founder & AI Consultant",
-      "bio": "Passionate about AI and Swiss entrepreneurship, we help SMEs navigate the technological revolution with pragmatism and efficiency."
+      "bio": "Expert in artificial intelligence and digital transformation, supporting Swiss SMEs in their transition to AI. [Customise with founder's actual background]"
     }
   },
   "blog": {
@@ -171,7 +174,9 @@
     "info": {
       "title": "Contact information",
       "email": "contact@iapmesuisse.ch",
-      "location": "Switzerland",
+      "location": "[Address to complete], Switzerland",
+      "phone": "[Phone to complete]",
+      "ide": "UID: CHE-XXX.XXX.XXX",
       "hours": "Mon - Fri: 9am - 6pm"
     }
   },
@@ -193,8 +198,7 @@
         "description": "How to measure the return on investment of your AI projects."
       }
     ],
-    "download": "Download",
-    "coming_soon": "Coming soon",
+    "download": "Request this guide",
     "links_title": "Useful links",
     "links": [
       {
@@ -241,7 +245,7 @@
     "description": "Artificial intelligence at the service of Swiss SMEs.",
     "services": "Services",
     "company": "Company",
-    "follow_us": "Follow us",
+    "legal": "Legal",
     "rights": "All rights reserved.",
     "privacy": "Privacy",
     "terms": "Terms"
@@ -250,5 +254,86 @@
     "learn_more": "Learn more",
     "contact_us": "Contact us",
     "back": "Back"
+  },
+  "legal": {
+    "mentions": {
+      "meta_title": "Legal notice – IAPME Suisse",
+      "meta_description": "Legal notice and publisher information for iapmesuisse.ch",
+      "title": "Legal notice",
+      "editor_title": "Publisher",
+      "editor_text": "IAPME Suisse\nAddress: [To be completed]\nUID: CHE-XXX.XXX.XXX\nEmail: contact@iapmesuisse.ch",
+      "hosting_title": "Hosting",
+      "hosting_text": "iapmesuisse.ch is hosted by Vercel Inc., 340 S Lemon Ave #4133, Walnut, CA 91789, USA.",
+      "intellectual_title": "Intellectual property",
+      "intellectual_text": "All content on this site (text, images, logos, icons) is the property of IAPME Suisse or its partners. Any reproduction, even partial, is prohibited without prior written consent.",
+      "liability_title": "Limitation of liability",
+      "liability_text": "IAPME Suisse strives to ensure the accuracy of information published on this site. However, no guarantee is given as to completeness or accuracy.",
+      "law_title": "Applicable law",
+      "law_text": "This website is governed by Swiss law. Any disputes shall fall under the exclusive jurisdiction of Swiss courts."
+    },
+    "privacy": {
+      "meta_title": "Privacy policy – IAPME Suisse",
+      "meta_description": "Privacy policy in compliance with the Swiss nFADP.",
+      "title": "Privacy policy",
+      "intro": "IAPME Suisse is committed to protecting your personal data in accordance with the new Federal Act on Data Protection (nFADP), effective since 1 September 2023.",
+      "responsible_title": "Data controller",
+      "responsible_text": "IAPME Suisse\nEmail: contact@iapmesuisse.ch",
+      "data_collected_title": "Data collected",
+      "data_collected_text": "We collect the following data via our contact form: full name, email address, company name and message. This data is collected solely to respond to your enquiry.",
+      "purpose_title": "Purpose of processing",
+      "purpose_text": "Your personal data is used exclusively to respond to your contact requests, provide information about our services and improve our offerings.",
+      "retention_title": "Retention period",
+      "retention_text": "Your data is retained for the duration necessary to process your request and for a maximum of 2 years after last contact.",
+      "rights_title": "Your rights",
+      "rights_text": "Under the nFADP, you have the right to access, rectification, deletion, data portability and objection. Contact: contact@iapmesuisse.ch",
+      "cookies_title": "Cookies",
+      "cookies_text": "This site uses only technically necessary cookies. No tracking or advertising cookies are used.",
+      "transfer_title": "Data transfer",
+      "transfer_text": "The site is hosted by Vercel Inc. (USA). Adequate protection measures are in place in compliance with the nFADP.",
+      "update_title": "Changes",
+      "update_text": "IAPME Suisse reserves the right to modify this privacy policy at any time."
+    },
+    "terms": {
+      "meta_title": "Terms & conditions – IAPME Suisse",
+      "meta_description": "General terms and conditions for IAPME Suisse services.",
+      "title": "Terms & conditions",
+      "scope_title": "Scope",
+      "scope_text": "These terms apply to all services offered by IAPME Suisse.",
+      "services_title": "Service description",
+      "services_text": "IAPME Suisse offers consulting, training and integration services in artificial intelligence for Swiss SMEs. The exact scope is defined in a specific quote or contract.",
+      "pricing_title": "Pricing and payment",
+      "pricing_text": "Prices are provided on request. Prices are in CHF excluding VAT. Payment is due within 30 days.",
+      "cancellation_title": "Cancellation",
+      "cancellation_text": "Cancellations must be communicated in writing at least 5 business days before the scheduled date.",
+      "confidentiality_title": "Confidentiality",
+      "confidentiality_text": "IAPME Suisse treats all information provided by clients in the course of services as confidential.",
+      "liability_title": "Liability",
+      "liability_text": "IAPME Suisse's liability is limited to the amount of the service in question.",
+      "law_title": "Applicable law and jurisdiction",
+      "law_text": "These terms are governed by Swiss law."
+    }
+  },
+  "pricing": {
+    "title": "Our plans",
+    "subtitle": "Packages tailored to every need",
+    "starter": {
+      "name": "Discovery",
+      "price": "Free",
+      "description": "First step towards AI",
+      "features": ["Initial AI audit (1h)", "Opportunities report", "Personalised recommendations"]
+    },
+    "pro": {
+      "name": "Professional",
+      "price": "On request",
+      "description": "Integration and training",
+      "features": ["In-depth AI audit", "Team training (1 day)", "AI tool integration", "30-day support"],
+      "popular": "Popular"
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "price": "On request",
+      "description": "Complete transformation",
+      "features": ["Comprehensive AI strategy", "Unlimited training (3 months)", "Multi-tool integration", "Quarterly consulting", "Priority support"]
+    }
   }
 }

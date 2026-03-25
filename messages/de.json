@@ -31,7 +31,10 @@
     "about": "Über uns",
     "blog": "Blog",
     "contact": "Kontakt",
-    "resources": "Ressourcen"
+    "resources": "Ressourcen",
+    "mentions": "Impressum",
+    "privacy_page": "Datenschutz",
+    "terms_page": "AGB"
   },
   "hero": {
     "title": "KI im Dienste Schweizer KMU",
@@ -58,12 +61,12 @@
     ],
     "services_title": "Unsere Dienstleistungen",
     "stats": {
-      "title": "Messbare Ergebnisse",
+      "title": "Unser Engagement",
       "items": [
-        { "value": "200+", "label": "Begleitete KMU" },
-        { "value": "40%", "label": "Durchschnittlicher Produktivitätsgewinn" },
-        { "value": "98%", "label": "Kundenzufriedenheit" },
-        { "value": "4", "label": "Gesprochene Sprachen" }
+        { "value": "4", "label": "Servicesprachen" },
+        { "value": "100%", "label": "Massgeschneiderte Lösungen" },
+        { "value": "KMU", "label": "Exklusiver Fokus" },
+        { "value": "CH", "label": "Schweizer Verankerung" }
       ]
     },
     "cta_title": "Bereit, Ihr KMU zu transformieren?",
@@ -142,9 +145,9 @@
     ],
     "team_title": "Das Team",
     "founder": {
-      "name": "Das IAPME-Team",
+      "name": "[Name des Gründers]",
       "role": "Gründer & KI-Berater",
-      "bio": "Begeistert von KI und Schweizer Unternehmertum, helfen wir KMU, die technologische Revolution mit Pragmatismus und Effizienz zu meistern."
+      "bio": "Experte für künstliche Intelligenz und digitale Transformation, begleitet Schweizer KMU bei ihrem Übergang zur KI. [Mit dem tatsächlichen Werdegang des Gründers personalisieren]"
     }
   },
   "blog": {
@@ -171,7 +174,9 @@
     "info": {
       "title": "Kontaktinformationen",
       "email": "contact@iapmesuisse.ch",
-      "location": "Schweiz",
+      "location": "[Adresse ergänzen], Schweiz",
+      "phone": "[Telefonnummer ergänzen]",
+      "ide": "UID: CHE-XXX.XXX.XXX",
       "hours": "Mo - Fr: 9:00 - 18:00"
     }
   },
@@ -193,8 +198,7 @@
         "description": "So messen Sie den Return on Investment Ihrer KI-Projekte."
       }
     ],
-    "download": "Herunterladen",
-    "coming_soon": "Demnächst verfügbar",
+    "download": "Leitfaden anfordern",
     "links_title": "Nützliche Links",
     "links": [
       {
@@ -241,7 +245,7 @@
     "description": "Künstliche Intelligenz im Dienste Schweizer KMU.",
     "services": "Dienstleistungen",
     "company": "Unternehmen",
-    "follow_us": "Folgen Sie uns",
+    "legal": "Rechtliches",
     "rights": "Alle Rechte vorbehalten.",
     "privacy": "Datenschutz",
     "terms": "AGB"
@@ -250,5 +254,86 @@
     "learn_more": "Mehr erfahren",
     "contact_us": "Kontakt aufnehmen",
     "back": "Zurück"
+  },
+  "legal": {
+    "mentions": {
+      "meta_title": "Impressum – IAPME Suisse",
+      "meta_description": "Impressum und Herausgeberinformationen von iapmesuisse.ch",
+      "title": "Impressum",
+      "editor_title": "Herausgeber",
+      "editor_text": "IAPME Suisse\nAdresse: [Zu ergänzen]\nUID: CHE-XXX.XXX.XXX\nE-Mail: contact@iapmesuisse.ch",
+      "hosting_title": "Hosting",
+      "hosting_text": "iapmesuisse.ch wird gehostet von Vercel Inc., 340 S Lemon Ave #4133, Walnut, CA 91789, USA.",
+      "intellectual_title": "Geistiges Eigentum",
+      "intellectual_text": "Sämtliche Inhalte dieser Website (Texte, Bilder, Logos, Icons) sind Eigentum von IAPME Suisse oder ihren Partnern. Jede Vervielfältigung, auch auszugsweise, ist ohne schriftliche Genehmigung untersagt.",
+      "liability_title": "Haftungsbeschränkung",
+      "liability_text": "IAPME Suisse bemüht sich um die Richtigkeit der auf dieser Website veröffentlichten Informationen. Es wird jedoch keine Gewähr für deren Vollständigkeit oder Richtigkeit übernommen.",
+      "law_title": "Anwendbares Recht",
+      "law_text": "Diese Website unterliegt dem Schweizer Recht. Für Streitigkeiten sind ausschliesslich Schweizer Gerichte zuständig."
+    },
+    "privacy": {
+      "meta_title": "Datenschutzerklärung – IAPME Suisse",
+      "meta_description": "Datenschutzerklärung gemäss dem Schweizer nDSG.",
+      "title": "Datenschutzerklärung",
+      "intro": "IAPME Suisse verpflichtet sich zum Schutz Ihrer personenbezogenen Daten gemäss dem neuen Bundesgesetz über den Datenschutz (nDSG), in Kraft seit 1. September 2023.",
+      "responsible_title": "Verantwortliche Stelle",
+      "responsible_text": "IAPME Suisse\nE-Mail: contact@iapmesuisse.ch",
+      "data_collected_title": "Erhobene Daten",
+      "data_collected_text": "Über unser Kontaktformular erfassen wir: vollständiger Name, E-Mail-Adresse, Unternehmensname und Nachricht. Diese Daten werden ausschliesslich zur Bearbeitung Ihrer Anfrage erhoben.",
+      "purpose_title": "Zweck der Verarbeitung",
+      "purpose_text": "Ihre personenbezogenen Daten werden ausschliesslich verwendet, um Ihre Kontaktanfragen zu beantworten, Ihnen Informationen über unsere Dienstleistungen bereitzustellen und unsere Leistungen zu verbessern.",
+      "retention_title": "Aufbewahrungsdauer",
+      "retention_text": "Ihre Daten werden für die Dauer der Bearbeitung Ihrer Anfrage und maximal 2 Jahre nach dem letzten Kontakt aufbewahrt.",
+      "rights_title": "Ihre Rechte",
+      "rights_text": "Gemäss nDSG haben Sie das Recht auf Auskunft, Berichtigung, Löschung, Datenportabilität und Widerspruch. Kontakt: contact@iapmesuisse.ch",
+      "cookies_title": "Cookies",
+      "cookies_text": "Diese Website verwendet ausschliesslich technisch notwendige Cookies. Tracking- oder Werbe-Cookies werden nicht eingesetzt.",
+      "transfer_title": "Datenübermittlung",
+      "transfer_text": "Die Website wird von Vercel Inc. (USA) gehostet. Angemessene Schutzmassnahmen gemäss nDSG sind gewährleistet.",
+      "update_title": "Änderungen",
+      "update_text": "IAPME Suisse behält sich das Recht vor, diese Datenschutzerklärung jederzeit zu ändern."
+    },
+    "terms": {
+      "meta_title": "AGB – IAPME Suisse",
+      "meta_description": "Allgemeine Geschäftsbedingungen der IAPME Suisse.",
+      "title": "Allgemeine Geschäftsbedingungen",
+      "scope_title": "Geltungsbereich",
+      "scope_text": "Diese AGB gelten für sämtliche von IAPME Suisse angebotenen Dienstleistungen.",
+      "services_title": "Leistungsbeschreibung",
+      "services_text": "IAPME Suisse bietet Beratungs-, Schulungs- und Integrationsdienstleistungen im Bereich künstliche Intelligenz für Schweizer KMU an. Der genaue Umfang wird in einem Angebot oder Vertrag festgelegt.",
+      "pricing_title": "Preise und Zahlung",
+      "pricing_text": "Die Preise werden auf Anfrage mitgeteilt. Die Preise verstehen sich in CHF exkl. MwSt. Zahlungsfrist: 30 Tage.",
+      "cancellation_title": "Stornierung",
+      "cancellation_text": "Stornierungen müssen mindestens 5 Werktage vor dem geplanten Termin schriftlich erfolgen.",
+      "confidentiality_title": "Vertraulichkeit",
+      "confidentiality_text": "IAPME Suisse behandelt alle vom Kunden im Rahmen der Dienstleistungen übermittelten Informationen vertraulich.",
+      "liability_title": "Haftung",
+      "liability_text": "Die Haftung von IAPME Suisse ist auf den Betrag der betreffenden Dienstleistung beschränkt.",
+      "law_title": "Anwendbares Recht und Gerichtsstand",
+      "law_text": "Diese AGB unterliegen dem Schweizer Recht."
+    }
+  },
+  "pricing": {
+    "title": "Unsere Angebote",
+    "subtitle": "Passende Pakete für jeden Bedarf",
+    "starter": {
+      "name": "Einstieg",
+      "price": "Kostenlos",
+      "description": "Erster Schritt zur KI",
+      "features": ["Initiales KI-Audit (1 Std.)", "Chancenbericht", "Individuelle Empfehlungen"]
+    },
+    "pro": {
+      "name": "Professionell",
+      "price": "Auf Anfrage",
+      "description": "Integration und Schulung",
+      "features": ["Vertieftes KI-Audit", "Teamschulung (1 Tag)", "Integration eines KI-Tools", "30 Tage Support"],
+      "popular": "Beliebt"
+    },
+    "enterprise": {
+      "name": "Unternehmen",
+      "price": "Auf Anfrage",
+      "description": "Komplette Transformation",
+      "features": ["Umfassende KI-Strategie", "Unbegrenzte Schulungen (3 Monate)", "Multi-Tool-Integration", "Quartalsweise Begleitung", "Prioritäts-Support"]
+    }
   }
 }
