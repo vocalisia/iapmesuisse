@@ -8,6 +8,7 @@ import NewsletterBanner from '@/components/NewsletterBanner';
 import CookieBanner from '@/components/CookieBanner';
 import SchemaMarkup from '@/components/SchemaMarkup';
 import { notFound } from 'next/navigation';
+import Script from 'next/script';
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -61,6 +62,18 @@ export default async function LocaleLayout({
         <SchemaMarkup locale={locale} />
       </head>
       <body className="min-h-screen flex flex-col bg-white">
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-7HQQDGHRT2"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-7HQQDGHRT2');
+          `}
+        </Script>
         <NextIntlClientProvider messages={messages}>
           <Header />
           <main className="flex-1">{children}</main>
