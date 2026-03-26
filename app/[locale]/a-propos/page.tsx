@@ -2,6 +2,7 @@ import { getTranslations } from 'next-intl/server';
 import { getAlternates } from '@/lib/metadata';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import CTA from '@/components/CTA';
+import Image from 'next/image';
 
 export async function generateMetadata({
   params,
@@ -56,13 +57,24 @@ export default async function AboutPage({
 
       {/* Mission Section */}
       <section className="bg-gray-50 px-4 py-16 sm:px-6 sm:py-20 lg:px-8">
-        <div className="mx-auto max-w-3xl text-center">
-          <h2 className="text-3xl font-bold text-[#1B2A4A] sm:text-4xl">
-            {t('mission_title')}
-          </h2>
-          <p className="mt-6 text-lg leading-relaxed text-gray-600">
-            {t('mission_text')}
-          </p>
+        <div className="mx-auto max-w-5xl">
+          <div className="mb-10 overflow-hidden rounded-2xl">
+            <Image
+              src="/images/swiss.jpg"
+              alt="Paysage suisse"
+              width={1200}
+              height={500}
+              className="h-64 w-full object-cover sm:h-80"
+            />
+          </div>
+          <div className="mx-auto max-w-3xl text-center">
+            <h2 className="text-3xl font-bold text-[#1B2A4A] sm:text-4xl">
+              {t('mission_title')}
+            </h2>
+            <p className="mt-6 text-lg leading-relaxed text-gray-600">
+              {t('mission_text')}
+            </p>
+          </div>
         </div>
       </section>
 
@@ -108,6 +120,15 @@ export default async function AboutPage({
       {/* Team Section */}
       <section className="bg-white px-4 py-16 sm:px-6 sm:py-20 lg:px-8">
         <div className="mx-auto max-w-7xl">
+          <div className="mb-12 overflow-hidden rounded-2xl">
+            <Image
+              src="/images/team.jpg"
+              alt="Notre equipe"
+              width={800}
+              height={400}
+              className="mx-auto h-64 w-full max-w-3xl object-cover sm:h-80"
+            />
+          </div>
           <h2 className="mb-12 text-center text-3xl font-bold text-[#1B2A4A] sm:text-4xl">
             {t('team_title')}
           </h2>

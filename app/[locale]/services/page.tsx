@@ -49,8 +49,42 @@ export default async function ServicesPage({
     },
   ];
 
+  // Build Service JSON-LD schemas
+  const serviceSchemas = services.map((service) => ({
+    "@type": "Service",
+    "name": t(`${service.key}.title`),
+    "description": t(`${service.key}.description`),
+    "provider": {
+      "@type": "ProfessionalService",
+      "name": "IAPME Suisse",
+      "url": "https://iapmesuisse.ch",
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "Switzerland",
+    },
+    "url": `https://iapmesuisse.ch/${locale}/services`,
+  }));
+
+  const servicePageSchema = {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": t('title'),
+    "itemListElement": serviceSchemas.map((s, i) => ({
+      "@type": "ListItem",
+      "position": i + 1,
+      "item": s,
+    })),
+  };
+
   return (
     <>
+      {/* Service JSON-LD */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(servicePageSchema) }}
+      />
+
       {/* Breadcrumbs */}
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <Breadcrumbs

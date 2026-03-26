@@ -3,6 +3,7 @@ import { Link } from '@/i18n/routing';
 import { getAlternates } from '@/lib/metadata';
 import ServiceCard from '@/components/ServiceCard';
 import CTA from '@/components/CTA';
+import Image from 'next/image';
 
 export async function generateMetadata({
   params,
@@ -58,8 +59,15 @@ export default async function HomePage({
   return (
     <>
       {/* Hero Section */}
-      <section className="bg-gradient-to-br from-primary to-primary-light px-4 py-20 sm:px-6 sm:py-28 lg:px-8">
-        <div className="mx-auto max-w-4xl text-center">
+      <section className="relative overflow-hidden bg-[#1B2A4A] px-4 py-20 sm:px-6 sm:py-28 lg:px-8">
+        <Image
+          src="/images/hero-bg.jpg"
+          alt=""
+          fill
+          className="object-cover opacity-20"
+          priority
+        />
+        <div className="relative z-10 mx-auto max-w-4xl text-center">
           <h1 className="text-4xl font-extrabold tracking-tight text-white sm:text-5xl lg:text-6xl">
             {tHero('title')}
           </h1>

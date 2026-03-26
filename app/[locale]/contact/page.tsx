@@ -2,6 +2,7 @@ import { getTranslations } from 'next-intl/server';
 import { getAlternates } from '@/lib/metadata';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import ContactForm from '@/components/ContactForm';
+import Image from 'next/image';
 
 export async function generateMetadata({
   params,
@@ -39,14 +40,25 @@ export default async function ContactPage({
       </div>
 
       {/* Header */}
-      <section className="bg-white px-4 pb-12 pt-8 sm:px-6 sm:pb-16 sm:pt-12 lg:px-8">
-        <div className="mx-auto max-w-7xl text-center">
-          <h1 className="text-4xl font-bold tracking-tight text-[#1B2A4A] sm:text-5xl">
-            {t('title')}
-          </h1>
-          <p className="mx-auto mt-4 max-w-2xl text-lg leading-relaxed text-gray-600">
-            {t('subtitle')}
-          </p>
+      <section className="relative overflow-hidden bg-white px-4 pb-12 pt-8 sm:px-6 sm:pb-16 sm:pt-12 lg:px-8">
+        <div className="mx-auto max-w-7xl">
+          <div className="mb-8 overflow-hidden rounded-2xl">
+            <Image
+              src="/images/contact.jpg"
+              alt="Contactez-nous"
+              width={800}
+              height={300}
+              className="h-48 w-full object-cover sm:h-64"
+            />
+          </div>
+          <div className="text-center">
+            <h1 className="text-4xl font-bold tracking-tight text-[#1B2A4A] sm:text-5xl">
+              {t('title')}
+            </h1>
+            <p className="mx-auto mt-4 max-w-2xl text-lg leading-relaxed text-gray-600">
+              {t('subtitle')}
+            </p>
+          </div>
         </div>
       </section>
 

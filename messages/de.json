@@ -74,7 +74,8 @@
     "evenements": "Veranstaltungen",
     "temoignages": "Referenzen",
     "faq": "FAQ",
-    "partenaires": "Partner"
+    "partenaires": "Partner",
+    "more": "Mehr"
   },
   "hero": {
     "title": "KI im Dienste Schweizer KMU",
@@ -226,7 +227,7 @@
     "info": {
       "title": "Kontaktinformationen",
       "email": "contact@iapmesuisse.ch",
-      "location": "128 City Road, EC1V 2NX, London, UK",
+      "location": "Chem. Saint-Hubert 2, 1950 Sion, Schweiz",
       "phone": "contact@iapmesuisse.ch",
       "ide": "VAULT 369 LTD",
       "hours": "Mo - Fr: 9:00 - 18:00"
@@ -313,7 +314,7 @@
       "meta_description": "Impressum und Herausgeberinformationen von iapmesuisse.ch",
       "title": "Impressum",
       "editor_title": "Herausgeber",
-      "editor_text": "IAPME Suisse – ein Service von VAULT 369 LTD\n128 City Road, EC1V 2NX, London, United Kingdom\nE-Mail: contact@iapmesuisse.ch",
+      "editor_text": "IAPME Suisse – ein Service von VAULT 369 LTD\nChem. Saint-Hubert 2, 1950 Sion, Schweiz\nHauptsitz: 128 City Road, EC1V 2NX, London, United Kingdom\nE-Mail: contact@iapmesuisse.ch",
       "hosting_title": "Hosting",
       "hosting_text": "iapmesuisse.ch wird gehostet von Vercel Inc., 340 S Lemon Ave #4133, Walnut, CA 91789, USA.",
       "intellectual_title": "Geistiges Eigentum",

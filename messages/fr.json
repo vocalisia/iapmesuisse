@@ -74,7 +74,8 @@
     "evenements": "Événements",
     "temoignages": "Témoignages",
     "faq": "FAQ",
-    "partenaires": "Partenaires"
+    "partenaires": "Partenaires",
+    "more": "Plus"
   },
   "hero": {
     "title": "L'IA au service des PME suisses",
@@ -226,7 +227,7 @@
     "info": {
       "title": "Informations",
       "email": "contact@iapmesuisse.ch",
-      "location": "128 City Road, EC1V 2NX, London, UK",
+      "location": "Chem. Saint-Hubert 2, 1950 Sion, Suisse",
       "phone": "contact@iapmesuisse.ch",
       "ide": "VAULT 369 LTD",
       "hours": "Lun - Ven : 9h - 18h"
@@ -313,7 +314,7 @@
       "meta_description": "Mentions légales et informations sur l'éditeur du site iapmesuisse.ch",
       "title": "Mentions légales",
       "editor_title": "Éditeur du site",
-      "editor_text": "IAPME Suisse – un service de VAULT 369 LTD\n128 City Road, EC1V 2NX, London, United Kingdom\nEmail : contact@iapmesuisse.ch",
+      "editor_text": "IAPME Suisse – un service de VAULT 369 LTD\nChem. Saint-Hubert 2, 1950 Sion, Suisse\nSiège social : 128 City Road, EC1V 2NX, London, United Kingdom\nEmail : contact@iapmesuisse.ch",
       "hosting_title": "Hébergement",
       "hosting_text": "Le site iapmesuisse.ch est hébergé par Vercel Inc., 340 S Lemon Ave #4133, Walnut, CA 91789, États-Unis.",
       "intellectual_title": "Propriété intellectuelle",

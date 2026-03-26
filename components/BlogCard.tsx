@@ -1,4 +1,5 @@
 import { Link } from '@/i18n/routing';
+import Image from 'next/image';
 
 interface BlogCardProps {
   title: string;
@@ -18,7 +19,17 @@ export default function BlogCard({
   readMoreText = 'Lire la suite',
 }: BlogCardProps) {
   return (
-    <article className="group flex flex-col rounded-2xl border border-gray-200 bg-white p-6 shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-lg">
+    <article className="group flex flex-col overflow-hidden rounded-2xl border border-gray-200 bg-white shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-lg">
+      {/* Blog Image */}
+      <div className="relative h-40 w-full overflow-hidden">
+        <Image
+          src="/images/blog-default.jpg"
+          alt={title}
+          fill
+          className="object-cover transition-transform duration-300 group-hover:scale-105"
+        />
+      </div>
+      <div className="flex flex-1 flex-col p-6">
       {/* Date */}
       <time
         dateTime={date}
@@ -57,6 +68,7 @@ export default function BlogCard({
           <path strokeLinecap="round" strokeLinejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
         </svg>
       </Link>
+      </div>
     </article>
   );
 }

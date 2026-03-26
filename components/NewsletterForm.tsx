@@ -8,12 +8,32 @@ export default function NewsletterForm() {
 
   const [email, setEmail] = useState('');
   const [submitted, setSubmitted] = useState(false);
+  const [error, setError] = useState('');
+  const [loading, setLoading] = useState(false);
 
-  function handleSubmit(e: React.FormEvent) {
+  async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
-    // Brevo integration later
-    console.log('Newsletter signup:', email);
-    setSubmitted(true);
+    setError('');
+    setLoading(true);
+
+    try {
+      const res = await fetch('/api/newsletter', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email }),
+      });
+
+      if (!res.ok) {
+        const data = await res.json();
+        throw new Error(data.error || 'Une erreur est survenue');
+      }
+
+      setSubmitted(true);
+    } catch (err) {
+      setError(err instanceof Error ? err.message : 'Une erreur est survenue');
+    } finally {
+      setLoading(false);
+    }
   }
 
   if (submitted) {
@@ -61,12 +81,20 @@ export default function NewsletterForm() {
         />
       </div>
 
+      {/* Error */}
+      {error && (
+        <div className="rounded-lg border border-red-200 bg-red-50 p-3 text-sm text-red-700">
+          {error}
+        </div>
+      )}
+
       {/* Submit button */}
       <button
         type="submit"
-        className="w-full rounded-lg bg-[#FF0000] px-8 py-3.5 text-base font-semibold text-white shadow-sm transition-all duration-200 hover:bg-red-700 hover:shadow-md"
+        disabled={loading}
+        className="w-full rounded-lg bg-[#FF0000] px-8 py-3.5 text-base font-semibold text-white shadow-sm transition-all duration-200 hover:bg-red-700 hover:shadow-md disabled:opacity-50 disabled:cursor-not-allowed"
       >
-        {t('subscribe')}
+        {loading ? '...' : t('subscribe')}
       </button>
 
       {/* Consent text */}

@@ -33,12 +33,32 @@ export async function generateMetadata({
     description: t('description'),
     metadataBase: new URL('https://iapmesuisse.ch'),
     alternates: getAlternates(locale),
+    icons: {
+      icon: [
+        { url: '/favicon.svg', type: 'image/svg+xml' },
+        { url: '/favicon.ico' },
+      ],
+    },
     openGraph: {
       title: t('title'),
       description: t('description'),
       locale,
       type: 'website',
       siteName: 'IAPME Suisse',
+      images: [
+        {
+          url: 'https://iapmesuisse.ch/images/hero-bg.jpg',
+          width: 1200,
+          height: 630,
+          alt: 'IAPME Suisse – IA pour PME suisses',
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: t('title'),
+      description: t('description'),
+      images: ['https://iapmesuisse.ch/images/hero-bg.jpg'],
     },
   };
 }
