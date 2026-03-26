@@ -1,4 +1,5 @@
 import { getTranslations } from 'next-intl/server';
+import { getAlternates } from '@/lib/metadata';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import NewsletterForm from '@/components/NewsletterForm';
 
@@ -12,6 +13,7 @@ export async function generateMetadata({
   return {
     title: t('title'),
     description: t('description'),
+    alternates: getAlternates(locale, '/newsletter'),
   };
 }
 

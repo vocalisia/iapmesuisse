@@ -1,4 +1,5 @@
 import { getTranslations } from 'next-intl/server';
+import { getAlternates } from '@/lib/metadata';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import CTA from '@/components/CTA';
 import { Link } from '@/i18n/routing';
@@ -13,6 +14,7 @@ export async function generateMetadata({
   return {
     title: t('title'),
     description: t('description'),
+    alternates: getAlternates(locale, '/partenaires'),
   };
 }
 

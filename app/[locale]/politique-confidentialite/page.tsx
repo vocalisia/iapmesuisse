@@ -1,10 +1,11 @@
 import { getTranslations } from 'next-intl/server';
+import { getAlternates } from '@/lib/metadata';
 import Breadcrumbs from '@/components/Breadcrumbs';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: 'legal.privacy' });
-  return { title: t('meta_title'), description: t('meta_description') };
+  return { title: t('meta_title'), description: t('meta_description'), alternates: getAlternates(locale, '/politique-confidentialite') };
 }
 
 export default async function PrivacyPage({ params }: { params: Promise<{ locale: string }> }) {

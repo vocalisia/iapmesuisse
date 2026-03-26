@@ -1,4 +1,5 @@
 import { getTranslations } from 'next-intl/server';
+import { getAlternates } from '@/lib/metadata';
 import Breadcrumbs from '@/components/Breadcrumbs';
 
 export async function generateMetadata({
@@ -11,6 +12,7 @@ export async function generateMetadata({
   return {
     title: t('title'),
     description: t('description'),
+    alternates: getAlternates(locale, '/outils-ia'),
   };
 }
 

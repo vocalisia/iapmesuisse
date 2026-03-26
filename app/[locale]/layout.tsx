@@ -2,6 +2,7 @@ import { NextIntlClientProvider } from 'next-intl';
 import { getMessages, getTranslations } from 'next-intl/server';
 import { Inter } from 'next/font/google';
 import { routing } from '@/i18n/routing';
+import { getAlternates } from '@/lib/metadata';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import NewsletterBanner from '@/components/NewsletterBanner';
@@ -31,6 +32,7 @@ export async function generateMetadata({
     },
     description: t('description'),
     metadataBase: new URL('https://iapmesuisse.ch'),
+    alternates: getAlternates(locale),
     openGraph: {
       title: t('title'),
       description: t('description'),

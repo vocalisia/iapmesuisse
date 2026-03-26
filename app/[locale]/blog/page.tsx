@@ -1,4 +1,5 @@
 import { getTranslations } from 'next-intl/server';
+import { getAlternates } from '@/lib/metadata';
 import { getBlogPosts } from '@/lib/markdown';
 import BlogCard from '@/components/BlogCard';
 import Breadcrumbs from '@/components/Breadcrumbs';
@@ -14,6 +15,7 @@ export async function generateMetadata({
   return {
     title: t('title'),
     description: t('description'),
+    alternates: getAlternates(locale, '/blog'),
   };
 }
 
