@@ -55,6 +55,30 @@
     "testimonials": {
       "title": "Témoignages – IAPME Suisse",
       "description": "Ce que nos clients disent de nous"
+    },
+    "quiz_maturity": {
+      "title": "Score de Maturité IA – Quiz gratuit",
+      "description": "Évaluez la maturité IA de votre PME en 10 questions. Score personnalisé et recommandations."
+    },
+    "quiz_knowledge": {
+      "title": "Quiz Connaissances IA – Testez-vous",
+      "description": "15 questions pour tester vos connaissances en intelligence artificielle."
+    },
+    "quiz_tool": {
+      "title": "Quel outil IA pour vous ? – Quiz personnalité",
+      "description": "Découvrez l'outil IA qui correspond le mieux à votre profil professionnel."
+    },
+    "games": {
+      "title": "Mini Jeux IA – Apprenez en jouant",
+      "description": "Jeux interactifs pour découvrir l'IA en vous amusant."
+    },
+    "guess_ai": {
+      "title": "Devine l'IA – Jeu interactif",
+      "description": "Saurez-vous distinguer un texte écrit par l'IA d'un texte humain ?"
+    },
+    "prompt_master": {
+      "title": "Prompt Master – Défi IA",
+      "description": "Testez vos compétences en rédaction de prompts IA."
     }
   },
   "nav": {
@@ -75,7 +99,9 @@
     "temoignages": "Témoignages",
     "faq": "FAQ",
     "partenaires": "Partenaires",
-    "more": "Plus"
+    "more": "Plus",
+    "quiz": "Quiz IA",
+    "games": "Jeux IA"
   },
   "hero": {
     "title": "L'IA au service des PME suisses",
@@ -808,5 +834,83 @@
     "benefit_title": "Restez à la pointe de l IA",
     "benefit_description": "Chaque semaine, des conseils pratiques pour votre PME",
     "features_title": "Ce que vous recevrez"
+  },
+  "quiz": {
+    "hub_title": "Quiz & Tests IA",
+    "hub_subtitle": "Évaluez vos connaissances et votre maturité IA de manière ludique",
+    "maturity": {
+      "title": "Score de Maturité IA",
+      "subtitle": "Évaluez la maturité IA de votre PME en 10 questions",
+      "start": "Commencer le test",
+      "time": "3 minutes",
+      "free": "Gratuit",
+      "instant": "Résultats immédiats",
+      "email_label": "Recevez votre rapport détaillé par email",
+      "email_button": "Recevoir mon rapport",
+      "share_text": "J'ai obtenu {score}/30 au Score de Maturité IA ! Et vous ?",
+      "cta": "Réservez votre audit gratuit",
+      "levels": {
+        "beginner": { "name": "Débutant IA", "description": "Votre PME en est au tout début de son parcours IA. C'est le moment idéal pour commencer !" },
+        "explorer": { "name": "Explorateur IA", "description": "Vous avez fait vos premiers pas. Il est temps de structurer votre approche." },
+        "adopter": { "name": "Adopteur IA", "description": "Votre PME utilise déjà l'IA de manière significative. Passez à la vitesse supérieure !" },
+        "leader": { "name": "Leader IA", "description": "Bravo ! Votre PME est en avance. Continuez à innover !" }
+      }
+    },
+    "knowledge": {
+      "title": "Testez vos connaissances IA",
+      "subtitle": "15 questions pour évaluer votre culture IA",
+      "start": "Commencer le quiz",
+      "correct": "Bonne réponse !",
+      "wrong": "Mauvaise réponse",
+      "explanation": "Explication :",
+      "share_text": "J'ai obtenu {score}/15 au Quiz Connaissances IA !",
+      "levels": {
+        "novice": { "name": "Novice IA", "description": "Vous débutez en IA, c'est le moment d'apprendre !" },
+        "connoisseur": { "name": "Connaisseur IA", "description": "Bonnes bases ! Approfondissez avec nos formations." },
+        "expert": { "name": "Expert IA", "description": "Impressionnant ! Vous maîtrisez le sujet." },
+        "genius": { "name": "Génie IA", "description": "Parfait ou presque ! Vous êtes un vrai expert." }
+      }
+    },
+    "tool": {
+      "title": "Quel outil IA est fait pour vous ?",
+      "subtitle": "8 questions pour découvrir l'outil IA qui vous correspond",
+      "start": "Découvrir mon outil",
+      "share_text": "Je suis fait pour {tool} ! Et vous, quel outil IA vous correspond ?",
+      "cta": "Découvrir tous les outils"
+    }
+  },
+  "games": {
+    "hub_title": "Mini Jeux IA",
+    "hub_subtitle": "Apprenez l'IA en vous amusant",
+    "guess": {
+      "title": "Devine l'IA",
+      "subtitle": "Saurez-vous distinguer un texte IA d'un texte humain ?",
+      "ai_button": "Écrit par l'IA",
+      "human_button": "Écrit par un humain",
+      "correct": "Bien vu !",
+      "wrong": "Raté !",
+      "was_ai": "C'était écrit par une IA",
+      "was_human": "C'était écrit par un humain",
+      "score": "Score",
+      "round": "Tour",
+      "next": "Suivant",
+      "share_text": "J'ai deviné {score}/10 textes IA/humain ! Saurez-vous faire mieux ?"
+    },
+    "prompt": {
+      "title": "Prompt Master",
+      "subtitle": "Écrivez le meilleur prompt possible",
+      "write_prompt": "Écrivez votre prompt ici...",
+      "submit": "Évaluer mon prompt",
+      "challenge": "Défi",
+      "criteria": {
+        "length": "Longueur suffisante",
+        "context": "Contexte/rôle défini",
+        "details": "Détails spécifiques",
+        "format": "Instructions de format",
+        "constraints": "Contraintes précisées"
+      },
+      "tip": "Conseil :",
+      "share_text": "J'ai obtenu {score}/25 au Prompt Master !"
+    }
   }
 }

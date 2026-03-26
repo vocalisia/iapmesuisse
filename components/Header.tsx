@@ -23,6 +23,8 @@ const moreLinks = [
   { href: '/faq', labelKey: 'faq' },
   { href: '/newsletter', labelKey: 'newsletter' },
   { href: '/partenaires', labelKey: 'partenaires' },
+  { href: '/quiz/maturite-ia', labelKey: 'quiz' },
+  { href: '/jeux-ia', labelKey: 'games' },
 ] as const;
 
 export default function Header() {

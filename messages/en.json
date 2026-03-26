@@ -55,6 +55,30 @@
     "tools": {
       "title": "Recommended AI Tools – IAPME Suisse",
       "description": "Our selection of AI tools for SMEs"
+    },
+    "quiz_maturity": {
+      "title": "AI Maturity Score – Free Quiz",
+      "description": "Assess your SME's AI maturity in 10 questions. Personalised score and recommendations."
+    },
+    "quiz_knowledge": {
+      "title": "AI Knowledge Quiz – Test Yourself",
+      "description": "15 questions to test your knowledge of artificial intelligence."
+    },
+    "quiz_tool": {
+      "title": "Which AI Tool Is Right for You? – Personality Quiz",
+      "description": "Discover the AI tool that best matches your professional profile."
+    },
+    "games": {
+      "title": "AI Mini Games – Learn by Playing",
+      "description": "Interactive games to discover AI while having fun."
+    },
+    "guess_ai": {
+      "title": "Guess the AI – Interactive Game",
+      "description": "Can you tell an AI-written text from a human-written one?"
+    },
+    "prompt_master": {
+      "title": "Prompt Master – AI Challenge",
+      "description": "Test your AI prompt writing skills."
     }
   },
   "nav": {
@@ -75,7 +99,9 @@
     "temoignages": "Testimonials",
     "faq": "FAQ",
     "partenaires": "Partners",
-    "more": "More"
+    "more": "More",
+    "quiz": "AI Quiz",
+    "games": "AI Games"
   },
   "hero": {
     "title": "AI at the service of Swiss SMEs",
@@ -808,5 +834,83 @@
     "become_partner_description": "Want to collaborate with IAPME Suisse?",
     "become_partner_cta": "Contact us",
     "visit_website": "Visit website"
+  },
+  "quiz": {
+    "hub_title": "AI Quizzes & Tests",
+    "hub_subtitle": "Assess your AI knowledge and maturity in an engaging way",
+    "maturity": {
+      "title": "AI Maturity Score",
+      "subtitle": "Assess your SME's AI maturity in 10 questions",
+      "start": "Start the test",
+      "time": "3 minutes",
+      "free": "Free",
+      "instant": "Instant results",
+      "email_label": "Receive your detailed report by email",
+      "email_button": "Get my report",
+      "share_text": "I scored {score}/30 on the AI Maturity Score! How about you?",
+      "cta": "Book your free audit",
+      "levels": {
+        "beginner": { "name": "AI Beginner", "description": "Your SME is at the very start of its AI journey. Now is the perfect time to begin!" },
+        "explorer": { "name": "AI Explorer", "description": "You have taken your first steps. It is time to structure your approach." },
+        "adopter": { "name": "AI Adopter", "description": "Your SME already uses AI significantly. Time to shift into higher gear!" },
+        "leader": { "name": "AI Leader", "description": "Well done! Your SME is ahead of the curve. Keep innovating!" }
+      }
+    },
+    "knowledge": {
+      "title": "Test Your AI Knowledge",
+      "subtitle": "15 questions to evaluate your AI literacy",
+      "start": "Start the quiz",
+      "correct": "Correct!",
+      "wrong": "Wrong answer",
+      "explanation": "Explanation:",
+      "share_text": "I scored {score}/15 on the AI Knowledge Quiz!",
+      "levels": {
+        "novice": { "name": "AI Novice", "description": "You are just starting out in AI -- the perfect time to learn!" },
+        "connoisseur": { "name": "AI Connoisseur", "description": "Solid foundations! Deepen your knowledge with our training courses." },
+        "expert": { "name": "AI Expert", "description": "Impressive! You have mastered the subject." },
+        "genius": { "name": "AI Genius", "description": "Perfect or nearly so! You are a true expert." }
+      }
+    },
+    "tool": {
+      "title": "Which AI Tool Is Right for You?",
+      "subtitle": "8 questions to discover the AI tool that matches your profile",
+      "start": "Discover my tool",
+      "share_text": "I am made for {tool}! Which AI tool matches your profile?",
+      "cta": "Discover all tools"
+    }
+  },
+  "games": {
+    "hub_title": "AI Mini Games",
+    "hub_subtitle": "Learn about AI while having fun",
+    "guess": {
+      "title": "Guess the AI",
+      "subtitle": "Can you tell an AI text from a human text?",
+      "ai_button": "Written by AI",
+      "human_button": "Written by a human",
+      "correct": "Well spotted!",
+      "wrong": "Missed!",
+      "was_ai": "That was written by an AI",
+      "was_human": "That was written by a human",
+      "score": "Score",
+      "round": "Round",
+      "next": "Next",
+      "share_text": "I guessed {score}/10 AI/human texts correctly! Can you do better?"
+    },
+    "prompt": {
+      "title": "Prompt Master",
+      "subtitle": "Write the best possible prompt",
+      "write_prompt": "Write your prompt here...",
+      "submit": "Evaluate my prompt",
+      "challenge": "Challenge",
+      "criteria": {
+        "length": "Sufficient length",
+        "context": "Context/role defined",
+        "details": "Specific details",
+        "format": "Format instructions",
+        "constraints": "Constraints specified"
+      },
+      "tip": "Tip:",
+      "share_text": "I scored {score}/25 on Prompt Master!"
+    }
   }
 }

@@ -55,6 +55,30 @@
     "tools": {
       "title": "Empfohlene KI-Tools – IAPME Suisse",
       "description": "Unsere Auswahl an KI-Tools für KMU"
+    },
+    "quiz_maturity": {
+      "title": "KI-Reifegrad-Score – Kostenloses Quiz",
+      "description": "Bewerten Sie den KI-Reifegrad Ihres KMU in 10 Fragen. Personalisierter Score und Empfehlungen."
+    },
+    "quiz_knowledge": {
+      "title": "KI-Wissensquiz – Testen Sie sich",
+      "description": "15 Fragen, um Ihr Wissen über künstliche Intelligenz zu testen."
+    },
+    "quiz_tool": {
+      "title": "Welches KI-Tool passt zu Ihnen? – Persönlichkeitsquiz",
+      "description": "Entdecken Sie das KI-Tool, das am besten zu Ihrem beruflichen Profil passt."
+    },
+    "games": {
+      "title": "KI-Minispiele – Spielend lernen",
+      "description": "Interaktive Spiele, um KI spielerisch zu entdecken."
+    },
+    "guess_ai": {
+      "title": "Erkenne die KI – Interaktives Spiel",
+      "description": "Können Sie einen KI-Text von einem menschlichen Text unterscheiden?"
+    },
+    "prompt_master": {
+      "title": "Prompt Master – KI-Challenge",
+      "description": "Testen Sie Ihre Fähigkeiten im Verfassen von KI-Prompts."
     }
   },
   "nav": {
@@ -75,7 +99,9 @@
     "temoignages": "Referenzen",
     "faq": "FAQ",
     "partenaires": "Partner",
-    "more": "Mehr"
+    "more": "Mehr",
+    "quiz": "KI-Quiz",
+    "games": "KI-Spiele"
   },
   "hero": {
     "title": "KI im Dienste Schweizer KMU",
@@ -808,5 +834,83 @@
     "become_partner_description": "Sie möchten mit IAPME Suisse zusammenarbeiten?",
     "become_partner_cta": "Kontakt aufnehmen",
     "visit_website": "Website besuchen"
+  },
+  "quiz": {
+    "hub_title": "Quiz & Tests KI",
+    "hub_subtitle": "Bewerten Sie Ihr KI-Wissen und Ihren KI-Reifegrad auf spielerische Weise",
+    "maturity": {
+      "title": "KI-Reifegrad-Score",
+      "subtitle": "Bewerten Sie den KI-Reifegrad Ihres KMU in 10 Fragen",
+      "start": "Test starten",
+      "time": "3 Minuten",
+      "free": "Kostenlos",
+      "instant": "Sofortige Ergebnisse",
+      "email_label": "Erhalten Sie Ihren detaillierten Bericht per E-Mail",
+      "email_button": "Meinen Bericht erhalten",
+      "share_text": "Ich habe {score}/30 beim KI-Reifegrad-Score erreicht! Und Sie?",
+      "cta": "Kostenloses Audit buchen",
+      "levels": {
+        "beginner": { "name": "KI-Anfänger", "description": "Ihr KMU steht ganz am Anfang seiner KI-Reise. Jetzt ist der ideale Zeitpunkt, um zu starten!" },
+        "explorer": { "name": "KI-Entdecker", "description": "Sie haben die ersten Schritte gemacht. Es ist Zeit, Ihren Ansatz zu strukturieren." },
+        "adopter": { "name": "KI-Anwender", "description": "Ihr KMU nutzt KI bereits in bedeutendem Umfang. Schalten Sie einen Gang höher!" },
+        "leader": { "name": "KI-Vorreiter", "description": "Bravo! Ihr KMU ist voraus. Innovieren Sie weiter!" }
+      }
+    },
+    "knowledge": {
+      "title": "Testen Sie Ihr KI-Wissen",
+      "subtitle": "15 Fragen zur Bewertung Ihrer KI-Kenntnisse",
+      "start": "Quiz starten",
+      "correct": "Richtige Antwort!",
+      "wrong": "Falsche Antwort",
+      "explanation": "Erklärung:",
+      "share_text": "Ich habe {score}/15 beim KI-Wissensquiz erreicht!",
+      "levels": {
+        "novice": { "name": "KI-Neuling", "description": "Sie stehen am Anfang Ihrer KI-Reise – die perfekte Zeit zum Lernen!" },
+        "connoisseur": { "name": "KI-Kenner", "description": "Gute Grundlagen! Vertiefen Sie Ihr Wissen mit unseren Schulungen." },
+        "expert": { "name": "KI-Experte", "description": "Beeindruckend! Sie beherrschen das Thema." },
+        "genius": { "name": "KI-Genie", "description": "Perfekt oder fast! Sie sind ein wahrer Experte." }
+      }
+    },
+    "tool": {
+      "title": "Welches KI-Tool passt zu Ihnen?",
+      "subtitle": "8 Fragen, um das passende KI-Tool für Sie zu entdecken",
+      "start": "Mein Tool entdecken",
+      "share_text": "Ich bin gemacht für {tool}! Und Sie, welches KI-Tool passt zu Ihnen?",
+      "cta": "Alle Tools entdecken"
+    }
+  },
+  "games": {
+    "hub_title": "KI-Minispiele",
+    "hub_subtitle": "Lernen Sie KI spielerisch kennen",
+    "guess": {
+      "title": "Erkenne die KI",
+      "subtitle": "Können Sie einen KI-Text von einem menschlichen Text unterscheiden?",
+      "ai_button": "Von KI geschrieben",
+      "human_button": "Von einem Menschen geschrieben",
+      "correct": "Gut erkannt!",
+      "wrong": "Daneben!",
+      "was_ai": "Das wurde von einer KI geschrieben",
+      "was_human": "Das wurde von einem Menschen geschrieben",
+      "score": "Punktzahl",
+      "round": "Runde",
+      "next": "Weiter",
+      "share_text": "Ich habe {score}/10 KI-/Mensch-Texte erkannt! Können Sie das übertreffen?"
+    },
+    "prompt": {
+      "title": "Prompt Master",
+      "subtitle": "Schreiben Sie den bestmöglichen Prompt",
+      "write_prompt": "Schreiben Sie Ihren Prompt hier...",
+      "submit": "Meinen Prompt bewerten",
+      "challenge": "Challenge",
+      "criteria": {
+        "length": "Ausreichende Länge",
+        "context": "Kontext/Rolle definiert",
+        "details": "Spezifische Details",
+        "format": "Formatanweisungen",
+        "constraints": "Einschränkungen angegeben"
+      },
+      "tip": "Tipp:",
+      "share_text": "Ich habe {score}/25 beim Prompt Master erreicht!"
+    }
   }
 }

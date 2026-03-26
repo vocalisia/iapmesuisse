@@ -55,6 +55,30 @@
     "tools": {
       "title": "Strumenti IA raccomandati – IAPME Suisse",
       "description": "La nostra selezione di strumenti IA per PMI"
+    },
+    "quiz_maturity": {
+      "title": "Score di Maturità IA – Quiz gratuito",
+      "description": "Valutate la maturità IA della vostra PMI in 10 domande. Punteggio personalizzato e raccomandazioni."
+    },
+    "quiz_knowledge": {
+      "title": "Quiz Conoscenze IA – Mettetevi alla prova",
+      "description": "15 domande per testare le vostre conoscenze in intelligenza artificiale."
+    },
+    "quiz_tool": {
+      "title": "Quale strumento IA fa per voi? – Quiz personalità",
+      "description": "Scoprite lo strumento IA più adatto al vostro profilo professionale."
+    },
+    "games": {
+      "title": "Mini Giochi IA – Imparate giocando",
+      "description": "Giochi interattivi per scoprire l'IA divertendovi."
+    },
+    "guess_ai": {
+      "title": "Indovina l'IA – Gioco interattivo",
+      "description": "Saprete distinguere un testo scritto dall'IA da un testo umano?"
+    },
+    "prompt_master": {
+      "title": "Prompt Master – Sfida IA",
+      "description": "Testate le vostre competenze nella redazione di prompt IA."
     }
   },
   "nav": {
@@ -75,7 +99,9 @@
     "temoignages": "Testimonianze",
     "faq": "FAQ",
     "partenaires": "Partner",
-    "more": "Altro"
+    "more": "Altro",
+    "quiz": "Quiz IA",
+    "games": "Giochi IA"
   },
   "hero": {
     "title": "L'IA al servizio delle PMI svizzere",
@@ -808,5 +834,83 @@
     "become_partner_description": "Desiderate collaborare con IAPME Suisse?",
     "become_partner_cta": "Contattateci",
     "visit_website": "Visita il sito"
+  },
+  "quiz": {
+    "hub_title": "Quiz & Test IA",
+    "hub_subtitle": "Valutate le vostre conoscenze e la vostra maturità IA in modo ludico",
+    "maturity": {
+      "title": "Score di Maturità IA",
+      "subtitle": "Valutate la maturità IA della vostra PMI in 10 domande",
+      "start": "Iniziare il test",
+      "time": "3 minuti",
+      "free": "Gratuito",
+      "instant": "Risultati immediati",
+      "email_label": "Ricevete il vostro rapporto dettagliato via email",
+      "email_button": "Ricevere il mio rapporto",
+      "share_text": "Ho ottenuto {score}/30 allo Score di Maturità IA! E voi?",
+      "cta": "Prenotate il vostro audit gratuito",
+      "levels": {
+        "beginner": { "name": "Principiante IA", "description": "La vostra PMI è all'inizio del suo percorso IA. È il momento ideale per iniziare!" },
+        "explorer": { "name": "Esploratore IA", "description": "Avete mosso i primi passi. È tempo di strutturare il vostro approccio." },
+        "adopter": { "name": "Adottatore IA", "description": "La vostra PMI utilizza già l'IA in modo significativo. Passate alla marcia superiore!" },
+        "leader": { "name": "Leader IA", "description": "Complimenti! La vostra PMI è in vantaggio. Continuate a innovare!" }
+      }
+    },
+    "knowledge": {
+      "title": "Testate le vostre conoscenze IA",
+      "subtitle": "15 domande per valutare la vostra cultura IA",
+      "start": "Iniziare il quiz",
+      "correct": "Risposta corretta!",
+      "wrong": "Risposta sbagliata",
+      "explanation": "Spiegazione:",
+      "share_text": "Ho ottenuto {score}/15 al Quiz Conoscenze IA!",
+      "levels": {
+        "novice": { "name": "Novizio IA", "description": "Siete agli inizi con l'IA, è il momento di imparare!" },
+        "connoisseur": { "name": "Conoscitore IA", "description": "Buone basi! Approfondite con le nostre formazioni." },
+        "expert": { "name": "Esperto IA", "description": "Impressionante! Padroneggiate l'argomento." },
+        "genius": { "name": "Genio IA", "description": "Perfetto o quasi! Siete un vero esperto." }
+      }
+    },
+    "tool": {
+      "title": "Quale strumento IA fa per voi?",
+      "subtitle": "8 domande per scoprire lo strumento IA più adatto a voi",
+      "start": "Scoprire il mio strumento",
+      "share_text": "Sono fatto per {tool}! E voi, quale strumento IA vi corrisponde?",
+      "cta": "Scoprire tutti gli strumenti"
+    }
+  },
+  "games": {
+    "hub_title": "Mini Giochi IA",
+    "hub_subtitle": "Imparate l'IA divertendovi",
+    "guess": {
+      "title": "Indovina l'IA",
+      "subtitle": "Saprete distinguere un testo IA da un testo umano?",
+      "ai_button": "Scritto dall'IA",
+      "human_button": "Scritto da un umano",
+      "correct": "Bravi!",
+      "wrong": "Sbagliato!",
+      "was_ai": "Era scritto da un'IA",
+      "was_human": "Era scritto da un umano",
+      "score": "Punteggio",
+      "round": "Turno",
+      "next": "Avanti",
+      "share_text": "Ho indovinato {score}/10 testi IA/umano! Sapete fare meglio?"
+    },
+    "prompt": {
+      "title": "Prompt Master",
+      "subtitle": "Scrivete il miglior prompt possibile",
+      "write_prompt": "Scrivete il vostro prompt qui...",
+      "submit": "Valutare il mio prompt",
+      "challenge": "Sfida",
+      "criteria": {
+        "length": "Lunghezza sufficiente",
+        "context": "Contesto/ruolo definito",
+        "details": "Dettagli specifici",
+        "format": "Istruzioni di formato",
+        "constraints": "Vincoli specificati"
+      },
+      "tip": "Consiglio:",
+      "share_text": "Ho ottenuto {score}/25 al Prompt Master!"
+    }
   }
 }
