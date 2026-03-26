@@ -197,7 +197,7 @@
     ],
     "team_title": "Il team",
     "founder": {
-      "name": "[Nome del fondatore]",
+      "name": "VAULT 369 LTD",
       "role": "Fondatore & Consulente IA",
       "bio": "Esperto in intelligenza artificiale e trasformazione digitale, accompagna le PMI svizzere nella loro transizione verso l'IA. [Da personalizzare con il percorso reale del fondatore]"
     }
@@ -226,9 +226,9 @@
     "info": {
       "title": "Informazioni di contatto",
       "email": "contact@iapmesuisse.ch",
-      "location": "[Indirizzo da completare], Svizzera",
-      "phone": "[Telefono da completare]",
-      "ide": "N° IDI: CHE-XXX.XXX.XXX",
+      "location": "128 City Road, EC1V 2NX, London, UK",
+      "phone": "contact@iapmesuisse.ch",
+      "ide": "VAULT 369 LTD",
       "hours": "Lun - Ven: 9:00 - 18:00"
     }
   },
@@ -313,7 +313,7 @@
       "meta_description": "Note legali e informazioni sull'editore di iapmesuisse.ch",
       "title": "Note legali",
       "editor_title": "Editore del sito",
-      "editor_text": "IAPME Suisse\nIndirizzo: [Da completare]\nN° IDI: CHE-XXX.XXX.XXX\nE-mail: contact@iapmesuisse.ch",
+      "editor_text": "IAPME Suisse – un servizio di VAULT 369 LTD\n128 City Road, EC1V 2NX, London, United Kingdom\nE-mail: contact@iapmesuisse.ch",
       "hosting_title": "Hosting",
       "hosting_text": "iapmesuisse.ch è ospitato da Vercel Inc., 340 S Lemon Ave #4133, Walnut, CA 91789, USA.",
       "intellectual_title": "Proprietà intellettuale",
