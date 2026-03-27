@@ -63,6 +63,7 @@ export default async function BlogPage({
                 date={post.date}
                 slug={post.slug}
                 locale={locale}
+                image={post.image}
                 readMoreText={t('read_more')}
               />
             ))}

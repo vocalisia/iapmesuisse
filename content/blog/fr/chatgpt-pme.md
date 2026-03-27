@@ -3,6 +3,7 @@ title: "Comment les PME suisses peuvent utiliser ChatGPT"
 date: "2025-01-15"
 excerpt: "Découvrez comment les PME en Suisse tirent parti de ChatGPT pour gagner en productivité, améliorer leur communication et automatiser des tâches quotidiennes."
 slug: "chatgpt-pme"
+image: "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?w=800&h=400&fit=crop"
 ---
 
 # Comment les PME suisses peuvent utiliser ChatGPT

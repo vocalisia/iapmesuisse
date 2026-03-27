@@ -7,6 +7,7 @@ interface BlogCardProps {
   date: string;
   slug: string;
   locale: string;
+  image?: string;
   readMoreText?: string;
 }
 
@@ -16,18 +17,27 @@ export default function BlogCard({
   date,
   slug,
   locale,
+  image,
   readMoreText = 'Lire la suite',
 }: BlogCardProps) {
   return (
     <article className="group flex flex-col overflow-hidden rounded-2xl border border-gray-200 bg-white shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-lg">
       {/* Blog Image */}
       <div className="relative h-40 w-full overflow-hidden">
-        <Image
-          src="/images/blog-default.jpg"
-          alt={title}
-          fill
-          className="object-cover transition-transform duration-300 group-hover:scale-105"
-        />
+        {image && image.startsWith('http') ? (
+          <img
+            src={image}
+            alt={title}
+            className="absolute inset-0 h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
+          />
+        ) : (
+          <Image
+            src={image || '/images/blog-default.jpg'}
+            alt={title}
+            fill
+            className="object-cover transition-transform duration-300 group-hover:scale-105"
+          />
+        )}
       </div>
       <div className="flex flex-1 flex-col p-6">
       {/* Date */}

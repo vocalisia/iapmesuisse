@@ -3,6 +3,7 @@ title: "Comment l'IA transforme l'industrie des véhicules électriques en Suiss
 date: "2026-03-27"
 excerpt: "Découvrez comment l'intelligence artificielle révolutionne l'industrie des véhicules électriques en Suisse : Autopilot Tesla, gestion de flotte, concessions connectées et mobilité durable pilotée par l'IA."
 slug: "ia-vehicules-electriques-revolution-suisse"
+image: "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800&h=400&fit=crop"
 ---
 
 # Comment l'IA transforme l'industrie des véhicules électriques en Suisse

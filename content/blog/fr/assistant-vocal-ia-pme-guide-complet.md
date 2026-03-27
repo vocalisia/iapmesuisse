@@ -3,6 +3,7 @@ title: "Assistant vocal IA pour PME : le guide complet 2026"
 date: "2026-03-26"
 excerpt: "Guide complet sur les assistants vocaux IA pour PME suisses : types, cas d'usage, coûts, mise en oeuvre et solutions recommandées pour automatiser l'accueil téléphonique et le service client."
 slug: "assistant-vocal-ia-pme-guide-complet"
+image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=400&fit=crop"
 ---
 
 # Assistant vocal IA pour PME : le guide complet 2026

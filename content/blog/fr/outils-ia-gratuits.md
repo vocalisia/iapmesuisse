@@ -3,6 +3,7 @@ title: "5 outils IA gratuits pour les petites entreprises"
 date: "2025-02-01"
 excerpt: "Pas besoin d'un gros budget pour profiter de l'intelligence artificielle. Voici cinq outils gratuits que toute PME suisse peut adopter dès aujourd'hui."
 slug: "outils-ia-gratuits"
+image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&h=400&fit=crop"
 ---
 
 # 5 outils IA gratuits pour les petites entreprises

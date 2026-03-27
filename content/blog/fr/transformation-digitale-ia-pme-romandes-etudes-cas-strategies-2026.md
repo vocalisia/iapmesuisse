@@ -3,6 +3,7 @@ title: "Transformation Digitale IA des PME Romandes : Études de Cas et Stratég
 date: "2026-03-26"
 excerpt: "Transformation digitale IA pour PME romandes en 2026 : 6 études de cas, subventions Innosuisse, stratégies concrètes et ROI mesurés en Suisse romande."
 slug: "transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026"
+image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800&h=400&fit=crop"
 ---
 
 # Transformation Digitale IA des PME Romandes : Études de Cas et Stratégies 2026
