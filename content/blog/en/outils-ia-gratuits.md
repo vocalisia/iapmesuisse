@@ -3,6 +3,7 @@ title: "5 Free AI Tools for Small Businesses"
 date: "2025-02-01"
 excerpt: "You don't need a large budget to benefit from artificial intelligence. Here are five free tools that any Swiss SME can start using today."
 slug: "outils-ia-gratuits"
+image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&h=400&fit=crop"
 ---
 
 # 5 Free AI Tools for Small Businesses

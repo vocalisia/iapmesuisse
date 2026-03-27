@@ -3,6 +3,7 @@ title: "L'IA in Svizzera: situazione 2025"
 date: "2025-02-20"
 excerpt: "A che punto è l'adozione dell'intelligenza artificiale da parte delle imprese svizzere nel 2025? Panoramica delle tendenze, delle cifre chiave e delle sfide da affrontare."
 slug: "ia-suisse-2025"
+image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=400&fit=crop"
 ---
 
 # L'IA in Svizzera: situazione 2025

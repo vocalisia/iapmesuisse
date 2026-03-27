@@ -3,6 +3,7 @@ title: "AI and Translation: Opportunities for Swiss SMEs"
 date: "2026-03-25"
 excerpt: "Exploring how AI, like Apertus, can transform translations for Swiss SMEs."
 slug: "ia-traduction-opportunites-pme-suisses"
+image: "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=800&h=400&fit=crop"
 author: "IAPME Suisse"
 source: "https://www.ictjournal.ch/news/2026-03-24/le-canton-du-tessin-mise-sur-apertus-pour-ses-traductions"
 auto_generated: true

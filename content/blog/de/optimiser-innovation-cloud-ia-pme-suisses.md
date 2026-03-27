@@ -3,6 +3,7 @@ title: "Optimierung der Innovation mit Cloud und KI für Schweizer KMU"
 date: "2026-03-27"
 excerpt: "Erfahren Sie, wie Schweizer KMU von KI und Cloud profitieren können, um sich zu transformieren und zu innovieren."
 slug: "optimiser-innovation-cloud-ia-pme-suisses"
+image: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&h=400&fit=crop"
 author: "IAPME Suisse"
 source: "https://www.heise.de/news/Online-Konferenz-betterCode-ABAP-2026-zu-KI-Einsatz-und-Cloud-Entwicklung-11221738.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true

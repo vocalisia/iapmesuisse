@@ -3,6 +3,7 @@ title: "5 kostenlose KI-Tools für kleine Unternehmen"
 date: "2025-02-01"
 excerpt: "Künstliche Intelligenz muss nicht teuer sein. Hier sind fünf kostenlose Tools, die jedes Schweizer KMU sofort einsetzen kann."
 slug: "outils-ia-gratuits"
+image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&h=400&fit=crop"
 ---
 
 # 5 kostenlose KI-Tools für kleine Unternehmen

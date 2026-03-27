@@ -3,6 +3,7 @@ title: "KI und Übersetzung: Chancen für Schweizer KMU"
 date: "2026-03-25"
 excerpt: "Lassen Sie uns erkunden, wie KI, wie Apertus, die Übersetzungen für Schweizer KMU transformieren kann."
 slug: "ia-traduction-opportunites-pme-suisses"
+image: "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=800&h=400&fit=crop"
 author: "IAPME Suisse"
 source: "https://www.ictjournal.ch/news/2026-03-24/le-canton-du-tessin-mise-sur-apertus-pour-ses-traductions"
 auto_generated: true
