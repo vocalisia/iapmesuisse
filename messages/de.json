@@ -101,6 +101,7 @@
     "partenaires": "Partner",
     "more": "Mehr",
     "quiz": "KI-Quiz",
+    "quiz_cta": "Testen Sie Ihre KI-Reife",
     "games": "KI-Spiele"
   },
   "hero": {
@@ -254,7 +255,7 @@
       "title": "Kontaktinformationen",
       "email": "contact@iapmesuisse.ch",
       "location": "Chem. Saint-Hubert 2, 1950 Sion, Schweiz",
-      "phone": "contact@iapmesuisse.ch",
+      "phone": "+41 27 525 00 00",
       "ide": "VAULT 369 LTD",
       "hours": "Mo - Fr: 9:00 - 18:00"
     }

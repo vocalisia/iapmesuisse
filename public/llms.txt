@@ -1,0 +1,53 @@
+# IAPM Suisse — Formation IA pour PME
+
+> Centre de formation spécialisé en intelligence artificielle pour les PME suisses. Formations certifiantes, consulting IA et accompagnement à la transformation numérique. Basé à Sion (Valais), certifié EduQua. Membre de VAULT 369 LTD.
+
+## À propos
+
+IAPM Suisse accompagne les petites et moyennes entreprises suisses dans leur transition vers l'intelligence artificielle. Nous proposons des formations pratiques certifiantes (débutant à avancé), du consulting personnalisé et des outils IA adaptés au contexte réglementaire suisse (nLPD, FADP) et européen (RGPD, EU AI Act).
+
+### Données clés
+- Langue : Français, Allemand, Italien, Anglais
+- Zone de couverture : Suisse (Valais, Vaud, Genève, Fribourg, Neuchâtel, Jura)
+- Adresse : Chem. Saint-Hubert 2, 1950 Sion, Valais, Suisse
+- Email : contact@iapmesuisse.ch
+- Certification : EduQua
+- Horaires : Lundi–Vendredi, 8h00–18h00
+
+## Services
+
+- [Formations IA pour PME](https://www.iapmesuisse.ch/services): Modules certifiants du niveau débutant à expert
+- [Consulting IA](https://www.iapmesuisse.ch/consulting): Audit IA personnalisé et accompagnement à l'implémentation
+- [Formation IA pour PME](https://www.iapmesuisse.ch/formation-ia-pme): Programme complet de transformation IA d'entreprise
+- [Outils IA](https://www.iapmesuisse.ch/outils-ia): Sélection d'outils IA recommandés pour les PME suisses
+
+## Contenu pédagogique
+
+- [Blog](https://www.iapmesuisse.ch/blog): Articles sur l'IA appliquée aux PME suisses
+- [FAQ](https://www.iapmesuisse.ch/faq): Questions fréquentes sur l'IA pour entreprises
+- [Ressources](https://www.iapmesuisse.ch/ressources): Guides, templates et études de cas
+- [Quiz IA](https://www.iapmesuisse.ch/quiz): Évaluez la maturité IA de votre entreprise
+
+## Événements et communauté
+
+- [Événements IA](https://www.iapmesuisse.ch/evenements-ia): Webinaires, ateliers et conférences
+- [Jeux IA](https://www.iapmesuisse.ch/jeux-ia): Apprentissage gamifié de l'intelligence artificielle
+- [Newsletter](https://www.iapmesuisse.ch/newsletter): Veille IA hebdomadaire pour les PME suisses
+- [Partenaires](https://www.iapmesuisse.ch/partenaires): Réseau d'intégrateurs et de partenaires technologiques
+- [Témoignages](https://www.iapmesuisse.ch/temoignages): Retours d'expérience de PME formées
+
+## Pages utiles
+
+- [Page d'accueil](https://www.iapmesuisse.ch): Vue d'ensemble de l'offre IAPM Suisse
+- [À propos](https://www.iapmesuisse.ch/a-propos): Notre équipe, mission et approche pédagogique
+- [Contact](https://www.iapmesuisse.ch/contact): Nous contacter pour un devis ou une démo
+- [CGV](https://www.iapmesuisse.ch/cgv): Conditions générales de vente
+- [Mentions légales](https://www.iapmesuisse.ch/mentions-legales): Informations légales
+- [Politique de confidentialité](https://www.iapmesuisse.ch/politique-confidentialite): Protection des données (nLPD + RGPD)
+
+## Contexte réglementaire couvert
+
+- nLPD (nouvelle Loi fédérale sur la Protection des Données, Suisse — en vigueur depuis sept. 2023)
+- RGPD / GDPR (Règlement Général sur la Protection des Données, UE)
+- EU AI Act (Règlement européen sur l'IA, 2024)
+- FADP (Federal Act on Data Protection, version anglaise nLPD)

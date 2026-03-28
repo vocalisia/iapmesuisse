@@ -8,6 +8,7 @@ interface BlogCardProps {
   slug: string;
   locale: string;
   image?: string;
+  author?: string;
   readMoreText?: string;
 }
 
@@ -18,6 +19,7 @@ export default function BlogCard({
   slug,
   locale,
   image,
+  author = 'IAPME Suisse',
   readMoreText = 'Lire la suite',
 }: BlogCardProps) {
   return (
@@ -40,17 +42,21 @@ export default function BlogCard({
         )}
       </div>
       <div className="flex flex-1 flex-col p-6">
-      {/* Date */}
-      <time
-        dateTime={date}
-        className="mb-3 text-xs font-medium uppercase tracking-wider text-gray-400"
-      >
-        {new Date(date).toLocaleDateString(`${locale}-CH`, {
-          year: 'numeric',
-          month: 'long',
-          day: 'numeric',
-        })}
-      </time>
+      {/* Date & Author */}
+      <div className="mb-3 flex items-center gap-2 text-xs font-medium text-gray-400">
+        <time
+          dateTime={date}
+          className="uppercase tracking-wider"
+        >
+          {new Date(date).toLocaleDateString(`${locale}-CH`, {
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric',
+          })}
+        </time>
+        <span className="text-gray-300">|</span>
+        <span className="text-gray-500">Par {author}</span>
+      </div>
 
       {/* Title */}
       <h3 className="mb-2 text-lg font-bold leading-snug text-[#1B2A4A] transition-colors group-hover:text-[#FF0000]">

@@ -101,6 +101,7 @@
     "partenaires": "Partner",
     "more": "Altro",
     "quiz": "Quiz IA",
+    "quiz_cta": "Testa la tua maturita IA",
     "games": "Giochi IA"
   },
   "hero": {
@@ -254,7 +255,7 @@
       "title": "Informazioni di contatto",
       "email": "contact@iapmesuisse.ch",
       "location": "Chem. Saint-Hubert 2, 1950 Sion, Svizzera",
-      "phone": "contact@iapmesuisse.ch",
+      "phone": "+41 27 525 00 00",
       "ide": "VAULT 369 LTD",
       "hours": "Lun - Ven: 9:00 - 18:00"
     }

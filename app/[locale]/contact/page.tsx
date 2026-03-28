@@ -147,7 +147,12 @@ export default async function ContactPage({
                   </div>
                   <div>
                     <p className="text-sm font-medium text-gray-500">Tel.</p>
-                    <p className="text-base font-semibold text-[#1B2A4A]">{t('info.phone')}</p>
+                    <a
+                      href={`tel:${t('info.phone').replace(/\s/g, '')}`}
+                      className="text-base font-semibold text-[#1B2A4A] transition-colors hover:text-accent"
+                    >
+                      {t('info.phone')}
+                    </a>
                   </div>
                 </div>
 

@@ -64,6 +64,7 @@ export default async function BlogPage({
                 slug={post.slug}
                 locale={locale}
                 image={post.image}
+                author={post.author}
                 readMoreText={t('read_more')}
               />
             ))}

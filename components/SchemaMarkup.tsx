@@ -47,7 +47,14 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
       "opens": "09:00",
       "closes": "18:00",
     },
-    "sameAs": [],
+    "sameAs": [
+      "https://vocalis.pro",
+      "https://vocalis.blog",
+      "https://tesla-mag.ch",
+      "https://master-seller.fr",
+      "https://seo-true.com",
+      "https://trustly-ai.com",
+    ],
   };
 
   return (

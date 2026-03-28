@@ -29,15 +29,24 @@ export default function ContactForm() {
     setLoading(true);
 
     try {
-      const res = await fetch('/api/contact', {
+      const res = await fetch('https://api.web3forms.com/submit', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(formData),
+        body: JSON.stringify({
+          access_key: '0ab0bb41-b3fc-46cd-9498-7007bb919de5',
+          subject: `iapmesuisse.ch - Nouveau message de ${formData.name}`,
+          from_site: 'iapmesuisse.ch',
+          name: formData.name,
+          email: formData.email,
+          company: formData.company,
+          message: formData.message,
+        }),
       });
 
-      if (!res.ok) {
-        const data = await res.json();
-        throw new Error(data.error || 'Une erreur est survenue');
+      const data = await res.json();
+
+      if (!data.success) {
+        throw new Error(data.message || 'Une erreur est survenue');
       }
 
       setSubmitted(true);
