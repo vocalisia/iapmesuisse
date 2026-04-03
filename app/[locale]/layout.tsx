@@ -84,6 +84,14 @@ export default async function LocaleLayout({
         <SchemaMarkup locale={locale} />
       </head>
       <body className="min-h-screen flex flex-col bg-white">
+        <Script id="consent-init" strategy="beforeInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            var _c = (typeof localStorage !== 'undefined') ? localStorage.getItem('cookie-consent') : null;
+            gtag('consent', 'default', { analytics_storage: _c === 'accepted' ? 'granted' : 'denied', ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied', wait_for_update: 500 });
+          `}
+        </Script>
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-7HQQDGHRT2"
           strategy="afterInteractive"

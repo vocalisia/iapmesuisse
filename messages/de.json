@@ -5,7 +5,7 @@
       "description": "Strategische Begleitung, Schulung und Integration von KI-Tools für Schweizer KMU. Kostenloses Audit."
     },
     "services": {
-      "title": "Unsere KI-Dienstleistungen für KMU – IAPME Suisse",
+      "title": "Unsere KI-Dienstleistungen für KMU",
       "description": "KI-Audit, Schulungen, Tool-Integration und strategische Begleitung für Schweizer KMU."
     },
     "about": {
@@ -13,7 +13,7 @@
       "description": "Lernen Sie das Team von IAPME Suisse kennen und unsere Mission: KI für alle Schweizer KMU zugänglich machen."
     },
     "blog": {
-      "title": "KI-Blog für KMU – IAPME Suisse",
+      "title": "KI-Blog für KMU",
       "description": "Aktuelle Beiträge, praktische Tipps und Leitfäden zur künstlichen Intelligenz für Schweizer KMU."
     },
     "contact": {
@@ -21,15 +21,15 @@
       "description": "Nehmen Sie Kontakt mit unserem Team auf für ein kostenloses und individuelles KI-Audit für Ihr KMU."
     },
     "resources": {
-      "title": "KI-Ressourcen für KMU – IAPME Suisse",
+      "title": "KI-Ressourcen für KMU",
       "description": "Leitfäden, Tools, FAQ und nützliche Links für den Einstieg in die künstliche Intelligenz in Ihrem KMU."
     },
     "formation": {
-      "title": "KI-Schulungen für KMU – IAPME Suisse",
+      "title": "KI-Schulungen für KMU",
       "description": "KI-Schulungen für Schweizer KMU. Von kostenlos bis Premium – steigern Sie Ihre KI-Kompetenzen."
     },
     "consulting": {
-      "title": "KI-Beratung für KMU – IAPME Suisse",
+      "title": "KI-Beratung für KMU",
       "description": "Experten-KI-Beratung für Schweizer KMU. Audit, Strategie und massgeschneiderte KI-Integration."
     },
     "faq": {
@@ -37,11 +37,11 @@
       "description": "Finden Sie Antworten auf die häufigsten Fragen zur künstlichen Intelligenz für Schweizer KMU."
     },
     "partners": {
-      "title": "Unsere Partner – IAPME Suisse",
+      "title": "Unsere Partner",
       "description": "Entdecken Sie unsere Technologie-, Institutions- und Strategiepartner für KI in KMU."
     },
     "newsletter": {
-      "title": "KI-Newsletter für KMU – IAPME Suisse",
+      "title": "KI-Newsletter für KMU",
       "description": "Abonnieren Sie unseren Newsletter für die neuesten KI-Nachrichten und Tipps für Ihr KMU."
     },
     "events": {
@@ -49,11 +49,11 @@
       "description": "Konferenzen, Workshops und Meetups zu KI"
     },
     "testimonials": {
-      "title": "Referenzen – IAPME Suisse",
+      "title": "Referenzen",
       "description": "Was unsere Kunden sagen"
     },
     "tools": {
-      "title": "Empfohlene KI-Tools – IAPME Suisse",
+      "title": "Empfohlene KI-Tools",
       "description": "Unsere Auswahl an KI-Tools für KMU"
     },
     "quiz_maturity": {
@@ -337,7 +337,7 @@
   },
   "legal": {
     "mentions": {
-      "meta_title": "Impressum – IAPME Suisse",
+      "meta_title": "Impressum",
       "meta_description": "Impressum und Herausgeberinformationen von iapmesuisse.ch",
       "title": "Impressum",
       "editor_title": "Herausgeber",
@@ -352,7 +352,7 @@
       "law_text": "Diese Website unterliegt dem Schweizer Recht. Für Streitigkeiten sind ausschliesslich Schweizer Gerichte zuständig."
     },
     "privacy": {
-      "meta_title": "Datenschutzerklärung – IAPME Suisse",
+      "meta_title": "Datenschutzerklärung",
       "meta_description": "Datenschutzerklärung gemäss dem Schweizer nDSG.",
       "title": "Datenschutzerklärung",
       "intro": "IAPME Suisse verpflichtet sich zum Schutz Ihrer personenbezogenen Daten gemäss dem neuen Bundesgesetz über den Datenschutz (nDSG), in Kraft seit 1. September 2023.",
@@ -374,7 +374,7 @@
       "update_text": "IAPME Suisse behält sich das Recht vor, diese Datenschutzerklärung jederzeit zu ändern."
     },
     "terms": {
-      "meta_title": "AGB – IAPME Suisse",
+      "meta_title": "AGB",
       "meta_description": "Allgemeine Geschäftsbedingungen der IAPME Suisse.",
       "title": "Allgemeine Geschäftsbedingungen",
       "scope_title": "Geltungsbereich",

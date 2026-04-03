@@ -14,6 +14,9 @@ export default function CookieBanner() {
 
   function handleAccept() {
     localStorage.setItem('cookie-consent', 'accepted');
+    if (typeof window !== 'undefined' && typeof (window as unknown as { gtag?: (...args: unknown[]) => void }).gtag === 'function') {
+      (window as unknown as { gtag: (...args: unknown[]) => void }).gtag('consent', 'update', { analytics_storage: 'granted' });
+    }
     setVisible(false);
   }
 

@@ -5,15 +5,15 @@
       "description": "Consulenza strategica, formazione e integrazione di strumenti di intelligenza artificiale per le PMI svizzere. Audit gratuito."
     },
     "services": {
-      "title": "I nostri servizi IA per PMI – IAPME Suisse",
+      "title": "I nostri servizi IA per PMI",
       "description": "Audit IA, formazione, integrazione di strumenti e consulenza strategica per le PMI svizzere."
     },
     "about": {
-      "title": "Chi siamo – IAPME Suisse",
+      "title": "Chi siamo",
       "description": "Scoprite il team IAPME Suisse e la nostra missione: rendere l'IA accessibile a tutte le PMI svizzere."
     },
     "blog": {
-      "title": "Blog IA per PMI – IAPME Suisse",
+      "title": "Blog IA per PMI",
       "description": "Notizie, consigli pratici e guide sull'intelligenza artificiale per le PMI svizzere."
     },
     "contact": {
@@ -21,15 +21,15 @@
       "description": "Contattateci per un audit IA gratuito e personalizzato per la vostra PMI."
     },
     "resources": {
-      "title": "Risorse IA per PMI – IAPME Suisse",
+      "title": "Risorse IA per PMI",
       "description": "Guide, strumenti, FAQ e link utili per iniziare con l'intelligenza artificiale nella vostra PMI."
     },
     "formation": {
-      "title": "Formazioni IA per PMI – IAPME Suisse",
+      "title": "Formazioni IA per PMI",
       "description": "Formazioni in intelligenza artificiale per le PMI svizzere. Dal gratuito al premium, migliorate le vostre competenze IA."
     },
     "consulting": {
-      "title": "Consulenza IA per PMI – IAPME Suisse",
+      "title": "Consulenza IA per PMI",
       "description": "Consulenza esperta in intelligenza artificiale per le PMI svizzere. Audit, strategia e integrazione IA su misura."
     },
     "faq": {
@@ -37,11 +37,11 @@
       "description": "Trovate le risposte alle domande più frequenti sull'intelligenza artificiale per le PMI svizzere."
     },
     "partners": {
-      "title": "I nostri partner – IAPME Suisse",
+      "title": "I nostri partner",
       "description": "Scoprite i nostri partner tecnologici, istituzionali e strategici per l'IA nelle PMI."
     },
     "newsletter": {
-      "title": "Newsletter IA per PMI – IAPME Suisse",
+      "title": "Newsletter IA per PMI",
       "description": "Iscrivetevi alla nostra newsletter per ricevere le ultime novità e consigli sull'IA per la vostra PMI."
     },
     "events": {
@@ -49,11 +49,11 @@
       "description": "Conferenze, workshop e meetup IA in Svizzera"
     },
     "testimonials": {
-      "title": "Testimonianze – IAPME Suisse",
+      "title": "Testimonianze",
       "description": "Cosa dicono i nostri clienti"
     },
     "tools": {
-      "title": "Strumenti IA raccomandati – IAPME Suisse",
+      "title": "Strumenti IA raccomandati",
       "description": "La nostra selezione di strumenti IA per PMI"
     },
     "quiz_maturity": {
@@ -337,7 +337,7 @@
   },
   "legal": {
     "mentions": {
-      "meta_title": "Note legali – IAPME Suisse",
+      "meta_title": "Note legali",
       "meta_description": "Note legali e informazioni sull'editore di iapmesuisse.ch",
       "title": "Note legali",
       "editor_title": "Editore del sito",
@@ -352,7 +352,7 @@
       "law_text": "Il presente sito è soggetto al diritto svizzero. Ogni controversia sarà di competenza esclusiva dei tribunali svizzeri."
     },
     "privacy": {
-      "meta_title": "Informativa sulla privacy – IAPME Suisse",
+      "meta_title": "Informativa sulla privacy",
       "meta_description": "Informativa sulla privacy conforme alla nLPD svizzera.",
       "title": "Informativa sulla privacy",
       "intro": "IAPME Suisse si impegna a proteggere i vostri dati personali conformemente alla nuova Legge federale sulla protezione dei dati (nLPD), in vigore dal 1° settembre 2023.",
@@ -374,7 +374,7 @@
       "update_text": "IAPME Suisse si riserva il diritto di modificare la presente informativa in qualsiasi momento."
     },
     "terms": {
-      "meta_title": "Condizioni generali – IAPME Suisse",
+      "meta_title": "Condizioni generali",
       "meta_description": "Condizioni generali di vendita e utilizzo dei servizi IAPME Suisse.",
       "title": "Condizioni generali",
       "scope_title": "Campo di applicazione",

@@ -5,7 +5,7 @@
       "description": "Strategic consulting, training and AI tool integration for Swiss SMEs. Free audit available."
     },
     "services": {
-      "title": "Our AI Services for SMEs – IAPME Suisse",
+      "title": "Our AI Services for SMEs",
       "description": "AI audit, training, tool integration and strategic consulting for Swiss SMEs."
     },
     "about": {
@@ -13,7 +13,7 @@
       "description": "Meet the IAPME Suisse team and our mission: making AI accessible to all Swiss SMEs."
     },
     "blog": {
-      "title": "AI Blog for SMEs – IAPME Suisse",
+      "title": "AI Blog for SMEs",
       "description": "News, practical tips and guides on artificial intelligence for Swiss SMEs."
     },
     "contact": {
@@ -21,15 +21,15 @@
       "description": "Get in touch with our team for a free, personalised AI audit for your SME."
     },
     "resources": {
-      "title": "AI Resources for SMEs – IAPME Suisse",
+      "title": "AI Resources for SMEs",
       "description": "Guides, tools, FAQ and useful links to get started with artificial intelligence in your SME."
     },
     "formation": {
-      "title": "AI Training for SMEs – IAPME Suisse",
+      "title": "AI Training for SMEs",
       "description": "AI training courses tailored to Swiss SMEs. From free to premium, level up your AI skills."
     },
     "consulting": {
-      "title": "AI Consulting for SMEs – IAPME Suisse",
+      "title": "AI Consulting for SMEs",
       "description": "Expert AI consulting for Swiss SMEs. Audit, strategy and bespoke AI integration."
     },
     "faq": {
@@ -37,11 +37,11 @@
       "description": "Find answers to the most frequently asked questions about artificial intelligence for Swiss SMEs."
     },
     "partners": {
-      "title": "Our Partners – IAPME Suisse",
+      "title": "Our Partners",
       "description": "Discover our technology, institutional and strategic partners for AI in SMEs."
     },
     "newsletter": {
-      "title": "AI Newsletter for SMEs – IAPME Suisse",
+      "title": "AI Newsletter for SMEs",
       "description": "Subscribe to our newsletter for the latest AI news and tips for your SME."
     },
     "events": {
@@ -49,11 +49,11 @@
       "description": "AI conferences, workshops and meetups in Switzerland"
     },
     "testimonials": {
-      "title": "Testimonials – IAPME Suisse",
+      "title": "Testimonials",
       "description": "What our clients say about us"
     },
     "tools": {
-      "title": "Recommended AI Tools – IAPME Suisse",
+      "title": "Recommended AI Tools",
       "description": "Our selection of AI tools for SMEs"
     },
     "quiz_maturity": {
@@ -337,7 +337,7 @@
   },
   "legal": {
     "mentions": {
-      "meta_title": "Legal notice – IAPME Suisse",
+      "meta_title": "Legal notice",
       "meta_description": "Legal notice and publisher information for iapmesuisse.ch",
       "title": "Legal notice",
       "editor_title": "Publisher",
@@ -352,7 +352,7 @@
       "law_text": "This website is governed by Swiss law. Any disputes shall fall under the exclusive jurisdiction of Swiss courts."
     },
     "privacy": {
-      "meta_title": "Privacy policy – IAPME Suisse",
+      "meta_title": "Privacy policy",
       "meta_description": "Privacy policy in compliance with the Swiss nFADP.",
       "title": "Privacy policy",
       "intro": "IAPME Suisse is committed to protecting your personal data in accordance with the new Federal Act on Data Protection (nFADP), effective since 1 September 2023.",
@@ -374,7 +374,7 @@
       "update_text": "IAPME Suisse reserves the right to modify this privacy policy at any time."
     },
     "terms": {
-      "meta_title": "Terms & conditions – IAPME Suisse",
+      "meta_title": "Terms & conditions",
       "meta_description": "General terms and conditions for IAPME Suisse services.",
       "title": "Terms & conditions",
       "scope_title": "Scope",
