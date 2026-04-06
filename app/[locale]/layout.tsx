@@ -80,6 +80,13 @@ export default async function LocaleLayout({
   return (
     <html lang={locale} className={inter.className}>
       <head>
+        {/* Consent Mode v2 + dynamic GA4 — raw inline script to avoid Next.js preloading GA URL.
+            TODO: Replace G-7HQQDGHRT2 with iapmesuisse.ch's own GA4 property ID (currently uses trustly-ai's). */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(){window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}window.gtag=gtag;var c=typeof localStorage!=='undefined'?localStorage.getItem('cookie-consent'):null;gtag('consent','default',{analytics_storage:c==='accepted'?'granted':'denied',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',wait_for_update:500});gtag('js',new Date());gtag('config','G-7HQQDGHRT2');var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id=G-7HQQDGHRT2';document.head.appendChild(s);})();`,
+          }}
+        />
         <SchemaMarkup locale={locale} />
       </head>
       <body className="min-h-screen flex flex-col bg-white">
