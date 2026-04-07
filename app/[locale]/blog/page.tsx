@@ -66,6 +66,7 @@ export default async function BlogPage({
                 image={post.image}
                 author={post.author}
                 readMoreText={t('read_more')}
+                byText={t('by')}
               />
             ))}
           </div>

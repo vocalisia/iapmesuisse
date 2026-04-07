@@ -10,6 +10,7 @@ interface BlogCardProps {
   image?: string;
   author?: string;
   readMoreText?: string;
+  byText?: string;
 }
 
 export default function BlogCard({
@@ -21,6 +22,7 @@ export default function BlogCard({
   image,
   author = 'IAPME Suisse',
   readMoreText = 'Lire la suite',
+  byText = 'Par',
 }: BlogCardProps) {
   return (
     <article className="group flex flex-col overflow-hidden rounded-2xl border border-gray-200 bg-white shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-lg">
@@ -55,7 +57,7 @@ export default function BlogCard({
           })}
         </time>
         <span className="text-gray-300">|</span>
-        <span className="text-gray-500">Par {author}</span>
+        <span className="text-gray-500">{byText} {author}</span>
       </div>
 
       {/* Title */}
