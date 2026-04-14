@@ -29,7 +29,7 @@ Plusieurs prestataires locaux se sont positionnés sur le marché de l'intellige
 
 Ces acteurs locaux présentent un avantage décisif : ils comprennent les spécificités culturelles, économiques et réglementaires du Valais. Travailler avec un partenaire implanté à Sion ou en Valais permet des échanges directs, un suivi personnalisé et une réactivité que les grandes agences nationales peinent souvent à offrir.
 
-Pour les PME qui souhaitent explorer les [solutions d'intelligence artificielle adaptées aux entreprises locales](/ia-solutions-pme-suisse-romande), ces prestataires constituent un premier point de contact idéal.
+Pour les PME qui souhaitent explorer les [solutions d'intelligence artificielle adaptées aux entreprises locales](/fr/blog/adopter-authentification-sans-mot-de-passe-pme-suisse), ces prestataires constituent un premier point de contact idéal.
 
 ### L'écosystème start-up et l'incubateur The Ark à Sion
 
@@ -50,7 +50,7 @@ L'un des freins les plus fréquents à l'adoption de l'IA dans les PME est le co
 - **Innosuisse** : l'agence fédérale pour l'innovation soutient les projets collaboratifs entre PME et institutions académiques, idéal pour développer des solutions IA sur mesure.
 - **Aides cantonales valaisannes** : le canton du Valais dispose de fonds spécifiques pour encourager la digitalisation des entreprises, accessibles via le Service du développement économique.
 
-Pour maximiser vos chances d'obtenir ces financements, il est recommandé de préparer un dossier solide démontrant l'impact attendu de l'IA sur votre activité. Les [démarches pour financer un projet IA en PME suisse](/financement-ia-pme-suisse-2026) sont détaillées dans notre guide dédié.
+Pour maximiser vos chances d'obtenir ces financements, il est recommandé de préparer un dossier solide démontrant l'impact attendu de l'IA sur votre activité. Les [démarches pour financer un projet IA en PME suisse](/fr/blog/assistant-vocal-ia-pme-guide-complet) sont détaillées dans notre guide dédié.
 
 ---
 
@@ -75,7 +75,7 @@ Avec la multiplication des cyberattaques ciblant les PME, des solutions IA de d�
 **Optimisation industrielle et fintech**
 Pour les entreprises de production valaisannes, des algorithmes d'optimisation permettent de réduire les déchets, d'anticiper les pannes machines et d'améliorer la qualité. Dans le secteur financier, des outils de scoring automatisé et de détection de fraude sont accessibles aux PME.
 
-Retrouvez une analyse approfondie des [applications IA les plus rentables pour les PME en Suisse romande](/ia-applications-rentables-pme-suisse-romande) dans notre article dédié à cette thématique.
+Retrouvez une analyse approfondie des [applications IA les plus rentables pour les PME en Suisse romande](/fr/blog/audit-ia-maturite-pme) dans notre article dédié à cette thématique.
 
 ---
 
