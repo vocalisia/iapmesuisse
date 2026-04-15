@@ -36,7 +36,7 @@ Les subventions peuvent couvrir jusqu'à 50 % des coûts de personnel des parten
 
 Le **Secrétariat d'État à l'économie (SECO)** propose des programmes d'accompagnement et de cofinancement pour les PME souhaitant exporter ou s'implanter à l'étranger. Switzerland Global Enterprise (S-GE), mandatée par le SECO, offre des conseils gratuits, des missions commerciales et des outils d'analyse de marchés étrangers.
 
-Pour explorer comment ces aides peuvent s'articuler avec votre stratégie de croissance digitale, consultez notre article sur les [aides publiques pour la digitalisation des PME suisses](/aides-digitalisation-pme-suisse).
+Pour explorer comment ces aides peuvent s'articuler avec votre stratégie de croissance digitale, consultez notre article sur les [aides publiques pour la digitalisation des PME suisses](/fr/blog/adopter-authentification-sans-mot-de-passe-pme-suisse).
 
 ---
 
@@ -58,7 +58,7 @@ Dans le canton de Genève, par exemple, la **Fondation Genilem** accompagne les 
 
 Plusieurs cantons financent également des programmes de formation pour les collaborateurs des PME, notamment dans les domaines de la cybersécurité, de l'intelligence artificielle et des méthodes agiles. Ces dispositifs permettent de réduire significativement les coûts de montée en compétences.
 
-Pour en savoir plus sur les synergies possibles entre financement public et optimisation de votre présence en ligne, lisez notre guide sur les [subventions PME suisse pour la transformation numérique](/subventions-pme-suisse-transformation-numerique).
+Pour en savoir plus sur les synergies possibles entre financement public et optimisation de votre présence en ligne, lisez notre guide sur les [subventions PME suisse pour la transformation numérique](/fr/blog/agence-ia-pour-pme-2026-04-14).
 
 ---
 
@@ -80,7 +80,7 @@ La numérisation des PME suisses reste une priorité absolue du Conseil fédéra
 - **L'intelligence artificielle** : projets pilotes soutenus par Innosuisse et les HES
 - **Les plateformes e-commerce et SEO** : certains cantons financent partiellement les mandats de conseil en marketing digital
 
-Notre article sur le [financement public pour le SEO et la présence digitale des PME](/financement-seo-pme-suisse) détaille les conditions précises pour accéder à ces aides.
+Notre article sur le [financement public pour le SEO et la présence digitale des PME](/fr/blog/assistant-vocal-ia-pme-guide-complet) détaille les conditions précises pour accéder à ces aides.
 
 ### La R&D collaborative
 
@@ -119,4 +119,4 @@ A: En règle générale, oui, à condition que l'entreprise soit légalement enr
 
 Le paysage des **subventions PME suisse** est riche, structuré et en constante évolution. Entre Innosuisse, le SECO, les fonds cantonaux et les programmes sectoriels dédiés à la durabilité ou à la digitalisation, les opportunités de financement public n'ont jamais été aussi nombreuses pour les entrepreneurs helvétiques. La clé du succès réside dans une préparation rigoureuse, une bonne connaissance des critères d'éligibilité et une capacité à articuler clairement l'impact de votre projet.
 
-Ne laissez pas ces ressources inexploitées : commencez dès aujourd'hui par identifier les deux ou trois programmes les mieux adaptés à votre situation, et constituez votre premier dossier de candidature. Pour vous aider dans cette démarche, consultez notre guide complet sur les [subventions PME suisse et les stratégies de financement public](/guide-subventions-pme-suisse) et prenez une longueur d'avance sur vos concurrents.
+Ne laissez pas ces ressources inexploitées : commencez dès aujourd'hui par identifier les deux ou trois programmes les mieux adaptés à votre situation, et constituez votre premier dossier de candidature. Pour vous aider dans cette démarche, consultez notre guide complet sur les [subventions PME suisse et les stratégies de financement public](/fr/blog/audit-ia-maturite-pme) et prenez une longueur d'avance sur vos concurrents.
