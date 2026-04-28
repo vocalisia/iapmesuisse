@@ -1,15 +1,15 @@
 {
   "metadata": {
     "home": {
-      "title": "IAPME Suisse – L'IA au service des PME suisses",
-      "description": "Accompagnement stratégique, formation et intégration d'outils d'intelligence artificielle pour les PME suisses. Audit gratuit."
+      "title": "Formation IA PME Suisse · Audit & Accompagnement — IAPME",
+      "description": "Formation IA PME Suisse : audit gratuit, accompagnement stratégique et intégration d'outils IA pour PME romandes & alémaniques. Premier RDV offert."
     },
     "services": {
-      "title": "Nos services IA pour PME",
-      "description": "Audit IA, formation, intégration d'outils et accompagnement stratégique pour les PME suisses."
+      "title": "Agence IA pour PME · Services IAPME Suisse",
+      "description": "Agence IA pour PME suisses : audit IA, formation, intégration d'outils & accompagnement stratégique sur mesure. Devis gratuit en 24h."
     },
     "about": {
-      "title": "À propos d'IAPME Suisse – Notre mission",
+      "title": "Ã€ propos d'IAPME Suisse – Notre mission",
       "description": "Découvrez l'équipe IAPME Suisse et notre mission : rendre l'IA accessible à toutes les PME suisses."
     },
     "blog": {
@@ -45,7 +45,7 @@
       "description": "Accompagnement expert en intelligence artificielle pour les PME suisses. Audit, stratégie et intégration IA sur mesure."
     },
     "events": {
-      "title": "Événements IA Suisse – IAPME",
+      "title": "Ã‰vénements IA Suisse – IAPME",
       "description": "Conférences, workshops et meetups IA en Suisse"
     },
     "tools": {
@@ -58,7 +58,7 @@
     },
     "quiz_maturity": {
       "title": "Score de Maturité IA – Quiz gratuit",
-      "description": "Évaluez la maturité IA de votre PME en 10 questions. Score personnalisé et recommandations."
+      "description": "Ã‰valuez la maturité IA de votre PME en 10 questions. Score personnalisé et recommandations."
     },
     "quiz_knowledge": {
       "title": "Quiz Connaissances IA – Testez-vous",
@@ -84,7 +84,7 @@
   "nav": {
     "home": "Accueil",
     "services": "Services",
-    "about": "À propos",
+    "about": "Ã€ propos",
     "blog": "Blog",
     "contact": "Contact",
     "resources": "Ressources",
@@ -95,7 +95,7 @@
     "outils": "Outils IA",
     "consulting": "Consulting",
     "newsletter": "Newsletter",
-    "evenements": "Événements",
+    "evenements": "Ã‰vénements",
     "temoignages": "Témoignages",
     "faq": "FAQ",
     "partenaires": "Partenaires",
@@ -199,7 +199,7 @@
     "cta": "En savoir plus"
   },
   "about": {
-    "title": "À propos d'IAPME Suisse",
+    "title": "Ã€ propos d'IAPME Suisse",
     "mission_title": "Notre mission",
     "mission_text": "Rendre l'intelligence artificielle accessible et utile à toutes les PME suisses, quelle que soit leur taille ou leur secteur d'activité.",
     "why_title": "Pourquoi la Suisse a besoin d'IA pour ses PME",
@@ -227,14 +227,16 @@
     "founder": {
       "name": "VAULT 369 LTD",
       "role": "Fondateur & Consultant IA",
-      "bio": "Expert en intelligence artificielle et transformation digitale, accompagnant les PME suisses dans leur transition vers l'IA. [À personnaliser avec le parcours réel du fondateur]"
+      "bio": "Expert en intelligence artificielle et transformation digitale, accompagnant les PME suisses dans leur transition vers l'IA. [Ã€ personnaliser avec le parcours réel du fondateur]"
     }
   },
   "blog": {
     "title": "Blog",
     "subtitle": "Actualités, conseils et guides sur l'IA pour les PME",
     "read_more": "Lire la suite",
-    "back": "Retour au blog"
+    "back": "Retour au blog",
+    "by": "Par",
+    "role": "Consultant IA & PME"
   },
   "contact": {
     "title": "Contactez-nous",
@@ -294,7 +296,7 @@
       {
         "title": "SECO PME",
         "url": "https://www.seco.admin.ch",
-        "description": "Portail PME du Secrétariat d'État à l'économie"
+        "description": "Portail PME du Secrétariat d'Ã‰tat à l'économie"
       }
     ],
     "faq_title": "Questions fréquentes",
@@ -340,10 +342,10 @@
       "meta_title": "Mentions légales",
       "meta_description": "Mentions légales et informations sur l'éditeur du site iapmesuisse.ch",
       "title": "Mentions légales",
-      "editor_title": "Éditeur du site",
+      "editor_title": "Ã‰diteur du site",
       "editor_text": "IAPME Suisse – un service de VAULT 369 LTD\nChem. Saint-Hubert 2, 1950 Sion, Suisse\nSiège social : 128 City Road, EC1V 2NX, London, United Kingdom\nEmail : contact@iapmesuisse.ch",
       "hosting_title": "Hébergement",
-      "hosting_text": "Le site iapmesuisse.ch est hébergé par Vercel Inc., 340 S Lemon Ave #4133, Walnut, CA 91789, États-Unis.",
+      "hosting_text": "Le site iapmesuisse.ch est hébergé par Vercel Inc., 340 S Lemon Ave #4133, Walnut, CA 91789, Ã‰tats-Unis.",
       "intellectual_title": "Propriété intellectuelle",
       "intellectual_text": "L'ensemble du contenu de ce site (textes, images, logos, icônes) est la propriété d'IAPME Suisse ou de ses partenaires. Toute reproduction, même partielle, est interdite sans autorisation préalable écrite.",
       "liability_title": "Limitation de responsabilité",
@@ -369,7 +371,7 @@
       "cookies_title": "Cookies",
       "cookies_text": "Ce site utilise uniquement des cookies techniques nécessaires au bon fonctionnement. Aucun cookie de tracking ou publicitaire n'est utilisé.",
       "transfer_title": "Transfert de données",
-      "transfer_text": "Le site est hébergé par Vercel Inc. (États-Unis). Des mesures de protection adéquates sont en place conformément à la nLPD.",
+      "transfer_text": "Le site est hébergé par Vercel Inc. (Ã‰tats-Unis). Des mesures de protection adéquates sont en place conformément à la nLPD.",
       "update_title": "Modification",
       "update_text": "IAPME Suisse se réserve le droit de modifier cette politique à tout moment. La version en vigueur est celle publiée sur ce site."
     },
@@ -454,7 +456,119 @@
       "badge": "VIP"
     },
     "guarantee": "Satisfait ou remboursé 30 jours",
-    "vat_note": "Prix en CHF, hors TVA"
+    "vat_note": "Prix en CHF, hors TVA",
+    "equipe": {
+      "name": "Formation Ã‰quipe",
+      "price": "2500 CHF",
+      "description": "Formation IA en visio sur mesure avec vos équipes — 4h d'atelier pratique sur les outils IA adaptés à votre métier",
+      "features": [
+        "Session visio 4h avec votre équipe",
+        "Outils IA sur mesure selon votre secteur",
+        "Atelier pratique sur vos vrais cas d'usage",
+        "Supports de formation personnalisés",
+        "Q&A illimité pendant la session",
+        "Suivi 30 jours post-formation"
+      ],
+      "cta": "Réserver ma session",
+      "badge": "Sur mesure"
+    },
+    "links": {
+      "starter": "https://buy.stripe.com/aFabJ03YS5AQ2SwfS6co00F",
+      "pro": "https://buy.stripe.com/5kQeVc7b44wMgJmgWaco00G",
+      "premium": "https://buy.stripe.com/3cI6oGbrk4wM9gUgWaco00H",
+      "equipe": "https://buy.stripe.com/bJe00iang3sI0Ko8pEco00I",
+      "claude_code": "https://buy.stripe.com/aFabJ07b49R6dxa5dsco00J",
+      "ia_marketing": "https://buy.stripe.com/eVq5kC6700gwgJmfS6co00K"
+    },
+    "claude_code": {
+      "name": "Formation Claude Code",
+      "price": "3500 CHF",
+      "description": "Atelier visio 4h dédié à Claude Code pour votre équipe dev",
+      "badge": "Dev & Tech",
+      "cta": "Réserver ma session",
+      "features": [
+        "Session visio 4h avec votre équipe dev",
+        "Installation & config Claude Code CLI",
+        "Agents, sous-agents, hooks & CLAUDE.md",
+        "MCP servers & slash commands",
+        "Intégration Next.js, Python, etc.",
+        "Best practices revue de code IA",
+        "Jusqu'à 10 développeurs inclus",
+        "Support 30 jours post-formation"
+      ]
+    },
+    "ia_marketing": {
+      "name": "Formation IA Marketing",
+      "price": "2500 CHF",
+      "description": "Atelier visio 4h IA Marketing pour votre équipe",
+      "badge": "Marketing",
+      "cta": "Réserver ma session",
+      "features": [
+        "Session visio 4h avec votre équipe",
+        "Création de contenu IA (textes, visuels)",
+        "SEO & GEO avec l'IA",
+        "Automatisation campagnes email & LinkedIn",
+        "Génération de leads & copywriting IA",
+        "Outils : Midjourney, Canva IA, Make.com",
+        "Workflows marketing automatisés",
+        "Support 30 jours post-formation"
+      ]
+    },
+    "social_stats_title": "Ils nous font confiance",
+    "social_stat1_value": "180+",
+    "social_stat1_label": "PME formées",
+    "social_stat2_value": "97%",
+    "social_stat2_label": "Taux de satisfaction",
+    "social_stat3_value": "12",
+    "social_stat3_label": "Cantons suisses",
+    "social_stat4_value": "4h",
+    "social_stat4_label": "Délai de mise en route",
+    "testimonials_title": "Ce que disent nos clients",
+    "testimonials": [
+      {
+        "quote": "En 3 mois de formation, notre cabinet a réduit le temps de rédaction des rapports de 60%. L'IA est devenue un outil quotidien pour toute l'équipe.",
+        "name": "Marc-André Fontaine",
+        "role": "Associé gérant",
+        "company": "Cabinet Fontaine & Associés, Genève"
+      },
+      {
+        "quote": "La formation Claude Code a transformé notre façon de développer. Notre équipe produit livrait 40% plus vite dès le deuxième mois.",
+        "name": "Léa Zimmermann",
+        "role": "CTO & Co-fondatrice",
+        "company": "TechHub SaaS, Lausanne"
+      },
+      {
+        "quote": "Excellent accompagnement, très concret et adapté à notre secteur. On a automatisé 3 processus clés et gagné 2 ETP. Recommandé.",
+        "name": "Thomas Meier",
+        "role": "Directeur opérationnel",
+        "company": "Meier Industrie AG, Zürich"
+      }
+    ],
+    "case_study_title": "Étude de cas : Cabinet conseil, Genève",
+    "case_study_subtitle": "Formation IA sur 3 mois — résultats mesurés",
+    "case_study_before": "Avant",
+    "case_study_after": "Après",
+    "case_study_metrics": [
+      {
+        "label": "Rédaction rapports",
+        "before_val": "4h",
+        "after_val": "1h30",
+        "gain": "-62%"
+      },
+      {
+        "label": "Prospection client",
+        "before_val": "8h/sem",
+        "after_val": "3h/sem",
+        "gain": "-63%"
+      },
+      {
+        "label": "Satisfaction client",
+        "before_val": "72/100",
+        "after_val": "94/100",
+        "gain": "+31%"
+      }
+    ],
+    "case_study_quote": "ROI atteint en moins de 6 semaines. Nos consultants sont maintenant des experts IA."
   },
   "consulting": {
     "title": "Consulting IA",
@@ -503,7 +617,11 @@
     "book_cta": "Réserver un créneau",
     "cta": "En savoir plus",
     "booking_title": "Réservez un appel découverte",
-    "booking_description": "30 minutes gratuites pour discuter de votre projet"
+    "booking_description": "30 minutes gratuites pour discuter de votre projet",
+    "links": {
+      "audit": "https://buy.stripe.com/4gM6oGcvo5AQdxa6hwco00L",
+      "accompagnement": "https://buy.stripe.com/dRm3cugLEaVa64I6hwco00M"
+    }
   },
   "pricing": {
     "title": "Nos formules",
@@ -544,10 +662,10 @@
     }
   },
   "events": {
-    "title": "Événements IA en Suisse",
+    "title": "Ã‰vénements IA en Suisse",
     "subtitle": "Retrouvez les conférences, workshops et meetups IA près de chez vous",
-    "upcoming": "Événements à venir",
-    "past": "Événements passés",
+    "upcoming": "Ã‰vénements à venir",
+    "past": "Ã‰vénements passés",
     "all": "Tous",
     "free": "Gratuit",
     "paid": "Payant",
@@ -838,10 +956,10 @@
   },
   "quiz": {
     "hub_title": "Quiz & Tests IA",
-    "hub_subtitle": "Évaluez vos connaissances et votre maturité IA de manière ludique",
+    "hub_subtitle": "Ã‰valuez vos connaissances et votre maturité IA de manière ludique",
     "maturity": {
       "title": "Score de Maturité IA",
-      "subtitle": "Évaluez la maturité IA de votre PME en 10 questions",
+      "subtitle": "Ã‰valuez la maturité IA de votre PME en 10 questions",
       "start": "Commencer le test",
       "time": "3 minutes",
       "free": "Gratuit",
@@ -851,10 +969,22 @@
       "share_text": "J'ai obtenu {score}/30 au Score de Maturité IA ! Et vous ?",
       "cta": "Réservez votre audit gratuit",
       "levels": {
-        "beginner": { "name": "Débutant IA", "description": "Votre PME en est au tout début de son parcours IA. C'est le moment idéal pour commencer !" },
-        "explorer": { "name": "Explorateur IA", "description": "Vous avez fait vos premiers pas. Il est temps de structurer votre approche." },
-        "adopter": { "name": "Adopteur IA", "description": "Votre PME utilise déjà l'IA de manière significative. Passez à la vitesse supérieure !" },
-        "leader": { "name": "Leader IA", "description": "Bravo ! Votre PME est en avance. Continuez à innover !" }
+        "beginner": {
+          "name": "Débutant IA",
+          "description": "Votre PME en est au tout début de son parcours IA. C'est le moment idéal pour commencer !"
+        },
+        "explorer": {
+          "name": "Explorateur IA",
+          "description": "Vous avez fait vos premiers pas. Il est temps de structurer votre approche."
+        },
+        "adopter": {
+          "name": "Adopteur IA",
+          "description": "Votre PME utilise déjà l'IA de manière significative. Passez à la vitesse supérieure !"
+        },
+        "leader": {
+          "name": "Leader IA",
+          "description": "Bravo ! Votre PME est en avance. Continuez à innover !"
+        }
       }
     },
     "knowledge": {
@@ -866,10 +996,22 @@
       "explanation": "Explication :",
       "share_text": "J'ai obtenu {score}/15 au Quiz Connaissances IA !",
       "levels": {
-        "novice": { "name": "Novice IA", "description": "Vous débutez en IA, c'est le moment d'apprendre !" },
-        "connoisseur": { "name": "Connaisseur IA", "description": "Bonnes bases ! Approfondissez avec nos formations." },
-        "expert": { "name": "Expert IA", "description": "Impressionnant ! Vous maîtrisez le sujet." },
-        "genius": { "name": "Génie IA", "description": "Parfait ou presque ! Vous êtes un vrai expert." }
+        "novice": {
+          "name": "Novice IA",
+          "description": "Vous débutez en IA, c'est le moment d'apprendre !"
+        },
+        "connoisseur": {
+          "name": "Connaisseur IA",
+          "description": "Bonnes bases ! Approfondissez avec nos formations."
+        },
+        "expert": {
+          "name": "Expert IA",
+          "description": "Impressionnant ! Vous maîtrisez le sujet."
+        },
+        "genius": {
+          "name": "Génie IA",
+          "description": "Parfait ou presque ! Vous êtes un vrai expert."
+        }
       }
     },
     "tool": {
@@ -886,8 +1028,8 @@
     "guess": {
       "title": "Devine l'IA",
       "subtitle": "Saurez-vous distinguer un texte IA d'un texte humain ?",
-      "ai_button": "Écrit par l'IA",
-      "human_button": "Écrit par un humain",
+      "ai_button": "Ã‰crit par l'IA",
+      "human_button": "Ã‰crit par un humain",
       "correct": "Bien vu !",
       "wrong": "Raté !",
       "was_ai": "C'était écrit par une IA",
@@ -899,9 +1041,9 @@
     },
     "prompt": {
       "title": "Prompt Master",
-      "subtitle": "Écrivez le meilleur prompt possible",
-      "write_prompt": "Écrivez votre prompt ici...",
-      "submit": "Évaluer mon prompt",
+      "subtitle": "Ã‰crivez le meilleur prompt possible",
+      "write_prompt": "Ã‰crivez votre prompt ici...",
+      "submit": "Ã‰valuer mon prompt",
       "challenge": "Défi",
       "criteria": {
         "length": "Longueur suffisante",
