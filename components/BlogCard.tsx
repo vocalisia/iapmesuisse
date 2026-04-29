@@ -29,10 +29,12 @@ export default function BlogCard({
       {/* Blog Image */}
       <div className="relative h-40 w-full overflow-hidden">
         {image && image.startsWith('http') ? (
-          <img
+          <Image
             src={image}
             alt={title}
-            className="absolute inset-0 h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
+            fill
+            unoptimized
+            className="object-cover transition-transform duration-300 group-hover:scale-105"
           />
         ) : (
           <Image

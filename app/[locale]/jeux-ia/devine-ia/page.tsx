@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useMemo, useCallback } from 'react';
+import { useState, useMemo } from 'react';
 import { useLocale } from 'next-intl';
 import { Link } from '@/i18n/routing';
 import Breadcrumbs from '@/components/Breadcrumbs';

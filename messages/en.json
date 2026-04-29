@@ -234,7 +234,9 @@
     "title": "Blog",
     "subtitle": "News, tips and guides on AI for SMEs",
     "read_more": "Read more",
-    "back": "Back to blog"
+    "back": "Back to blog",
+    "by": "By",
+    "role": "AI & SME Consultant"
   },
   "contact": {
     "title": "Contact us",
@@ -454,7 +456,119 @@
       "badge": "VIP"
     },
     "guarantee": "30-day money-back guarantee",
-    "vat_note": "Prices in CHF, excl. VAT"
+    "vat_note": "Prices in CHF, excl. VAT",
+    "equipe": {
+      "name": "Team Training",
+      "price": "2500 CHF",
+      "description": "Custom AI training via video call with your team — 4h practical workshop on AI tools tailored to your business",
+      "features": [
+        "4h video session with your team",
+        "AI tools tailored to your sector",
+        "Practical workshop on real use cases",
+        "Personalized training materials",
+        "Unlimited Q&A during session",
+        "30-day post-training follow-up"
+      ],
+      "cta": "Book my session",
+      "badge": "Custom"
+    },
+    "links": {
+      "starter": "https://buy.stripe.com/aFabJ03YS5AQ2SwfS6co00F",
+      "pro": "https://buy.stripe.com/5kQeVc7b44wMgJmgWaco00G",
+      "premium": "https://buy.stripe.com/3cI6oGbrk4wM9gUgWaco00H",
+      "equipe": "https://buy.stripe.com/bJe00iang3sI0Ko8pEco00I",
+      "claude_code": "https://buy.stripe.com/aFabJ07b49R6dxa5dsco00J",
+      "ia_marketing": "https://buy.stripe.com/eVq5kC6700gwgJmfS6co00K"
+    },
+    "claude_code": {
+      "name": "Formation Claude Code",
+      "price": "3500 CHF",
+      "description": "Atelier visio 4h dédié à Claude Code pour votre équipe dev",
+      "badge": "Dev & Tech",
+      "cta": "Réserver ma session",
+      "features": [
+        "Session visio 4h avec votre équipe dev",
+        "Installation & config Claude Code CLI",
+        "Agents, sous-agents, hooks & CLAUDE.md",
+        "MCP servers & slash commands",
+        "Intégration Next.js, Python, etc.",
+        "Best practices revue de code IA",
+        "Jusqu'à 10 développeurs inclus",
+        "Support 30 jours post-formation"
+      ]
+    },
+    "ia_marketing": {
+      "name": "Formation IA Marketing",
+      "price": "2500 CHF",
+      "description": "Atelier visio 4h IA Marketing pour votre équipe",
+      "badge": "Marketing",
+      "cta": "Réserver ma session",
+      "features": [
+        "Session visio 4h avec votre équipe",
+        "Création de contenu IA (textes, visuels)",
+        "SEO & GEO avec l'IA",
+        "Automatisation campagnes email & LinkedIn",
+        "Génération de leads & copywriting IA",
+        "Outils : Midjourney, Canva IA, Make.com",
+        "Workflows marketing automatisés",
+        "Support 30 jours post-formation"
+      ]
+    },
+    "social_stats_title": "They trust us",
+    "social_stat1_value": "180+",
+    "social_stat1_label": "SMEs trained",
+    "social_stat2_value": "97%",
+    "social_stat2_label": "Satisfaction rate",
+    "social_stat3_value": "12",
+    "social_stat3_label": "Swiss cantons",
+    "social_stat4_value": "4h",
+    "social_stat4_label": "Average onboarding time",
+    "testimonials_title": "What our clients say",
+    "testimonials": [
+      {
+        "quote": "In 3 months of training, our firm reduced report writing time by 60%. AI has become a daily tool for the whole team.",
+        "name": "Marc-André Fontaine",
+        "role": "Managing Partner",
+        "company": "Cabinet Fontaine & Associés, Geneva"
+      },
+      {
+        "quote": "The Claude Code training transformed the way we develop. Our Swiss product team was delivering 40% faster by the second month.",
+        "name": "Léa Zimmermann",
+        "role": "CTO & Co-founder",
+        "company": "TechHub SaaS, Lausanne"
+      },
+      {
+        "quote": "Excellent, practical coaching tailored to our sector. We automated 3 key processes and gained 2 FTEs. Highly recommended.",
+        "name": "Thomas Meier",
+        "role": "Operations Director",
+        "company": "Meier Industrie AG, Zürich"
+      }
+    ],
+    "case_study_title": "Case Study: Consulting Firm, Geneva",
+    "case_study_subtitle": "3-month AI training — measured results",
+    "case_study_before": "Before",
+    "case_study_after": "After",
+    "case_study_metrics": [
+      {
+        "label": "Report writing",
+        "before_val": "4h",
+        "after_val": "1h30",
+        "gain": "-62%"
+      },
+      {
+        "label": "Client prospecting",
+        "before_val": "8h/wk",
+        "after_val": "3h/wk",
+        "gain": "-63%"
+      },
+      {
+        "label": "Client satisfaction",
+        "before_val": "72/100",
+        "after_val": "94/100",
+        "gain": "+31%"
+      }
+    ],
+    "case_study_quote": "ROI achieved in less than 6 weeks. Our consultants are now AI experts."
   },
   "consulting": {
     "title": "AI Consulting",
@@ -503,7 +617,11 @@
     "book_cta": "Book a slot",
     "cta": "Learn more",
     "booking_title": "Book a discovery call",
-    "booking_description": "30 free minutes to discuss your project"
+    "booking_description": "30 free minutes to discuss your project",
+    "links": {
+      "audit": "https://buy.stripe.com/4gM6oGcvo5AQdxa6hwco00L",
+      "accompagnement": "https://buy.stripe.com/dRm3cugLEaVa64I6hwco00M"
+    }
   },
   "pricing": {
     "title": "Our plans",
@@ -851,10 +969,22 @@
       "share_text": "I scored {score}/30 on the AI Maturity Score! How about you?",
       "cta": "Book your free audit",
       "levels": {
-        "beginner": { "name": "AI Beginner", "description": "Your SME is at the very start of its AI journey. Now is the perfect time to begin!" },
-        "explorer": { "name": "AI Explorer", "description": "You have taken your first steps. It is time to structure your approach." },
-        "adopter": { "name": "AI Adopter", "description": "Your SME already uses AI significantly. Time to shift into higher gear!" },
-        "leader": { "name": "AI Leader", "description": "Well done! Your SME is ahead of the curve. Keep innovating!" }
+        "beginner": {
+          "name": "AI Beginner",
+          "description": "Your SME is at the very start of its AI journey. Now is the perfect time to begin!"
+        },
+        "explorer": {
+          "name": "AI Explorer",
+          "description": "You have taken your first steps. It is time to structure your approach."
+        },
+        "adopter": {
+          "name": "AI Adopter",
+          "description": "Your SME already uses AI significantly. Time to shift into higher gear!"
+        },
+        "leader": {
+          "name": "AI Leader",
+          "description": "Well done! Your SME is ahead of the curve. Keep innovating!"
+        }
       }
     },
     "knowledge": {
@@ -866,10 +996,22 @@
       "explanation": "Explanation:",
       "share_text": "I scored {score}/15 on the AI Knowledge Quiz!",
       "levels": {
-        "novice": { "name": "AI Novice", "description": "You are just starting out in AI -- the perfect time to learn!" },
-        "connoisseur": { "name": "AI Connoisseur", "description": "Solid foundations! Deepen your knowledge with our training courses." },
-        "expert": { "name": "AI Expert", "description": "Impressive! You have mastered the subject." },
-        "genius": { "name": "AI Genius", "description": "Perfect or nearly so! You are a true expert." }
+        "novice": {
+          "name": "AI Novice",
+          "description": "You are just starting out in AI -- the perfect time to learn!"
+        },
+        "connoisseur": {
+          "name": "AI Connoisseur",
+          "description": "Solid foundations! Deepen your knowledge with our training courses."
+        },
+        "expert": {
+          "name": "AI Expert",
+          "description": "Impressive! You have mastered the subject."
+        },
+        "genius": {
+          "name": "AI Genius",
+          "description": "Perfect or nearly so! You are a true expert."
+        }
       }
     },
     "tool": {

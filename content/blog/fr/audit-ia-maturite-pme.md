@@ -24,7 +24,7 @@ L'audit IA permet de :
 - **Objectiver** la situation réelle de l'entreprise, au-delà des perceptions
 - **Prioriser** les investissements en fonction du retour sur investissement attendu
 - **Identifier** les prérequis manquants (données, compétences, infrastructure)
-- **Anticiper** les risques juridiques, notamment liés à la [nLPD](https://iapmesuisse.ch/nlpd-ia-obligations-pme)
+- **Anticiper** les risques juridiques, notamment liés à la [nLPD](/fr/blog/nlpd-ia-obligations-pme)
 - **Mobiliser** la direction et les équipes autour d'une vision partagée
 
 ### Les risques d'un déploiement sans audit
@@ -66,7 +66,7 @@ Le facteur humain est souvent le plus déterminant dans la réussite d'un projet
 - Quel est le niveau de littéracie numérique des équipes ?
 - Les collaborateurs sont-ils ouverts à l'utilisation d'outils IA ?
 - Existe-t-il des compétences internes en analyse de données ?
-- La direction a-t-elle suivi une [formation IA](https://iapmesuisse.ch/formation-ia-dirigeants) ?
+- La direction a-t-elle suivi une [formation IA](/fr/blog/formation-ia-dirigeants) ?
 
 ### 4. Processus et automatisation
 
@@ -142,7 +142,7 @@ La dernière phase formalise le plan d'action :
 - Définition des quick wins (résultats en moins de 3 mois)
 - Planification des projets à moyen terme (3-12 mois)
 - Identification des investissements structurants (12-24 mois)
-- [Budgétisation détaillée](https://iapmesuisse.ch/budget-ia-pme-suisse) par phase
+- [Budgétisation détaillée](/fr/blog/budget-ia-pme-suisse) par phase
 
 **Livrable** : feuille de route IA sur 24 mois avec jalons, budgets et indicateurs de succès.
 
@@ -157,7 +157,7 @@ Les tarifs varient selon la taille de l'entreprise et la profondeur de l'audit :
 | Audit complet | 50-250 collaborateurs | 10-15 jours | 12'000 – 25'000 |
 | Audit sectoriel spécialisé | Toute taille | 7-10 jours | 8'000 – 18'000 |
 
-**À noter** : certaines [subventions cantonales et fédérales](https://iapmesuisse.ch/subventions-digitalisation-suisse) peuvent couvrir jusqu'à 50 % du coût d'un audit de maturité numérique. Renseignez-vous auprès de votre chambre de commerce cantonale.
+**À noter** : certaines [subventions cantonales et fédérales](/fr/blog/subventions-digitalisation-suisse) peuvent couvrir jusqu'à 50 % du coût d'un audit de maturité numérique. Renseignez-vous auprès de votre chambre de commerce cantonale.
 
 ## Les erreurs fréquentes à éviter
 
@@ -223,9 +223,9 @@ Dans un marché suisse où la concurrence s'intensifie et où les attentes des c
 
 ### Articles connexes
 
-- [Intelligence artificielle pour PME suisses : guide complet 2026](https://iapmesuisse.ch/intelligence-artificielle-pme-suisses-guide-complet-2026) — Article pilier
-- [Budget IA pour PME suisse : de 500 à 50'000 CHF](https://iapmesuisse.ch/budget-ia-pme-suisse)
-- [Les outils IA testés et approuvés pour PME suisses](https://iapmesuisse.ch/outils-ia-pme-suisses)
+- [Intelligence artificielle pour PME suisses : guide complet 2026](/fr/blog/intelligence-artificielle-pme-suisses-guide-complet-2026) — Article pilier
+- [Budget IA pour PME suisse : de 500 à 50'000 CHF](/fr/blog/budget-ia-pme-suisse)
+- [Les outils IA testés et approuvés pour PME suisses](/fr/blog/outils-ia-pme-suisses)
 
 ### Ressource externe
 

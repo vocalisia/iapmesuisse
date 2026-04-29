@@ -115,7 +115,7 @@ Pour un dirigeant de PME, la participation à des événements IA présente plus
 - **Thèmes** : RH, recrutement, formation, IA et gestion des talents
 - **Prix** : gratuit (inscription obligatoire)
 - **Public cible** : DRH, responsables RH, dirigeants
-- **Pourquoi y aller** : les innovations IA en [recrutement](https://iapmesuisse.ch/ia-recrutement-suisse) et gestion RH y sont présentées. Gratuit et accessible.
+- **Pourquoi y aller** : les innovations IA en [recrutement](/fr/blog/ia-recrutement-suisse) et gestion RH y sont présentées. Gratuit et accessible.
 
 ### Digitaltag — Multiples villes
 
@@ -181,7 +181,7 @@ Pour un dirigeant de PME, la participation à des événements IA présente plus
 | Meetups et événements gratuits | 0 (temps uniquement) |
 | **Total annuel** | **4'500 – 11'000** |
 
-Ce budget représente un investissement modeste au regard de la valeur des connaissances acquises, du réseau développé et des opportunités identifiées. Certaines [subventions cantonales](https://iapmesuisse.ch/subventions-digitalisation-suisse) peuvent couvrir une partie de ces frais de formation continue.
+Ce budget représente un investissement modeste au regard de la valeur des connaissances acquises, du réseau développé et des opportunités identifiées. Certaines [subventions cantonales](/fr/blog/subventions-digitalisation-suisse) peuvent couvrir une partie de ces frais de formation continue.
 
 ## Les événements à ne pas manquer en priorité
 
@@ -205,9 +205,9 @@ L'écosystème IA suisse est riche, dynamique et accessible. Les événements li
 
 ### Articles connexes
 
-- [Transformation digitale IA des PME romandes](https://iapmesuisse.ch/transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026) — Article pilier
-- [Formation IA pour dirigeants : par où commencer](https://iapmesuisse.ch/formation-ia-dirigeants)
-- [Partenaires IA de confiance en Suisse romande](https://iapmesuisse.ch/partenaires-ia-suisse-romande)
+- [Transformation digitale IA des PME romandes](/fr/blog/transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026) — Article pilier
+- [Formation IA pour dirigeants : par où commencer](/fr/blog/formation-ia-dirigeants)
+- [Partenaires IA de confiance en Suisse romande](/fr/blog/partenaires-ia-suisse-romande)
 
 ### Ressource externe
 

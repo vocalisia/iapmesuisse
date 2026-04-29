@@ -21,7 +21,7 @@ En 2026, 45 % des PME suisses prévoient d'augmenter leurs investissements en IA
 
 ### Un enjeu de gouvernance
 
-La [nLPD](https://iapmesuisse.ch/nlpd-ia-obligations-pme) impose aux dirigeants une responsabilité personnelle dans la gestion des données. Avec l'IA, cette responsabilité s'étend aux décisions algorithmiques, aux biais potentiels et aux implications éthiques. Un dirigeant non formé s'expose à des risques juridiques et réputationnels.
+La [nLPD](/fr/blog/nlpd-ia-obligations-pme) impose aux dirigeants une responsabilité personnelle dans la gestion des données. Avec l'IA, cette responsabilité s'étend aux décisions algorithmiques, aux biais potentiels et aux implications éthiques. Un dirigeant non formé s'expose à des risques juridiques et réputationnels.
 
 ### Un enjeu de leadership
 
@@ -58,9 +58,9 @@ Les collaborateurs observent leur direction. Un dirigeant qui comprend l'IA, qui
 **Objectif** : être capable de définir et piloter une stratégie IA pour son entreprise.
 
 **Contenus typiques** :
-- [Audit et évaluation de la maturité IA](https://iapmesuisse.ch/audit-ia-maturite-pme)
+- [Audit et évaluation de la maturité IA](/fr/blog/audit-ia-maturite-pme)
 - Identification et priorisation des cas d'usage
-- [Budgétisation et calcul du ROI](https://iapmesuisse.ch/budget-ia-pme-suisse)
+- [Budgétisation et calcul du ROI](/fr/blog/budget-ia-pme-suisse)
 - Gestion du changement et accompagnement des équipes
 - Sélection de prestataires et pilotage de projets IA
 - Gouvernance des données et conformité
@@ -134,7 +134,7 @@ Si vous répondez "non" à la majorité : commencez au niveau 1. Si vous répond
 ### Étape 3 : Considérer les contraintes pratiques
 
 - **Disponibilité** : un CAS de 12 semaines implique environ 8 à 10 heures par semaine. Assurez-vous de pouvoir dégager ce temps.
-- **Budget** : au-delà du coût direct, intégrez le coût d'opportunité (temps passé en formation plutôt qu'en gestion). Certaines formations sont éligibles aux [subventions cantonales](https://iapmesuisse.ch/subventions-digitalisation-suisse).
+- **Budget** : au-delà du coût direct, intégrez le coût d'opportunité (temps passé en formation plutôt qu'en gestion). Certaines formations sont éligibles aux [subventions cantonales](/fr/blog/subventions-digitalisation-suisse).
 - **Format** : le présentiel favorise le networking et l'apprentissage pratique ; le distanciel offre davantage de flexibilité.
 - **Langue** : les meilleures formations académiques sont souvent en anglais. Si c'est un obstacle, privilégiez les offres des HES romandes.
 
@@ -234,9 +234,9 @@ L'important n'est pas de viser la perfection dès le départ, mais de commencer,
 
 ### Articles connexes
 
-- [Intelligence artificielle pour PME suisses : guide complet 2026](https://iapmesuisse.ch/intelligence-artificielle-pme-suisses-guide-complet-2026) — Article pilier
-- [Les outils IA testés et approuvés pour PME suisses](https://iapmesuisse.ch/outils-ia-pme-suisses)
-- [Audit IA : évaluer la maturité numérique de votre PME](https://iapmesuisse.ch/audit-ia-maturite-pme)
+- [Intelligence artificielle pour PME suisses : guide complet 2026](/fr/blog/intelligence-artificielle-pme-suisses-guide-complet-2026) — Article pilier
+- [Les outils IA testés et approuvés pour PME suisses](/fr/blog/outils-ia-pme-suisses)
+- [Audit IA : évaluer la maturité numérique de votre PME](/fr/blog/audit-ia-maturite-pme)
 
 ### Ressource externe
 

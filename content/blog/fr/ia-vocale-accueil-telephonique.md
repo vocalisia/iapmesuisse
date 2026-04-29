@@ -117,7 +117,7 @@ Avant de déployer un assistant vocal, analysez vos flux téléphoniques :
 
 - Définition du script conversationnel (scénarios, réponses, escalades)
 - Enregistrement ou sélection de la voix
-- Intégration avec le calendrier et le [CRM](https://iapmesuisse.ch/crm-intelligent-ia)
+- Intégration avec le calendrier et le [CRM](/fr/blog/crm-intelligent-ia)
 - Paramétrage des règles de transfert (quand passer à un humain)
 - Configuration des notifications et rapports
 
@@ -189,7 +189,7 @@ Avant de déployer un assistant vocal, analysez vos flux téléphoniques :
 - **Informer l'appelant** : la personne doit savoir qu'elle interagit avec un assistant automatisé
 - **Proposer un transfert humain** : l'appelant doit pouvoir demander à parler à une personne à tout moment
 - **Enregistrement des appels** : si les conversations sont enregistrées, le consentement est nécessaire
-- **Protection des données** : les informations collectées durant l'appel sont soumises à la [nLPD](https://iapmesuisse.ch/nlpd-ia-obligations-pme)
+- **Protection des données** : les informations collectées durant l'appel sont soumises à la [nLPD](/fr/blog/nlpd-ia-obligations-pme)
 
 ### Bonnes pratiques
 
@@ -212,9 +212,9 @@ La technologie est désormais suffisamment mature pour offrir une expérience na
 
 ### Articles connexes
 
-- [Automatisation des processus par IA : guide pratique pour PME suisses](https://iapmesuisse.ch/automatisation-processus-ia-guide-pratique-pme-suisses) — Article pilier
-- [CRM intelligent : booster vos ventes avec l'IA](https://iapmesuisse.ch/crm-intelligent-ia)
-- [Marketing automatisé par IA pour PME suisses](https://iapmesuisse.ch/marketing-automatise-ia-pme)
+- [Automatisation des processus par IA : guide pratique pour PME suisses](/fr/blog/automatisation-processus-ia-guide-pratique-pme-suisses) — Article pilier
+- [CRM intelligent : booster vos ventes avec l'IA](/fr/blog/crm-intelligent-ia)
+- [Marketing automatisé par IA pour PME suisses](/fr/blog/marketing-automatise-ia-pme)
 
 ### Ressource externe
 

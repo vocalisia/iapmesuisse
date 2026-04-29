@@ -11,23 +11,32 @@ export default function NewsletterBanner() {
   const [email, setEmail] = useState('');
 
   useEffect(() => {
-    // Check if already dismissed in this session
-    if (sessionStorage.getItem('newsletter-banner-dismissed') === 'true') {
-      return;
-    }
+    let scrollHandler: (() => void) | undefined;
 
-    setDismissed(false);
-
-    function handleScroll() {
-      const scrolled =
-        window.scrollY / (document.documentElement.scrollHeight - window.innerHeight);
-      if (scrolled >= 0.5) {
-        setVisible(true);
+    const tid = window.setTimeout(() => {
+      if (sessionStorage.getItem('newsletter-banner-dismissed') === 'true') {
+        return;
       }
-    }
 
-    window.addEventListener('scroll', handleScroll, { passive: true });
-    return () => window.removeEventListener('scroll', handleScroll);
+      setDismissed(false);
+
+      scrollHandler = () => {
+        const scrolled =
+          window.scrollY / (document.documentElement.scrollHeight - window.innerHeight);
+        if (scrolled >= 0.5) {
+          setVisible(true);
+        }
+      };
+
+      window.addEventListener('scroll', scrollHandler, { passive: true });
+    }, 0);
+
+    return () => {
+      window.clearTimeout(tid);
+      if (scrollHandler) {
+        window.removeEventListener('scroll', scrollHandler);
+      }
+    };
   }, []);
 
   function handleDismiss() {

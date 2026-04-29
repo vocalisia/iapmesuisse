@@ -159,13 +159,13 @@ Privilégiez une approche par itérations : commencez par un projet pilote à bu
 
 ### 4. Ignorer les subventions disponibles
 
-La Confédération et les cantons proposent diverses [aides à la digitalisation](https://iapmesuisse.ch/subventions-digitalisation-suisse) dont les PME ne profitent pas suffisamment. Innosuisse, les fonds cantonaux d'innovation et les programmes sectoriels peuvent couvrir 30 à 50 % de vos investissements IA.
+La Confédération et les cantons proposent diverses [aides à la digitalisation](/fr/blog/subventions-digitalisation-suisse) dont les PME ne profitent pas suffisamment. Innosuisse, les fonds cantonaux d'innovation et les programmes sectoriels peuvent couvrir 30 à 50 % de vos investissements IA.
 
 ## Plan d'investissement progressif sur 24 mois
 
 ### Mois 1-3 : Quick wins (budget : 3'000 – 8'000 CHF)
 
-- [Audit de maturité IA](https://iapmesuisse.ch/audit-ia-maturite-pme) (2'000 – 5'000 CHF)
+- [Audit de maturité IA](/fr/blog/audit-ia-maturite-pme) (2'000 – 5'000 CHF)
 - Déploiement d'outils IA individuels (ChatGPT, outils de productivité)
 - Identification des 3 cas d'usage prioritaires
 
@@ -215,9 +215,9 @@ L'essentiel est de commencer à la bonne échelle, de mesurer systématiquement 
 
 ### Articles connexes
 
-- [Intelligence artificielle pour PME suisses : guide complet 2026](https://iapmesuisse.ch/intelligence-artificielle-pme-suisses-guide-complet-2026) — Article pilier
-- [Audit IA : évaluer la maturité numérique de votre PME](https://iapmesuisse.ch/audit-ia-maturite-pme)
-- [Les outils IA testés et approuvés pour PME suisses](https://iapmesuisse.ch/outils-ia-pme-suisses)
+- [Intelligence artificielle pour PME suisses : guide complet 2026](/fr/blog/intelligence-artificielle-pme-suisses-guide-complet-2026) — Article pilier
+- [Audit IA : évaluer la maturité numérique de votre PME](/fr/blog/audit-ia-maturite-pme)
+- [Les outils IA testés et approuvés pour PME suisses](/fr/blog/outils-ia-pme-suisses)
 
 ### Ressource externe
 

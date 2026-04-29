@@ -116,7 +116,7 @@ L'IA simplifie considérablement la logistique du recrutement :
 
 ### La nLPD et le recrutement IA
 
-L'utilisation de l'IA en recrutement est un domaine particulièrement sensible au regard de la [nLPD](https://iapmesuisse.ch/nlpd-ia-obligations-pme). Plusieurs obligations s'imposent :
+L'utilisation de l'IA en recrutement est un domaine particulièrement sensible au regard de la [nLPD](/fr/blog/nlpd-ia-obligations-pme). Plusieurs obligations s'imposent :
 
 **Information des candidats** : vous devez informer les candidats que leur candidature sera analysée par un outil d'IA. Cette information doit figurer dans l'offre d'emploi ou être communiquée lors du dépôt de candidature.
 
@@ -223,9 +223,9 @@ L'essentiel est d'adopter une approche éthique, transparente et conforme à la 
 
 ### Articles connexes
 
-- [Automatisation des processus par IA : guide pratique pour PME suisses](https://iapmesuisse.ch/automatisation-processus-ia-guide-pratique-pme-suisses) — Article pilier
-- [nLPD et IA : obligations des PME suisses](https://iapmesuisse.ch/nlpd-ia-obligations-pme)
-- [Les outils IA testés et approuvés pour PME suisses](https://iapmesuisse.ch/outils-ia-pme-suisses)
+- [Automatisation des processus par IA : guide pratique pour PME suisses](/fr/blog/automatisation-processus-ia-guide-pratique-pme-suisses) — Article pilier
+- [nLPD et IA : obligations des PME suisses](/fr/blog/nlpd-ia-obligations-pme)
+- [Les outils IA testés et approuvés pour PME suisses](/fr/blog/outils-ia-pme-suisses)
 
 ### Ressource externe
 

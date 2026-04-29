@@ -1,6 +1,7 @@
 import { getTranslations } from 'next-intl/server';
 import { getAlternates } from '@/lib/metadata';
 import { getBlogPost, getBlogPosts } from '@/lib/markdown';
+import { normalizeHtmlBlogAnchors } from '@/lib/normalize-blog-href';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import { Link } from '@/i18n/routing';
 import { notFound } from 'next/navigation';
@@ -107,7 +108,12 @@ export default async function BlogPostPage({
         {/* Content */}
         <div
           className="prose prose-lg max-w-none prose-headings:font-bold prose-headings:text-primary prose-h2:mt-10 prose-h2:text-2xl prose-h3:text-xl prose-p:leading-relaxed prose-p:text-gray-700 prose-a:text-accent prose-a:underline hover:prose-a:text-primary prose-strong:text-primary prose-ul:text-gray-700 prose-ol:text-gray-700 prose-li:marker:text-accent"
-          dangerouslySetInnerHTML={{ __html: post.content }}
+          dangerouslySetInnerHTML={{
+            __html: normalizeHtmlBlogAnchors(post.content, locale, {
+              sameOriginHosts: ['iapmesuisse.ch'],
+              blogPathPrefix: `/${locale}/blog`,
+            }),
+          }}
         />
 
         {/* Back to blog */}

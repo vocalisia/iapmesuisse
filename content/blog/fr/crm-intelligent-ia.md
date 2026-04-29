@@ -138,7 +138,7 @@ L'IA d'un CRM est aussi bonne que les données qu'on lui fournit. Avant tout dé
 - Installation et paramétrage de la solution
 - Configuration des pipelines de vente
 - Activation des fonctionnalités IA (scoring, prédiction, automatisation)
-- Intégration avec les outils existants (email, téléphonie, [comptabilité](https://iapmesuisse.ch/automatiser-comptabilite-ia), site web)
+- Intégration avec les outils existants (email, téléphonie, [comptabilité](/fr/blog/automatiser-comptabilite-ia), site web)
 - Migration des données
 
 **Budget d'intégration typique** : 5'000 – 20'000 CHF selon la complexité
@@ -197,7 +197,7 @@ Après 3 mois, évaluez les KPIs suivants :
 
 Un CRM intelligent prend toute sa dimension lorsqu'il est connecté aux autres outils de l'entreprise :
 
-- **[Marketing automatisé](https://iapmesuisse.ch/marketing-automatise-ia-pme)** : synchronisation des leads générés par le marketing avec le CRM pour un suivi sans couture
+- **[Marketing automatisé](/fr/blog/marketing-automatise-ia-pme)** : synchronisation des leads générés par le marketing avec le CRM pour un suivi sans couture
 - **IA vocale** : enregistrement et analyse automatique des appels commerciaux dans le CRM
 - **Comptabilité** : synchronisation des factures et des paiements pour une vision 360° du client
 - **Site web** : tracking des visiteurs et identification des entreprises intéressées
@@ -224,9 +224,9 @@ L'investissement, typiquement de 10'000 à 30'000 CHF la première année pour u
 
 ### Articles connexes
 
-- [Automatisation des processus par IA : guide pratique pour PME suisses](https://iapmesuisse.ch/automatisation-processus-ia-guide-pratique-pme-suisses) — Article pilier
-- [Marketing automatisé par IA pour PME suisses](https://iapmesuisse.ch/marketing-automatise-ia-pme)
-- [Les outils IA testés et approuvés pour PME suisses](https://iapmesuisse.ch/outils-ia-pme-suisses)
+- [Automatisation des processus par IA : guide pratique pour PME suisses](/fr/blog/automatisation-processus-ia-guide-pratique-pme-suisses) — Article pilier
+- [Marketing automatisé par IA pour PME suisses](/fr/blog/marketing-automatise-ia-pme)
+- [Les outils IA testés et approuvés pour PME suisses](/fr/blog/outils-ia-pme-suisses)
 
 ### Ressource externe
 

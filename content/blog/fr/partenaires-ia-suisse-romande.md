@@ -22,7 +22,7 @@ La plupart des PME suisses ne disposent pas des compétences suivantes :
 - **Data science et machine learning** : conception et entraînement de modèles IA
 - **Intégration de systèmes** : connexion entre outils existants et nouvelles solutions IA
 - **UX/UI pour l'IA** : conception d'interfaces utilisateur pour les outils IA
-- **Conformité IA** : expertise juridique sur la [nLPD](https://iapmesuisse.ch/nlpd-ia-obligations-pme) et l'AI Act
+- **Conformité IA** : expertise juridique sur la [nLPD](/fr/blog/nlpd-ia-obligations-pme) et l'AI Act
 - **Gestion du changement** : accompagnement des équipes dans la transformation
 
 ### Le risque de faire seul
@@ -47,13 +47,13 @@ Un partenaire qui connaît votre secteur d'activité (industrie, services, sant�
 
 Demandez systématiquement :
 - Des noms de clients suisses que vous pouvez contacter
-- Des [études de cas documentées](https://iapmesuisse.ch/etudes-cas-pme-romandes-ia) avec des résultats chiffrés
+- Des [études de cas documentées](/fr/blog/etudes-cas-pme-romandes-ia) avec des résultats chiffrés
 - La taille des entreprises accompagnées (un prestataire habitué aux grandes entreprises ne sera pas nécessairement adapté à une PME de 15 personnes)
 
 ### 3. Approche méthodologique
 
 Un bon partenaire IA suit une démarche structurée :
-- Diagnostic et [audit préalable](https://iapmesuisse.ch/audit-ia-maturite-pme)
+- Diagnostic et [audit préalable](/fr/blog/audit-ia-maturite-pme)
 - Identification et priorisation des cas d'usage
 - Preuve de concept (POC) avant déploiement à grande échelle
 - Mesure du ROI à chaque étape
@@ -121,7 +121,7 @@ Votre partenaire doit :
 
 ### Hautes écoles et laboratoires
 
-Les hautes écoles suisses sont des partenaires précieux pour les projets IA innovants, notamment dans le cadre des [subventions Innosuisse](https://iapmesuisse.ch/subventions-digitalisation-suisse) :
+Les hautes écoles suisses sont des partenaires précieux pour les projets IA innovants, notamment dans le cadre des [subventions Innosuisse](/fr/blog/subventions-digitalisation-suisse) :
 
 | Institution | Laboratoire/Centre | Spécialité |
 |---|---|---|
@@ -230,9 +230,9 @@ Prenez le temps de sélectionner rigoureusement, exigez des références vérifi
 
 ### Articles connexes
 
-- [Transformation digitale IA des PME romandes](https://iapmesuisse.ch/transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026) — Article pilier
-- [Études de cas : PME romandes transformées par l'IA](https://iapmesuisse.ch/etudes-cas-pme-romandes-ia)
-- [Budget IA pour PME suisse : de 500 à 50'000 CHF](https://iapmesuisse.ch/budget-ia-pme-suisse)
+- [Transformation digitale IA des PME romandes](/fr/blog/transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026) — Article pilier
+- [Études de cas : PME romandes transformées par l'IA](/fr/blog/etudes-cas-pme-romandes-ia)
+- [Budget IA pour PME suisse : de 500 à 50'000 CHF](/fr/blog/budget-ia-pme-suisse)
 
 ### Ressource externe
 

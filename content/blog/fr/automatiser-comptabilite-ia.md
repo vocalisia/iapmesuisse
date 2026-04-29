@@ -101,7 +101,7 @@ Avant d'automatiser, documentez précisément vos processus actuels :
 - Où se situent les erreurs les plus fréquentes ?
 - Combien de temps consacrez-vous aux rapprochements bancaires ?
 
-Un [audit de maturité IA](https://iapmesuisse.ch/audit-ia-maturite-pme) permet d'identifier précisément les gains potentiels.
+Un [audit de maturité IA](/fr/blog/audit-ia-maturite-pme) permet d'identifier précisément les gains potentiels.
 
 ### Étape 2 : Choisir la bonne solution
 
@@ -202,7 +202,7 @@ Les données comptables sont parmi les plus sensibles de l'entreprise. Lors du c
 - **Chiffrement** : exigez le chiffrement en transit et au repos
 - **Accès** : mettez en place une gestion fine des droits d'accès
 - **Sauvegarde** : vérifiez la politique de sauvegarde et de restauration
-- **Conformité [nLPD](https://iapmesuisse.ch/nlpd-ia-obligations-pme)** : assurez-vous que le traitement des données est conforme
+- **Conformité [nLPD](/fr/blog/nlpd-ia-obligations-pme)** : assurez-vous que le traitement des données est conforme
 
 ## Les limites actuelles de l'IA en comptabilité
 
@@ -229,9 +229,9 @@ La clé du succès réside dans une approche progressive : commencez par les tâ
 
 ### Articles connexes
 
-- [Automatisation des processus par IA : guide pratique pour PME suisses](https://iapmesuisse.ch/automatisation-processus-ia-guide-pratique-pme-suisses) — Article pilier
-- [Budget IA pour PME suisse : de 500 à 50'000 CHF](https://iapmesuisse.ch/budget-ia-pme-suisse)
-- [CRM intelligent : booster vos ventes avec l'IA](https://iapmesuisse.ch/crm-intelligent-ia)
+- [Automatisation des processus par IA : guide pratique pour PME suisses](/fr/blog/automatisation-processus-ia-guide-pratique-pme-suisses) — Article pilier
+- [Budget IA pour PME suisse : de 500 à 50'000 CHF](/fr/blog/budget-ia-pme-suisse)
+- [CRM intelligent : booster vos ventes avec l'IA](/fr/blog/crm-intelligent-ia)
 
 ### Ressource externe
 

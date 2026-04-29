@@ -116,7 +116,7 @@
     "why_items": [
       {
         "title": "Produttività",
-        "description": "Automatizzate le attività ripetitive e liberate tempo per ciò che conta davvero."
+        "description": "Automatizzate le attività ripetitive e liberate tempo per ciÃ² che conta davvero."
       },
       {
         "title": "Competitività",
@@ -150,7 +150,7 @@
       ]
     },
     "cta_title": "Pronti a trasformare la vostra PMI?",
-    "cta_description": "Contattateci per un audit gratuito e scoprite come l'IA può far crescere la vostra impresa.",
+    "cta_description": "Contattateci per un audit gratuito e scoprite come l'IA puÃ² far crescere la vostra impresa.",
     "cta_button": "Contattateci"
   },
   "services": {
@@ -234,7 +234,9 @@
     "title": "Blog",
     "subtitle": "Notizie, consigli e guide sull'IA per le PMI",
     "read_more": "Continua a leggere",
-    "back": "Torna al blog"
+    "back": "Torna al blog",
+    "by": "Di",
+    "role": "Consulente IA & PMI"
   },
   "contact": {
     "title": "Contattateci",
@@ -267,7 +269,7 @@
     "guides": [
       {
         "title": "Guida introduttiva all'IA per PMI",
-        "description": "Tutto ciò che dovete sapere per iniziare con l'IA nella vostra impresa."
+        "description": "Tutto ciÃ² che dovete sapere per iniziare con l'IA nella vostra impresa."
       },
       {
         "title": "Checklist integrazione ChatGPT",
@@ -301,7 +303,7 @@
     "faq": [
       {
         "question": "L'IA è adatta alle piccole imprese?",
-        "answer": "Assolutamente sì. Molti strumenti IA sono accessibili e convenienti, anche per le microimprese. L'importante è identificare i casi d'uso più adatti."
+        "answer": "Assolutamente sÃ¬. Molti strumenti IA sono accessibili e convenienti, anche per le microimprese. L'importante è identificare i casi d'uso più adatti."
       },
       {
         "question": "Quanto costa l'integrazione dell'IA?",
@@ -313,7 +315,7 @@
       },
       {
         "question": "Quanto tempo richiede un'integrazione?",
-        "answer": "Un progetto semplice può essere operativo in poche settimane. I progetti più complessi si estendono su 2-3 mesi."
+        "answer": "Un progetto semplice puÃ² essere operativo in poche settimane. I progetti più complessi si estendono su 2-3 mesi."
       },
       {
         "question": "I miei dati restano in Svizzera?",
@@ -345,7 +347,7 @@
       "hosting_title": "Hosting",
       "hosting_text": "iapmesuisse.ch è ospitato da Vercel Inc., 340 S Lemon Ave #4133, Walnut, CA 91789, USA.",
       "intellectual_title": "Proprietà intellettuale",
-      "intellectual_text": "Tutti i contenuti del sito (testi, immagini, loghi, icone) sono proprietà di IAPME Suisse o dei suoi partner. È vietata qualsiasi riproduzione, anche parziale, senza autorizzazione scritta.",
+      "intellectual_text": "Tutti i contenuti del sito (testi, immagini, loghi, icone) sono proprietà di IAPME Suisse o dei suoi partner. Ãˆ vietata qualsiasi riproduzione, anche parziale, senza autorizzazione scritta.",
       "liability_title": "Limitazione di responsabilità",
       "liability_text": "IAPME Suisse si impegna a garantire l'accuratezza delle informazioni pubblicate. Tuttavia, non si assume alcuna garanzia sulla completezza o esattezza.",
       "law_title": "Diritto applicabile",
@@ -355,7 +357,7 @@
       "meta_title": "Informativa sulla privacy",
       "meta_description": "Informativa sulla privacy conforme alla nLPD svizzera.",
       "title": "Informativa sulla privacy",
-      "intro": "IAPME Suisse si impegna a proteggere i vostri dati personali conformemente alla nuova Legge federale sulla protezione dei dati (nLPD), in vigore dal 1° settembre 2023.",
+      "intro": "IAPME Suisse si impegna a proteggere i vostri dati personali conformemente alla nuova Legge federale sulla protezione dei dati (nLPD), in vigore dal 1Â° settembre 2023.",
       "responsible_title": "Titolare del trattamento",
       "responsible_text": "IAPME Suisse\nE-mail: contact@iapmesuisse.ch",
       "data_collected_title": "Dati raccolti",
@@ -454,7 +456,119 @@
       "badge": "VIP"
     },
     "guarantee": "Soddisfatti o rimborsati entro 30 giorni",
-    "vat_note": "Prezzi in CHF, IVA esclusa"
+    "vat_note": "Prezzi in CHF, IVA esclusa",
+    "equipe": {
+      "name": "Formazione Team",
+      "price": "2500 CHF",
+      "description": "Formazione IA personalizzata in videoconferenza con il tuo team — 4h di workshop pratico sugli strumenti IA adatti al tuo settore",
+      "features": [
+        "Sessione video 4h con il tuo team",
+        "Strumenti IA su misura per il tuo settore",
+        "Workshop pratico su casi d'uso reali",
+        "Materiali formativi personalizzati",
+        "Q&A illimitato durante la sessione",
+        "Follow-up 30 giorni post-formazione"
+      ],
+      "cta": "Prenota la mia sessione",
+      "badge": "Su misura"
+    },
+    "links": {
+      "starter": "https://buy.stripe.com/aFabJ03YS5AQ2SwfS6co00F",
+      "pro": "https://buy.stripe.com/5kQeVc7b44wMgJmgWaco00G",
+      "premium": "https://buy.stripe.com/3cI6oGbrk4wM9gUgWaco00H",
+      "equipe": "https://buy.stripe.com/bJe00iang3sI0Ko8pEco00I",
+      "claude_code": "https://buy.stripe.com/aFabJ07b49R6dxa5dsco00J",
+      "ia_marketing": "https://buy.stripe.com/eVq5kC6700gwgJmfS6co00K"
+    },
+    "claude_code": {
+      "name": "Formation Claude Code",
+      "price": "3500 CHF",
+      "description": "Atelier visio 4h dédié à Claude Code pour votre équipe dev",
+      "badge": "Dev & Tech",
+      "cta": "Réserver ma session",
+      "features": [
+        "Session visio 4h avec votre équipe dev",
+        "Installation & config Claude Code CLI",
+        "Agents, sous-agents, hooks & CLAUDE.md",
+        "MCP servers & slash commands",
+        "Intégration Next.js, Python, etc.",
+        "Best practices revue de code IA",
+        "Jusqu'à 10 développeurs inclus",
+        "Support 30 jours post-formation"
+      ]
+    },
+    "ia_marketing": {
+      "name": "Formation IA Marketing",
+      "price": "2500 CHF",
+      "description": "Atelier visio 4h IA Marketing pour votre équipe",
+      "badge": "Marketing",
+      "cta": "Réserver ma session",
+      "features": [
+        "Session visio 4h avec votre équipe",
+        "Création de contenu IA (textes, visuels)",
+        "SEO & GEO avec l'IA",
+        "Automatisation campagnes email & LinkedIn",
+        "Génération de leads & copywriting IA",
+        "Outils : Midjourney, Canva IA, Make.com",
+        "Workflows marketing automatisés",
+        "Support 30 jours post-formation"
+      ]
+    },
+    "social_stats_title": "Si fidano di noi",
+    "social_stat1_value": "180+",
+    "social_stat1_label": "PMI formate",
+    "social_stat2_value": "97%",
+    "social_stat2_label": "Tasso di soddisfazione",
+    "social_stat3_value": "12",
+    "social_stat3_label": "Cantoni svizzeri",
+    "social_stat4_value": "4h",
+    "social_stat4_label": "Tempo medio di avvio",
+    "testimonials_title": "Cosa dicono i nostri clienti",
+    "testimonials": [
+      {
+        "quote": "In 3 mesi di formazione, il nostro studio ha ridotto del 60% il tempo di redazione dei rapporti. L'IA è diventata uno strumento quotidiano.",
+        "name": "Marc-André Fontaine",
+        "role": "Socio Amministratore",
+        "company": "Cabinet Fontaine & Associés, Ginevra"
+      },
+      {
+        "quote": "La formazione Claude Code ha trasformato il nostro modo di sviluppare. Il nostro team era il 40% più veloce già dal secondo mese.",
+        "name": "Léa Zimmermann",
+        "role": "CTO & Co-fondatrice",
+        "company": "TechHub SaaS, Losanna"
+      },
+      {
+        "quote": "Eccellente accompagnamento, molto concreto. Abbiamo automatizzato 3 processi chiave e guadagnato 2 ETP.",
+        "name": "Thomas Meier",
+        "role": "Direttore Operativo",
+        "company": "Meier Industrie AG, Zurigo"
+      }
+    ],
+    "case_study_title": "Caso Studio: Studio di Consulenza, Ginevra",
+    "case_study_subtitle": "Formazione IA 3 mesi — risultati misurati",
+    "case_study_before": "Prima",
+    "case_study_after": "Dopo",
+    "case_study_metrics": [
+      {
+        "label": "Redazione rapporti",
+        "before_val": "4h",
+        "after_val": "1h30",
+        "gain": "-62%"
+      },
+      {
+        "label": "Prospezione clienti",
+        "before_val": "8h/sett",
+        "after_val": "3h/sett",
+        "gain": "-63%"
+      },
+      {
+        "label": "Soddisfazione clienti",
+        "before_val": "72/100",
+        "after_val": "94/100",
+        "gain": "+31%"
+      }
+    ],
+    "case_study_quote": "ROI raggiunto in meno di 6 settimane. I nostri consulenti sono ora esperti IA."
   },
   "consulting": {
     "title": "Consulenza IA",
@@ -503,7 +617,11 @@
     "book_cta": "Prenotare un appuntamento",
     "cta": "Scopri di più",
     "booking_title": "Prenotate una chiamata conoscitiva",
-    "booking_description": "30 minuti gratuiti per discutere del vostro progetto"
+    "booking_description": "30 minuti gratuiti per discutere del vostro progetto",
+    "links": {
+      "audit": "https://buy.stripe.com/4gM6oGcvo5AQdxa6hwco00L",
+      "accompagnement": "https://buy.stripe.com/dRm3cugLEaVa64I6hwco00M"
+    }
   },
   "pricing": {
     "title": "Le nostre formule",
@@ -615,7 +733,7 @@
         "type": "Webinar",
         "price": "Gratuito",
         "url": "#",
-        "description": "Webinar mensile gratuito: scoprite come l'IA può trasformare la vostra PMI."
+        "description": "Webinar mensile gratuito: scoprite come l'IA puÃ² trasformare la vostra PMI."
       }
     ],
     "submit_button": "Inviare"
@@ -721,7 +839,7 @@
         "name": "Sophie Durand",
         "company": "Durand & Fils SA",
         "location": "Losanna",
-        "text": "La formazione Pro è esattamente ciò di cui il nostro team aveva bisogno. Pragmatica, adattata al contesto svizzero e direttamente applicabile. La consiglio vivamente.",
+        "text": "La formazione Pro è esattamente ciÃ² di cui il nostro team aveva bisogno. Pragmatica, adattata al contesto svizzero e direttamente applicabile. La consiglio vivamente.",
         "rating": 5
       },
       {
@@ -735,7 +853,7 @@
   },
   "faq_page": {
     "title": "Domande frequenti sull'IA per PMI",
-    "subtitle": "Tutto ciò che dovete sapere sull'integrazione dell'IA nella vostra PMI svizzera",
+    "subtitle": "Tutto ciÃ² che dovete sapere sull'integrazione dell'IA nella vostra PMI svizzera",
     "categories": {
       "general": "Generale",
       "technical": "Tecnico",
@@ -770,7 +888,7 @@
       },
       {
         "question": "Cos'è la nLPD?",
-        "answer": "La nuova Legge federale sulla protezione dei dati (nLPD), in vigore dal 1° settembre 2023, rafforza i diritti delle persone e gli obblighi delle imprese in materia di dati personali.",
+        "answer": "La nuova Legge federale sulla protezione dei dati (nLPD), in vigore dal 1Â° settembre 2023, rafforza i diritti delle persone e gli obblighi delle imprese in materia di dati personali.",
         "category": "legal"
       },
       {
@@ -780,12 +898,12 @@
       },
       {
         "question": "Quanto dura un progetto di integrazione?",
-        "answer": "Un progetto semplice (es: chatbot, automazione email) può essere operativo in 2-4 settimane. I progetti più complessi si estendono su 2-3 mesi.",
+        "answer": "Un progetto semplice (es: chatbot, automazione email) puÃ² essere operativo in 2-4 settimane. I progetti più complessi si estendono su 2-3 mesi.",
         "category": "technical"
       },
       {
         "question": "Offrite formazioni in tedesco e italiano?",
-        "answer": "Sì, i nostri servizi sono disponibili in francese, tedesco, italiano e inglese. Copriamo tutte le regioni linguistiche della Svizzera.",
+        "answer": "SÃ¬, i nostri servizi sono disponibili in francese, tedesco, italiano e inglese. Copriamo tutte le regioni linguistiche della Svizzera.",
         "category": "general"
       },
       {
@@ -851,10 +969,22 @@
       "share_text": "Ho ottenuto {score}/30 allo Score di Maturità IA! E voi?",
       "cta": "Prenotate il vostro audit gratuito",
       "levels": {
-        "beginner": { "name": "Principiante IA", "description": "La vostra PMI è all'inizio del suo percorso IA. È il momento ideale per iniziare!" },
-        "explorer": { "name": "Esploratore IA", "description": "Avete mosso i primi passi. È tempo di strutturare il vostro approccio." },
-        "adopter": { "name": "Adottatore IA", "description": "La vostra PMI utilizza già l'IA in modo significativo. Passate alla marcia superiore!" },
-        "leader": { "name": "Leader IA", "description": "Complimenti! La vostra PMI è in vantaggio. Continuate a innovare!" }
+        "beginner": {
+          "name": "Principiante IA",
+          "description": "La vostra PMI è all'inizio del suo percorso IA. Ãˆ il momento ideale per iniziare!"
+        },
+        "explorer": {
+          "name": "Esploratore IA",
+          "description": "Avete mosso i primi passi. Ãˆ tempo di strutturare il vostro approccio."
+        },
+        "adopter": {
+          "name": "Adottatore IA",
+          "description": "La vostra PMI utilizza già l'IA in modo significativo. Passate alla marcia superiore!"
+        },
+        "leader": {
+          "name": "Leader IA",
+          "description": "Complimenti! La vostra PMI è in vantaggio. Continuate a innovare!"
+        }
       }
     },
     "knowledge": {
@@ -866,10 +996,22 @@
       "explanation": "Spiegazione:",
       "share_text": "Ho ottenuto {score}/15 al Quiz Conoscenze IA!",
       "levels": {
-        "novice": { "name": "Novizio IA", "description": "Siete agli inizi con l'IA, è il momento di imparare!" },
-        "connoisseur": { "name": "Conoscitore IA", "description": "Buone basi! Approfondite con le nostre formazioni." },
-        "expert": { "name": "Esperto IA", "description": "Impressionante! Padroneggiate l'argomento." },
-        "genius": { "name": "Genio IA", "description": "Perfetto o quasi! Siete un vero esperto." }
+        "novice": {
+          "name": "Novizio IA",
+          "description": "Siete agli inizi con l'IA, è il momento di imparare!"
+        },
+        "connoisseur": {
+          "name": "Conoscitore IA",
+          "description": "Buone basi! Approfondite con le nostre formazioni."
+        },
+        "expert": {
+          "name": "Esperto IA",
+          "description": "Impressionante! Padroneggiate l'argomento."
+        },
+        "genius": {
+          "name": "Genio IA",
+          "description": "Perfetto o quasi! Siete un vero esperto."
+        }
       }
     },
     "tool": {

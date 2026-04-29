@@ -74,7 +74,7 @@ export default async function LocaleLayout({
 }) {
   const { locale } = await params;
 
-  if (!routing.locales.includes(locale as any)) {
+  if (!(routing.locales as readonly string[]).includes(locale)) {
     notFound();
   }
 
@@ -83,6 +83,20 @@ export default async function LocaleLayout({
   return (
     <html lang={locale} className={inter.className}>
       <head>
+        {/* Hreflang lowercase (React SSR convertit hrefLang → hreflang) */}
+        {routing.locales.map((l) => (
+          <link
+            key={`hl-${l}`}
+            rel="alternate"
+            hrefLang={l}
+            href={`https://iapmesuisse.ch/${l}`}
+          />
+        ))}
+        <link
+          rel="alternate"
+          hrefLang="x-default"
+          href="https://iapmesuisse.ch/fr"
+        />
         {/* Consent Mode v2 + dynamic GA4 */}
         {process.env.NEXT_PUBLIC_GA4_ID && (
           <script

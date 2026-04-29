@@ -193,7 +193,7 @@ L'IA transforme les données brutes en insights actionnables :
 - Newsletter mensuelle personnalisée (Brevo)
 - LinkedIn : 3 publications/semaine (Buffer + Canva IA)
 - Google Ads : campagnes ciblées PME romandes
-- [CRM HubSpot](https://iapmesuisse.ch/crm-intelligent-ia) avec scoring de leads
+- [CRM HubSpot](/fr/blog/crm-intelligent-ia) avec scoring de leads
 
 **Investissement mensuel total** : 4'500 CHF (outils + publicité + 15h de temps interne)
 
@@ -240,9 +240,9 @@ La clé du succès réside dans une approche progressive et mesurée : commencez
 
 ### Articles connexes
 
-- [Automatisation des processus par IA : guide pratique pour PME suisses](https://iapmesuisse.ch/automatisation-processus-ia-guide-pratique-pme-suisses) — Article pilier
-- [CRM intelligent : booster vos ventes avec l'IA](https://iapmesuisse.ch/crm-intelligent-ia)
-- [Les outils IA testés et approuvés pour PME suisses](https://iapmesuisse.ch/outils-ia-pme-suisses)
+- [Automatisation des processus par IA : guide pratique pour PME suisses](/fr/blog/automatisation-processus-ia-guide-pratique-pme-suisses) — Article pilier
+- [CRM intelligent : booster vos ventes avec l'IA](/fr/blog/crm-intelligent-ia)
+- [Les outils IA testés et approuvés pour PME suisses](/fr/blog/outils-ia-pme-suisses)
 
 ### Ressource externe
 

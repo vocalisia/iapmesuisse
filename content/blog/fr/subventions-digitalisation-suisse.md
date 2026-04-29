@@ -28,7 +28,7 @@ Innosuisse est le principal organe fédéral de soutien à l'innovation pour les
 - **Délai de traitement** : 4 à 6 semaines
 - **Comment postuler** : demande en ligne sur le site d'Innosuisse
 
-**Pertinence pour l'IA** : excellent pour financer un [audit de maturité IA](https://iapmesuisse.ch/audit-ia-maturite-pme) ou une étude de faisabilité en partenariat avec une HES.
+**Pertinence pour l'IA** : excellent pour financer un [audit de maturité IA](/fr/blog/audit-ia-maturite-pme) ou une étude de faisabilité en partenariat avec une HES.
 
 #### Projets d'innovation
 
@@ -167,7 +167,7 @@ Pour les projets IA impliquant un développement propriétaire, le régime de la
 | Fribourg | 50 % | 90 % |
 | Neuchâtel | 50 % | 90 % |
 
-**Conseil** : consultez votre fiduciaire pour optimiser la structuration fiscale de vos investissements IA. Les économies fiscales peuvent couvrir 15 à 30 % du [budget total d'un projet IA](https://iapmesuisse.ch/budget-ia-pme-suisse).
+**Conseil** : consultez votre fiduciaire pour optimiser la structuration fiscale de vos investissements IA. Les économies fiscales peuvent couvrir 15 à 30 % du [budget total d'un projet IA](/fr/blog/budget-ia-pme-suisse).
 
 ## Financements bancaires et alternatifs
 
@@ -197,7 +197,7 @@ Le leasing permet de financer les investissements IA sans immobiliser de capital
 Un dossier de demande de subvention doit inclure :
 - Description claire du projet et de ses objectifs
 - Analyse de marché et positionnement concurrentiel
-- [Budget détaillé](https://iapmesuisse.ch/budget-ia-pme-suisse) avec sources de financement
+- [Budget détaillé](/fr/blog/budget-ia-pme-suisse) avec sources de financement
 - Planning de mise en oeuvre
 - Indicateurs de succès mesurables (KPIs)
 - Description de l'équipe et des compétences
@@ -252,9 +252,9 @@ La démarche demande un effort de recherche et de préparation, mais cet effort 
 
 ### Articles connexes
 
-- [Transformation digitale IA des PME romandes](https://iapmesuisse.ch/transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026) — Article pilier
-- [Budget IA pour PME suisse : de 500 à 50'000 CHF](https://iapmesuisse.ch/budget-ia-pme-suisse)
-- [Études de cas : PME romandes transformées par l'IA](https://iapmesuisse.ch/etudes-cas-pme-romandes-ia)
+- [Transformation digitale IA des PME romandes](/fr/blog/transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026) — Article pilier
+- [Budget IA pour PME suisse : de 500 à 50'000 CHF](/fr/blog/budget-ia-pme-suisse)
+- [Études de cas : PME romandes transformées par l'IA](/fr/blog/etudes-cas-pme-romandes-ia)
 
 ### Ressource externe
 

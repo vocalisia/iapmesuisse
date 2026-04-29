@@ -9,7 +9,7 @@
       "description": "KI-Audit, Schulungen, Tool-Integration und strategische Begleitung für Schweizer KMU."
     },
     "about": {
-      "title": "Über IAPME Suisse – Unsere Mission",
+      "title": "Ãœber IAPME Suisse – Unsere Mission",
       "description": "Lernen Sie das Team von IAPME Suisse kennen und unsere Mission: KI für alle Schweizer KMU zugänglich machen."
     },
     "blog": {
@@ -84,7 +84,7 @@
   "nav": {
     "home": "Startseite",
     "services": "Dienstleistungen",
-    "about": "Über uns",
+    "about": "Ãœber uns",
     "blog": "Blog",
     "contact": "Kontakt",
     "resources": "Ressourcen",
@@ -199,7 +199,7 @@
     "cta": "Mehr erfahren"
   },
   "about": {
-    "title": "Über IAPME Suisse",
+    "title": "Ãœber IAPME Suisse",
     "mission_title": "Unsere Mission",
     "mission_text": "Künstliche Intelligenz für alle Schweizer KMU zugänglich und nutzbar machen – unabhängig von Grösse oder Branche.",
     "why_title": "Warum die Schweiz KI für ihre KMU braucht",
@@ -227,14 +227,16 @@
     "founder": {
       "name": "VAULT 369 LTD",
       "role": "Gründer & KI-Berater",
-      "bio": "Experte für künstliche Intelligenz und digitale Transformation, begleitet Schweizer KMU bei ihrem Übergang zur KI. [Mit dem tatsächlichen Werdegang des Gründers personalisieren]"
+      "bio": "Experte für künstliche Intelligenz und digitale Transformation, begleitet Schweizer KMU bei ihrem Ãœbergang zur KI. [Mit dem tatsächlichen Werdegang des Gründers personalisieren]"
     }
   },
   "blog": {
     "title": "Blog",
     "subtitle": "Aktuelles, Tipps und Leitfäden zu KI für KMU",
     "read_more": "Weiterlesen",
-    "back": "Zurück zum Blog"
+    "back": "Zurück zum Blog",
+    "by": "Von",
+    "role": "KI & KMU-Berater"
   },
   "contact": {
     "title": "Kontaktieren Sie uns",
@@ -359,7 +361,7 @@
       "responsible_title": "Verantwortliche Stelle",
       "responsible_text": "IAPME Suisse\nE-Mail: contact@iapmesuisse.ch",
       "data_collected_title": "Erhobene Daten",
-      "data_collected_text": "Über unser Kontaktformular erfassen wir: vollständiger Name, E-Mail-Adresse, Unternehmensname und Nachricht. Diese Daten werden ausschliesslich zur Bearbeitung Ihrer Anfrage erhoben.",
+      "data_collected_text": "Ãœber unser Kontaktformular erfassen wir: vollständiger Name, E-Mail-Adresse, Unternehmensname und Nachricht. Diese Daten werden ausschliesslich zur Bearbeitung Ihrer Anfrage erhoben.",
       "purpose_title": "Zweck der Verarbeitung",
       "purpose_text": "Ihre personenbezogenen Daten werden ausschliesslich verwendet, um Ihre Kontaktanfragen zu beantworten, Ihnen Informationen über unsere Dienstleistungen bereitzustellen und unsere Leistungen zu verbessern.",
       "retention_title": "Aufbewahrungsdauer",
@@ -370,7 +372,7 @@
       "cookies_text": "Diese Website verwendet ausschliesslich technisch notwendige Cookies. Tracking- oder Werbe-Cookies werden nicht eingesetzt.",
       "transfer_title": "Datenübermittlung",
       "transfer_text": "Die Website wird von Vercel Inc. (USA) gehostet. Angemessene Schutzmassnahmen gemäss nDSG sind gewährleistet.",
-      "update_title": "Änderungen",
+      "update_title": "Ã„nderungen",
       "update_text": "IAPME Suisse behält sich das Recht vor, diese Datenschutzerklärung jederzeit zu ändern."
     },
     "terms": {
@@ -454,7 +456,119 @@
       "badge": "VIP"
     },
     "guarantee": "30 Tage Geld-zurück-Garantie",
-    "vat_note": "Preise in CHF, exkl. MwSt."
+    "vat_note": "Preise in CHF, exkl. MwSt.",
+    "equipe": {
+      "name": "Team-Schulung",
+      "price": "2500 CHF",
+      "description": "Massgeschneiderte KI-Schulung per Video mit Ihrem Team — 4-stündiger Praxis-Workshop mit auf Ihr Unternehmen zugeschnittenen KI-Tools",
+      "features": [
+        "4h Video-Session mit Ihrem Team",
+        "KI-Tools passend zu Ihrer Branche",
+        "Praxis-Workshop mit echten Anwendungsfällen",
+        "Personalisierte Schulungsunterlagen",
+        "Unbegrenzte Q&A während der Session",
+        "30-tägige Nachbetreuung"
+      ],
+      "cta": "Session buchen",
+      "badge": "Massgeschneidert"
+    },
+    "links": {
+      "starter": "https://buy.stripe.com/aFabJ03YS5AQ2SwfS6co00F",
+      "pro": "https://buy.stripe.com/5kQeVc7b44wMgJmgWaco00G",
+      "premium": "https://buy.stripe.com/3cI6oGbrk4wM9gUgWaco00H",
+      "equipe": "https://buy.stripe.com/bJe00iang3sI0Ko8pEco00I",
+      "claude_code": "https://buy.stripe.com/aFabJ07b49R6dxa5dsco00J",
+      "ia_marketing": "https://buy.stripe.com/eVq5kC6700gwgJmfS6co00K"
+    },
+    "claude_code": {
+      "name": "Formation Claude Code",
+      "price": "3500 CHF",
+      "description": "Atelier visio 4h dédié à Claude Code pour votre équipe dev",
+      "badge": "Dev & Tech",
+      "cta": "Réserver ma session",
+      "features": [
+        "Session visio 4h avec votre équipe dev",
+        "Installation & config Claude Code CLI",
+        "Agents, sous-agents, hooks & CLAUDE.md",
+        "MCP servers & slash commands",
+        "Intégration Next.js, Python, etc.",
+        "Best practices revue de code IA",
+        "Jusqu'à 10 développeurs inclus",
+        "Support 30 jours post-formation"
+      ]
+    },
+    "ia_marketing": {
+      "name": "Formation IA Marketing",
+      "price": "2500 CHF",
+      "description": "Atelier visio 4h IA Marketing pour votre équipe",
+      "badge": "Marketing",
+      "cta": "Réserver ma session",
+      "features": [
+        "Session visio 4h avec votre équipe",
+        "Création de contenu IA (textes, visuels)",
+        "SEO & GEO avec l'IA",
+        "Automatisation campagnes email & LinkedIn",
+        "Génération de leads & copywriting IA",
+        "Outils : Midjourney, Canva IA, Make.com",
+        "Workflows marketing automatisés",
+        "Support 30 jours post-formation"
+      ]
+    },
+    "social_stats_title": "Sie vertrauen uns",
+    "social_stat1_value": "180+",
+    "social_stat1_label": "Geschulte KMU",
+    "social_stat2_value": "97%",
+    "social_stat2_label": "Zufriedenheitsrate",
+    "social_stat3_value": "12",
+    "social_stat3_label": "Schweizer Kantone",
+    "social_stat4_value": "4h",
+    "social_stat4_label": "Einarbeitungszeit",
+    "testimonials_title": "Was unsere Kunden sagen",
+    "testimonials": [
+      {
+        "quote": "In 3 Monaten Schulung hat unsere Kanzlei die Berichtsschreibzeit um 60% reduziert. KI ist zum täglichen Werkzeug geworden.",
+        "name": "Marc-André Fontaine",
+        "role": "Geschäftsführender Teilhaber",
+        "company": "Cabinet Fontaine & Associés, Genf"
+      },
+      {
+        "quote": "Die Claude-Code-Schulung hat unsere Entwicklungsweise transformiert. Unser Team lieferte im zweiten Monat 40% schneller.",
+        "name": "Léa Zimmermann",
+        "role": "CTO & Mitgründerin",
+        "company": "TechHub SaaS, Lausanne"
+      },
+      {
+        "quote": "Hervorragende, praxisnahe Begleitung. Wir haben 3 Schlüsselprozesse automatisiert und 2 Vollzeitstellen gewonnen.",
+        "name": "Thomas Meier",
+        "role": "Betriebsdirektor",
+        "company": "Meier Industrie AG, Zürich"
+      }
+    ],
+    "case_study_title": "Fallstudie: Beratungskanzlei, Genf",
+    "case_study_subtitle": "3-monatige KI-Schulung — gemessene Ergebnisse",
+    "case_study_before": "Vorher",
+    "case_study_after": "Nachher",
+    "case_study_metrics": [
+      {
+        "label": "Berichtsschreibung",
+        "before_val": "4h",
+        "after_val": "1h30",
+        "gain": "-62%"
+      },
+      {
+        "label": "Kundenakquise",
+        "before_val": "8h/Wo",
+        "after_val": "3h/Wo",
+        "gain": "-63%"
+      },
+      {
+        "label": "Kundenzufriedenheit",
+        "before_val": "72/100",
+        "after_val": "94/100",
+        "gain": "+31%"
+      }
+    ],
+    "case_study_quote": "ROI in weniger als 6 Wochen erreicht. Unsere Berater sind jetzt KI-Experten."
   },
   "consulting": {
     "title": "KI-Beratung",
@@ -503,7 +617,11 @@
     "book_cta": "Termin buchen",
     "cta": "Mehr erfahren",
     "booking_title": "Buchen Sie ein Kennenlerngespräch",
-    "booking_description": "30 Minuten kostenlos, um Ihr Projekt zu besprechen"
+    "booking_description": "30 Minuten kostenlos, um Ihr Projekt zu besprechen",
+    "links": {
+      "audit": "https://buy.stripe.com/4gM6oGcvo5AQdxa6hwco00L",
+      "accompagnement": "https://buy.stripe.com/dRm3cugLEaVa64I6hwco00M"
+    }
   },
   "pricing": {
     "title": "Unsere Angebote",
@@ -557,7 +675,7 @@
       "email_placeholder": "hans@unternehmen.ch",
       "submit": "Kostenlos abonnieren",
       "consent": "Mit Ihrer Anmeldung akzeptieren Sie unsere Datenschutzrichtlinie. Abmeldung jederzeit möglich.",
-      "success": "Willkommen! Überprüfen Sie Ihren Posteingang, um Ihre Anmeldung zu bestätigen."
+      "success": "Willkommen! Ãœberprüfen Sie Ihren Posteingang, um Ihre Anmeldung zu bestätigen."
     },
     "count": "Werden Sie Teil unserer Community innovativer KMU",
     "banner_text": "Erhalten Sie unsere wöchentlichen KI-Tipps",
@@ -630,7 +748,7 @@
       "automation": "Automatisierung",
       "productivity": "Produktivität",
       "hosting": "Hosting",
-      "translation": "Übersetzung"
+      "translation": "Ãœbersetzung"
     },
     "free": "Kostenlos",
     "freemium": "Freemium",
@@ -658,7 +776,7 @@
         "category": "translation",
         "rating": 5,
         "price": "Freemium",
-        "description": "Das beste automatische Übersetzungstool, ideal für mehrsprachige Schweizer KMU.",
+        "description": "Das beste automatische Ãœbersetzungstool, ideal für mehrsprachige Schweizer KMU.",
         "url": "https://www.deepl.com"
       },
       {
@@ -797,7 +915,7 @@
   },
   "partners": {
     "title": "Unsere Partner",
-    "subtitle": "Ein vertrauenswürdiges Ökosystem für Ihre Transformation",
+    "subtitle": "Ein vertrauenswürdiges Ã–kosystem für Ihre Transformation",
     "become_partner": "Partner werden",
     "become_text": "Sie möchten mit IAPME Suisse zusammenarbeiten? Kontaktieren Sie uns.",
     "categories": {
@@ -851,10 +969,22 @@
       "share_text": "Ich habe {score}/30 beim KI-Reifegrad-Score erreicht! Und Sie?",
       "cta": "Kostenloses Audit buchen",
       "levels": {
-        "beginner": { "name": "KI-Anfänger", "description": "Ihr KMU steht ganz am Anfang seiner KI-Reise. Jetzt ist der ideale Zeitpunkt, um zu starten!" },
-        "explorer": { "name": "KI-Entdecker", "description": "Sie haben die ersten Schritte gemacht. Es ist Zeit, Ihren Ansatz zu strukturieren." },
-        "adopter": { "name": "KI-Anwender", "description": "Ihr KMU nutzt KI bereits in bedeutendem Umfang. Schalten Sie einen Gang höher!" },
-        "leader": { "name": "KI-Vorreiter", "description": "Bravo! Ihr KMU ist voraus. Innovieren Sie weiter!" }
+        "beginner": {
+          "name": "KI-Anfänger",
+          "description": "Ihr KMU steht ganz am Anfang seiner KI-Reise. Jetzt ist der ideale Zeitpunkt, um zu starten!"
+        },
+        "explorer": {
+          "name": "KI-Entdecker",
+          "description": "Sie haben die ersten Schritte gemacht. Es ist Zeit, Ihren Ansatz zu strukturieren."
+        },
+        "adopter": {
+          "name": "KI-Anwender",
+          "description": "Ihr KMU nutzt KI bereits in bedeutendem Umfang. Schalten Sie einen Gang höher!"
+        },
+        "leader": {
+          "name": "KI-Vorreiter",
+          "description": "Bravo! Ihr KMU ist voraus. Innovieren Sie weiter!"
+        }
       }
     },
     "knowledge": {
@@ -866,10 +996,22 @@
       "explanation": "Erklärung:",
       "share_text": "Ich habe {score}/15 beim KI-Wissensquiz erreicht!",
       "levels": {
-        "novice": { "name": "KI-Neuling", "description": "Sie stehen am Anfang Ihrer KI-Reise – die perfekte Zeit zum Lernen!" },
-        "connoisseur": { "name": "KI-Kenner", "description": "Gute Grundlagen! Vertiefen Sie Ihr Wissen mit unseren Schulungen." },
-        "expert": { "name": "KI-Experte", "description": "Beeindruckend! Sie beherrschen das Thema." },
-        "genius": { "name": "KI-Genie", "description": "Perfekt oder fast! Sie sind ein wahrer Experte." }
+        "novice": {
+          "name": "KI-Neuling",
+          "description": "Sie stehen am Anfang Ihrer KI-Reise – die perfekte Zeit zum Lernen!"
+        },
+        "connoisseur": {
+          "name": "KI-Kenner",
+          "description": "Gute Grundlagen! Vertiefen Sie Ihr Wissen mit unseren Schulungen."
+        },
+        "expert": {
+          "name": "KI-Experte",
+          "description": "Beeindruckend! Sie beherrschen das Thema."
+        },
+        "genius": {
+          "name": "KI-Genie",
+          "description": "Perfekt oder fast! Sie sind ein wahrer Experte."
+        }
       }
     },
     "tool": {

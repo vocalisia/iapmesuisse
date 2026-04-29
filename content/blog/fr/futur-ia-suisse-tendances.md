@@ -25,7 +25,7 @@ La Suisse est particulièrement bien positionnée pour développer une IA souver
 
 - **L'excellence académique** : EPFL, ETH Zürich, IDIAP et les HES disposent de compétences de classe mondiale
 - **L'infrastructure** : des centres de données en Suisse offrant les plus hauts standards de sécurité
-- **Le cadre réglementaire** : la [nLPD](https://iapmesuisse.ch/nlpd-ia-obligations-pme) et la tradition suisse de protection des données constituent un avantage compétitif
+- **Le cadre réglementaire** : la [nLPD](/fr/blog/nlpd-ia-obligations-pme) et la tradition suisse de protection des données constituent un avantage compétitif
 - **Les investissements** : le Conseil fédéral a annoncé un programme de 500M CHF pour l'IA souveraine sur la période 2026-2030
 
 ### Implications pour les PME
@@ -71,7 +71,7 @@ L'IA ne se limite plus au texte. Les modèles multimodaux combinent texte, image
 - **Analyse de documents complexes** : extraction automatique d'informations à partir de plans, photos, PDF mixtes
 - **Création de contenu multimédia** : génération de vidéos marketing, de présentations animées, de formations interactives
 - **Inspection visuelle** : contrôle qualité automatisé par vision artificielle dans l'industrie
-- **Communication enrichie** : [IA vocale](https://iapmesuisse.ch/ia-vocale-accueil-telephonique) capable de comprendre le contexte visuel et émotionnel
+- **Communication enrichie** : [IA vocale](/fr/blog/ia-vocale-accueil-telephonique) capable de comprendre le contexte visuel et émotionnel
 
 **Horizon** : intégration courante dans les outils métier d'ici 2027-2028.
 
@@ -127,7 +127,7 @@ D'ici 2030, chaque interaction entre une entreprise et ses clients sera potentie
 
 ### Ce que cela implique
 
-- **[CRM prédictif](https://iapmesuisse.ch/crm-intelligent-ia)** : anticipation des besoins avant même que le client ne les exprime
+- **[CRM prédictif](/fr/blog/crm-intelligent-ia)** : anticipation des besoins avant même que le client ne les exprime
 - **Communication contextualisée** : le bon message, au bon moment, sur le bon canal
 - **Service client augmenté** : résolution instantanée de 80 % des demandes courantes
 - **Fidélisation proactive** : détection et prévention du churn avant qu'il ne se produise
@@ -158,7 +158,7 @@ Selon les estimations du SECO et de l'OCDE, 25 à 35 % des tâches professionnel
 
 ### Implications pour les PME
 
-- Nécessité d'investir dans la [formation continue](https://iapmesuisse.ch/formation-ia-dirigeants) des collaborateurs
+- Nécessité d'investir dans la [formation continue](/fr/blog/formation-ia-dirigeants) des collaborateurs
 - Redéfinition des postes et des compétences attendues
 - Opportunité de recentrer les équipes sur les tâches à haute valeur ajoutée
 - Enjeu d'attractivité : les talents veulent travailler avec des outils modernes
@@ -215,8 +215,8 @@ L'écosystème IA suisse se structure et se consolide :
 
 - **Clusters régionaux** : renforcement des pôles de compétences (EPFL/Lausanne, ETH/Zürich, IDIAP/Martigny)
 - **Investissements** : augmentation significative du capital-risque dans les start-ups IA suisses
-- **[Partenariats](https://iapmesuisse.ch/partenaires-ia-suisse-romande)** : collaboration croissante entre hautes écoles, start-ups et entreprises établies
-- **Événements** : multiplication des [conférences et meetups](https://iapmesuisse.ch/evenements-ia-suisse-2026) dédiés
+- **[Partenariats](/fr/blog/partenaires-ia-suisse-romande)** : collaboration croissante entre hautes écoles, start-ups et entreprises établies
+- **Événements** : multiplication des [conférences et meetups](/fr/blog/evenements-ia-suisse-2026) dédiés
 
 ### La position unique de la Suisse
 
@@ -233,7 +233,7 @@ La Suisse dispose d'atouts uniques pour devenir un leader mondial de l'IA respon
 
 ### Actions immédiates (2026)
 
-1. **Réaliser un [audit de maturité IA](https://iapmesuisse.ch/audit-ia-maturite-pme)** pour connaître votre point de départ
+1. **Réaliser un [audit de maturité IA](/fr/blog/audit-ia-maturite-pme)** pour connaître votre point de départ
 2. **Former la direction** aux fondamentaux de l'IA
 3. **Lancer un premier projet pilote** sur un cas d'usage à fort ROI
 4. **Mettre en conformité** vos pratiques avec la nLPD
@@ -268,9 +268,9 @@ Le futur de l'IA en Suisse s'écrit aujourd'hui. Et il s'écrit aussi dans les P
 
 ### Articles connexes
 
-- [Transformation digitale IA des PME romandes](https://iapmesuisse.ch/transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026) — Article pilier
-- [Événements IA en Suisse : agenda 2026](https://iapmesuisse.ch/evenements-ia-suisse-2026)
-- [Subventions et aides pour la digitalisation en Suisse](https://iapmesuisse.ch/subventions-digitalisation-suisse)
+- [Transformation digitale IA des PME romandes](/fr/blog/transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026) — Article pilier
+- [Événements IA en Suisse : agenda 2026](/fr/blog/evenements-ia-suisse-2026)
+- [Subventions et aides pour la digitalisation en Suisse](/fr/blog/subventions-digitalisation-suisse)
 
 ### Ressource externe
 

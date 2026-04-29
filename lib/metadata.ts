@@ -9,8 +9,11 @@ const baseUrl = 'https://iapmesuisse.ch';
 export function getAlternates(locale: string, path: string = '') {
   return {
     canonical: `${baseUrl}/${locale}${path}`,
-    languages: Object.fromEntries(
-      locales.map((l) => [l, `${baseUrl}/${l}${path}`])
-    ),
+    languages: {
+      ...Object.fromEntries(
+        locales.map((l) => [l, `${baseUrl}/${l}${path}`])
+      ),
+      'x-default': `${baseUrl}/fr${path}`,
+    },
   };
 }

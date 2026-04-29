@@ -32,7 +32,7 @@ Cet article présente six études de cas détaillées de PME romandes ayant fran
 
 ### Solution déployée
 
-- [Bexio Pro](https://iapmesuisse.ch/automatiser-comptabilite-ia) avec modules OCR avancés
+- [Bexio Pro](/fr/blog/automatiser-comptabilite-ia) avec modules OCR avancés
 - Yokoy pour la gestion des notes de frais clients
 - Automatisation Make pour les flux inter-applications
 - Formation de l'équipe (3 jours)
@@ -79,8 +79,8 @@ La résistance initiale de l'équipe a été le principal défi. L'implication d
 
 ### Solution déployée
 
-- [IA vocale Vocalis AI](https://iapmesuisse.ch/ia-vocale-accueil-telephonique) pour l'accueil téléphonique 24/7
-- HubSpot CRM avec [scoring IA](https://iapmesuisse.ch/crm-intelligent-ia)
+- [IA vocale Vocalis AI](/fr/blog/ia-vocale-accueil-telephonique) pour l'accueil téléphonique 24/7
+- HubSpot CRM avec [scoring IA](/fr/blog/crm-intelligent-ia)
 - Automatisation de la prise de rendez-vous visite
 - Séquences email automatisées post-visite
 
@@ -225,7 +225,7 @@ Les patients ont très bien accepté l'assistant vocal, contrairement aux craint
 
 ### Solution déployée
 
-- [Marketing automatisé](https://iapmesuisse.ch/marketing-automatise-ia-pme) : Brevo pour l'emailing IA
+- [Marketing automatisé](/fr/blog/marketing-automatise-ia-pme) : Brevo pour l'emailing IA
 - Contenu SEO assisté par IA (8 articles/mois)
 - Google Ads avec Performance Max
 - Segmentation IA de la base clients
@@ -331,9 +331,9 @@ Le dénominateur commun de ces succès n'est ni la technologie ni le budget, mai
 
 ### Articles connexes
 
-- [Transformation digitale IA des PME romandes](https://iapmesuisse.ch/transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026) — Article pilier
-- [Budget IA pour PME suisse : de 500 à 50'000 CHF](https://iapmesuisse.ch/budget-ia-pme-suisse)
-- [Partenaires IA de confiance en Suisse romande](https://iapmesuisse.ch/partenaires-ia-suisse-romande)
+- [Transformation digitale IA des PME romandes](/fr/blog/transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026) — Article pilier
+- [Budget IA pour PME suisse : de 500 à 50'000 CHF](/fr/blog/budget-ia-pme-suisse)
+- [Partenaires IA de confiance en Suisse romande](/fr/blog/partenaires-ia-suisse-romande)
 
 ### Ressource externe
 

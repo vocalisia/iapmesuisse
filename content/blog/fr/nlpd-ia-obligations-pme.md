@@ -162,9 +162,9 @@ L'essentiel est de ne pas attendre un incident pour agir. Une démarche proactiv
 
 ### Articles connexes
 
-- [Intelligence artificielle pour PME suisses : guide complet 2026](https://iapmesuisse.ch/intelligence-artificielle-pme-suisses-guide-complet-2026) — Article pilier
-- [Audit IA : évaluer la maturité numérique de votre PME](https://iapmesuisse.ch/audit-ia-maturite-pme)
-- [Budget IA pour PME suisse : de 500 à 50'000 CHF](https://iapmesuisse.ch/budget-ia-pme-suisse)
+- [Intelligence artificielle pour PME suisses : guide complet 2026](/fr/blog/intelligence-artificielle-pme-suisses-guide-complet-2026) — Article pilier
+- [Audit IA : évaluer la maturité numérique de votre PME](/fr/blog/audit-ia-maturite-pme)
+- [Budget IA pour PME suisse : de 500 à 50'000 CHF](/fr/blog/budget-ia-pme-suisse)
 
 ### Ressource externe
 
