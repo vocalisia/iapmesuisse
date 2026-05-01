@@ -1,5 +1,6 @@
 import type { MetadataRoute } from 'next';
 import { getBlogPosts } from '@/lib/markdown';
+import { CANTONS } from '@/lib/cantons';
 
 const locales = ['fr', 'de', 'en', 'it'];
 const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://iapmesuisse.ch';
@@ -10,7 +11,9 @@ const pages = [
   '/a-propos',
   '/blog',
   '/contact',
+  '/cantons',
   '/ressources',
+  '/ressources/checklist-nlpd-ai-act',
   '/mentions-legales',
   '/politique-confidentialite',
   '/cgv',
@@ -47,6 +50,23 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const localeSlugs: Record<string, Set<string>> = {};
   for (const locale of locales) {
     localeSlugs[locale] = new Set(getBlogPosts(locale).map((p) => p.slug));
+  }
+
+  // Canton pages (9 cantons × 4 locales)
+  for (const canton of CANTONS) {
+    for (const locale of locales) {
+      entries.push({
+        url: `${baseUrl}/${locale}/cantons/${canton.slug}`,
+        lastModified: new Date(),
+        changeFrequency: 'monthly',
+        priority: 0.7,
+        alternates: {
+          languages: Object.fromEntries(
+            locales.map((l) => [l, `${baseUrl}/${l}/cantons/${canton.slug}`])
+          ),
+        },
+      });
+    }
   }
 
   for (const locale of locales) {
