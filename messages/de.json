@@ -105,8 +105,8 @@
     "games": "KI-Spiele"
   },
   "hero": {
-    "title": "KI im Dienste Schweizer KMU",
-    "subtitle": "Strategische Begleitung, Schulung und Integration von KI-Tools zur Transformation Ihres Unternehmens.",
+    "title": "Kostenloses KI-Audit für Schweizer KMU · Schulung & Begleitung",
+    "subtitle": "Strategie, nLPD- und AI-Act-Konformität, Integration von ChatGPT/Copilot/Claude. Audit + ROI-Roadmap in 30 Minuten, unverbindlich. Romandie, Deutschschweiz und Tessin.",
     "cta": "Kostenloses Audit anfordern",
     "secondary_cta": "Unsere Dienstleistungen entdecken"
   },
@@ -225,9 +225,9 @@
     ],
     "team_title": "Das Team",
     "founder": {
-      "name": "VAULT 369 LTD",
-      "role": "Gründer & KI-Berater",
-      "bio": "Experte für künstliche Intelligenz und digitale Transformation, begleitet Schweizer KMU bei ihrem Ãœbergang zur KI. [Mit dem tatsächlichen Werdegang des Gründers personalisieren]"
+      "name": "Laurent Duplat",
+      "role": "Verlagsleiter & KI-Trainer",
+      "bio": "Über 10 Jahre Erfahrung in digitaler Strategie und Automatisierung. Laurent begleitet Schweizer KMU in der konkreten Einführung von KI-Tools: Reifegrad-Audit, Mitarbeiterschulung, Integration von ChatGPT, Copilot, Claude und massgeschneiderten Workflows. Pragmatischer Ansatz, nLPD- und AI-Act-konform, messbarer ROI in 4 bis 12 Wochen."
     }
   },
   "blog": {
@@ -258,7 +258,6 @@
       "email": "contact@iapmesuisse.ch",
       "location": "Chem. Saint-Hubert 2, 1950 Sion, Schweiz",
       "phone": "+41 27 525 00 00",
-      "ide": "VAULT 369 LTD",
       "hours": "Mo - Fr: 9:00 - 18:00"
     }
   },

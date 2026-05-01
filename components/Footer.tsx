@@ -18,6 +18,21 @@ export default function Footer() {
             <p className="mt-4 text-sm leading-relaxed text-gray-300">
               {t('description')}
             </p>
+            <address className="mt-4 not-italic text-xs leading-relaxed text-gray-400">
+              <div className="font-semibold text-gray-300">Laurent Duplat</div>
+              <div>Directeur de la publication & Formateur IA</div>
+              <div className="mt-2">Chem. Saint-Hubert 2</div>
+              <div>1950 Sion · Valais · Suisse</div>
+              <a href="mailto:contact@iapmesuisse.ch" className="mt-2 inline-block text-gray-300 hover:text-white">
+                contact@iapmesuisse.ch
+              </a>
+            </address>
+            <div className="mt-3 flex flex-wrap gap-1.5">
+              <span className="inline-block rounded-md border border-white/15 bg-white/5 px-2 py-0.5 text-[10px] font-medium uppercase tracking-wide text-gray-300">nLPD</span>
+              <span className="inline-block rounded-md border border-white/15 bg-white/5 px-2 py-0.5 text-[10px] font-medium uppercase tracking-wide text-gray-300">AI Act</span>
+              <span className="inline-block rounded-md border border-white/15 bg-white/5 px-2 py-0.5 text-[10px] font-medium uppercase tracking-wide text-gray-300">RGPD</span>
+              <span className="inline-block rounded-md border border-white/15 bg-white/5 px-2 py-0.5 text-[10px] font-medium uppercase tracking-wide text-gray-300">FR · DE · IT · EN</span>
+            </div>
           </div>
 
           {/* Column 2: Services */}

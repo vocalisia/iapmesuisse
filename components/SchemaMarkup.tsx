@@ -24,7 +24,7 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
     "name": "Laurent Duplat",
     "url": `${baseUrl}/fr/a-propos`,
     "jobTitle": "Directeur de la publication & Formateur IA",
-    "description": "Directeur de publication VAULT 369 LTD, formateur IA pour PME suisses",
+    "description": "Directeur de la publication IAPME Suisse, formateur et consultant IA pour PME suisses, plus de 10 ans d'expérience en stratégie digitale et automatisation.",
     "worksFor": { "@type": "Organization", "@id": `${baseUrl}/#organization` },
     "knowsLanguage": ["fr", "de", "en"],
     "sameAs": ["https://vocalis.pro"],

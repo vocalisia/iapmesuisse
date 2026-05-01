@@ -105,8 +105,8 @@
     "games": "Giochi IA"
   },
   "hero": {
-    "title": "L'IA al servizio delle PMI svizzere",
-    "subtitle": "Consulenza strategica, formazione e integrazione di strumenti di intelligenza artificiale per trasformare la vostra impresa.",
+    "title": "Audit IA gratuito per PMI svizzere · Formazione & Accompagnamento",
+    "subtitle": "Strategia, conformità nLPD & AI Act, integrazione ChatGPT/Copilot/Claude. Audit + roadmap ROI in 30 minuti, senza impegno. Svizzera romanda, tedesca e Ticino.",
     "cta": "Richiedere un audit gratuito",
     "secondary_cta": "Scoprire i nostri servizi"
   },
@@ -225,9 +225,9 @@
     ],
     "team_title": "Il team",
     "founder": {
-      "name": "VAULT 369 LTD",
-      "role": "Fondatore & Consulente IA",
-      "bio": "Esperto in intelligenza artificiale e trasformazione digitale, accompagna le PMI svizzere nella loro transizione verso l'IA. [Da personalizzare con il percorso reale del fondatore]"
+      "name": "Laurent Duplat",
+      "role": "Direttore di pubblicazione & Formatore IA",
+      "bio": "Oltre 10 anni di esperienza in strategia digitale e automazione. Laurent accompagna le PMI svizzere nell'adozione concreta di strumenti IA: audit di maturità, formazione dei team, integrazione di ChatGPT, Copilot, Claude e workflow su misura. Approccio pragmatico, conformità nLPD e AI Act, ROI misurabile in 4-12 settimane."
     }
   },
   "blog": {
@@ -258,7 +258,6 @@
       "email": "contact@iapmesuisse.ch",
       "location": "Chem. Saint-Hubert 2, 1950 Sion, Svizzera",
       "phone": "+41 27 525 00 00",
-      "ide": "VAULT 369 LTD",
       "hours": "Lun - Ven: 9:00 - 18:00"
     }
   },

@@ -105,8 +105,8 @@
     "games": "AI Games"
   },
   "hero": {
-    "title": "AI at the service of Swiss SMEs",
-    "subtitle": "Strategic consulting, training and AI tool integration to transform your business.",
+    "title": "Free AI Audit for Swiss SMEs · Training & Support",
+    "subtitle": "Strategy, nLPD & AI Act compliance, ChatGPT/Copilot/Claude integration. Audit + ROI roadmap in 30 minutes, no commitment. French, German and Italian Switzerland.",
     "cta": "Request a free audit",
     "secondary_cta": "Discover our services"
   },
@@ -225,9 +225,9 @@
     ],
     "team_title": "The team",
     "founder": {
-      "name": "VAULT 369 LTD",
-      "role": "Founder & AI Consultant",
-      "bio": "Expert in artificial intelligence and digital transformation, supporting Swiss SMEs in their transition to AI. [Customise with founder's actual background]"
+      "name": "Laurent Duplat",
+      "role": "Publication Director & AI Trainer",
+      "bio": "10+ years of experience in digital strategy and automation. Laurent supports Swiss SMEs in the concrete adoption of AI tools: maturity audit, team training, integration of ChatGPT, Copilot, Claude and tailor-made workflows. Pragmatic approach, nLPD and AI Act compliance, measurable ROI within 4 to 12 weeks."
     }
   },
   "blog": {
@@ -258,7 +258,6 @@
       "email": "contact@iapmesuisse.ch",
       "location": "Chem. Saint-Hubert 2, 1950 Sion, Switzerland",
       "phone": "+41 27 525 00 00",
-      "ide": "VAULT 369 LTD",
       "hours": "Mon - Fri: 9am - 6pm"
     }
   },
