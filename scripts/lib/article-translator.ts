@@ -1,8 +1,6 @@
-import OpenAI from 'openai';
 import { OPENAI_MODEL, SYSTEM_PROMPTS, LANG_NOTES } from './config';
 import type { GeneratedArticle } from './article-generator';
-
-const openai = new OpenAI();
+import { aiClient } from './ai-client';
 
 interface TranslatedArticle {
   title: string;
@@ -26,7 +24,7 @@ Extrait : ${article.excerpt}
 Contenu :
 ${article.content}`;
 
-  const response = await openai.chat.completions.create({
+  const response = await aiClient.chat.completions.create({
     model: OPENAI_MODEL,
     response_format: { type: 'json_object' },
     messages: [

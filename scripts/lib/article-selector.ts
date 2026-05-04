@@ -1,10 +1,8 @@
-import OpenAI from 'openai';
 import fs from 'fs';
 import path from 'path';
 import { OPENAI_MODEL_FAST, SYSTEM_PROMPTS, CONTENT_DIR } from './config';
 import type { RSSItem } from './rss-fetcher';
-
-const openai = new OpenAI();
+import { aiClient } from './ai-client';
 
 export async function selectBestArticle(items: RSSItem[]): Promise<RSSItem | null> {
   if (items.length === 0) {
@@ -35,7 +33,7 @@ export async function selectBestArticle(items: RSSItem[]): Promise<RSSItem | nul
     : '';
 
   try {
-    const response = await openai.chat.completions.create({
+    const response = await aiClient.chat.completions.create({
       model: OPENAI_MODEL_FAST,
       response_format: { type: 'json_object' },
       messages: [
@@ -58,7 +56,7 @@ export async function selectBestArticle(items: RSSItem[]): Promise<RSSItem | nul
     console.log(`[Selector] Selected: "${selected.title}" (score: ${best.score}/10) — ${best.reason}`);
     return selected;
   } catch (err) {
-    console.error('[Selector] OpenAI error:', (err as Error).message);
+    console.error('[Selector] AI error:', (err as Error).message);
     // Fallback: return the first item
     return candidates[0];
   }

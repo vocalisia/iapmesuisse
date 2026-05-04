@@ -1,8 +1,6 @@
-import OpenAI from 'openai';
 import { OPENAI_MODEL, SYSTEM_PROMPTS } from './config';
 import type { RSSItem } from './rss-fetcher';
-
-const openai = new OpenAI();
+import { aiClient } from './ai-client';
 
 export interface GeneratedArticle {
   title: string;
@@ -21,7 +19,7 @@ Date : ${item.pubDate}
 
 Rédige un article ORIGINAL pour les PME suisses basé sur ce sujet.`;
 
-  const response = await openai.chat.completions.create({
+  const response = await aiClient.chat.completions.create({
     model: OPENAI_MODEL,
     response_format: { type: 'json_object' },
     messages: [
