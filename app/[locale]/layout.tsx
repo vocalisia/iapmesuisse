@@ -83,20 +83,7 @@ export default async function LocaleLayout({
   return (
     <html lang={locale} className={inter.className}>
       <head>
-        {/* Hreflang lowercase (React SSR convertit hrefLang → hreflang) */}
-        {routing.locales.map((l) => (
-          <link
-            key={`hl-${l}`}
-            rel="alternate"
-            hrefLang={l}
-            href={`https://iapmesuisse.ch/${l}`}
-          />
-        ))}
-        <link
-          rel="alternate"
-          hrefLang="x-default"
-          href="https://iapmesuisse.ch/fr"
-        />
+        {/* Hreflang gérés par Next.js Metadata API via getAlternates() — pas de hardcode ici */}
         {/* Consent Mode v2 + dynamic GA4 */}
         {process.env.NEXT_PUBLIC_GA4_ID && (
           <script
