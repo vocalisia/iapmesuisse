@@ -1,6 +1,6 @@
 import OpenAI from 'openai';
 
-const apiKey = process.env.MAMMOUTH_API_KEY;
+const apiKey = process.env.MAMMOUTH_API_KEY || process.env.OPENAI_API_KEY;
 if (!apiKey) {
   throw new Error('MAMMOUTH_API_KEY not configured');
 }
