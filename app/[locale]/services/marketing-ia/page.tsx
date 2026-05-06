@@ -1,4 +1,5 @@
 import { getTranslations } from 'next-intl/server';
+import { Link } from '@/i18n/routing';
 import { getAlternates } from '@/lib/metadata';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import CTA from '@/components/CTA';
@@ -40,62 +41,41 @@ export default async function MarketingIaPage({
     '@type': 'Service',
     name: t('schema.name'),
     description: t('schema.description'),
-    provider: {
-      '@type': 'ProfessionalService',
-      name: 'IAPME Suisse',
-      url: 'https://iapmesuisse.ch',
-    },
+    provider: { '@type': 'ProfessionalService', name: 'IAPME Suisse', url: 'https://iapmesuisse.ch' },
     areaServed: { '@type': 'Country', name: 'Switzerland' },
     url: `https://iapmesuisse.ch/${locale}/services/marketing-ia`,
   };
 
   return (
     <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
-      />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
 
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-        <Breadcrumbs
-          items={[
-            { label: tNav('home'), href: '/' },
-            { label: tNav('services'), href: '/services' },
-            { label: t('breadcrumb') },
-          ]}
-        />
+        <Breadcrumbs items={[
+          { label: tNav('home'), href: '/' },
+          { label: tNav('services'), href: '/services' },
+          { label: t('breadcrumb') },
+        ]} />
       </div>
 
-      {/* Hero */}
       <section className="bg-white px-4 pb-12 pt-8 sm:px-6 sm:pb-16 sm:pt-12 lg:px-8">
         <div className="mx-auto max-w-4xl text-center">
           <span className="inline-flex items-center rounded-full bg-blue-50 px-3 py-1 text-sm font-medium text-[#0369A1] ring-1 ring-inset ring-blue-100">
             {t('badge')}
           </span>
-          <h1 className="mt-4 text-4xl font-bold tracking-tight text-[#0F172A] sm:text-5xl">
-            {t('title')}
-          </h1>
-          <p className="mx-auto mt-4 max-w-2xl text-lg leading-relaxed text-gray-600">
-            {t('subtitle')}
-          </p>
+          <h1 className="mt-4 text-4xl font-bold tracking-tight text-[#0F172A] sm:text-5xl">{t('title')}</h1>
+          <p className="mx-auto mt-4 max-w-2xl text-lg leading-relaxed text-gray-600">{t('subtitle')}</p>
           <div className="mt-8 flex flex-col items-center gap-3 sm:flex-row sm:justify-center">
-            <a
-              href={`/${locale}/contact`}
-              className="inline-flex cursor-pointer items-center justify-center rounded-lg bg-[#0369A1] px-6 py-3 text-base font-semibold text-white shadow-sm transition-all duration-200 hover:bg-[#0284C7] hover:shadow-md focus:outline-none focus:ring-2 focus:ring-[#0369A1] focus:ring-offset-2"
-            >
+            <Link href="/contact" className="inline-flex cursor-pointer items-center justify-center rounded-lg bg-[#0369A1] px-6 py-3 text-base font-semibold text-white shadow-sm transition-all duration-200 hover:bg-[#0284C7] hover:shadow-md focus:outline-none focus:ring-2 focus:ring-[#0369A1] focus:ring-offset-2">
               {t('hero.cta')}
-            </a>
-            <a
-              href={`/${locale}/services`}
-              className="inline-flex cursor-pointer items-center justify-center rounded-lg border border-gray-300 bg-white px-6 py-3 text-base font-semibold text-gray-700 transition-all duration-200 hover:border-gray-400 hover:bg-gray-50"
-            >
+            </Link>
+            <Link href="/services" className="inline-flex cursor-pointer items-center justify-center rounded-lg border border-gray-300 bg-white px-6 py-3 text-base font-semibold text-gray-700 transition-all duration-200 hover:border-gray-400 hover:bg-gray-50">
               {t('hero.ctaSecondary')}
-            </a>
+            </Link>
           </div>
         </div>
       </section>
 
-      {/* Pillars */}
       <section className="bg-gray-50 px-4 py-16 sm:px-6 sm:py-20 lg:px-8">
         <div className="mx-auto max-w-7xl">
           <div className="text-center">
@@ -118,7 +98,6 @@ export default async function MarketingIaPage({
         </div>
       </section>
 
-      {/* Results band */}
       <section className="bg-[#0F172A] px-4 py-12 sm:px-6 lg:px-8">
         <div className="mx-auto max-w-7xl">
           <div className="grid gap-8 text-center sm:grid-cols-3">
@@ -132,7 +111,6 @@ export default async function MarketingIaPage({
         </div>
       </section>
 
-      {/* Use cases */}
       <section className="bg-white px-4 py-16 sm:px-6 sm:py-20 lg:px-8">
         <div className="mx-auto max-w-7xl">
           <h2 className="text-center text-3xl font-bold text-[#0F172A] sm:text-4xl">{t('usecases.title')}</h2>
@@ -144,8 +122,7 @@ export default async function MarketingIaPage({
                 <ul className="mt-4 space-y-2">
                   {(['a', 'b', 'c'] as const).map((item) => (
                     <li key={item} className="flex items-start gap-2 text-sm text-gray-700">
-                      <CheckIcon />
-                      {t(`usecases.${u}.${item}`)}
+                      <CheckIcon />{t(`usecases.${u}.${item}`)}
                     </li>
                   ))}
                 </ul>
@@ -155,13 +132,7 @@ export default async function MarketingIaPage({
         </div>
       </section>
 
-      {/* CTA */}
-      <CTA
-        title={t('cta.title')}
-        description={t('cta.description')}
-        buttonText={t('cta.button')}
-        href={`/${locale}/contact`}
-      />
+      <CTA title={t('cta.title')} description={t('cta.description')} buttonText={t('cta.button')} href="/contact" />
     </>
   );
 }

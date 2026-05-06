@@ -208,7 +208,37 @@
         "Quarterly follow-up"
       ]
     },
-    "cta": "Learn more"
+    "cta": "Learn more",
+    "generationLeads": {
+      "title": "AI Lead Generation",
+      "description": "Automate your B2B prospecting with AI. Identify, qualify and nurture prospects automatically.",
+      "features": [
+        "Automatic lead scoring",
+        "Personalized outreach sequences",
+        "CRM integration",
+        "Real-time reporting"
+      ]
+    },
+    "marketingIa": {
+      "title": "AI Marketing Automation",
+      "description": "Create, publish and optimize all your marketing automatically. Content, emails, social media, SEO.",
+      "features": [
+        "AI content creation",
+        "Automated email campaigns",
+        "Automatic social media",
+        "Predictive analytics"
+      ]
+    },
+    "priseRdv": {
+      "title": "Automatic Appointment Booking",
+      "description": "An AI agent available 24/7 that qualifies your prospects and fills your calendar automatically.",
+      "features": [
+        "Available 24/7",
+        "Automatic qualification",
+        "Anti no-show reminders",
+        "Calendar sync"
+      ]
+    }
   },
   "about": {
     "title": "About IAPME Suisse",

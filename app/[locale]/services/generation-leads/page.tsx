@@ -1,4 +1,5 @@
 import { getTranslations } from 'next-intl/server';
+import { Link } from '@/i18n/routing';
 import { getAlternates } from '@/lib/metadata';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import CTA from '@/components/CTA';
@@ -96,18 +97,18 @@ export default async function GenerationLeadsPage({
                 ))}
               </ul>
               <div className="mt-8 flex flex-col gap-3 sm:flex-row">
-                <a
-                  href={`/${locale}/contact`}
+                <Link
+                  href="/contact"
                   className="inline-flex cursor-pointer items-center justify-center rounded-lg bg-[#0369A1] px-6 py-3 text-base font-semibold text-white shadow-sm transition-all duration-200 hover:bg-[#0284C7] hover:shadow-md focus:outline-none focus:ring-2 focus:ring-[#0369A1] focus:ring-offset-2"
                 >
                   {t('hero.cta')}
-                </a>
-                <a
-                  href={`/${locale}/services`}
+                </Link>
+                <Link
+                  href="/services"
                   className="inline-flex cursor-pointer items-center justify-center rounded-lg border border-gray-300 bg-white px-6 py-3 text-base font-semibold text-gray-700 transition-all duration-200 hover:border-gray-400 hover:bg-gray-50"
                 >
                   {t('hero.ctaSecondary')}
-                </a>
+                </Link>
               </div>
             </div>
             <div className="grid grid-cols-2 gap-4">
@@ -159,12 +160,11 @@ export default async function GenerationLeadsPage({
         </div>
       </section>
 
-      {/* CTA */}
       <CTA
         title={t('cta.title')}
         description={t('cta.description')}
         buttonText={t('cta.button')}
-        href={`/${locale}/contact`}
+        href="/contact"
       />
     </>
   );

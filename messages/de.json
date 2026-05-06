@@ -208,7 +208,37 @@
         "Quartalsweise Nachverfolgung"
       ]
     },
-    "cta": "Mehr erfahren"
+    "cta": "Mehr erfahren",
+    "generationLeads": {
+      "title": "KI-Lead-Generierung",
+      "description": "Automatisieren Sie Ihre B2B-Akquise mit KI. Identifizieren, qualifizieren und pflegen Sie Prospects automatisch.",
+      "features": [
+        "Automatisches Lead-Scoring",
+        "Personalisierte Outreach-Sequenzen",
+        "CRM-Integration",
+        "Echtzeit-Reporting"
+      ]
+    },
+    "marketingIa": {
+      "title": "KI-Marketing-Automatisierung",
+      "description": "Erstellen, veröffentlichen und optimieren Sie Ihr Marketing automatisch. Content, E-Mails, Social Media, SEO.",
+      "features": [
+        "KI-Content-Erstellung",
+        "Automatisiertes E-Mail-Marketing",
+        "Automatisches Social Media",
+        "Predictive Analytics"
+      ]
+    },
+    "priseRdv": {
+      "title": "Automatische Terminbuchung",
+      "description": "Ein KI-Agent ist 24/7 verfügbar, qualifiziert Ihre Prospects und füllt Ihren Kalender automatisch.",
+      "features": [
+        "24/7 verfügbar",
+        "Automatische Qualifikation",
+        "Anti-No-Show-Erinnerungen",
+        "Kalender-Sync"
+      ]
+    }
   },
   "about": {
     "title": "Ãœber IAPME Suisse",

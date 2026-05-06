@@ -36,9 +36,17 @@ export default function Header() {
     <header className="sticky top-0 z-40 w-full border-b border-gray-200 bg-white/95 backdrop-blur supports-[backdrop-filter]:bg-white/80">
       <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-4 sm:px-6 lg:px-8">
         {/* Logo */}
-        <Link href="/" className="flex items-baseline gap-0.5 text-2xl font-bold tracking-tight">
-          <span className="text-[#1B2A4A]">IAPME</span>
-          <span className="text-[#FF0000]">Suisse</span>
+        <Link href="/" className="flex items-center gap-2 text-2xl font-bold tracking-tight">
+          {/* Swiss flag */}
+          <svg viewBox="0 0 20 20" width="22" height="22" aria-hidden="true" className="flex-shrink-0">
+            <rect width="20" height="20" rx="3" fill="#FF0000"/>
+            <rect x="8.5" y="3" width="3" height="14" fill="white"/>
+            <rect x="3" y="8.5" width="14" height="3" fill="white"/>
+          </svg>
+          <span className="flex items-baseline gap-0.5">
+            <span className="text-[#1B2A4A]">IAPME</span>
+            <span className="text-[#FF0000]">Suisse</span>
+          </span>
         </Link>
 
         {/* Desktop navigation */}

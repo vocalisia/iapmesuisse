@@ -9,7 +9,7 @@
       "description": "Agence IA pour PME suisses : audit IA, formation, intégration d'outils & accompagnement stratégique sur mesure. Devis gratuit en 24h."
     },
     "about": {
-      "title": "Ã€ propos d'IAPME Suisse – Notre mission",
+      "title": "À propos d'IAPME Suisse – Notre mission",
       "description": "Découvrez l'équipe IAPME Suisse et notre mission : rendre l'IA accessible à toutes les PME suisses."
     },
     "blog": {
@@ -45,7 +45,7 @@
       "description": "Accompagnement expert en intelligence artificielle pour les PME suisses. Audit, stratégie et intégration IA sur mesure."
     },
     "events": {
-      "title": "Ã‰vénements IA Suisse – IAPME",
+      "title": "Événements IA Suisse – IAPME",
       "description": "Conférences, workshops et meetups IA en Suisse"
     },
     "tools": {
@@ -58,7 +58,7 @@
     },
     "quiz_maturity": {
       "title": "Score de Maturité IA – Quiz gratuit",
-      "description": "Ã‰valuez la maturité IA de votre PME en 10 questions. Score personnalisé et recommandations."
+      "description": "Évaluez la maturité IA de votre PME en 10 questions. Score personnalisé et recommandations."
     },
     "quiz_knowledge": {
       "title": "Quiz Connaissances IA – Testez-vous",
@@ -96,7 +96,7 @@
   "nav": {
     "home": "Accueil",
     "services": "Services",
-    "about": "Ã€ propos",
+    "about": "À propos",
     "blog": "Blog",
     "contact": "Contact",
     "resources": "Ressources",
@@ -107,7 +107,7 @@
     "outils": "Outils IA",
     "consulting": "Consulting",
     "newsletter": "Newsletter",
-    "evenements": "Ã‰vénements",
+    "evenements": "Événements",
     "temoignages": "Témoignages",
     "faq": "FAQ",
     "partenaires": "Partenaires",
@@ -208,10 +208,40 @@
         "Suivi trimestriel"
       ]
     },
-    "cta": "En savoir plus"
+    "cta": "En savoir plus",
+    "generationLeads": {
+      "title": "Generation de leads IA",
+      "description": "Automatisez votre prospection B2B avec l'IA. Identifiez, qualifiez et nurturez vos prospects automatiquement.",
+      "features": [
+        "Lead scoring automatique",
+        "Sequences outreach personnalisees",
+        "Integration CRM",
+        "Reporting temps reel"
+      ]
+    },
+    "marketingIa": {
+      "title": "Marketing automatise IA",
+      "description": "Creez, publiez et optimisez tout votre marketing automatiquement. Contenu, emails, social media, SEO.",
+      "features": [
+        "Creation de contenu IA",
+        "Campagnes email automatisees",
+        "Social media automatique",
+        "Analytics predictif"
+      ]
+    },
+    "priseRdv": {
+      "title": "Prise de RDV automatique",
+      "description": "Un agent IA disponible 24h/24 qui qualifie vos prospects et remplit votre agenda automatiquement.",
+      "features": [
+        "Disponible 24/7",
+        "Qualification automatique",
+        "Rappels anti no-show",
+        "Sync calendrier"
+      ]
+    }
   },
   "about": {
-    "title": "Ã€ propos d'IAPME Suisse",
+    "title": "À propos d'IAPME Suisse",
     "mission_title": "Notre mission",
     "mission_text": "Rendre l'intelligence artificielle accessible et utile à toutes les PME suisses, quelle que soit leur taille ou leur secteur d'activité.",
     "why_title": "Pourquoi la Suisse a besoin d'IA pour ses PME",
@@ -307,7 +337,7 @@
       {
         "title": "SECO PME",
         "url": "https://www.seco.admin.ch",
-        "description": "Portail PME du Secrétariat d'Ã‰tat à l'économie"
+        "description": "Portail PME du Secrétariat d'État à l'économie"
       }
     ],
     "faq_title": "Questions fréquentes",
@@ -353,10 +383,10 @@
       "meta_title": "Mentions légales",
       "meta_description": "Mentions légales et informations sur l'éditeur du site iapmesuisse.ch",
       "title": "Mentions légales",
-      "editor_title": "Ã‰diteur du site",
+      "editor_title": "Éditeur du site",
       "editor_text": "IAPME Suisse – un service de VAULT 369 LTD\nChem. Saint-Hubert 2, 1950 Sion, Suisse\nSiège social : 128 City Road, EC1V 2NX, London, United Kingdom\nEmail : contact@iapmesuisse.ch",
       "hosting_title": "Hébergement",
-      "hosting_text": "Le site iapmesuisse.ch est hébergé par Vercel Inc., 340 S Lemon Ave #4133, Walnut, CA 91789, Ã‰tats-Unis.",
+      "hosting_text": "Le site iapmesuisse.ch est hébergé par Vercel Inc., 340 S Lemon Ave #4133, Walnut, CA 91789, États-Unis.",
       "intellectual_title": "Propriété intellectuelle",
       "intellectual_text": "L'ensemble du contenu de ce site (textes, images, logos, icônes) est la propriété d'IAPME Suisse ou de ses partenaires. Toute reproduction, même partielle, est interdite sans autorisation préalable écrite.",
       "liability_title": "Limitation de responsabilité",
@@ -382,7 +412,7 @@
       "cookies_title": "Cookies",
       "cookies_text": "Ce site utilise uniquement des cookies techniques nécessaires au bon fonctionnement. Aucun cookie de tracking ou publicitaire n'est utilisé.",
       "transfer_title": "Transfert de données",
-      "transfer_text": "Le site est hébergé par Vercel Inc. (Ã‰tats-Unis). Des mesures de protection adéquates sont en place conformément à la nLPD.",
+      "transfer_text": "Le site est hébergé par Vercel Inc. (États-Unis). Des mesures de protection adéquates sont en place conformément à la nLPD.",
       "update_title": "Modification",
       "update_text": "IAPME Suisse se réserve le droit de modifier cette politique à tout moment. La version en vigueur est celle publiée sur ce site."
     },
@@ -469,7 +499,7 @@
     "guarantee": "Satisfait ou remboursé 30 jours",
     "vat_note": "Prix en CHF, hors TVA",
     "equipe": {
-      "name": "Formation Ã‰quipe",
+      "name": "Formation Équipe",
       "price": "2500 CHF",
       "description": "Formation IA en visio sur mesure avec vos équipes — 4h d'atelier pratique sur les outils IA adaptés à votre métier",
       "features": [
@@ -673,10 +703,10 @@
     }
   },
   "events": {
-    "title": "Ã‰vénements IA en Suisse",
+    "title": "Événements IA en Suisse",
     "subtitle": "Retrouvez les conférences, workshops et meetups IA près de chez vous",
-    "upcoming": "Ã‰vénements à venir",
-    "past": "Ã‰vénements passés",
+    "upcoming": "Événements à venir",
+    "past": "Événements passés",
     "all": "Tous",
     "free": "Gratuit",
     "paid": "Payant",
@@ -967,10 +997,10 @@
   },
   "quiz": {
     "hub_title": "Quiz & Tests IA",
-    "hub_subtitle": "Ã‰valuez vos connaissances et votre maturité IA de manière ludique",
+    "hub_subtitle": "Évaluez vos connaissances et votre maturité IA de manière ludique",
     "maturity": {
       "title": "Score de Maturité IA",
-      "subtitle": "Ã‰valuez la maturité IA de votre PME en 10 questions",
+      "subtitle": "Évaluez la maturité IA de votre PME en 10 questions",
       "start": "Commencer le test",
       "time": "3 minutes",
       "free": "Gratuit",
@@ -1039,8 +1069,8 @@
     "guess": {
       "title": "Devine l'IA",
       "subtitle": "Saurez-vous distinguer un texte IA d'un texte humain ?",
-      "ai_button": "Ã‰crit par l'IA",
-      "human_button": "Ã‰crit par un humain",
+      "ai_button": "Écrit par l'IA",
+      "human_button": "Écrit par un humain",
       "correct": "Bien vu !",
       "wrong": "Raté !",
       "was_ai": "C'était écrit par une IA",
@@ -1052,9 +1082,9 @@
     },
     "prompt": {
       "title": "Prompt Master",
-      "subtitle": "Ã‰crivez le meilleur prompt possible",
-      "write_prompt": "Ã‰crivez votre prompt ici...",
-      "submit": "Ã‰valuer mon prompt",
+      "subtitle": "Écrivez le meilleur prompt possible",
+      "write_prompt": "Écrivez votre prompt ici...",
+      "submit": "Évaluer mon prompt",
       "challenge": "Défi",
       "criteria": {
         "length": "Longueur suffisante",

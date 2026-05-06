@@ -4,6 +4,7 @@ import { getAlternates } from '@/lib/metadata';
 import ServiceCard from '@/components/ServiceCard';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import CTA from '@/components/CTA';
+import SwissSocialProof from '@/components/SwissSocialProof';
 
 export async function generateMetadata({
   params,
@@ -31,22 +32,16 @@ export default async function ServicesPage({
   const tPricing = await getTranslations({ locale, namespace: 'pricing' });
 
   const services = [
-    {
-      key: 'audit' as const,
-      icon: '\u{1F50D}',
-    },
-    {
-      key: 'training' as const,
-      icon: '\u{1F4DA}',
-    },
-    {
-      key: 'integration' as const,
-      icon: '\u{1F527}',
-    },
-    {
-      key: 'strategy' as const,
-      icon: '\u{1F4C8}',
-    },
+    { key: 'audit' as const, icon: '\u{1F50D}', href: undefined },
+    { key: 'training' as const, icon: '\u{1F4DA}', href: undefined },
+    { key: 'integration' as const, icon: '\u{1F527}', href: undefined },
+    { key: 'strategy' as const, icon: '\u{1F4C8}', href: undefined },
+  ];
+
+  const digitalServices = [
+    { key: 'generationLeads' as const, icon: '\u{1F3AF}', href: '/services/generation-leads' },
+    { key: 'marketingIa' as const, icon: '\u{1F4E3}', href: '/services/marketing-ia' },
+    { key: 'priseRdv' as const, icon: '\u{1F4C5}', href: '/services/prise-de-rdv' },
   ];
 
   // Build Service JSON-LD schemas
@@ -109,24 +104,55 @@ export default async function ServicesPage({
 
       {/* Services Grid */}
       <section className="bg-gray-50 px-4 py-16 sm:px-6 sm:py-20 lg:px-8">
-        <div className="mx-auto grid max-w-7xl gap-8 sm:grid-cols-2">
-          {services.map((service) => {
-            const featuresRaw = t.raw(`${service.key}.features`);
-            const features: string[] = Array.isArray(featuresRaw) ? featuresRaw : [];
+        <div className="mx-auto max-w-7xl">
+          <div className="grid gap-8 sm:grid-cols-2">
+            {services.map((service) => {
+              const featuresRaw = t.raw(`${service.key}.features`);
+              const features: string[] = Array.isArray(featuresRaw) ? featuresRaw : [];
+              return (
+                <ServiceCard
+                  key={service.key}
+                  icon={service.icon}
+                  title={t(`${service.key}.title`)}
+                  description={t(`${service.key}.description`)}
+                  features={features}
+                  ctaText={t('cta')}
+                />
+              );
+            })}
+          </div>
 
-            return (
-              <ServiceCard
-                key={service.key}
-                icon={service.icon}
-                title={t(`${service.key}.title`)}
-                description={t(`${service.key}.description`)}
-                features={features}
-                ctaText={t('cta')}
-              />
-            );
-          })}
+          {/* Digital & AI Growth Services */}
+          <div className="mt-16">
+            <div className="mb-8 text-center">
+              <span className="inline-flex items-center rounded-full bg-blue-50 px-3 py-1 text-sm font-medium text-[#0369A1] ring-1 ring-inset ring-blue-100">
+                Nouveaux services IA
+              </span>
+              <h2 className="mt-3 text-2xl font-bold text-[#1B2A4A]">Croissance digitale par l'IA</h2>
+            </div>
+            <div className="grid gap-8 sm:grid-cols-3">
+              {digitalServices.map((service) => {
+                const featuresRaw = t.raw(`${service.key}.features`);
+                const features: string[] = Array.isArray(featuresRaw) ? featuresRaw : [];
+                return (
+                  <ServiceCard
+                    key={service.key}
+                    icon={service.icon}
+                    title={t(`${service.key}.title`)}
+                    description={t(`${service.key}.description`)}
+                    features={features}
+                    ctaText="Découvrir"
+                    href={service.href}
+                  />
+                );
+              })}
+            </div>
+          </div>
         </div>
       </section>
+
+      {/* Swiss Social Proof */}
+      <SwissSocialProof />
 
       {/* Pricing Section */}
       <section className="bg-white px-4 py-16 sm:px-6 sm:py-20 lg:px-8">

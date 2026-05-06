@@ -3,6 +3,7 @@ import { Link } from '@/i18n/routing';
 import { getAlternates } from '@/lib/metadata';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import CTA from '@/components/CTA';
+import SwissSocialProof from '@/components/SwissSocialProof';
 
 export async function generateMetadata({
   params,
@@ -325,6 +326,9 @@ export default async function FormationPage({
           </div>
         </div>
       </section>
+
+      {/* Swiss Social Proof */}
+      <SwissSocialProof />
 
       {/* Bottom CTA */}
       <CTA

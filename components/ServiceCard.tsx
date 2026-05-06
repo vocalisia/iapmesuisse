@@ -1,6 +1,7 @@
 import { Link } from '@/i18n/routing';
 
 interface ServiceCardProps {
+  href?: string;
   title: string;
   description: string;
   icon: string;
@@ -14,6 +15,7 @@ export default function ServiceCard({
   icon,
   features,
   ctaText = 'En savoir plus',
+  href = '/contact',
 }: ServiceCardProps) {
   return (
     <div className="group flex flex-col rounded-2xl border border-gray-200 bg-white p-6 shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-lg">
@@ -50,7 +52,7 @@ export default function ServiceCard({
 
       {/* CTA button */}
       <Link
-        href="/contact"
+        href={href}
         className="mt-auto inline-flex items-center justify-center rounded-lg bg-[#1B2A4A] px-5 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-[#FF0000]"
       >
         {ctaText}

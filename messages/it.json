@@ -208,7 +208,37 @@
         "Follow-up trimestrale"
       ]
     },
-    "cta": "Scopri di più"
+    "cta": "Scopri di più",
+    "generationLeads": {
+      "title": "Generazione lead IA",
+      "description": "Automatizzate la prospezione B2B con l'IA. Identificate, qualificate e nutrite i prospect automaticamente.",
+      "features": [
+        "Scoring lead automatico",
+        "Sequenze outreach personalizzate",
+        "Integrazione CRM",
+        "Reporting in tempo reale"
+      ]
+    },
+    "marketingIa": {
+      "title": "Marketing automatizzato IA",
+      "description": "Create, pubblicate e ottimizzate tutto il marketing automaticamente. Contenuti, email, social, SEO.",
+      "features": [
+        "Creazione contenuti IA",
+        "Campagne email automatizzate",
+        "Social media automatico",
+        "Analytics predittivo"
+      ]
+    },
+    "priseRdv": {
+      "title": "Prenotazione appuntamenti",
+      "description": "Un agente IA disponibile 24h/24 che qualifica i prospect e riempie il vostro calendario automaticamente.",
+      "features": [
+        "Disponibile 24/7",
+        "Qualificazione automatica",
+        "Promemoria anti no-show",
+        "Sync calendario"
+      ]
+    }
   },
   "about": {
     "title": "Chi è IAPME Suisse",
