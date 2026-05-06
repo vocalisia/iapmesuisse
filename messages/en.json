@@ -79,6 +79,18 @@
     "prompt_master": {
       "title": "Prompt Master – AI Challenge",
       "description": "Test your AI prompt writing skills."
+    },
+    "generationLeads": {
+      "title": "AI Lead Generation for Swiss SMEs - IAPME",
+      "description": "Automate your B2B prospecting with AI. Generate more qualified leads, reduce acquisition costs. Free audit."
+    },
+    "marketingIa": {
+      "title": "AI Marketing Automation for SMEs - IAPME Switzerland",
+      "description": "Automate your marketing with AI: content, emails, social media, SEO and ads. Boost your ROI."
+    },
+    "priseDeRdv": {
+      "title": "Automatic AI Appointment Booking 24/7 - IAPME",
+      "description": "AI agent available 24/7 to qualify prospects and fill your calendar automatically. Fewer no-shows."
     }
   },
   "nav": {
@@ -1053,6 +1065,272 @@
       },
       "tip": "Tip:",
       "share_text": "I scored {score}/25 on Prompt Master!"
+    }
+  },
+  "generationLeads": {
+    "breadcrumb": "Lead Generation",
+    "badge": "Automated B2B Prospecting",
+    "title": "Generate Qualified Leads with AI",
+    "subtitle": "Automate your sales prospecting and fill your pipeline with prospects who are genuinely interested in your offers.",
+    "schema": {
+      "name": "AI Lead Generation for Swiss SMEs",
+      "description": "AI-powered B2B lead generation: automatic scoring, personalized nurturing, CRM integration and real-time reporting."
+    },
+    "hero": {
+      "point1": "Automatic identification of high-potential prospects",
+      "point2": "AI scoring to prioritize your sales efforts",
+      "point3": "Direct integration into your existing CRM",
+      "cta": "Get a free audit",
+      "ctaSecondary": "View all services"
+    },
+    "stats": {
+      "leads": {
+        "value": "+340%",
+        "label": "qualified leads on average"
+      },
+      "conversion": {
+        "value": "x2.8",
+        "label": "improved conversion rate"
+      },
+      "roi": {
+        "value": "6 months",
+        "label": "return on investment"
+      },
+      "setup": {
+        "value": "4 weeks",
+        "label": "full setup"
+      }
+    },
+    "process": {
+      "title": "How it works",
+      "subtitle": "A structured 4-step process for effective AI prospecting from month one",
+      "analyse": {
+        "title": "ICP Analysis",
+        "desc": "Precise identification of your ideal customer: industry, company size, decision-maker role, buying signals."
+      },
+      "ciblage": {
+        "title": "AI Targeting",
+        "desc": "AI identifies and qualifies prospects matching your ICP in the Swiss and international market."
+      },
+      "automatisation": {
+        "title": "Automation",
+        "desc": "Personalized outreach sequences via email, LinkedIn and phone. Smart automatic follow-ups."
+      },
+      "suivi": {
+        "title": "Tracking & Optimization",
+        "desc": "Real-time dashboard, automatic A/B testing and continuous performance optimization."
+      }
+    },
+    "features": {
+      "title": "Included Features",
+      "crm": {
+        "title": "CRM Integration",
+        "desc": "Automatic sync with Salesforce, HubSpot, Pipedrive and 50+ tools."
+      },
+      "scoring": {
+        "title": "AI Lead Scoring",
+        "desc": "Every prospect scored on 40+ behavioral and firmographic criteria."
+      },
+      "nurturing": {
+        "title": "Automated Nurturing",
+        "desc": "Personalized email sequences that educate and convert for you."
+      },
+      "reporting": {
+        "title": "Real-time Reporting",
+        "desc": "Full dashboard: cost per lead, conversion rate, pipeline revenue."
+      },
+      "multichannel": {
+        "title": "Multi-Channel",
+        "desc": "Email, LinkedIn, WhatsApp Business and phone coordinated by AI."
+      },
+      "rgpd": {
+        "title": "GDPR/FADP Compliant",
+        "desc": "Data collection and processing compliant with Swiss and European law."
+      }
+    },
+    "cta": {
+      "title": "Ready to fill your pipeline?",
+      "description": "Get a free audit of your current prospecting strategy and discover your growth potential.",
+      "button": "Request my free audit"
+    }
+  },
+  "marketingIa": {
+    "breadcrumb": "AI Marketing",
+    "badge": "AI-Powered Marketing",
+    "title": "Multiply Your Marketing Impact with AI",
+    "subtitle": "Create, publish and optimize all your marketing automatically. Your team focuses on strategy, AI executes.",
+    "schema": {
+      "name": "AI Marketing Automation for Swiss SMEs",
+      "description": "Complete AI marketing automation: content, email, social media, SEO and ads for Swiss SMEs."
+    },
+    "hero": {
+      "cta": "Get started",
+      "ctaSecondary": "View all services"
+    },
+    "pillars": {
+      "title": "The 6 Pillars of AI Marketing",
+      "subtitle": "A complete solution covering all your marketing channels, synchronized and continuously optimized",
+      "content": {
+        "title": "AI Content Creation",
+        "desc": "Blog articles, product sheets, web pages and video scripts automatically generated and SEO-optimized."
+      },
+      "email": {
+        "title": "Email Marketing",
+        "desc": "Personalized campaigns, AI segmentation, automatic A/B testing and optimal send timing."
+      },
+      "social": {
+        "title": "Social Media",
+        "desc": "Automatic publishing on LinkedIn, Instagram, Facebook with AI-generated visuals and optimized timing."
+      },
+      "seo": {
+        "title": "AI SEO",
+        "desc": "Keyword research, on-page optimization and SEO content tailored to the Swiss market."
+      },
+      "ads": {
+        "title": "AI Advertising",
+        "desc": "Automatic creation and optimization of your Google Ads and Meta Ads campaigns."
+      },
+      "analytics": {
+        "title": "Predictive Analytics",
+        "desc": "Anticipate trends, identify opportunities and make data-driven decisions."
+      }
+    },
+    "results": {
+      "time": {
+        "value": "-70%",
+        "label": "time spent on marketing"
+      },
+      "engagement": {
+        "value": "+180%",
+        "label": "average engagement"
+      },
+      "cost": {
+        "value": "-45%",
+        "label": "customer acquisition cost"
+      }
+    },
+    "usecases": {
+      "title": "Tailored to Your Industry",
+      "ecommerce": {
+        "title": "E-Commerce",
+        "desc": "Product sheets, cart abandonment emails, automatic retargeting.",
+        "a": "SEO-optimized product descriptions at scale",
+        "b": "Personalized cart abandonment sequences",
+        "c": "Dynamic product recommendations"
+      },
+      "services": {
+        "title": "B2C Services",
+        "desc": "Customer testimonials, educational content and automated nurturing.",
+        "a": "Automated local awareness campaigns",
+        "b": "Personalized educational content by segment",
+        "c": "Google reviews and social media management"
+      },
+      "b2b": {
+        "title": "B2B Services",
+        "desc": "Thought leadership, LinkedIn outreach and long-cycle lead nurturing.",
+        "a": "Thought leadership articles on LinkedIn",
+        "b": "Nurturing sequences by buying cycle",
+        "c": "Competitive intelligence alerts"
+      },
+      "local": {
+        "title": "Local Businesses",
+        "desc": "Google My Business, local SEO and automated seasonal campaigns.",
+        "a": "Automated Google My Business management",
+        "b": "Seasonal promotional campaigns",
+        "c": "Local dominance across Switzerland"
+      }
+    },
+    "cta": {
+      "title": "Your marketing on autopilot",
+      "description": "Discover how to automate 80% of your marketing tasks and focus your energy on growth.",
+      "button": "Get a free demo"
+    }
+  },
+  "priseDeRdv": {
+    "breadcrumb": "Automatic Appointment Booking",
+    "badge": "AI Appointment Booking Agent",
+    "title": "Fill Your Calendar Automatically, 24/7",
+    "subtitle": "An AI agent handles all your appointment booking: qualification, time slots, confirmation and reminders. No receptionist needed.",
+    "schema": {
+      "name": "Automatic AI Appointment Booking for Swiss SMEs",
+      "description": "24/7 AI appointment booking agent: qualification, scheduling, confirmation and automatic follow-up for Swiss SMEs."
+    },
+    "hero": {
+      "point1": "Available 24/7, including Swiss public holidays",
+      "point2": "Qualifies prospects before confirming the appointment",
+      "point3": "Real-time sync with Google Calendar, Outlook and Calendly",
+      "cta": "See a live demo",
+      "ctaSecondary": "View all services",
+      "availability": "Available without interruption",
+      "noWaiting": "Zero waiting time for your prospects",
+      "autoConfirm": "Automatic confirmation by email and SMS",
+      "syncCalendar": "Real-time calendar synchronization"
+    },
+    "how": {
+      "title": "How the AI Agent Works",
+      "subtitle": "From first contact to appointment confirmation, fully automated",
+      "qualify": {
+        "title": "Qualification",
+        "desc": "AI asks the right questions to qualify the prospect against your criteria before proposing a slot."
+      },
+      "schedule": {
+        "title": "Scheduling",
+        "desc": "Automatically proposes available time slots based on your rules: duration, buffer, working days."
+      },
+      "remind": {
+        "title": "Automatic Reminders",
+        "desc": "Email and SMS confirmation then D-1 and H-2 reminders to reduce no-shows."
+      },
+      "followup": {
+        "title": "Post-Appointment Follow-up",
+        "desc": "Automatic follow-up email, feedback request and next appointment proposal if needed."
+      }
+    },
+    "benefits": {
+      "title": "Why Automate Your Appointment Booking?",
+      "available": {
+        "title": "Available 24/7",
+        "desc": "Capture prospects at night, on weekends and public holidays. Never miss an opportunity."
+      },
+      "noshow": {
+        "title": "Fewer No-Shows",
+        "desc": "Automatic reminders reduce absences by 60% on average."
+      },
+      "qualify": {
+        "title": "Qualified Prospects",
+        "desc": "Only prospects meeting your criteria get a slot in your calendar."
+      },
+      "crm": {
+        "title": "Automatic CRM Sync",
+        "desc": "Every appointment is automatically created in your CRM with prospect information."
+      },
+      "multilang": {
+        "title": "Multilingual",
+        "desc": "Communicates in French, German, Italian and English based on prospect preference."
+      },
+      "reporting": {
+        "title": "Full Reporting",
+        "desc": "Conversion rates, cancellation reasons, demand peaks at a glance."
+      }
+    },
+    "stats": {
+      "noshow": {
+        "value": "-60%",
+        "label": "no-shows thanks to automatic reminders"
+      },
+      "hours": {
+        "value": "24/7",
+        "label": "appointment booking availability"
+      },
+      "satisfaction": {
+        "value": "+92%",
+        "label": "prospect satisfaction vs. phone"
+      }
+    },
+    "cta": {
+      "title": "Free yourself from inbound calls",
+      "description": "Let AI manage your calendar and focus on your appointments. Demo in 15 minutes.",
+      "button": "See the live demo"
     }
   }
 }

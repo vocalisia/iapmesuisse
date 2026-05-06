@@ -79,6 +79,18 @@
     "prompt_master": {
       "title": "Prompt Master – KI-Challenge",
       "description": "Testen Sie Ihre Fähigkeiten im Verfassen von KI-Prompts."
+    },
+    "generationLeads": {
+      "title": "Lead-Generierung KI fuer KMU Schweiz - IAPME",
+      "description": "B2B-Akquise automatisieren mit KI. Mehr qualifizierte Leads, geringere Kosten. Kostenlose Beratung."
+    },
+    "marketingIa": {
+      "title": "KI-Marketing-Automatisierung fuer KMU - IAPME",
+      "description": "Marketing automatisieren: Content, E-Mails, Social Media, SEO und Werbung mit KI. Mehr ROI."
+    },
+    "priseDeRdv": {
+      "title": "Automatische Terminbuchung KI 24/7 - IAPME",
+      "description": "KI-Agent fuer automatische Terminbuchung rund um die Uhr. Weniger No-Shows, mehr Abschluesse."
     }
   },
   "nav": {
@@ -1053,6 +1065,272 @@
       },
       "tip": "Tipp:",
       "share_text": "Ich habe {score}/25 beim Prompt Master erreicht!"
+    }
+  },
+  "generationLeads": {
+    "breadcrumb": "Lead-Generierung",
+    "badge": "Automatisierte B2B-Akquise",
+    "title": "Qualifizierte Leads mit KI generieren",
+    "subtitle": "Automatisieren Sie Ihre Akquise und fuellen Sie Ihre Pipeline mit wirklich interessierten Prospects.",
+    "schema": {
+      "name": "KI-Lead-Generierung fuer Schweizer KMU",
+      "description": "KI-Loesung fuer B2B Lead-Generierung mit automatischem Scoring, Nurturing und CRM-Integration."
+    },
+    "hero": {
+      "point1": "Automatische Identifikation von High-Potential-Prospects",
+      "point2": "KI-Scoring zur Priorisierung Ihrer Vertriebsaktivitaeten",
+      "point3": "Direkte Integration in Ihr CRM",
+      "cta": "Kostenloses Audit anfordern",
+      "ctaSecondary": "Alle Dienstleistungen"
+    },
+    "stats": {
+      "leads": {
+        "value": "+340%",
+        "label": "qualifizierte Leads im Durchschnitt"
+      },
+      "conversion": {
+        "value": "x2.8",
+        "label": "Verbesserung der Conversion-Rate"
+      },
+      "roi": {
+        "value": "6 Mon.",
+        "label": "Return on Investment"
+      },
+      "setup": {
+        "value": "4 Wo.",
+        "label": "vollstaendige Einrichtung"
+      }
+    },
+    "process": {
+      "title": "So funktioniert es",
+      "subtitle": "Ein strukturierter 4-Schritte-Prozess fuer effektive KI-Akquise",
+      "analyse": {
+        "title": "ICP-Analyse",
+        "desc": "Praezise Identifikation Ihres idealen Kunden: Branche, Groesse, Entscheidungsposition."
+      },
+      "ciblage": {
+        "title": "KI-Targeting",
+        "desc": "Die KI identifiziert und qualifiziert Prospects gemaess Ihrem ICP im Schweizer Markt."
+      },
+      "automatisation": {
+        "title": "Automatisierung",
+        "desc": "Personalisierte Outreach-Sequenzen per E-Mail, LinkedIn und Telefon."
+      },
+      "suivi": {
+        "title": "Nachverfolgung",
+        "desc": "Echtzeit-Dashboard, automatisches A/B-Testing und kontinuierliche Optimierung."
+      }
+    },
+    "features": {
+      "title": "Enthaltene Funktionen",
+      "crm": {
+        "title": "CRM-Integration",
+        "desc": "Automatische Sync mit Salesforce, HubSpot, Pipedrive und 50+ Tools."
+      },
+      "scoring": {
+        "title": "KI-Lead-Scoring",
+        "desc": "Jeder Prospect wird nach 40+ Kriterien bewertet."
+      },
+      "nurturing": {
+        "title": "Automatisiertes Nurturing",
+        "desc": "Personalisierte E-Mail-Sequenzen, die fuer Sie konvertieren."
+      },
+      "reporting": {
+        "title": "Echtzeit-Reporting",
+        "desc": "Cost per Lead, Conversion-Rate, Pipeline Revenue im Dashboard."
+      },
+      "multichannel": {
+        "title": "Multi-Channel",
+        "desc": "E-Mail, LinkedIn, WhatsApp Business und Telefon von KI koordiniert."
+      },
+      "rgpd": {
+        "title": "DSGVO/DSG-konform",
+        "desc": "Datenverarbeitung gemaess Schweizer und europaeischem Recht."
+      }
+    },
+    "cta": {
+      "title": "Bereit, Ihre Pipeline zu fuellen?",
+      "description": "Erhalten Sie ein kostenloses Audit Ihrer aktuellen Akquisestrategie.",
+      "button": "Kostenloses Audit anfordern"
+    }
+  },
+  "marketingIa": {
+    "breadcrumb": "KI-Marketing",
+    "badge": "KI-gestuetztes Marketing",
+    "title": "Multiplizieren Sie Ihre Marketingwirkung mit KI",
+    "subtitle": "Erstellen, veroffentlichen und optimieren Sie Ihr Marketing automatisch. Ihr Team fokussiert auf Strategie.",
+    "schema": {
+      "name": "KI-Marketing-Automatisierung fuer Schweizer KMU",
+      "description": "Vollstaendige KI-Marketing-Automatisierung: Content, E-Mail, Social Media, SEO."
+    },
+    "hero": {
+      "cta": "Jetzt starten",
+      "ctaSecondary": "Alle Dienstleistungen"
+    },
+    "pillars": {
+      "title": "Die 6 Saeulen des KI-Marketings",
+      "subtitle": "Eine vollstaendige Loesung fuer alle Ihre Marketingkanaele",
+      "content": {
+        "title": "KI-Content-Erstellung",
+        "desc": "Blog-Artikel, Produktbeschreibungen, Videos automatisch erstellt und SEO-optimiert."
+      },
+      "email": {
+        "title": "E-Mail-Marketing",
+        "desc": "Personalisierte Kampagnen, KI-Segmentierung und automatisches A/B-Testing."
+      },
+      "social": {
+        "title": "Social Media",
+        "desc": "Automatische Veroffentlichung auf LinkedIn, Instagram und Facebook mit KI-Visuals."
+      },
+      "seo": {
+        "title": "KI-SEO",
+        "desc": "Keyword-Recherche und SEO-Content fuer den Schweizer Markt."
+      },
+      "ads": {
+        "title": "KI-Werbung",
+        "desc": "Automatische Optimierung von Google Ads und Meta Ads Kampagnen."
+      },
+      "analytics": {
+        "title": "Predictive Analytics",
+        "desc": "Trends antizipieren und datenbasierte Entscheidungen treffen."
+      }
+    },
+    "results": {
+      "time": {
+        "value": "-70%",
+        "label": "weniger Zeit fuer Marketing"
+      },
+      "engagement": {
+        "value": "+180%",
+        "label": "durchschnittliches Engagement"
+      },
+      "cost": {
+        "value": "-45%",
+        "label": "Kundenakquisitionskosten"
+      }
+    },
+    "usecases": {
+      "title": "Fuer Ihre Branche",
+      "ecommerce": {
+        "title": "E-Commerce",
+        "desc": "Produktbeschreibungen, Warenkorb-E-Mails, Retargeting.",
+        "a": "SEO-optimierte Produktbeschreibungen in Masse",
+        "b": "Personalisierte Warenkorb-Nachfassaktionen",
+        "c": "Dynamische Produktempfehlungen"
+      },
+      "services": {
+        "title": "B2C-Dienstleistungen",
+        "desc": "Kundenstimmen, edukativer Content, Nurturing.",
+        "a": "Automatisierte lokale Kampagnen",
+        "b": "Personalisierter edukativer Content",
+        "c": "Google-Bewertungen und Social Media"
+      },
+      "b2b": {
+        "title": "B2B-Dienstleistungen",
+        "desc": "Thought Leadership, LinkedIn-Outreach und Nurturing.",
+        "a": "Thought-Leadership-Artikel auf LinkedIn",
+        "b": "Nurturing-Sequenzen nach Kaufzyklus",
+        "c": "Wettbewerbsbeobachtung"
+      },
+      "local": {
+        "title": "Lokaler Handel",
+        "desc": "Google My Business, lokales SEO und saisonale Kampagnen.",
+        "a": "Google My Business automatisiert",
+        "b": "Saisonale Aktionskampagnen",
+        "c": "Lokale Dominanz in der Schweiz"
+      }
+    },
+    "cta": {
+      "title": "Ihr Marketing auf Autopilot",
+      "description": "Entdecken Sie, wie Sie 80% Ihrer Marketingaufgaben automatisieren.",
+      "button": "Kostenlose Demo anfordern"
+    }
+  },
+  "priseDeRdv": {
+    "breadcrumb": "Automatische Terminbuchung",
+    "badge": "KI-Agent fuer Terminbuchung",
+    "title": "Fuellen Sie Ihren Kalender automatisch, 24h/24",
+    "subtitle": "Ein KI-Agent uebernimmt Terminbuchung, Qualifikation, Bestaetigung und Erinnerungen ohne Sekretaerin.",
+    "schema": {
+      "name": "Automatische KI-Terminbuchung fuer Schweizer KMU",
+      "description": "24/7 KI-Agent fuer Terminbuchung: Qualifikation, Planung, Bestaetigung und Follow-up."
+    },
+    "hero": {
+      "point1": "24/7 verfuegbar, auch an Schweizer Feiertagen",
+      "point2": "Qualifiziert Interessenten vor der Terminbestaetigung",
+      "point3": "Echtzeit-Sync mit Google Calendar und Outlook",
+      "cta": "Live-Demo ansehen",
+      "ctaSecondary": "Alle Dienstleistungen",
+      "availability": "Ohne Unterbrechung verfuegbar",
+      "noWaiting": "Null Wartezeit fuer Interessenten",
+      "autoConfirm": "Automatische Bestaetigung per E-Mail und SMS",
+      "syncCalendar": "Echtzeit-Synchronisation Ihres Kalenders"
+    },
+    "how": {
+      "title": "Wie der KI-Agent funktioniert",
+      "subtitle": "Von der ersten Kontaktaufnahme bis zur Bestaetigung vollautomatisch",
+      "qualify": {
+        "title": "Qualifikation",
+        "desc": "Die KI stellt gezielte Fragen zur Qualifikation nach Ihren Kriterien."
+      },
+      "schedule": {
+        "title": "Planung",
+        "desc": "Schlaegt automatisch verfuegbare Zeitfenster gemaess Ihren Regeln vor."
+      },
+      "remind": {
+        "title": "Erinnerungen",
+        "desc": "SMS und E-Mail-Erinnerungen D-1 und H-2 zur No-Show-Reduzierung."
+      },
+      "followup": {
+        "title": "Follow-up",
+        "desc": "Automatisches Follow-up-E-Mail und Feedback-Anfrage nach dem Termin."
+      }
+    },
+    "benefits": {
+      "title": "Warum Terminbuchung automatisieren?",
+      "available": {
+        "title": "24/7 verfuegbar",
+        "desc": "Erfassen Sie Interessenten auch nachts und am Wochenende."
+      },
+      "noshow": {
+        "title": "Weniger No-Shows",
+        "desc": "Automatische Erinnerungen reduzieren Absenzen um 60%."
+      },
+      "qualify": {
+        "title": "Qualifizierte Interessenten",
+        "desc": "Nur passende Interessenten erhalten einen Termin."
+      },
+      "crm": {
+        "title": "Automatische CRM-Sync",
+        "desc": "Jeder Termin wird automatisch im CRM erfasst."
+      },
+      "multilang": {
+        "title": "Mehrsprachig",
+        "desc": "Auf Franzoesisch, Deutsch, Italienisch und Englisch."
+      },
+      "reporting": {
+        "title": "Vollstaendiges Reporting",
+        "desc": "Conversion-Raten und Nachfragespitzen auf einen Blick."
+      }
+    },
+    "stats": {
+      "noshow": {
+        "value": "-60%",
+        "label": "No-Shows dank automatischer Erinnerungen"
+      },
+      "hours": {
+        "value": "24/7",
+        "label": "Terminbuchungsverfuegbarkeit"
+      },
+      "satisfaction": {
+        "value": "+92%",
+        "label": "Interessentenzufriedenheit vs. Telefon"
+      }
+    },
+    "cta": {
+      "title": "Befreien Sie sich von eingehenden Anrufen",
+      "description": "Lassen Sie die KI Ihren Kalender verwalten. Demo in 15 Minuten.",
+      "button": "Live-Demo ansehen"
     }
   }
 }

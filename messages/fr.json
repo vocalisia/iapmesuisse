@@ -79,6 +79,18 @@
     "prompt_master": {
       "title": "Prompt Master – Défi IA",
       "description": "Testez vos compétences en rédaction de prompts IA."
+    },
+    "generationLeads": {
+      "title": "Generation de leads IA pour PME suisses - IAPME",
+      "description": "Automatisez votre prospection B2B avec l'IA. Generez plus de leads qualifies et boostez votre pipeline commercial. Devis gratuit."
+    },
+    "marketingIa": {
+      "title": "Marketing automatise IA pour PME - IAPME Suisse",
+      "description": "Automatisez votre marketing avec l'IA : contenu, emails, reseaux sociaux, SEO et publicites. Augmentez votre ROI marketing."
+    },
+    "priseDeRdv": {
+      "title": "Prise de RDV automatique IA 24/7 - IAPME Suisse",
+      "description": "Agent IA disponible 24h/24 pour qualifier vos prospects et remplir votre agenda automatiquement. Moins de no-shows."
     }
   },
   "nav": {
@@ -1053,6 +1065,272 @@
       },
       "tip": "Conseil :",
       "share_text": "J'ai obtenu {score}/25 au Prompt Master !"
+    }
+  },
+  "generationLeads": {
+    "breadcrumb": "Generation de leads",
+    "badge": "Prospection B2B automatisee",
+    "title": "Generez des leads qualifies grace a l'IA",
+    "subtitle": "Automatisez votre prospection commerciale et remplissez votre pipeline avec des prospects reellement interesses par vos offres.",
+    "schema": {
+      "name": "Generation de leads IA pour PME suisses",
+      "description": "Solution IA de generation de leads B2B : scoring automatique, nurturing personnalise, integration CRM et reporting."
+    },
+    "hero": {
+      "point1": "Identification automatique des prospects a fort potentiel",
+      "point2": "Scoring IA pour prioriser vos efforts commerciaux",
+      "point3": "Integration directe dans votre CRM existant",
+      "cta": "Obtenir un audit gratuit",
+      "ctaSecondary": "Voir tous nos services"
+    },
+    "stats": {
+      "leads": {
+        "value": "+340%",
+        "label": "de leads qualifies en moyenne"
+      },
+      "conversion": {
+        "value": "x2.8",
+        "label": "taux de conversion ameliore"
+      },
+      "roi": {
+        "value": "6 mois",
+        "label": "retour sur investissement"
+      },
+      "setup": {
+        "value": "4 sem.",
+        "label": "mise en place complete"
+      }
+    },
+    "process": {
+      "title": "Comment ca fonctionne",
+      "subtitle": "Un processus structure en 4 etapes pour une prospection IA efficace des le premier mois",
+      "analyse": {
+        "title": "Analyse de votre ICP",
+        "desc": "Identification precise de votre client ideal : secteur, taille entreprise, poste decisionnel, signaux achat."
+      },
+      "ciblage": {
+        "title": "Ciblage IA",
+        "desc": "L'IA identifie et qualifie les prospects correspondant a votre ICP dans votre marche cible suisse et international."
+      },
+      "automatisation": {
+        "title": "Automatisation",
+        "desc": "Sequences outreach personnalisees par email, LinkedIn et telephone. Relances automatiques intelligentes."
+      },
+      "suivi": {
+        "title": "Suivi et optimisation",
+        "desc": "Dashboard en temps reel, A/B testing automatique et optimisation continue des performances."
+      }
+    },
+    "features": {
+      "title": "Fonctionnalites incluses",
+      "crm": {
+        "title": "Integration CRM",
+        "desc": "Synchronisation automatique avec Salesforce, HubSpot, Pipedrive et 50+ outils."
+      },
+      "scoring": {
+        "title": "Lead scoring IA",
+        "desc": "Chaque prospect score selon 40+ criteres comportementaux et firmographiques."
+      },
+      "nurturing": {
+        "title": "Nurturing automatise",
+        "desc": "Sequences email personnalisees qui eduquent et convertissent a votre place."
+      },
+      "reporting": {
+        "title": "Reporting temps reel",
+        "desc": "Tableau de bord complet : cout par lead, taux de conversion, pipeline revenue."
+      },
+      "multichannel": {
+        "title": "Multi-canal",
+        "desc": "Email, LinkedIn, WhatsApp Business et telephone coordonnes par l'IA."
+      },
+      "rgpd": {
+        "title": "Conforme RGPD/LPD",
+        "desc": "Collecte et traitement des donnees conformes au droit suisse et europeen."
+      }
+    },
+    "cta": {
+      "title": "Pret a remplir votre pipeline ?",
+      "description": "Obtenez un audit gratuit de votre strategie de prospection actuelle et decouvrez votre potentiel de croissance.",
+      "button": "Demander mon audit gratuit"
+    }
+  },
+  "marketingIa": {
+    "breadcrumb": "Marketing IA",
+    "badge": "Marketing automatise par IA",
+    "title": "Multipliez votre impact marketing avec l'IA",
+    "subtitle": "Creez, publiez et optimisez l'ensemble de votre marketing en automatique. Votre equipe se concentre sur la strategie, l'IA execute.",
+    "schema": {
+      "name": "Marketing automatise IA pour PME suisses",
+      "description": "Automatisation marketing complete par IA : contenu, email, reseaux sociaux, SEO et publicites pour PME suisses."
+    },
+    "hero": {
+      "cta": "Demarrer maintenant",
+      "ctaSecondary": "Voir tous nos services"
+    },
+    "pillars": {
+      "title": "Les 6 piliers du marketing IA",
+      "subtitle": "Une solution complete qui couvre tous vos canaux marketing, synchronisee et optimisee en continu",
+      "content": {
+        "title": "Creation de contenu IA",
+        "desc": "Articles de blog, fiches produits, pages web et scripts video generes et optimises SEO automatiquement."
+      },
+      "email": {
+        "title": "Email marketing automatise",
+        "desc": "Campagnes personnalisees, segmentation IA, A/B testing automatique et envoi au moment optimal."
+      },
+      "social": {
+        "title": "Reseaux sociaux",
+        "desc": "Publication automatique sur LinkedIn, Instagram, Facebook avec visuels IA et timing optimise."
+      },
+      "seo": {
+        "title": "SEO IA",
+        "desc": "Recherche de mots-cles, optimisation on-page et contenu SEO adapte au marche suisse."
+      },
+      "ads": {
+        "title": "Publicites IA",
+        "desc": "Creation, test et optimisation automatique de vos campagnes Google Ads et Meta Ads."
+      },
+      "analytics": {
+        "title": "Analytics predictif",
+        "desc": "Anticipez les tendances, identifiez les opportunites et prenez des decisions basees sur les donnees."
+      }
+    },
+    "results": {
+      "time": {
+        "value": "-70%",
+        "label": "de temps passe sur le marketing"
+      },
+      "engagement": {
+        "value": "+180%",
+        "label": "d'engagement moyen"
+      },
+      "cost": {
+        "value": "-45%",
+        "label": "de cout d'acquisition client"
+      }
+    },
+    "usecases": {
+      "title": "Adapte a votre secteur",
+      "ecommerce": {
+        "title": "E-commerce",
+        "desc": "Fiches produits, emails de panier abandonne, retargeting automatique.",
+        "a": "Descriptions produits optimisees SEO en masse",
+        "b": "Relances paniers abandonnes personnalisees",
+        "c": "Recommandations produits dynamiques"
+      },
+      "services": {
+        "title": "Services B2C",
+        "desc": "Temoignages clients, contenu educatif et nurturing automatise.",
+        "a": "Campagnes de notoriete locales automatisees",
+        "b": "Contenu educatif personnalise par segment",
+        "c": "Gestion avis Google et reseaux sociaux"
+      },
+      "b2b": {
+        "title": "B2B Services aux entreprises",
+        "desc": "Thought leadership, LinkedIn outreach et nurturing de leads long cycle.",
+        "a": "Articles thought leadership sur LinkedIn",
+        "b": "Sequences nurturing selon le cycle d'achat",
+        "c": "Alertes intelligence concurrentielle"
+      },
+      "local": {
+        "title": "Commerce local et artisans",
+        "desc": "Google My Business, SEO local et campagnes saisonnieres automatisees.",
+        "a": "Gestion Google My Business automatisee",
+        "b": "Campagnes promotionnelles saisonnieres",
+        "c": "Referencement local dominant en Suisse"
+      }
+    },
+    "cta": {
+      "title": "Votre marketing, en pilote automatique",
+      "description": "Decouvrez comment automatiser 80% de vos taches marketing et concentrer votre energie sur la croissance.",
+      "button": "Obtenir une demo gratuite"
+    }
+  },
+  "priseDeRdv": {
+    "breadcrumb": "Prise de RDV automatique",
+    "badge": "Agent IA de prise de RDV",
+    "title": "Remplissez votre agenda automatiquement, 24h/24",
+    "subtitle": "Un agent IA prend en charge toute votre prise de rendez-vous : qualification, creneaux, confirmation et rappels. Sans secretaire.",
+    "schema": {
+      "name": "Prise de RDV automatique IA pour PME suisses",
+      "description": "Agent IA de prise de rendez-vous disponible 24/7 : qualification, planification, confirmation et suivi pour PME suisses."
+    },
+    "hero": {
+      "point1": "Disponible 24h/24, 7j/7, meme les jours feries suisses",
+      "point2": "Qualifie les prospects avant de confirmer le RDV",
+      "point3": "Sync en temps reel avec Google Calendar, Outlook et Calendly",
+      "cta": "Voir une demo live",
+      "ctaSecondary": "Voir tous nos services",
+      "availability": "Disponible sans interruption",
+      "noWaiting": "Zero temps d'attente pour vos prospects",
+      "autoConfirm": "Confirmation automatique par email et SMS",
+      "syncCalendar": "Synchronisation temps reel de votre agenda"
+    },
+    "how": {
+      "title": "Comment fonctionne l'agent IA",
+      "subtitle": "De la premiere prise de contact a la confirmation du RDV, tout est automatise",
+      "qualify": {
+        "title": "Qualification",
+        "desc": "L'IA pose les bonnes questions pour qualifier le prospect selon vos criteres avant de proposer un creneau."
+      },
+      "schedule": {
+        "title": "Planification",
+        "desc": "Propose automatiquement des creneaux disponibles selon vos regles : duree, buffer, jours travailles."
+      },
+      "remind": {
+        "title": "Rappels automatiques",
+        "desc": "SMS et emails de confirmation puis rappels J-1 et H-2 pour reduire les no-shows."
+      },
+      "followup": {
+        "title": "Suivi post-RDV",
+        "desc": "Email de suivi automatique, demande de feedback et proposition de prochain rendez-vous si besoin."
+      }
+    },
+    "benefits": {
+      "title": "Pourquoi automatiser votre prise de RDV ?",
+      "available": {
+        "title": "Disponible 24/7",
+        "desc": "Captez les prospects la nuit, le week-end et les jours feries. Ne ratez plus aucune opportunite."
+      },
+      "noshow": {
+        "title": "Moins de no-shows",
+        "desc": "Les rappels automatiques reduisent les absences de 60% en moyenne."
+      },
+      "qualify": {
+        "title": "Prospects qualifies",
+        "desc": "Seuls les prospects correspondant a vos criteres obtiennent un creneau dans votre agenda."
+      },
+      "crm": {
+        "title": "Sync CRM automatique",
+        "desc": "Chaque RDV est automatiquement cree dans votre CRM avec les informations du prospect."
+      },
+      "multilang": {
+        "title": "Multilingue",
+        "desc": "Communique en francais, allemand, italien et anglais selon la preference du prospect."
+      },
+      "reporting": {
+        "title": "Reporting complet",
+        "desc": "Taux de conversion, motifs d'annulation, pics de demande : visualisez tout en un coup d'oeil."
+      }
+    },
+    "stats": {
+      "noshow": {
+        "value": "-60%",
+        "label": "de no-shows grace aux rappels automatiques"
+      },
+      "hours": {
+        "value": "24/7",
+        "label": "disponibilite de prise de RDV"
+      },
+      "satisfaction": {
+        "value": "+92%",
+        "label": "de satisfaction prospects vs. telephone"
+      }
+    },
+    "cta": {
+      "title": "Liberez-vous des appels entrants",
+      "description": "Laissez l'IA gerer votre agenda et concentrez-vous sur vos rendez-vous. Demo en 15 minutes.",
+      "button": "Voir la demo live"
     }
   }
 }

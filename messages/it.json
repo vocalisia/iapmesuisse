@@ -79,6 +79,18 @@
     "prompt_master": {
       "title": "Prompt Master – Sfida IA",
       "description": "Testate le vostre competenze nella redazione di prompt IA."
+    },
+    "generationLeads": {
+      "title": "Generazione lead IA per PMI svizzere - IAPME",
+      "description": "Automatizzate la prospezione B2B con l'IA. Piu lead qualificati, meno costi di acquisizione. Audit gratuito."
+    },
+    "marketingIa": {
+      "title": "Marketing automatizzato IA per PMI - IAPME Svizzera",
+      "description": "Automatizzate il marketing con l'IA: contenuti, email, social, SEO e pubblicita. Maggiore ROI."
+    },
+    "priseDeRdv": {
+      "title": "Prenotazione appuntamenti IA 24/7 - IAPME Svizzera",
+      "description": "Agente IA disponibile 24h/24 per qualificare i prospect e riempire il vostro calendario automaticamente."
     }
   },
   "nav": {
@@ -1053,6 +1065,272 @@
       },
       "tip": "Consiglio:",
       "share_text": "Ho ottenuto {score}/25 al Prompt Master!"
+    }
+  },
+  "generationLeads": {
+    "breadcrumb": "Generazione lead",
+    "badge": "Prospezione B2B automatizzata",
+    "title": "Generate lead qualificati con l'IA",
+    "subtitle": "Automatizzate la prospezione commerciale e riempite la pipeline con prospect realmente interessati.",
+    "schema": {
+      "name": "Generazione lead IA per PMI svizzere",
+      "description": "Soluzione IA per generazione lead B2B: scoring automatico, nurturing personalizzato, integrazione CRM."
+    },
+    "hero": {
+      "point1": "Identificazione automatica dei prospect ad alto potenziale",
+      "point2": "Scoring IA per prioritizzare gli sforzi commerciali",
+      "point3": "Integrazione diretta nel vostro CRM",
+      "cta": "Richiedete un audit gratuito",
+      "ctaSecondary": "Tutti i servizi"
+    },
+    "stats": {
+      "leads": {
+        "value": "+340%",
+        "label": "lead qualificati in media"
+      },
+      "conversion": {
+        "value": "x2.8",
+        "label": "tasso di conversione migliorato"
+      },
+      "roi": {
+        "value": "6 mesi",
+        "label": "ritorno sull'investimento"
+      },
+      "setup": {
+        "value": "4 sett.",
+        "label": "configurazione completa"
+      }
+    },
+    "process": {
+      "title": "Come funziona",
+      "subtitle": "Un processo strutturato in 4 fasi per una prospezione IA efficace",
+      "analyse": {
+        "title": "Analisi ICP",
+        "desc": "Identificazione precisa del vostro cliente ideale: settore, dimensione, ruolo decisionale."
+      },
+      "ciblage": {
+        "title": "Targeting IA",
+        "desc": "L'IA identifica e qualifica i prospect corrispondenti al vostro ICP nel mercato svizzero."
+      },
+      "automatisation": {
+        "title": "Automazione",
+        "desc": "Sequenze di outreach personalizzate via email, LinkedIn e telefono."
+      },
+      "suivi": {
+        "title": "Monitoraggio",
+        "desc": "Dashboard in tempo reale, A/B testing automatico e ottimizzazione continua."
+      }
+    },
+    "features": {
+      "title": "Funzionalita incluse",
+      "crm": {
+        "title": "Integrazione CRM",
+        "desc": "Sincronizzazione automatica con Salesforce, HubSpot, Pipedrive e 50+ strumenti."
+      },
+      "scoring": {
+        "title": "Lead scoring IA",
+        "desc": "Ogni prospect valutato su 40+ criteri comportamentali e firmografici."
+      },
+      "nurturing": {
+        "title": "Nurturing automatizzato",
+        "desc": "Sequenze email personalizzate che convertono al posto vostro."
+      },
+      "reporting": {
+        "title": "Reporting in tempo reale",
+        "desc": "Dashboard completo: costo per lead, tasso di conversione, pipeline revenue."
+      },
+      "multichannel": {
+        "title": "Multi-canale",
+        "desc": "Email, LinkedIn, WhatsApp Business e telefono coordinati dall'IA."
+      },
+      "rgpd": {
+        "title": "Conforme GDPR/LPD",
+        "desc": "Raccolta e trattamento dei dati conformi al diritto svizzero ed europeo."
+      }
+    },
+    "cta": {
+      "title": "Pronti a riempire la pipeline?",
+      "description": "Ottenete un audit gratuito della vostra strategia di prospezione attuale.",
+      "button": "Richiedete il mio audit gratuito"
+    }
+  },
+  "marketingIa": {
+    "breadcrumb": "Marketing IA",
+    "badge": "Marketing automatizzato con IA",
+    "title": "Moltiplicate l'impatto del marketing con l'IA",
+    "subtitle": "Create, pubblicate e ottimizzate tutto il marketing automaticamente. Il team si concentra sulla strategia.",
+    "schema": {
+      "name": "Marketing automatizzato IA per PMI svizzere",
+      "description": "Automazione marketing completa con IA: contenuti, email, social, SEO e pubblicita."
+    },
+    "hero": {
+      "cta": "Iniziate ora",
+      "ctaSecondary": "Tutti i servizi"
+    },
+    "pillars": {
+      "title": "I 6 pilastri del marketing IA",
+      "subtitle": "Una soluzione completa per tutti i canali marketing, sincronizzata e ottimizzata",
+      "content": {
+        "title": "Creazione contenuti IA",
+        "desc": "Articoli, schede prodotto, pagine web e script video generati e ottimizzati SEO automaticamente."
+      },
+      "email": {
+        "title": "Email marketing",
+        "desc": "Campagne personalizzate, segmentazione IA, A/B testing e invio al momento ottimale."
+      },
+      "social": {
+        "title": "Social media",
+        "desc": "Pubblicazione automatica su LinkedIn, Instagram, Facebook con visual generati dall'IA."
+      },
+      "seo": {
+        "title": "SEO IA",
+        "desc": "Ricerca keyword, ottimizzazione on-page e contenuti SEO adatti al mercato svizzero."
+      },
+      "ads": {
+        "title": "Pubblicita IA",
+        "desc": "Creazione e ottimizzazione automatica di campagne Google Ads e Meta Ads."
+      },
+      "analytics": {
+        "title": "Analytics predittivo",
+        "desc": "Anticipate le tendenze e prendete decisioni basate sui dati."
+      }
+    },
+    "results": {
+      "time": {
+        "value": "-70%",
+        "label": "tempo dedicato al marketing"
+      },
+      "engagement": {
+        "value": "+180%",
+        "label": "engagement medio"
+      },
+      "cost": {
+        "value": "-45%",
+        "label": "costo di acquisizione cliente"
+      }
+    },
+    "usecases": {
+      "title": "Adatto al vostro settore",
+      "ecommerce": {
+        "title": "E-Commerce",
+        "desc": "Schede prodotto, email carrello abbandonato, retargeting automatico.",
+        "a": "Descrizioni prodotto SEO-ottimizzate in massa",
+        "b": "Sequenze recupero carrello personalizzate",
+        "c": "Raccomandazioni prodotto dinamiche"
+      },
+      "services": {
+        "title": "Servizi B2C",
+        "desc": "Testimonianze clienti, contenuti educativi e nurturing automatizzato.",
+        "a": "Campagne di notorieta locali automatizzate",
+        "b": "Contenuti educativi personalizzati per segmento",
+        "c": "Gestione recensioni Google e social media"
+      },
+      "b2b": {
+        "title": "Servizi B2B",
+        "desc": "Thought leadership, LinkedIn outreach e nurturing ciclo lungo.",
+        "a": "Articoli thought leadership su LinkedIn",
+        "b": "Sequenze nurturing per ciclo d'acquisto",
+        "c": "Alert intelligence competitiva"
+      },
+      "local": {
+        "title": "Commercio locale",
+        "desc": "Google My Business, SEO locale e campagne stagionali automatizzate.",
+        "a": "Google My Business automatizzato",
+        "b": "Campagne promozionali stagionali",
+        "c": "Dominanza locale in Svizzera"
+      }
+    },
+    "cta": {
+      "title": "Il vostro marketing in pilota automatico",
+      "description": "Scoprite come automatizzare l'80% dei compiti di marketing.",
+      "button": "Richiedete una demo gratuita"
+    }
+  },
+  "priseDeRdv": {
+    "breadcrumb": "Prenotazione appuntamenti",
+    "badge": "Agente IA per prenotazione appuntamenti",
+    "title": "Riempite il vostro calendario automaticamente, 24h/24",
+    "subtitle": "Un agente IA gestisce tutta la prenotazione: qualificazione, slot, conferma e promemoria. Senza segretaria.",
+    "schema": {
+      "name": "Prenotazione appuntamenti IA automatica per PMI svizzere",
+      "description": "Agente IA 24/7 per prenotazione appuntamenti: qualificazione, pianificazione, conferma e follow-up."
+    },
+    "hero": {
+      "point1": "Disponibile 24h/24, 7/7, anche nei giorni festivi svizzeri",
+      "point2": "Qualifica i prospect prima di confermare l'appuntamento",
+      "point3": "Sync in tempo reale con Google Calendar, Outlook e Calendly",
+      "cta": "Vedere una demo live",
+      "ctaSecondary": "Tutti i servizi",
+      "availability": "Disponibile senza interruzioni",
+      "noWaiting": "Zero tempi d'attesa per i prospect",
+      "autoConfirm": "Conferma automatica via email e SMS",
+      "syncCalendar": "Sincronizzazione agenda in tempo reale"
+    },
+    "how": {
+      "title": "Come funziona l'agente IA",
+      "subtitle": "Dal primo contatto alla conferma dell'appuntamento, tutto automatizzato",
+      "qualify": {
+        "title": "Qualificazione",
+        "desc": "L'IA pone le domande giuste per qualificare il prospect secondo i vostri criteri."
+      },
+      "schedule": {
+        "title": "Pianificazione",
+        "desc": "Propone automaticamente slot disponibili secondo le vostre regole."
+      },
+      "remind": {
+        "title": "Promemoria automatici",
+        "desc": "Email e SMS di conferma poi promemoria G-1 e H-2 per ridurre i no-show."
+      },
+      "followup": {
+        "title": "Follow-up post-appuntamento",
+        "desc": "Email di follow-up automatica, richiesta feedback e proposta appuntamento successivo."
+      }
+    },
+    "benefits": {
+      "title": "Perche automatizzare la prenotazione?",
+      "available": {
+        "title": "Disponibile 24/7",
+        "desc": "Catturate i prospect di notte, nel weekend e nei giorni festivi."
+      },
+      "noshow": {
+        "title": "Meno no-show",
+        "desc": "I promemoria automatici riducono le assenze del 60% in media."
+      },
+      "qualify": {
+        "title": "Prospect qualificati",
+        "desc": "Solo i prospect corrispondenti ai criteri ottengono uno slot."
+      },
+      "crm": {
+        "title": "Sync CRM automatica",
+        "desc": "Ogni appuntamento viene automaticamente creato nel CRM."
+      },
+      "multilang": {
+        "title": "Multilingue",
+        "desc": "Comunica in francese, tedesco, italiano e inglese."
+      },
+      "reporting": {
+        "title": "Reporting completo",
+        "desc": "Tassi di conversione e picchi di domanda in un colpo d'occhio."
+      }
+    },
+    "stats": {
+      "noshow": {
+        "value": "-60%",
+        "label": "no-show grazie ai promemoria automatici"
+      },
+      "hours": {
+        "value": "24/7",
+        "label": "disponibilita prenotazione"
+      },
+      "satisfaction": {
+        "value": "+92%",
+        "label": "soddisfazione prospect vs. telefono"
+      }
+    },
+    "cta": {
+      "title": "Liberate dall'inbound",
+      "description": "Lasciate che l'IA gestisca il vostro calendario. Demo in 15 minuti.",
+      "button": "Vedere la demo live"
     }
   }
 }
