@@ -8,6 +8,9 @@ const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://iapmesuisse.ch';
 const pages = [
   '',
   '/services',
+  '/services/generation-leads',
+  '/services/marketing-ia',
+  '/services/prise-de-rdv',
   '/a-propos',
   '/blog',
   '/contact',
