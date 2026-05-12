@@ -36,7 +36,7 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
     "@id": `${baseUrl}/#organization`,
     "name": "IAPME Suisse",
     "url": baseUrl,
-    "logo": `${baseUrl}/favicon.svg`,
+    "logo": { "@type": "ImageObject", "url": `${baseUrl}/images/hero-bg.jpg`, "width": 1200, "height": 630 },
     "image": `${baseUrl}/images/hero-bg.jpg`,
     "description":
       locale === 'de'
