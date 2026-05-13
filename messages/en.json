@@ -430,7 +430,7 @@
       "services_title": "Service description",
       "services_text": "IAPME Suisse offers consulting, training and integration services in artificial intelligence for Swiss SMEs. The exact scope is defined in a specific quote or contract.",
       "pricing_title": "Pricing and payment",
-      "pricing_text": "Prices are provided on personalized quote. Payment terms specified at order.",
+      "pricing_text": "Prices are provided on request. Prices are in CHF excluding VAT. Payment is due within 30 days.",
       "cancellation_title": "Cancellation",
       "cancellation_text": "Cancellations must be communicated in writing at least 5 business days before the scheduled date.",
       "confidentiality_title": "Confidentiality",
@@ -458,7 +458,7 @@
     },
     "starter": {
       "name": "Starter",
-      "price": "On request",
+      "price": "97 CHF",
       "description": "AI fundamentals for your SME",
       "features": [
         "3h of video",
@@ -471,7 +471,7 @@
     },
     "pro": {
       "name": "Pro",
-      "price": "On request",
+      "price": "297 CHF",
       "description": "Master AI for your business",
       "features": [
         "10h of video",
@@ -489,7 +489,7 @@
     },
     "premium": {
       "name": "Premium",
-      "price": "On request",
+      "price": "997 CHF",
       "description": "Complete transformation with guidance",
       "features": [
         "Full Pro programme",
@@ -502,10 +502,10 @@
       "badge": "VIP"
     },
     "guarantee": "30-day money-back guarantee",
-    "vat_note": "",
+    "vat_note": "Prices in CHF, excl. VAT",
     "equipe": {
       "name": "Team Training",
-      "price": "On request",
+      "price": "2500 CHF",
       "description": "Custom AI training via video call with your team — 4h practical workshop on AI tools tailored to your business",
       "features": [
         "4h video session with your team",
@@ -518,9 +518,17 @@
       "cta": "Book my session",
       "badge": "Custom"
     },
+    "links": {
+      "starter": "https://buy.stripe.com/aFabJ03YS5AQ2SwfS6co00F",
+      "pro": "https://buy.stripe.com/5kQeVc7b44wMgJmgWaco00G",
+      "premium": "https://buy.stripe.com/3cI6oGbrk4wM9gUgWaco00H",
+      "equipe": "https://buy.stripe.com/bJe00iang3sI0Ko8pEco00I",
+      "claude_code": "https://buy.stripe.com/aFabJ07b49R6dxa5dsco00J",
+      "ia_marketing": "https://buy.stripe.com/eVq5kC6700gwgJmfS6co00K"
+    },
     "claude_code": {
       "name": "Formation Claude Code",
-      "price": "On request",
+      "price": "3500 CHF",
       "description": "Atelier visio 4h dédié à Claude Code pour votre équipe dev",
       "badge": "Dev & Tech",
       "cta": "Réserver ma session",
@@ -537,7 +545,7 @@
     },
     "ia_marketing": {
       "name": "Formation IA Marketing",
-      "price": "On request",
+      "price": "2500 CHF",
       "description": "Atelier visio 4h IA Marketing pour votre équipe",
       "badge": "Marketing",
       "cta": "Réserver ma session",
@@ -613,7 +621,7 @@
     "subtitle": "Personalised guidance for your digital transformation",
     "audit": {
       "name": "AI Audit Express",
-      "price": "On request",
+      "price": "297 CHF",
       "description": "Identify your AI opportunities",
       "features": [
         "1h diagnostic call",
@@ -625,7 +633,7 @@
     },
     "accompagnement": {
       "name": "Guidance",
-      "price": "On request",
+      "price": "1,497 CHF",
       "description": "Guided implementation",
       "features": [
         "Full audit (2h)",
@@ -655,7 +663,11 @@
     "book_cta": "Book a slot",
     "cta": "Learn more",
     "booking_title": "Book a discovery call",
-    "booking_description": "30 free minutes to discuss your project"
+    "booking_description": "30 free minutes to discuss your project",
+    "links": {
+      "audit": "https://buy.stripe.com/4gM6oGcvo5AQdxa6hwco00L",
+      "accompagnement": "https://buy.stripe.com/dRm3cugLEaVa64I6hwco00M"
+    }
   },
   "pricing": {
     "title": "Our plans",
@@ -897,7 +909,7 @@
     "items": [
       {
         "question": "Is AI suitable for small businesses?",
-        "answer": "Costs vary by needs. Our free 30-min AI audit gives you a precise, personalized ROI estimate.",
+        "answer": "Absolutely. Tools such as ChatGPT, DeepL and Zapier are available from just a few francs per month and can automate repetitive tasks, improve customer service or accelerate content creation.",
         "category": "general"
       },
       {
@@ -927,7 +939,7 @@
       },
       {
         "question": "How much does an AI project for an SME cost?",
-        "answer": "Costs vary by needs. Our free 30-min AI audit gives you a precise, personalized ROI estimate.",
+        "answer": "Costs range from free (basic tools) to several thousand francs (bespoke integration). Our express audit at 297 CHF provides a precise ROI estimate.",
         "category": "pricing"
       },
       {

@@ -30,7 +30,7 @@ export default async function FormationPage({
   const tHome = await getTranslations({ locale, namespace: 'home' });
 
   const tiers = ['free', 'starter', 'pro', 'premium', 'equipe', 'claude_code', 'ia_marketing'] as const;
-  // NO PRICING rule: Stripe checkout links not exposed publicly (route via /contact instead).
+  const stripeLinks = t.raw('links') as Record<string, string>;
   const testimonials = t.raw('testimonials') as Array<{quote: string; name: string; role: string; company: string}>;
   const caseMetrics = t.raw('case_study_metrics') as Array<{label: string; before_val: string; after_val: string; gain: string}>;
 
@@ -71,8 +71,9 @@ export default async function FormationPage({
             const isClaudeCode = tier === 'claude_code';
             const isMarketing = tier === 'ia_marketing';
 
-            const href = '/contact';
-            const isExternal = false;
+            const stripeUrl = stripeLinks?.[tier] ?? null;
+            const href = stripeUrl ?? '/contact';
+            const isExternal = !!stripeUrl;
 
             return (
               <div

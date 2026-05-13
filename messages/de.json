@@ -430,7 +430,7 @@
       "services_title": "Leistungsbeschreibung",
       "services_text": "IAPME Suisse bietet Beratungs-, Schulungs- und Integrationsdienstleistungen im Bereich künstliche Intelligenz für Schweizer KMU an. Der genaue Umfang wird in einem Angebot oder Vertrag festgelegt.",
       "pricing_title": "Preise und Zahlung",
-      "pricing_text": "Die Preise werden auf Anfrage mitgeteilt. Zahlungsbedingungen werden bei der Bestellung angegeben.",
+      "pricing_text": "Die Preise werden auf Anfrage mitgeteilt. Die Preise verstehen sich in CHF exkl. MwSt. Zahlungsfrist: 30 Tage.",
       "cancellation_title": "Stornierung",
       "cancellation_text": "Stornierungen müssen mindestens 5 Werktage vor dem geplanten Termin schriftlich erfolgen.",
       "confidentiality_title": "Vertraulichkeit",
@@ -458,7 +458,7 @@
     },
     "starter": {
       "name": "Starter",
-      "price": "Auf Anfrage",
+      "price": "97 CHF",
       "description": "Die Grundlagen der KI für Ihr KMU",
       "features": [
         "3 Std. Video",
@@ -471,7 +471,7 @@
     },
     "pro": {
       "name": "Pro",
-      "price": "Auf Anfrage",
+      "price": "297 CHF",
       "description": "Meistern Sie KI für Ihr Unternehmen",
       "features": [
         "10 Std. Video",
@@ -489,7 +489,7 @@
     },
     "premium": {
       "name": "Premium",
-      "price": "Auf Anfrage",
+      "price": "997 CHF",
       "description": "Komplette Transformation mit Begleitung",
       "features": [
         "Gesamtes Pro-Programm",
@@ -502,10 +502,10 @@
       "badge": "VIP"
     },
     "guarantee": "30 Tage Geld-zurück-Garantie",
-    "vat_note": "",
+    "vat_note": "Preise in CHF, exkl. MwSt.",
     "equipe": {
       "name": "Team-Schulung",
-      "price": "Auf Anfrage",
+      "price": "2500 CHF",
       "description": "Massgeschneiderte KI-Schulung per Video mit Ihrem Team — 4-stündiger Praxis-Workshop mit auf Ihr Unternehmen zugeschnittenen KI-Tools",
       "features": [
         "4h Video-Session mit Ihrem Team",
@@ -518,9 +518,17 @@
       "cta": "Session buchen",
       "badge": "Massgeschneidert"
     },
+    "links": {
+      "starter": "https://buy.stripe.com/aFabJ03YS5AQ2SwfS6co00F",
+      "pro": "https://buy.stripe.com/5kQeVc7b44wMgJmgWaco00G",
+      "premium": "https://buy.stripe.com/3cI6oGbrk4wM9gUgWaco00H",
+      "equipe": "https://buy.stripe.com/bJe00iang3sI0Ko8pEco00I",
+      "claude_code": "https://buy.stripe.com/aFabJ07b49R6dxa5dsco00J",
+      "ia_marketing": "https://buy.stripe.com/eVq5kC6700gwgJmfS6co00K"
+    },
     "claude_code": {
       "name": "Formation Claude Code",
-      "price": "Auf Anfrage",
+      "price": "3500 CHF",
       "description": "Atelier visio 4h dédié à Claude Code pour votre équipe dev",
       "badge": "Dev & Tech",
       "cta": "Réserver ma session",
@@ -537,7 +545,7 @@
     },
     "ia_marketing": {
       "name": "Formation IA Marketing",
-      "price": "Auf Anfrage",
+      "price": "2500 CHF",
       "description": "Atelier visio 4h IA Marketing pour votre équipe",
       "badge": "Marketing",
       "cta": "Réserver ma session",
@@ -613,7 +621,7 @@
     "subtitle": "Persönliche Begleitung für Ihre digitale Transformation",
     "audit": {
       "name": "KI-Audit Express",
-      "price": "Auf Anfrage",
+      "price": "297 CHF",
       "description": "Identifizieren Sie Ihre KI-Chancen",
       "features": [
         "1 Std. Diagnosegespräch",
@@ -625,7 +633,7 @@
     },
     "accompagnement": {
       "name": "Begleitung",
-      "price": "Auf Anfrage",
+      "price": "1'497 CHF",
       "description": "Begleitete Implementierung",
       "features": [
         "Vollständiges Audit (2 Std.)",
@@ -655,7 +663,11 @@
     "book_cta": "Termin buchen",
     "cta": "Mehr erfahren",
     "booking_title": "Buchen Sie ein Kennenlerngespräch",
-    "booking_description": "30 Minuten kostenlos, um Ihr Projekt zu besprechen"
+    "booking_description": "30 Minuten kostenlos, um Ihr Projekt zu besprechen",
+    "links": {
+      "audit": "https://buy.stripe.com/4gM6oGcvo5AQdxa6hwco00L",
+      "accompagnement": "https://buy.stripe.com/dRm3cugLEaVa64I6hwco00M"
+    }
   },
   "pricing": {
     "title": "Unsere Angebote",
@@ -897,7 +909,7 @@
     "items": [
       {
         "question": "Ist KI auch für kleine Unternehmen geeignet?",
-        "answer": "Die Kosten variieren je nach Bedarf. Unser kostenloses 30-Min-KI-Audit liefert Ihnen eine genaue, personalisierte ROI-Schätzung.",
+        "answer": "Absolut. Tools wie ChatGPT, DeepL oder Zapier sind bereits ab wenigen Franken pro Monat verfügbar und können repetitive Aufgaben automatisieren, den Kundenservice verbessern oder die Content-Erstellung beschleunigen.",
         "category": "general"
       },
       {
@@ -927,7 +939,7 @@
       },
       {
         "question": "Was kostet ein KI-Projekt für KMU?",
-        "answer": "Die Kosten variieren je nach Bedarf. Unser kostenloses 30-Min-KI-Audit liefert Ihnen eine genaue, personalisierte ROI-Schätzung.",
+        "answer": "Die Kosten variieren: von kostenlos (Basistools) bis zu einigen tausend Franken (massgeschneiderte Integration). Unser Express-Audit für 297 CHF liefert Ihnen eine präzise ROI-Schätzung.",
         "category": "pricing"
       },
       {

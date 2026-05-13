@@ -11,17 +11,6 @@ const nextConfig: NextConfig = {
         destination: '/:locale/quiz/maturite-ia',
         permanent: true,
       },
-      // Pricing-focused articles → /contact (per NO PRICING rule)
-      {
-        source: '/:locale(fr|de|en|it)/blog/prix-formation-ia-pme-suisse-comparatif-cantons-chf',
-        destination: '/:locale/contact',
-        permanent: true,
-      },
-      {
-        source: '/:locale(fr|de|en|it)/blog/budget-ia-pme-suisse',
-        destination: '/:locale/contact',
-        permanent: true,
-      },
     ];
   },
 };

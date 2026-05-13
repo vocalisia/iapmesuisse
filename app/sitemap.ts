@@ -56,18 +56,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
   }
 
   // Build per-locale slug sets to avoid declaring phantom URLs in sitemap.
-  // Excluded slugs: pricing-focused articles redirected to /contact per NO PRICING rule.
-  const excludedSlugs = new Set([
-    'prix-formation-ia-pme-suisse-comparatif-cantons-chf',
-    'budget-ia-pme-suisse',
-  ]);
   const localeSlugs: Record<string, Set<string>> = {};
   for (const locale of locales) {
-    localeSlugs[locale] = new Set(
-      getBlogPosts(locale)
-        .map((p) => p.slug)
-        .filter((slug) => !excludedSlugs.has(slug))
-    );
+    localeSlugs[locale] = new Set(getBlogPosts(locale).map((p) => p.slug));
   }
 
   // Canton pages (9 cantons × 4 locales)
