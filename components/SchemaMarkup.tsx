@@ -129,19 +129,11 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
     "hasCourseInstance": [
       {
         "@type": "CourseInstance",
-        "name": "Découverte (Gratuit)",
+        "name": "Découverte",
         "description": "Webinaire de découverte des outils IA pour PME, 1h en ligne.",
         "courseMode": "online",
         "courseWorkload": "PT1H",
         "instructor": { "@type": "Person", "name": "Laurent Duplat" },
-        "offers": {
-          "@type": "Offer",
-          "price": "0",
-          "priceCurrency": "CHF",
-          "availability": "https://schema.org/InStock",
-          "url": `${baseUrl}/${locale}/contact`,
-          "category": "Free webinar",
-        },
       },
       {
         "@type": "CourseInstance",
@@ -150,14 +142,6 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
         "courseMode": "online",
         "courseWorkload": "PT4H",
         "instructor": { "@type": "Person", "name": "Laurent Duplat" },
-        "offers": {
-          "@type": "Offer",
-          "price": "97",
-          "priceCurrency": "CHF",
-          "availability": "https://schema.org/InStock",
-          "url": "https://buy.stripe.com/aFabJ03YS5AQ2SwfS6co00F",
-          "category": "Group training",
-        },
       },
       {
         "@type": "CourseInstance",
@@ -166,14 +150,6 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
         "courseMode": "blended",
         "courseWorkload": "PT12H",
         "instructor": { "@type": "Person", "name": "Laurent Duplat" },
-        "offers": {
-          "@type": "Offer",
-          "price": "297",
-          "priceCurrency": "CHF",
-          "availability": "https://schema.org/InStock",
-          "url": "https://buy.stripe.com/5kQeVc7b44wMgJmgWaco00G",
-          "category": "Group training",
-        },
       },
       {
         "@type": "CourseInstance",
@@ -182,14 +158,6 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
         "courseMode": "blended",
         "courseWorkload": "PT30H",
         "instructor": { "@type": "Person", "name": "Laurent Duplat" },
-        "offers": {
-          "@type": "Offer",
-          "price": "997",
-          "priceCurrency": "CHF",
-          "availability": "https://schema.org/InStock",
-          "url": "https://buy.stripe.com/3cI6oGbrk4wM9gUgWaco00H",
-          "category": "Premium training",
-        },
       },
       {
         "@type": "CourseInstance",
@@ -205,14 +173,6 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
           },
         },
         "instructor": { "@type": "Person", "name": "Laurent Duplat" },
-        "offers": {
-          "@type": "Offer",
-          "price": "2500",
-          "priceCurrency": "CHF",
-          "availability": "https://schema.org/InStock",
-          "url": "https://buy.stripe.com/bJe00iang3sI0Ko8pEco00I",
-          "category": "Team training",
-        },
       },
       {
         "@type": "CourseInstance",
@@ -221,14 +181,6 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
         "courseMode": "blended",
         "courseWorkload": "PT4H",
         "instructor": { "@type": "Person", "name": "Laurent Duplat" },
-        "offers": {
-          "@type": "Offer",
-          "price": "3500",
-          "priceCurrency": "CHF",
-          "availability": "https://schema.org/InStock",
-          "url": "https://buy.stripe.com/aFabJ07b49R6dxa5dsco00J",
-          "category": "Technical training",
-        },
       },
       {
         "@type": "CourseInstance",
@@ -237,26 +189,9 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
         "courseMode": "blended",
         "courseWorkload": "PT4H",
         "instructor": { "@type": "Person", "name": "Laurent Duplat" },
-        "offers": {
-          "@type": "Offer",
-          "price": "2500",
-          "priceCurrency": "CHF",
-          "availability": "https://schema.org/InStock",
-          "url": "https://buy.stripe.com/eVq5kC6700gwgJmfS6co00K",
-          "category": "Marketing training",
-        },
       },
     ],
     "url": `${baseUrl}/${locale}/formation-ia-pme`,
-    "offers": {
-      "@type": "AggregateOffer",
-      "priceCurrency": "CHF",
-      "lowPrice": "0",
-      "highPrice": "3500",
-      "offerCount": "7",
-      "availability": "https://schema.org/InStock",
-      "category": "AI Training",
-    },
   };
 
   return (
