@@ -7,6 +7,7 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import NewsletterBanner from '@/components/NewsletterBanner';
 import CookieBanner from '@/components/CookieBanner';
+import WhatsAppFAB from '@/components/WhatsAppFAB';
 import SchemaMarkup from '@/components/SchemaMarkup';
 import { notFound } from 'next/navigation';
 
@@ -101,6 +102,7 @@ export default async function LocaleLayout({
           <Footer />
           <NewsletterBanner />
           <CookieBanner />
+          <WhatsAppFAB />
         </NextIntlClientProvider>
       </body>
     </html>
