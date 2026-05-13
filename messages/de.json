@@ -518,14 +518,6 @@
       "cta": "Session buchen",
       "badge": "Massgeschneidert"
     },
-    "links": {
-      "starter": "https://buy.stripe.com/aFabJ03YS5AQ2SwfS6co00F",
-      "pro": "https://buy.stripe.com/5kQeVc7b44wMgJmgWaco00G",
-      "premium": "https://buy.stripe.com/3cI6oGbrk4wM9gUgWaco00H",
-      "equipe": "https://buy.stripe.com/bJe00iang3sI0Ko8pEco00I",
-      "claude_code": "https://buy.stripe.com/aFabJ07b49R6dxa5dsco00J",
-      "ia_marketing": "https://buy.stripe.com/eVq5kC6700gwgJmfS6co00K"
-    },
     "claude_code": {
       "name": "Formation Claude Code",
       "price": "Auf Anfrage",
@@ -664,10 +656,6 @@
     "cta": "Mehr erfahren",
     "booking_title": "Buchen Sie ein Kennenlerngespräch",
     "booking_description": "30 Minuten kostenlos, um Ihr Projekt zu besprechen",
-    "links": {
-      "audit": "https://buy.stripe.com/4gM6oGcvo5AQdxa6hwco00L",
-      "accompagnement": "https://buy.stripe.com/dRm3cugLEaVa64I6hwco00M"
-    }
   },
   "pricing": {
     "title": "Unsere Angebote",
