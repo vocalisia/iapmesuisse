@@ -31,7 +31,6 @@ const pages = [
   '/jeux-ia',
   '/jeux-ia/devine-ia',
   '/jeux-ia/prompt-master',
-  '/quiz',
   '/quiz/maturite-ia',
   '/quiz/quel-outil-ia',
   '/quiz/test-connaissances',

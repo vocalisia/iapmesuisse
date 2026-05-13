@@ -65,8 +65,46 @@ export default async function BlogPostPage({
     }
   );
 
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://iapmesuisse.ch';
+  const articleUrl = `${baseUrl}/${locale}/blog/${slug}`;
+  const imageUrl = post.image.startsWith('http') ? post.image : `${baseUrl}${post.image}`;
+
+  const blogPostingSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BlogPosting',
+    '@id': `${articleUrl}#article`,
+    headline: post.title,
+    description: post.excerpt,
+    image: imageUrl,
+    datePublished: post.date,
+    dateModified: post.date,
+    author: {
+      '@type': 'Person',
+      name: post.author,
+      url: `${baseUrl}/${locale}/a-propos`,
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'IAPME Suisse',
+      logo: {
+        '@type': 'ImageObject',
+        url: `${baseUrl}/images/logo.png`,
+      },
+    },
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': articleUrl,
+    },
+    inLanguage: localeMap[locale] || 'fr-CH',
+    url: articleUrl,
+  };
+
   return (
     <section className="min-h-screen bg-gray-light">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(blogPostingSchema) }}
+      />
       {/* Breadcrumbs */}
       <div className="mx-auto max-w-4xl px-4 pt-6 sm:px-6 lg:px-8">
         <Breadcrumbs
