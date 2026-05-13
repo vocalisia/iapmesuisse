@@ -3,31 +3,53 @@ import { getAlternates } from '@/lib/metadata';
 import { getBlogPosts } from '@/lib/markdown';
 import BlogCard from '@/components/BlogCard';
 import Breadcrumbs from '@/components/Breadcrumbs';
+import { Link } from '@/i18n/routing';
+
+const POSTS_PER_PAGE = 12;
 
 export async function generateMetadata({
   params,
+  searchParams,
 }: {
   params: Promise<{ locale: string }>;
+  searchParams: Promise<{ page?: string }>;
 }) {
   const { locale } = await params;
+  const sp = await searchParams;
+  const page = Math.max(1, parseInt(sp.page || '1', 10) || 1);
   const t = await getTranslations({ locale, namespace: 'metadata.blog' });
 
+  const baseTitle = t('title');
+  const baseDesc = t('description');
+  const title = page > 1 ? `${baseTitle} — Page ${page}` : baseTitle;
+
   return {
-    title: t('title'),
-    description: t('description'),
-    alternates: getAlternates(locale, '/blog'),
+    title,
+    description: baseDesc,
+    alternates: getAlternates(locale, page > 1 ? `/blog?page=${page}` : '/blog'),
+    ...(page > 1 ? { robots: { index: false, follow: true } } : {}),
   };
 }
 
 export default async function BlogPage({
   params,
+  searchParams,
 }: {
   params: Promise<{ locale: string }>;
+  searchParams: Promise<{ page?: string }>;
 }) {
   const { locale } = await params;
+  const sp = await searchParams;
+  const page = Math.max(1, parseInt(sp.page || '1', 10) || 1);
+
   const t = await getTranslations({ locale, namespace: 'blog' });
   const tNav = await getTranslations({ locale, namespace: 'nav' });
-  const posts = getBlogPosts(locale);
+  const allPosts = getBlogPosts(locale);
+
+  const totalPages = Math.max(1, Math.ceil(allPosts.length / POSTS_PER_PAGE));
+  const safePage = Math.min(page, totalPages);
+  const startIdx = (safePage - 1) * POSTS_PER_PAGE;
+  const posts = allPosts.slice(startIdx, startIdx + POSTS_PER_PAGE);
 
   return (
     <section className="bg-gray-light min-h-screen">
@@ -52,7 +74,7 @@ export default async function BlogPage({
       </div>
 
       {/* Blog Grid */}
-      <div className="mx-auto max-w-7xl px-4 pb-20 sm:px-6 lg:px-8">
+      <div className="mx-auto max-w-7xl px-4 pb-12 sm:px-6 lg:px-8">
         {posts.length > 0 ? (
           <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
             {posts.map((post) => (
@@ -71,11 +93,45 @@ export default async function BlogPage({
             ))}
           </div>
         ) : (
-          <p className="text-center text-gray-500">
-            —
-          </p>
+          <p className="text-center text-gray-500">—</p>
         )}
       </div>
+
+      {/* Pagination */}
+      {totalPages > 1 && (
+        <nav
+          aria-label="Pagination"
+          className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-4 pb-20 sm:px-6 lg:px-8"
+        >
+          {safePage > 1 ? (
+            <Link
+              href={safePage === 2 ? '/blog' : `/blog?page=${safePage - 1}`}
+              rel="prev"
+              className="inline-flex items-center gap-2 rounded-lg border border-gray-300 bg-white px-4 py-2 text-sm font-semibold text-primary transition-colors hover:bg-gray-50"
+            >
+              <span aria-hidden="true">←</span> {safePage - 1}
+            </Link>
+          ) : (
+            <span />
+          )}
+
+          <span className="text-sm text-gray-500">
+            Page {safePage} / {totalPages}
+          </span>
+
+          {safePage < totalPages ? (
+            <Link
+              href={`/blog?page=${safePage + 1}`}
+              rel="next"
+              className="inline-flex items-center gap-2 rounded-lg border border-gray-300 bg-white px-4 py-2 text-sm font-semibold text-primary transition-colors hover:bg-gray-50"
+            >
+              {safePage + 1} <span aria-hidden="true">→</span>
+            </Link>
+          ) : (
+            <span />
+          )}
+        </nav>
+      )}
     </section>
   );
 }

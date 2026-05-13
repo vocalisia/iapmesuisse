@@ -35,7 +35,7 @@ export const CANTONS: Canton[] = [
     smeCount: '35 000+',
     language: 'fr',
     topSectors: ['Banque privée & finance', 'Organisations internationales', 'Horlogerie', 'Trading & négoce', 'Cabinets d\'avocats'],
-    funding: 'Chèque annuel formation (CAF) 750-2 250 CHF',
+    funding: 'Chèque annuel formation (CAF) Genève',
     names: { fr: 'Genève', de: 'Genf', en: 'Geneva', it: 'Ginevra' },
   },
   {
@@ -55,7 +55,7 @@ export const CANTONS: Canton[] = [
     smeCount: '20 000+',
     language: 'fr',
     topSectors: ['Tourisme & hôtellerie alpine', 'Viticulture', 'Énergie hydraulique', 'Industrie chimique', 'Construction de montagne'],
-    funding: 'Service Formation Pro VS, subvention 30-50%',
+    funding: 'Service Formation Pro VS — subvention disponible',
     names: { fr: 'Valais', de: 'Wallis', en: 'Valais', it: 'Vallese' },
   },
   {
@@ -75,7 +75,7 @@ export const CANTONS: Canton[] = [
     smeCount: '6 000+',
     language: 'fr',
     topSectors: ['Microtechnique', 'Horlogerie', 'Industrie automobile sous-traitance', 'Agriculture'],
-    funding: 'Bourses formation continue Jura jusqu\'à 1 200 CHF',
+    funding: 'Bourses formation continue Jura',
     names: { fr: 'Jura', de: 'Jura', en: 'Jura', it: 'Giura' },
   },
   {

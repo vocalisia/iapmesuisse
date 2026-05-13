@@ -430,7 +430,7 @@
       "services_title": "Description des services",
       "services_text": "IAPME Suisse propose des services de conseil, formation et intégration en intelligence artificielle destinés aux PME suisses. Le périmètre exact est défini dans un devis ou contrat spécifique.",
       "pricing_title": "Tarifs et paiement",
-      "pricing_text": "Les tarifs sont communiqués sur devis. Les prix s'entendent en CHF hors TVA. Paiement dû sous 30 jours.",
+      "pricing_text": "Les tarifs sont communiqués sur devis personnalisé. Conditions de paiement précisées à la commande.",
       "cancellation_title": "Annulation",
       "cancellation_text": "Toute annulation doit être communiquée par écrit au minimum 5 jours ouvrables avant la date prévue.",
       "confidentiality_title": "Confidentialité",
@@ -458,7 +458,7 @@
     },
     "starter": {
       "name": "Starter",
-      "price": "97 CHF",
+      "price": "Sur devis",
       "description": "Les bases de l'IA pour votre PME",
       "features": [
         "3h de vidéo",
@@ -471,7 +471,7 @@
     },
     "pro": {
       "name": "Pro",
-      "price": "297 CHF",
+      "price": "Sur devis",
       "description": "Maîtrisez l'IA pour votre entreprise",
       "features": [
         "10h de vidéo",
@@ -489,7 +489,7 @@
     },
     "premium": {
       "name": "Premium",
-      "price": "997 CHF",
+      "price": "Sur devis",
       "description": "Transformation complète avec accompagnement",
       "features": [
         "Tout le programme Pro",
@@ -502,10 +502,10 @@
       "badge": "VIP"
     },
     "guarantee": "Satisfait ou remboursé 30 jours",
-    "vat_note": "Prix en CHF, hors TVA",
+    "vat_note": "",
     "equipe": {
       "name": "Formation Équipe",
-      "price": "2500 CHF",
+      "price": "Sur devis",
       "description": "Formation IA en visio sur mesure avec vos équipes — 4h d'atelier pratique sur les outils IA adaptés à votre métier",
       "features": [
         "Session visio 4h avec votre équipe",
@@ -528,7 +528,7 @@
     },
     "claude_code": {
       "name": "Formation Claude Code",
-      "price": "3500 CHF",
+      "price": "Sur devis",
       "description": "Atelier visio 4h dédié à Claude Code pour votre équipe dev",
       "badge": "Dev & Tech",
       "cta": "Réserver ma session",
@@ -545,7 +545,7 @@
     },
     "ia_marketing": {
       "name": "Formation IA Marketing",
-      "price": "2500 CHF",
+      "price": "Sur devis",
       "description": "Atelier visio 4h IA Marketing pour votre équipe",
       "badge": "Marketing",
       "cta": "Réserver ma session",
@@ -621,7 +621,7 @@
     "subtitle": "Un accompagnement personnalisé pour votre transformation digitale",
     "audit": {
       "name": "Audit IA Express",
-      "price": "297 CHF",
+      "price": "Sur devis",
       "description": "Identifiez vos opportunités IA",
       "features": [
         "Appel diagnostic 1h",
@@ -633,7 +633,7 @@
     },
     "accompagnement": {
       "name": "Accompagnement",
-      "price": "1'497 CHF",
+      "price": "Sur devis",
       "description": "Implémentation guidée",
       "features": [
         "Audit complet (2h)",
@@ -886,7 +886,7 @@
     "items": [
       {
         "question": "L'IA est-elle adaptée aux petites entreprises ?",
-        "answer": "Absolument. Des outils comme ChatGPT, DeepL ou Zapier sont accessibles dès quelques francs par mois et peuvent automatiser des tâches répétitives, améliorer le service client ou accélérer la création de contenu.",
+        "answer": "Les coûts varient selon vos besoins. Notre audit IA gratuit 30 min vous donne une estimation ROI précise et personnalisée.",
         "category": "general"
       },
       {
@@ -916,7 +916,7 @@
       },
       {
         "question": "Combien coûte un projet IA pour PME ?",
-        "answer": "Les coûts varient : de gratuit (outils de base) à quelques milliers de francs (intégration sur mesure). Notre audit express à 297 CHF vous donne une estimation précise du ROI.",
+        "answer": "Les coûts varient selon vos besoins. Notre audit IA gratuit 30 min vous donne une estimation ROI précise et personnalisée.",
         "category": "pricing"
       },
       {

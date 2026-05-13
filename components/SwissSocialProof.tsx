@@ -15,8 +15,8 @@ const sources = [
   },
   {
     org: 'PwC Switzerland',
-    stat: 'CHF 1.2 Mia',
-    label: 'de gains de productivité potentiels pour les PME suisses grâce à l\'IA d\'ici 2027',
+    stat: 'Massifs',
+    label: 'gains de productivité potentiels pour les PME suisses grâce à l\'IA d\'ici 2027 (étude PwC Switzerland)',
     url: 'https://www.pwc.ch/fr/insights/digital/ai.html',
     logo: 'PwC',
   },

@@ -430,7 +430,7 @@
       "services_title": "Leistungsbeschreibung",
       "services_text": "IAPME Suisse bietet Beratungs-, Schulungs- und Integrationsdienstleistungen im Bereich künstliche Intelligenz für Schweizer KMU an. Der genaue Umfang wird in einem Angebot oder Vertrag festgelegt.",
       "pricing_title": "Preise und Zahlung",
-      "pricing_text": "Die Preise werden auf Anfrage mitgeteilt. Die Preise verstehen sich in CHF exkl. MwSt. Zahlungsfrist: 30 Tage.",
+      "pricing_text": "Die Preise werden auf Anfrage mitgeteilt. Zahlungsbedingungen werden bei der Bestellung angegeben.",
       "cancellation_title": "Stornierung",
       "cancellation_text": "Stornierungen müssen mindestens 5 Werktage vor dem geplanten Termin schriftlich erfolgen.",
       "confidentiality_title": "Vertraulichkeit",
@@ -458,7 +458,7 @@
     },
     "starter": {
       "name": "Starter",
-      "price": "97 CHF",
+      "price": "Auf Anfrage",
       "description": "Die Grundlagen der KI für Ihr KMU",
       "features": [
         "3 Std. Video",
@@ -471,7 +471,7 @@
     },
     "pro": {
       "name": "Pro",
-      "price": "297 CHF",
+      "price": "Auf Anfrage",
       "description": "Meistern Sie KI für Ihr Unternehmen",
       "features": [
         "10 Std. Video",
@@ -489,7 +489,7 @@
     },
     "premium": {
       "name": "Premium",
-      "price": "997 CHF",
+      "price": "Auf Anfrage",
       "description": "Komplette Transformation mit Begleitung",
       "features": [
         "Gesamtes Pro-Programm",
@@ -502,10 +502,10 @@
       "badge": "VIP"
     },
     "guarantee": "30 Tage Geld-zurück-Garantie",
-    "vat_note": "Preise in CHF, exkl. MwSt.",
+    "vat_note": "",
     "equipe": {
       "name": "Team-Schulung",
-      "price": "2500 CHF",
+      "price": "Auf Anfrage",
       "description": "Massgeschneiderte KI-Schulung per Video mit Ihrem Team — 4-stündiger Praxis-Workshop mit auf Ihr Unternehmen zugeschnittenen KI-Tools",
       "features": [
         "4h Video-Session mit Ihrem Team",
@@ -528,7 +528,7 @@
     },
     "claude_code": {
       "name": "Formation Claude Code",
-      "price": "3500 CHF",
+      "price": "Auf Anfrage",
       "description": "Atelier visio 4h dédié à Claude Code pour votre équipe dev",
       "badge": "Dev & Tech",
       "cta": "Réserver ma session",
@@ -545,7 +545,7 @@
     },
     "ia_marketing": {
       "name": "Formation IA Marketing",
-      "price": "2500 CHF",
+      "price": "Auf Anfrage",
       "description": "Atelier visio 4h IA Marketing pour votre équipe",
       "badge": "Marketing",
       "cta": "Réserver ma session",
@@ -621,7 +621,7 @@
     "subtitle": "Persönliche Begleitung für Ihre digitale Transformation",
     "audit": {
       "name": "KI-Audit Express",
-      "price": "297 CHF",
+      "price": "Auf Anfrage",
       "description": "Identifizieren Sie Ihre KI-Chancen",
       "features": [
         "1 Std. Diagnosegespräch",
@@ -633,7 +633,7 @@
     },
     "accompagnement": {
       "name": "Begleitung",
-      "price": "1'497 CHF",
+      "price": "Auf Anfrage",
       "description": "Begleitete Implementierung",
       "features": [
         "Vollständiges Audit (2 Std.)",
@@ -909,7 +909,7 @@
     "items": [
       {
         "question": "Ist KI auch für kleine Unternehmen geeignet?",
-        "answer": "Absolut. Tools wie ChatGPT, DeepL oder Zapier sind bereits ab wenigen Franken pro Monat verfügbar und können repetitive Aufgaben automatisieren, den Kundenservice verbessern oder die Content-Erstellung beschleunigen.",
+        "answer": "Die Kosten variieren je nach Bedarf. Unser kostenloses 30-Min-KI-Audit liefert Ihnen eine genaue, personalisierte ROI-Schätzung.",
         "category": "general"
       },
       {
@@ -939,7 +939,7 @@
       },
       {
         "question": "Was kostet ein KI-Projekt für KMU?",
-        "answer": "Die Kosten variieren: von kostenlos (Basistools) bis zu einigen tausend Franken (massgeschneiderte Integration). Unser Express-Audit für 297 CHF liefert Ihnen eine präzise ROI-Schätzung.",
+        "answer": "Die Kosten variieren je nach Bedarf. Unser kostenloses 30-Min-KI-Audit liefert Ihnen eine genaue, personalisierte ROI-Schätzung.",
         "category": "pricing"
       },
       {

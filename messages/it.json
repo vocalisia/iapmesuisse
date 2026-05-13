@@ -430,7 +430,7 @@
       "services_title": "Descrizione dei servizi",
       "services_text": "IAPME Suisse offre servizi di consulenza, formazione e integrazione nel campo dell'intelligenza artificiale per le PMI svizzere. L'ambito esatto è definito in un preventivo o contratto specifico.",
       "pricing_title": "Tariffe e pagamento",
-      "pricing_text": "Le tariffe sono comunicate su richiesta. I prezzi si intendono in CHF IVA esclusa. Pagamento entro 30 giorni.",
+      "pricing_text": "Le tariffe sono comunicate su preventivo personalizzato. Condizioni di pagamento precisate al momento dell'ordine.",
       "cancellation_title": "Annullamento",
       "cancellation_text": "Ogni annullamento deve essere comunicato per iscritto almeno 5 giorni lavorativi prima della data prevista.",
       "confidentiality_title": "Riservatezza",
@@ -458,7 +458,7 @@
     },
     "starter": {
       "name": "Starter",
-      "price": "97 CHF",
+      "price": "Su richiesta",
       "description": "Le basi dell'IA per la vostra PMI",
       "features": [
         "3 ore di video",
@@ -471,7 +471,7 @@
     },
     "pro": {
       "name": "Pro",
-      "price": "297 CHF",
+      "price": "Su richiesta",
       "description": "Padroneggiate l'IA per la vostra impresa",
       "features": [
         "10 ore di video",
@@ -489,7 +489,7 @@
     },
     "premium": {
       "name": "Premium",
-      "price": "997 CHF",
+      "price": "Su richiesta",
       "description": "Trasformazione completa con accompagnamento",
       "features": [
         "Intero programma Pro",
@@ -502,10 +502,10 @@
       "badge": "VIP"
     },
     "guarantee": "Soddisfatti o rimborsati entro 30 giorni",
-    "vat_note": "Prezzi in CHF, IVA esclusa",
+    "vat_note": "",
     "equipe": {
       "name": "Formazione Team",
-      "price": "2500 CHF",
+      "price": "Su richiesta",
       "description": "Formazione IA personalizzata in videoconferenza con il tuo team — 4h di workshop pratico sugli strumenti IA adatti al tuo settore",
       "features": [
         "Sessione video 4h con il tuo team",
@@ -528,7 +528,7 @@
     },
     "claude_code": {
       "name": "Formation Claude Code",
-      "price": "3500 CHF",
+      "price": "Su richiesta",
       "description": "Atelier visio 4h dédié à Claude Code pour votre équipe dev",
       "badge": "Dev & Tech",
       "cta": "Réserver ma session",
@@ -545,7 +545,7 @@
     },
     "ia_marketing": {
       "name": "Formation IA Marketing",
-      "price": "2500 CHF",
+      "price": "Su richiesta",
       "description": "Atelier visio 4h IA Marketing pour votre équipe",
       "badge": "Marketing",
       "cta": "Réserver ma session",
@@ -621,7 +621,7 @@
     "subtitle": "Un accompagnamento personalizzato per la vostra trasformazione digitale",
     "audit": {
       "name": "Audit IA Express",
-      "price": "297 CHF",
+      "price": "Su richiesta",
       "description": "Identificate le vostre opportunità IA",
       "features": [
         "Chiamata diagnostica di 1 ora",
@@ -633,7 +633,7 @@
     },
     "accompagnement": {
       "name": "Accompagnamento",
-      "price": "1'497 CHF",
+      "price": "Su richiesta",
       "description": "Implementazione guidata",
       "features": [
         "Audit completo (2 ore)",
@@ -909,7 +909,7 @@
     "items": [
       {
         "question": "L'IA è adatta alle piccole imprese?",
-        "answer": "Assolutamente. Strumenti come ChatGPT, DeepL o Zapier sono accessibili a partire da pochi franchi al mese e possono automatizzare attività ripetitive, migliorare il servizio clienti o accelerare la creazione di contenuti.",
+        "answer": "I costi variano in base alle esigenze. Il nostro audit IA gratuito di 30 min fornisce una stima ROI precisa e personalizzata.",
         "category": "general"
       },
       {
@@ -939,7 +939,7 @@
       },
       {
         "question": "Quanto costa un progetto IA per PMI?",
-        "answer": "I costi variano: da gratuito (strumenti base) a qualche migliaio di franchi (integrazione su misura). Il nostro audit express a 297 CHF vi fornisce una stima precisa del ROI.",
+        "answer": "I costi variano in base alle esigenze. Il nostro audit IA gratuito di 30 min fornisce una stima ROI precisa e personalizzata.",
         "category": "pricing"
       },
       {
