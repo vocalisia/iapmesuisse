@@ -65,7 +65,7 @@ export default async function HomePage({
   return (
     <>
       {/* Hero Section */}
-      <section className="relative overflow-hidden bg-[#1B2A4A] px-4 py-20 sm:px-6 sm:py-28 lg:px-8">
+      <section className="relative overflow-hidden bg-[#1B2A4A] px-4 py-16 sm:px-6 sm:py-28 lg:px-8">
         <Image
           src="/images/hero-bg.jpg"
           alt=""
@@ -74,22 +74,22 @@ export default async function HomePage({
           priority
         />
         <div className="relative z-10 mx-auto max-w-4xl text-center">
-          <h1 className="text-4xl font-extrabold tracking-tight text-white sm:text-5xl lg:text-6xl">
+          <h1 className="text-balance text-3xl font-extrabold tracking-tight text-white [hyphens:auto] sm:text-5xl lg:text-6xl">
             {tHero('title')}
           </h1>
-          <p className="mx-auto mt-6 max-w-2xl text-lg leading-relaxed text-gray-200 sm:text-xl">
+          <p className="text-pretty mx-auto mt-6 max-w-2xl text-base leading-relaxed text-gray-200 sm:text-xl">
             {tHero('subtitle')}
           </p>
           <div className="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
             <Link
               href="/contact"
-              className="inline-flex items-center justify-center rounded-lg bg-accent px-8 py-3.5 text-base font-semibold text-white shadow-lg transition-all duration-200 hover:bg-accent-dark hover:shadow-xl"
+              className="inline-flex w-full items-center justify-center rounded-lg bg-accent px-6 py-3.5 text-base font-semibold text-white shadow-lg transition-all duration-200 hover:bg-accent-dark hover:shadow-xl sm:w-auto sm:px-8"
             >
               {tHero('cta')}
             </Link>
             <Link
               href="/services"
-              className="inline-flex items-center justify-center rounded-lg border-2 border-white px-8 py-3.5 text-base font-semibold text-white transition-all duration-200 hover:bg-white hover:text-primary"
+              className="inline-flex w-full items-center justify-center rounded-lg border-2 border-white px-6 py-3.5 text-base font-semibold text-white transition-all duration-200 hover:bg-white hover:text-primary sm:w-auto sm:px-8"
             >
               {tHero('secondary_cta')}
             </Link>

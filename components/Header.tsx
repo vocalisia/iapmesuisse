@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { Link } from '@/i18n/routing';
 import { useTranslations } from 'next-intl';
 import LanguageSwitcher from './LanguageSwitcher';
@@ -31,12 +31,46 @@ export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [moreOpen, setMoreOpen] = useState(false);
   const t = useTranslations('nav');
+  const closeTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const moreRef = useRef<HTMLDivElement | null>(null);
+
+  const cancelClose = () => {
+    if (closeTimer.current) {
+      clearTimeout(closeTimer.current);
+      closeTimer.current = null;
+    }
+  };
+
+  const scheduleClose = () => {
+    cancelClose();
+    closeTimer.current = setTimeout(() => setMoreOpen(false), 200);
+  };
+
+  useEffect(() => {
+    if (!moreOpen) return;
+    const onClickOutside = (e: MouseEvent) => {
+      if (moreRef.current && !moreRef.current.contains(e.target as Node)) {
+        setMoreOpen(false);
+      }
+    };
+    const onEsc = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') setMoreOpen(false);
+    };
+    document.addEventListener('mousedown', onClickOutside);
+    document.addEventListener('keydown', onEsc);
+    return () => {
+      document.removeEventListener('mousedown', onClickOutside);
+      document.removeEventListener('keydown', onEsc);
+    };
+  }, [moreOpen]);
+
+  useEffect(() => () => cancelClose(), []);
 
   return (
     <header className="sticky top-0 z-40 w-full border-b border-gray-200 bg-white/95 backdrop-blur supports-[backdrop-filter]:bg-white/80">
       <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-4 sm:px-6 lg:px-8">
         {/* Logo */}
-        <Link href="/" className="flex items-center gap-2 text-2xl font-bold tracking-tight">
+        <Link href="/" className="flex items-center gap-2 text-lg font-bold tracking-tight sm:text-xl lg:text-2xl">
           {/* Swiss flag */}
           <svg viewBox="0 0 20 20" width="22" height="22" aria-hidden="true" className="flex-shrink-0">
             <rect width="20" height="20" rx="3" fill="#FF0000"/>
@@ -50,26 +84,32 @@ export default function Header() {
         </Link>
 
         {/* Desktop navigation */}
-        <nav className="hidden items-center gap-1 lg:flex">
+        <nav className="hidden items-center gap-0.5 md:flex lg:gap-1">
           {mainLinks.map((link) => (
             <Link
               key={link.labelKey}
               href={link.href}
-              className="rounded-md px-2.5 py-2 text-sm font-medium text-[#1B2A4A] transition-colors hover:bg-gray-100 hover:text-[#FF0000]"
+              className="rounded-md px-2 py-2 text-[13px] font-medium text-[#1B2A4A] transition-colors hover:bg-gray-100 hover:text-[#FF0000] lg:px-2.5 lg:text-sm"
             >
               {t(link.labelKey)}
             </Link>
           ))}
           {/* More dropdown */}
           <div
+            ref={moreRef}
             className="relative"
-            onMouseEnter={() => setMoreOpen(true)}
-            onMouseLeave={() => setMoreOpen(false)}
+            onMouseEnter={() => {
+              cancelClose();
+              setMoreOpen(true);
+            }}
+            onMouseLeave={scheduleClose}
           >
             <button
               type="button"
-              onClick={() => setMoreOpen(!moreOpen)}
-              className="flex items-center gap-1 rounded-md px-2.5 py-2 text-sm font-medium text-[#1B2A4A] transition-colors hover:bg-gray-100 hover:text-[#FF0000]"
+              onClick={() => setMoreOpen((v) => !v)}
+              aria-expanded={moreOpen}
+              aria-haspopup="true"
+              className="flex items-center gap-1 rounded-md px-2 py-2 text-[13px] font-medium text-[#1B2A4A] transition-colors hover:bg-gray-100 hover:text-[#FF0000] lg:px-2.5 lg:text-sm"
             >
               {t('more')}
               <svg className={`h-3.5 w-3.5 transition-transform ${moreOpen ? 'rotate-180' : ''}`} fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
@@ -77,16 +117,23 @@ export default function Header() {
               </svg>
             </button>
             {moreOpen && (
-              <div className="absolute right-0 z-50 mt-1 w-48 rounded-md border border-gray-200 bg-white py-1 shadow-lg">
-                {moreLinks.map((link) => (
-                  <Link
-                    key={link.labelKey}
-                    href={link.href}
-                    className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-50 hover:text-[#FF0000]"
-                  >
-                    {t(link.labelKey)}
-                  </Link>
-                ))}
+              <div
+                className="absolute right-0 z-50 w-[min(12rem,calc(100vw-2rem))] pt-2"
+                onMouseEnter={cancelClose}
+                onMouseLeave={scheduleClose}
+              >
+                <div className="rounded-md border border-gray-200 bg-white py-1 shadow-lg">
+                  {moreLinks.map((link) => (
+                    <Link
+                      key={link.labelKey}
+                      href={link.href}
+                      onClick={() => setMoreOpen(false)}
+                      className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-50 hover:text-[#FF0000]"
+                    >
+                      {t(link.labelKey)}
+                    </Link>
+                  ))}
+                </div>
               </div>
             )}
           </div>
@@ -96,7 +143,7 @@ export default function Header() {
         <div className="flex items-center gap-2">
           <Link
             href="/quiz/maturite-ia"
-            className="hidden rounded-lg bg-[#FF0000] px-4 py-2 text-sm font-semibold text-white shadow-sm transition-all duration-200 hover:bg-red-700 hover:shadow-md sm:inline-flex sm:items-center sm:gap-1.5"
+            className="hidden rounded-lg bg-[#FF0000] px-3 py-2 text-xs font-semibold text-white shadow-sm transition-all duration-200 hover:bg-red-700 hover:shadow-md lg:inline-flex lg:items-center lg:gap-1.5 lg:px-4 lg:text-sm"
           >
             <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
               <path strokeLinecap="round" strokeLinejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4" />
@@ -109,7 +156,7 @@ export default function Header() {
           <button
             type="button"
             onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-            className="inline-flex items-center justify-center rounded-md p-2 text-[#1B2A4A] hover:bg-gray-100 lg:hidden"
+            className="inline-flex items-center justify-center rounded-md p-2 text-[#1B2A4A] hover:bg-gray-100 md:hidden"
             aria-expanded={mobileMenuOpen}
             aria-label="Toggle navigation menu"
           >
@@ -129,7 +176,7 @@ export default function Header() {
       {/* Mobile slide-in menu */}
       {/* Overlay */}
       <div
-        className={`fixed inset-0 z-40 bg-black/30 transition-opacity lg:hidden ${
+        className={`fixed inset-0 z-40 bg-black/30 transition-opacity md:hidden ${
           mobileMenuOpen ? 'opacity-100' : 'pointer-events-none opacity-0'
         }`}
         onClick={() => setMobileMenuOpen(false)}
@@ -138,7 +185,7 @@ export default function Header() {
 
       {/* Slide-in panel */}
       <nav
-        className={`fixed right-0 top-0 z-50 flex h-full w-72 flex-col bg-white shadow-xl transition-transform duration-300 ease-in-out lg:hidden ${
+        className={`fixed right-0 top-0 z-50 flex h-full w-72 max-w-[85vw] flex-col bg-white shadow-xl transition-transform duration-300 ease-in-out md:hidden ${
           mobileMenuOpen ? 'translate-x-0' : 'translate-x-full'
         }`}
       >

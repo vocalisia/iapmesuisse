@@ -18,17 +18,17 @@ export default function ServiceCard({
   href = '/contact',
 }: ServiceCardProps) {
   return (
-    <div className="group flex flex-col rounded-2xl border border-gray-200 bg-white p-6 shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-lg">
+    <div className="group flex flex-col rounded-2xl border border-gray-200 bg-white p-5 shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-lg sm:p-6">
       {/* Icon */}
       <div className="mb-4 flex h-14 w-14 items-center justify-center rounded-xl bg-[#1B2A4A]/5 text-3xl">
         {icon}
       </div>
 
       {/* Title */}
-      <h3 className="mb-2 text-xl font-bold text-[#1B2A4A]">{title}</h3>
+      <h3 className="mb-2 break-words text-lg font-bold text-[#1B2A4A] sm:text-xl">{title}</h3>
 
       {/* Description */}
-      <p className="mb-4 text-sm leading-relaxed text-gray-600">{description}</p>
+      <p className="mb-4 text-pretty text-sm leading-relaxed text-gray-600">{description}</p>
 
       {/* Feature list */}
       {features.length > 0 && (
@@ -44,7 +44,7 @@ export default function ServiceCard({
               >
                 <path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" />
               </svg>
-              <span>{feature}</span>
+              <span className="break-words">{feature}</span>
             </li>
           ))}
         </ul>
