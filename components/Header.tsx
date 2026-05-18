@@ -219,7 +219,7 @@ export default function Header() {
 
       {/* Slide-in panel */}
       <nav
-        className={`fixed right-0 top-0 z-[60] flex h-full w-72 max-w-[85vw] flex-col overflow-y-auto overscroll-contain bg-white shadow-xl transition-transform duration-300 ease-in-out md:hidden ${
+        className={`fixed right-0 top-0 z-[60] flex h-screen w-72 max-w-[85vw] flex-col overflow-y-auto overscroll-contain bg-white shadow-xl transition-transform duration-300 ease-in-out md:hidden ${
           mobileMenuOpen ? 'translate-x-0' : 'translate-x-full'
         }`}
       >
