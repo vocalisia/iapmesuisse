@@ -1,7 +1,7 @@
 ---
-title: "AI Tools for Swiss SMEs 2026: Tested & Approved"
+title: "20 AI Tools for Swiss SMEs in 2026 (Productivity, Sales, HR, Accounting)"
 date: "2026-03-26"
-excerpt: "Best AI visibility tools for Swiss SMEs and digital marketers in 2026: productivity, sales, HR, accounting. Real tests and reviews. Free audit."
+excerpt: "The 20 best AI tools Swiss SMEs use in 2026: productivity, sales, HR, accounting, marketing. Each tested in real deployments. FADP-compatible. Free 30-min audit."
 slug: "outils-ia-pme-suisses"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"

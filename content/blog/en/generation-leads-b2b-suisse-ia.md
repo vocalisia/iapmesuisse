@@ -1,7 +1,7 @@
 ---
-title: "B2B Lead Generation in Switzerland with AI: Comprehensive Guide 2026"
+title: "AI B2B Lead Generation in Switzerland 2026: Tools, FADP Compliance + Romandy Case Study"
 date: "2026-04-22"
-excerpt: "How Swiss SMEs are using AI to generate qualified B2B leads in 2026: tools, nLPD compliance, cost per lead, a case study from Romandy, and a complete strategy for automated prospecting."
+excerpt: "How Swiss SMEs deploy AI for B2B lead generation in 2026: tools stack, FADP compliance, cost-per-lead benchmarks, Romandy case study, full strategy. Free 30-min audit."
 slug: "generation-leads-b2b-suisse-ia"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"

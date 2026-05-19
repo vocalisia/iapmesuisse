@@ -1,7 +1,7 @@
 ---
-title: "AI Customer Service Switzerland: Contact Center 2026"
+title: "AI Customer Service in Switzerland 2026: Contact Center Playbook + 3 Case Studies"
 date: "2026-03-25"
-excerpt: "AI customer service Switzerland 2026: contact center automation, phone support case studies in medical, real estate, retail. Free 30-min audit."
+excerpt: "How Swiss SMEs deploy AI customer service in 2026: contact-center automation, voice AI, 3 case studies (medical, real estate, retail). FADP-compliant. Free 30-min audit."
 slug: "automatisation-service-client-ia-suisse"
 image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=400&fit=crop"
 ---

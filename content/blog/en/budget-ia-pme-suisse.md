@@ -1,7 +1,7 @@
 ---
-title: "AI Budget Swiss SMEs 2026: Full Pricing Guide"
+title: "AI Investment for Swiss SMEs in 2026: ROI Framework + Sector Benchmarks"
 date: "2026-03-26"
-excerpt: "How much to invest in AI for your Swiss SME in 2026: CHF budget ranges, expected ROI, investment plans by company size. Free 30-min audit."
+excerpt: "How Swiss SMEs plan AI investment in 2026: ROI framework, sector benchmarks, investment phases by company size, expected payback. Free 30-min audit to scope your project."
 slug: "budget-ia-pme-suisse"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
