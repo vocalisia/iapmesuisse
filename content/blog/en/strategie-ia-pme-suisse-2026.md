@@ -1,7 +1,7 @@
 ---
-title: "AI Strategy for Swiss SMEs: The Complete 2026 Action Plan"
+title: "AI Strategy Swiss SMEs: Complete 2026 Action Plan"
 date: "2026-04-22"
-excerpt: "Discover how to build a solid AI strategy for your Swiss SME in 2026: maturity audit, prioritization of use cases, 5-step roadmap, budget, data governance, and tracking KPIs."
+excerpt: "AI strategy for Swiss SMEs 2026: maturity audit, 5-step roadmap, use case prioritization, budget and data governance. Free 30-min audit available."
 slug: "strategie-ia-pme-suisse-2026"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"

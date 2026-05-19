@@ -1,6 +1,7 @@
 ---
-title: "Internet haute vitesse : comparer les meilleures offres en 2026"
-description: "Découvrez comment choisir votre internet haute vitesse en 2026 : comparez les offres, vitesses et prix des meilleurs fournisseurs. Trouvez l'abonnement idéal maintenant."
+title: "Internet haute vitesse 2026 : comparatif offres"
+excerpt: "Internet haute vitesse 2026 : comparez débits, opérateurs et services télécommunication à grande vitesse pour PME suisses. Guide complet."
+description: "Internet haute vitesse 2026 : comparez débits, opérateurs et services télécommunication à grande vitesse pour PME suisses. Guide complet."
 date: "2026-04-13"
 tags: ["internet", "fibre optique", "fournisseur internet", "haut débit"]
 image: "https://oaidalleapiprodscus.blob.core.windows.net/private/org-SfBXURZ3NxADNhYFSlwKFMAx/user-TKeXlBxVEAlV77TDCfIuBkbe/img-PXPsIiJwVKubufcYUsc1fkdO.png?st=2026-04-13T22%3A10%3A33Z&se=2026-04-14T00%3A10%3A33Z&sp=r&sv=2026-02-06&sr=b&rscd=inline&rsct=image/png&skoid=f1dafa11-a0c2-4092-91d4-10981fbda051&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-04-13T15%3A51%3A25Z&ske=2026-04-14T15%3A51%3A25Z&sks=b&skv=2026-02-06&sig=4h2jTvViHyJTgZljCqd6UWZTNvXpHdL67sVK9cxxjt4%3D"

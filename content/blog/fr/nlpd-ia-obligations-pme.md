@@ -1,7 +1,7 @@
 ---
-title: "nLPD et IA : obligations des PME suisses en 2026"
+title: "nLPD et IA : conformité PME suisses 2026"
 date: "2026-03-26"
-excerpt: "Tout ce que les PME suisses doivent savoir sur la nouvelle loi sur la protection des données (nLPD) et l'utilisation de l'intelligence artificielle. Obligations, sanctions et bonnes pratiques."
+excerpt: "nLPD conformité PME que faire avec l'IA : obligations, sanctions, bonnes pratiques. Guide consultant nLPD pour PME suisses. Audit gratuit 30 min."
 slug: "nlpd-ia-obligations-pme"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"

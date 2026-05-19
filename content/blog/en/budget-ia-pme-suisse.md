@@ -1,7 +1,7 @@
 ---
-title: "AI Budget for Swiss SMEs: From CHF 500 to CHF 50,000"
+title: "AI Budget Swiss SMEs 2026: Full Pricing Guide"
 date: "2026-03-26"
-excerpt: "How much should you invest in AI for your Swiss SME? A comprehensive budget guide with CHF ranges, expected ROI, and investment plans based on company size."
+excerpt: "How much to invest in AI for your Swiss SME in 2026: CHF budget ranges, expected ROI, investment plans by company size. Free 30-min audit."
 slug: "budget-ia-pme-suisse"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"

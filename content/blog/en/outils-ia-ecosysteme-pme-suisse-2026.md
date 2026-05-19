@@ -1,7 +1,7 @@
 ---
-title: "Swiss SME AI Stack: Tools That Truly Make a Difference in 2026"
+title: "AI Stack Swiss SMEs 2026: Tools That Work"
 date: "2026-04-22"
-excerpt: "AI voice, lead generation, automated SEO: discover the complete AI stack Swiss SMEs are adopting in 2026 to stay competitive. Tested tools, CHF pricing, and real-world feedback."
+excerpt: "Complete AI stack Swiss SMEs adopt in 2026: voice AI, lead generation, automated SEO. Tested tools and real-world feedback. Free 30-min audit."
 slug: "outils-ia-ecosysteme-pme-suisse-2026"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"

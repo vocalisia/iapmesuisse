@@ -1,7 +1,7 @@
 ---
-title: "Case Studies: Swiss SMEs Transformed by AI"
+title: "AI Case Studies: Swiss SMEs in Romandie 2026"
 date: "2026-03-26"
-excerpt: "6 detailed case studies of Swiss SMEs successfully integrating artificial intelligence: sectors, deployed solutions, CHF investments, and measurable results."
+excerpt: "6 detailed AI case studies from Swiss SMEs in Romandie: sectors, deployed solutions, CHF investments, measurable ROI. Free 30-min audit available."
 slug: "etudes-cas-pme-romandes-ia"
 category: "Transformation Digitale"
 pillar: "transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026"

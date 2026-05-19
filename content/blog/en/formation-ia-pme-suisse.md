@@ -1,7 +1,7 @@
 ---
-title: "AI Training for Swiss SMEs: Complete Guide 2026"
+title: "AI Training & Upskilling Switzerland: 2026 Guide"
 date: "2026-04-10"
-excerpt: "Which AI training should a Swiss SME choose? Available programs, costs in CHF, subsidies, and an action plan to train your teams in artificial intelligence."
+excerpt: "AI training and upskilling services in Switzerland for SMEs 2026. Best programs, subsidies, action plan to train your teams. Free 30-min consultation."
 slug: "formation-ia-pme-suisse"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"

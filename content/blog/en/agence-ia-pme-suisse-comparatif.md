@@ -1,7 +1,7 @@
 ---
-title: "AI Agency for Swiss SMEs: How to Choose in 2026?"
+title: "Best AI Consulting Agencies Switzerland for SMEs"
 date: "2026-04-22"
-excerpt: "AI agency, independent consultant, or turnkey SaaS: how to choose the right partner to digitize your Swiss SME with artificial intelligence? Criteria, CHF pricing, and mistakes to avoid."
+excerpt: "Best AI consulting agencies in Switzerland for small and medium businesses 2026. Compare providers, criteria, pricing models. Free audit available."
 slug: "agence-ia-pme-suisse-comparatif"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
