@@ -5,6 +5,7 @@ import { normalizeHtmlBlogAnchors } from '@/lib/normalize-blog-href';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import { Link } from '@/i18n/routing';
 import { notFound } from 'next/navigation';
+import { VILLES } from '@/lib/villes';
 
 export async function generateMetadata({
   params,
@@ -48,6 +49,23 @@ export default async function BlogPostPage({
   const post = await getBlogPost(locale, slug);
 
   if (!post) notFound();
+
+  // Pick 4 cities to show: prefer locale-matching ones first, then fallback
+  const frRomandeSlugs = ['sion', 'geneve', 'lausanne', 'neuchatel', 'fribourg', 'yverdon', 'martigny', 'sierre'];
+  const deSlugs = ['zurich', 'berne'];
+  const cityOrder = locale === 'de' ? [...deSlugs, ...frRomandeSlugs] : [...frRomandeSlugs, ...deSlugs];
+  const citiesForBlog = cityOrder
+    .map((s) => VILLES.find((v) => v.slug === s))
+    .filter(Boolean)
+    .slice(0, 4) as typeof VILLES;
+
+  const villeLabels: Record<string, { sectionTitle: string; ctaText: string }> = {
+    fr: { sectionTitle: 'Trouvez notre agence IA dans votre ville', ctaText: 'Voir les services →' },
+    de: { sectionTitle: 'Unsere KI-Agentur in Ihrer Stadt', ctaText: 'Leistungen ansehen →' },
+    en: { sectionTitle: 'Find our AI agency in your city', ctaText: 'See services →' },
+    it: { sectionTitle: 'Trova la nostra agenzia IA nella tua città', ctaText: 'Vedi i servizi →' },
+  };
+  const villeLabel = villeLabels[locale] ?? villeLabels.fr;
 
   const localeMap: Record<string, string> = {
     fr: 'fr-CH',
@@ -154,8 +172,30 @@ export default async function BlogPostPage({
           }}
         />
 
+        {/* City internal links — maillage SEO */}
+        <div className="mt-14 border-t border-gray-200 pt-10">
+          <h2 className="mb-6 text-xl font-bold text-primary">{villeLabel.sectionTitle}</h2>
+          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+            {citiesForBlog.map((v) => {
+              const name = v.names[locale as keyof typeof v.names] ?? v.names.fr;
+              const cantonName = v.cantonNames[locale as keyof typeof v.cantonNames] ?? v.cantonNames.fr;
+              return (
+                <Link
+                  key={v.slug}
+                  href={`/villes/${v.slug}`}
+                  className="group rounded-xl border border-gray-200 bg-gray-50 p-4 text-sm transition-all duration-200 hover:border-accent hover:bg-white hover:shadow-md"
+                >
+                  <p className="text-xs font-semibold uppercase tracking-wide text-accent">{cantonName}</p>
+                  <p className="mt-1 font-bold text-primary group-hover:text-accent">{name}</p>
+                  <p className="mt-2 text-xs text-gray-500">{villeLabel.ctaText}</p>
+                </Link>
+              );
+            })}
+          </div>
+        </div>
+
         {/* Back to blog */}
-        <div className="mt-14 border-t border-gray-200 pt-8">
+        <div className="mt-10 border-t border-gray-200 pt-8">
           <Link
             href="/blog"
             className="inline-flex items-center gap-2 rounded-lg bg-primary px-6 py-3 text-sm font-semibold text-white shadow-sm transition-all duration-300 hover:-translate-y-0.5 hover:bg-primary/90 hover:shadow-md"
