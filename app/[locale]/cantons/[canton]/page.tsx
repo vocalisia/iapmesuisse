@@ -2,9 +2,27 @@ import { getTranslations } from 'next-intl/server';
 import { Link } from '@/i18n/routing';
 import { getAlternates } from '@/lib/metadata';
 import { CANTONS, getCantonBySlug } from '@/lib/cantons';
+import { VILLES } from '@/lib/villes';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import CTA from '@/components/CTA';
 import { notFound } from 'next/navigation';
+
+const VILLE_SLUG_BY_CITY: Record<string, string> = (() => {
+  const map: Record<string, string> = {};
+  for (const v of VILLES) {
+    const localised = [v.names.fr, v.names.de, v.names.en, v.names.it];
+    for (const n of localised) {
+      map[n.toLowerCase()] = v.slug;
+    }
+    map[v.slug] = v.slug;
+  }
+  return map;
+})();
+
+function villeSlugForCity(city: string): string | undefined {
+  const key = city.toLowerCase().split(' ')[0];
+  return VILLE_SLUG_BY_CITY[key] ?? VILLE_SLUG_BY_CITY[city.toLowerCase()];
+}
 
 type Props = { params: Promise<{ locale: string; canton: string }> };
 
@@ -358,9 +376,24 @@ export default async function CantonPage({ params }: Props) {
           <div className="rounded-2xl border border-gray-200 bg-gray-50 p-6">
             <h2 className="text-xl font-bold text-primary">{t.citiesTitle}</h2>
             <ul className="mt-4 space-y-1.5 text-sm text-gray-700">
-              {canton.cities.map((city) => (
-                <li key={city}>· {city}</li>
-              ))}
+              {canton.cities.map((city) => {
+                const villeSlug = villeSlugForCity(city);
+                return (
+                  <li key={city}>
+                    ·{' '}
+                    {villeSlug ? (
+                      <Link
+                        href={`/villes/${villeSlug}`}
+                        className="font-medium text-primary underline decoration-accent decoration-2 underline-offset-2 hover:text-accent"
+                      >
+                        {city}
+                      </Link>
+                    ) : (
+                      city
+                    )}
+                  </li>
+                );
+              })}
             </ul>
           </div>
           <div className="rounded-2xl border border-gray-200 bg-gray-50 p-6">
