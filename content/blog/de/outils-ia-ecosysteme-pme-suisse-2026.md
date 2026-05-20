@@ -1,7 +1,7 @@
 ---
-title: "Stack AI für Schweizer KMU: Die Tools, die 2026 wirklich den Unterschied machen"
-date: "2026-04-22"
-excerpt: "KI-gestützte Stimme, Lead-Generierung, automatisiertes SEO: Entdecken Sie den kompletten AI-Stack, den Schweizer KMU 2026 nutzen, um wettbewerbsfähig zu bleiben. Getestete Tools, CHF-Preise, Erfahrungsberichte."
+title: "Tech-Stack KMU Schweiz 2026 · KI-Tools-Vergleich CHF — IAPME"
+date: "2026-05-17"
+excerpt: "Tech-Stack für Schweizer KMU 2026: KI-Tools-Vergleich (ChatGPT, Copilot, Claude, Make, n8n), CHF-Preise, nDSG-konforme Auswahl. Praxis-Empfehlungen Zürich · Bern · Sion."
 slug: "outils-ia-ecosysteme-pme-suisse-2026"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"

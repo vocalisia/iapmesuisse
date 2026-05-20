@@ -1,7 +1,7 @@
 ---
-title: "Stratégie IA pour PME suisse : le plan d'action complet 2026"
-date: "2026-04-22"
-excerpt: "Découvrez comment bâtir une stratégie IA solide pour votre PME suisse en 2026 : audit de maturité, priorisation des cas d'usage, feuille de route en 5 étapes, budget, gouvernance des données et KPIs de suivi."
+title: "Stratégie IA PME Suisse 2026 · Plan 5 étapes + ROI CHF — IAPME"
+date: "2026-05-17"
+excerpt: "Plan d'action stratégie IA pour PME suisse 2026 : audit maturité, 5 étapes opérationnelles, budget CHF par taille d'entreprise, KPIs ROI. Exemples Sion, Genève, Lausanne."
 slug: "strategie-ia-pme-suisse-2026"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"

@@ -1,7 +1,7 @@
 ---
-title: "KI für KMU im Wallis und Sion: Chancen und lokale Unterstützung"
-date: "2026-04-10"
-excerpt: "Wie KMU im Wallis und Sion Künstliche Intelligenz nutzen? Lokale Programme, kantonale Förderungen und konkrete Anwendungsbeispiele für die Walliser Wirtschaft."
+title: "KI KMU Wallis Sion 2026 · Förderung & Praxisbeispiele — IAPME"
+date: "2026-05-17"
+excerpt: "KI für KMU im Wallis und Sion: kantonale Förderungen, Anwendungsfälle Tourismus/Hotellerie/Weinbau, Audit gratis. Praxisbeispiele Sion · Martigny · Sierre."
 slug: "ia-pme-valais-sion"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"

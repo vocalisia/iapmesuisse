@@ -1,7 +1,7 @@
 ---
-title: "Integration von KI in CRM: Chancen für Schweizer KMU"
-date: "2026-04-23"
-excerpt: "Erfahren Sie, wie KI in Open-Source-CRM Schweizer KMU transformieren kann."
+title: "CRM-Implementierung KMU Schweiz · KI-Integration & Beratung 2026"
+date: "2026-05-17"
+excerpt: "CRM-Implementierung für Schweizer KMU mit KI-Integration: Twenty, HubSpot, Salesforce, Bexio. Konkrete Beispiele, Kosten CHF, nDSG-konformes Setup. Kostenlose Beratung."
 slug: "integration-ia-crm-opportunites-pme-suisses"
 author: "IAPME Suisse"
 source: "https://www.heise.de/news/Twenty-2-0-Das-Open-Source-CRM-legt-nach-11268160.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"

@@ -221,11 +221,102 @@ export default async function CantonPage({ params }: Props) {
     },
   };
 
+  // Locale-specific FAQ targeting "ia pme [canton] [city]" queries
+  const mainCity = canton.cities[0];
+  const faqMap: Record<string, { q: string; a: string }[]> = {
+    fr: [
+      {
+        q: `Quels services IA proposez-vous aux PME du canton de ${name} ?`,
+        a: `IAPME Suisse propose aux PME du canton de ${name} : audit IA gratuit (30-60 min), formation des équipes, intégration ChatGPT/Copilot/Claude, consulting stratégique. Conformité nLPD + AI Act incluse.`,
+      },
+      {
+        q: `Intervenez-vous à ${mainCity} ?`,
+        a: `Oui, IAPME Suisse intervient à ${mainCity} et dans toutes les villes principales du canton de ${name} (${canton.cities.join(', ')}). Sur site ou en visio, FR/DE/IT/EN.`,
+      },
+      {
+        q: `Quelles aides cantonales pour un projet IA dans le canton de ${name} ?`,
+        a: `${canton.funding}. À cela s'ajoutent InnoSuisse (jusqu'à 75 000 CHF), le chèque innovation (15 000 CHF) et les déductions fiscales formation continue.`,
+      },
+      {
+        q: `Combien coûte un audit IA pour une PME de ${name} ?`,
+        a: `L'audit initial est gratuit (30-60 min en visio + rapport sous 48h). Les missions d'accompagnement démarrent à partir d'un quick-win 4-8 semaines, devis personnalisé sous 24h.`,
+      },
+    ],
+    de: [
+      {
+        q: `Welche KI-Leistungen bieten Sie KMU im Kanton ${name}?`,
+        a: `IAPME Suisse bietet KMU im Kanton ${name}: kostenloses KI-Audit (30-60 Min), Teamschulung, ChatGPT/Copilot/Claude-Integration, strategische Beratung. nDSG + AI Act inklusive.`,
+      },
+      {
+        q: `Sind Sie in ${mainCity} tätig?`,
+        a: `Ja, IAPME Suisse ist in ${mainCity} und in allen Hauptstädten des Kantons ${name} aktiv (${canton.cities.join(', ')}). Vor Ort oder remote, FR/DE/IT/EN.`,
+      },
+      {
+        q: `Welche kantonalen Förderungen für ein KI-Projekt im Kanton ${name}?`,
+        a: `${canton.funding}. Zusätzlich: InnoSuisse (bis 75 000 CHF), Innovations-Cheque (15 000 CHF) und steuerliche Abzüge für Weiterbildung.`,
+      },
+      {
+        q: `Was kostet ein KI-Audit für ein KMU in ${name}?`,
+        a: `Das Erst-Audit ist kostenlos (30-60 Min Videocall + Bericht in 48h). Begleitmissionen starten mit einem Quick-Win in 4-8 Wochen. Offerte in 24h.`,
+      },
+    ],
+    en: [
+      {
+        q: `What AI services do you offer to SMEs in canton ${name}?`,
+        a: `IAPME Suisse offers SMEs in canton ${name}: free AI audit (30-60 min), team training, ChatGPT/Copilot/Claude integration, strategic consulting. nFADP + AI Act compliance included.`,
+      },
+      {
+        q: `Are you present in ${mainCity}?`,
+        a: `Yes, IAPME Suisse serves ${mainCity} and all main cities in canton ${name} (${canton.cities.join(', ')}). On-site or remote, FR/DE/IT/EN.`,
+      },
+      {
+        q: `What cantonal funding is available for an AI project in canton ${name}?`,
+        a: `${canton.funding}. Plus: InnoSuisse (up to 75,000 CHF), innovation cheque (15,000 CHF) and continuing-education tax deductions.`,
+      },
+      {
+        q: `How much does an AI audit cost for an SME in ${name}?`,
+        a: `Initial audit is free (30-60 min video call + 48h report). Engagements start with a 4-8 week quick-win, custom quote within 24h.`,
+      },
+    ],
+    it: [
+      {
+        q: `Quali servizi IA offrite alle PMI del cantone ${name}?`,
+        a: `IAPME Suisse offre alle PMI del cantone ${name}: audit IA gratuito (30-60 min), formazione del team, integrazione ChatGPT/Copilot/Claude, consulenza strategica. Conformità nLPD + AI Act inclusa.`,
+      },
+      {
+        q: `Operate a ${mainCity}?`,
+        a: `Sì, IAPME Suisse opera a ${mainCity} e in tutte le città principali del cantone ${name} (${canton.cities.join(', ')}). In loco o in videochiamata, FR/DE/IT/EN.`,
+      },
+      {
+        q: `Quali aiuti cantonali per un progetto IA nel cantone ${name}?`,
+        a: `${canton.funding}. In aggiunta: InnoSuisse (fino a 75 000 CHF), assegno innovazione (15 000 CHF) e deduzioni fiscali per la formazione continua.`,
+      },
+      {
+        q: `Quanto costa un audit IA per una PMI di ${name}?`,
+        a: `L'audit iniziale è gratuito (30-60 min in videochiamata + rapporto entro 48h). Le missioni di accompagnamento partono da un quick-win in 4-8 settimane. Preventivo in 24h.`,
+      },
+    ],
+  };
+  const cantonFaq = faqMap[locale] ?? faqMap.fr;
+  const faqSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: cantonFaq.map((f) => ({
+      '@type': 'Question',
+      name: f.q,
+      acceptedAnswer: { '@type': 'Answer', text: f.a },
+    })),
+  };
+
   return (
     <>
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
       />
 
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">

@@ -72,12 +72,98 @@ export default async function ServicesPage({
     })),
   };
 
+  // FAQPage JSON-LD — locale-specific, targets GSC opportunity queries
+  const faqByLocale: Record<string, { q: string; a: string }[]> = {
+    fr: [
+      {
+        q: "Combien coûte une automatisation IA pour une PME suisse ?",
+        a: "L'audit initial est gratuit (30-60 min en visio + rapport sous 48h). L'automatisation IA d'une PME suisse démarre généralement à partir d'un quick-win de 4 à 8 semaines avec un ROI mesurable. Devis personnalisé sous 24h.",
+      },
+      {
+        q: "Intervenez-vous à Sion et dans le canton du Valais ?",
+        a: "Oui. IAPME Suisse accompagne les PME du Valais (Sion, Martigny, Sierre, Monthey, Brig) avec audit gratuit, formation et intégration d'outils IA. Subventions cantonales VS jusqu'à 30-50% mobilisables.",
+      },
+      {
+        q: "Quels outils IA pour une PME en Suisse romande ?",
+        a: "ChatGPT Team, Microsoft Copilot, Claude Pro, Make/Zapier, n8n auto-hébergé. Choix selon métier, taille (5-50 employés), conformité nLPD et budget. Hébergement Suisse ou UE adéquate exigé.",
+      },
+      {
+        q: "Comment garantir la conformité nLPD et AI Act ?",
+        a: "Chaque mission inclut une note de conformité nLPD (entrée en vigueur sept. 2023) et AI Act EU (applicable aux PME suisses servant clients UE). Choix d'outils hébergés Suisse/UE, contrat DPA, registre IA, formation art. 4.",
+      },
+    ],
+    de: [
+      {
+        q: "Was kostet eine KI-Beratung für ein Schweizer KMU?",
+        a: "Das Erst-Audit ist kostenlos (30-60 Min Videocall + Bericht in 48h). KI-Beratung für KMU in der Schweiz startet typischerweise mit einem Quick-Win (4-8 Wochen) und messbarem ROI. Offerte in 24h.",
+      },
+      {
+        q: "Welche CRM-Implementierung für ein KMU Schweiz?",
+        a: "Twenty (Open Source), HubSpot, Salesforce Starter, Bexio mit KI-Integration. Wahl nach Branche, Teamgrösse und nDSG-Konformität. Beispiel: KMU 20 Mitarbeitende → HubSpot + Make + ChatGPT in 6 Wochen einführbar.",
+      },
+      {
+        q: "Welcher Tech-Stack für ein KMU in der Schweiz 2026?",
+        a: "Empfohlen: ChatGPT Team (Frontend), Microsoft Copilot (Office), Make/n8n (Automation), HubSpot (CRM), Notion (Wissen). Alles nDSG-konform, Schweizer oder EU-Hosting. Vergleich CHF im kostenlosen Audit.",
+      },
+      {
+        q: "Bieten Sie KI-Beratung in Zürich und Bern an?",
+        a: "Ja. IAPME Suisse begleitet KMU in Zürich, Bern, Basel, St. Gallen sowie in der Romandie und im Tessin. Mehrsprachig FR/DE/IT/EN. Vor Ort oder remote möglich.",
+      },
+    ],
+    en: [
+      {
+        q: "What is the best AI consulting agency in Switzerland for SMEs?",
+        a: "IAPME Suisse is a specialised AI consulting agency for Swiss SMEs (5-50 employees). Free 30-min audit, multilingual FR/DE/IT/EN, nFADP + AI Act compliant. Presence in Sion, Geneva, Lausanne, Zurich, Bern.",
+      },
+      {
+        q: "How much does AI consulting cost for a Swiss SME?",
+        a: "Initial audit is free (30-60 min video call + 48h report). AI consulting for Swiss SMEs typically starts with a quick-win in 4-8 weeks with measurable ROI. Custom quote within 24h.",
+      },
+      {
+        q: "Which AI tools are best for SMEs in Switzerland?",
+        a: "ChatGPT Team, Microsoft Copilot, Claude Pro, Make/Zapier, n8n self-hosted. Choice depends on industry, size (5-50 employees), nFADP compliance and budget. Swiss or EU hosting required.",
+      },
+      {
+        q: "Do you provide AI services in Geneva, Zurich and Sion?",
+        a: "Yes. IAPME Suisse serves SMEs across Switzerland: Geneva, Lausanne, Sion, Neuchâtel, Bern, Basel, Zurich, St. Gallen, Lugano. Multilingual delivery.",
+      },
+    ],
+    it: [
+      {
+        q: "Quanto costa la consulenza IA per una PMI svizzera?",
+        a: "L'audit iniziale è gratuito (30-60 min in videochiamata + rapporto entro 48h). La consulenza IA per le PMI svizzere parte da un quick-win in 4-8 settimane con ROI misurabile. Preventivo in 24h.",
+      },
+      {
+        q: "Quali strumenti IA per una PMI in Ticino?",
+        a: "ChatGPT Team, Microsoft Copilot, Claude Pro, Make/Zapier, n8n. Scelta in base al settore, dimensione (5-50 dipendenti), conformità nLPD e budget. Hosting Svizzera o UE.",
+      },
+    ],
+  };
+  const faqList = faqByLocale[locale] ?? faqByLocale.fr;
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": faqList.map((f) => ({
+      "@type": "Question",
+      "name": f.q,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": f.a,
+      },
+    })),
+  };
+
   return (
     <>
       {/* Service JSON-LD */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(servicePageSchema) }}
+      />
+      {/* FAQPage JSON-LD — locale-specific Q&A targeting GSC opportunities */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
       />
 
       {/* Breadcrumbs */}

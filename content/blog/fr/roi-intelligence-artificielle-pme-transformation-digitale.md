@@ -1,7 +1,7 @@
 ---
-title: "ROI intelligence artificielle et transformation digitale des PME suisses : guide 2026"
-date: "2026-04-30"
-excerpt: "Comment mesurer et maximiser le ROI de l'IA dans la transformation digitale d'une PME suisse ? Méthode de calcul, benchmarks sectoriels en CHF, tableau de bord et erreurs à éviter."
+title: "ROI Intelligence Artificielle PME Suisse 2026 · Benchmarks CHF — IAPME"
+date: "2026-05-17"
+excerpt: "Calculer le ROI de l'IA pour votre PME suisse : méthode, benchmarks sectoriels CHF, KPIs, tableau de bord, erreurs à éviter. Cas concrets Sion, Genève, Zurich."
 slug: "roi-intelligence-artificielle-pme-transformation-digitale"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
