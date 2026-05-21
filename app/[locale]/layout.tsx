@@ -60,6 +60,7 @@ export async function generateMetadata({
       description: t('description'),
       images: ['https://iapmesuisse.ch/images/hero-bg.jpg'],
     },
+    robots: { index: true, follow: true },
     ...(process.env.NEXT_PUBLIC_GSC_VERIFICATION && {
       verification: { google: process.env.NEXT_PUBLIC_GSC_VERIFICATION },
     }),
