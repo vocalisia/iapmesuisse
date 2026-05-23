@@ -1,7 +1,7 @@
 ---
-title: "AI Training for Swiss SMEs in 2026: Programs, Subsidies & 90-Day Action Plan"
+title: "AI Training Programs for Swiss SMEs in 2026"
 date: "2026-04-10"
-excerpt: "How Swiss SMEs train their teams on AI in 2026: top 8 programs, federal subsidies, 90-day rollout plan, certification options. Free 30-min consultation to map your team's AI gap."
+excerpt: "How Swiss SMEs train teams on AI in 2026: top 8 programs, federal subsidies, 90-day rollout plan and certification options. Free 30-min consultation."
 slug: "formation-ia-pme-suisse"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"

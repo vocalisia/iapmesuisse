@@ -1,7 +1,7 @@
 ---
-title: "AI Strategy for Swiss SMEs in 2026: 5-Step Roadmap + Free 30-min Audit"
+title: "AI Strategy for Swiss SMEs 2026: 5-Step Guide"
 date: "2026-04-22"
-excerpt: "How Swiss SMEs build a winning AI strategy in 2026: maturity audit, 5-step roadmap, use case prioritization, budget framework and FADP-compliant data governance. Real benchmarks. Free 30-min audit."
+excerpt: "Build your AI strategy for 2026: maturity audit, 5-step roadmap, FADP compliance and sector ROI benchmarks for Swiss SMEs. Free 30-min audit."
 slug: "strategie-ia-pme-suisse-2026"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"

@@ -1,7 +1,7 @@
 ---
-title: "AI Investment for Swiss SMEs in 2026: ROI Framework + Sector Benchmarks"
+title: "AI Budget for Swiss SMEs 2026: ROI Guide"
 date: "2026-03-26"
-excerpt: "How Swiss SMEs plan AI investment in 2026: ROI framework, sector benchmarks, investment phases by company size, expected payback. Free 30-min audit to scope your project."
+excerpt: "Plan your AI investment in 2026: ROI framework, sector benchmarks and investment phases by company size. Free 30-min audit to scope your Swiss SME project."
 slug: "budget-ia-pme-suisse"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"

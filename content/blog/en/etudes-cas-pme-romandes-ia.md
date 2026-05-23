@@ -1,7 +1,7 @@
 ---
-title: "6 AI Case Studies from Swiss SMEs in Romandie (Sectors, ROI, Lessons Learned)"
+title: "AI Case Studies: Swiss SMEs in Romandie 2026"
 date: "2026-03-26"
-excerpt: "6 in-depth AI case studies from Swiss SMEs in Romandie in 2026: sectors, deployed solutions, measured ROI, lessons learned. FADP-compliant. Free 30-min audit."
+excerpt: "6 in-depth AI case studies from Swiss SMEs in Romandie: sectors, deployed solutions, measured ROI and lessons learned. FADP-compliant. Free 30-min audit."
 slug: "etudes-cas-pme-romandes-ia"
 category: "Transformation Digitale"
 pillar: "transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026"

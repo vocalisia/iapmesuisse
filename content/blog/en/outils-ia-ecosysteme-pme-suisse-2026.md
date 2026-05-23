@@ -1,7 +1,7 @@
 ---
-title: "The AI Stack Swiss SMEs Actually Use in 2026 (Tested + ROI Benchmarks)"
+title: "AI Tools Swiss SMEs Actually Use in 2026"
 date: "2026-04-22"
-excerpt: "The complete AI stack Swiss SMEs deploy in 2026: voice AI, B2B lead gen, automated SEO, customer service. Real deployments, FADP-compliant, measured ROI. Free 30-min audit to map your stack."
+excerpt: "The complete AI stack for Swiss SMEs in 2026: voice AI, lead gen, automated SEO and customer service. Real deployments, FADP-compliant, measured ROI."
 slug: "outils-ia-ecosysteme-pme-suisse-2026"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"

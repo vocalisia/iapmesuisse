@@ -1,7 +1,7 @@
 ---
-title: "10 Best AI Consulting Agencies in Switzerland for SMEs (2026 Comparison)"
+title: "Top AI Agencies in Switzerland for SMEs 2026"
 date: "2026-04-22"
-excerpt: "The 10 best AI consulting agencies in Switzerland for SMEs in 2026. Compared on 8 criteria: expertise, FADP compliance, deployment time, sector focus, after-sales support. Free 30-min audit included."
+excerpt: "The 10 best AI agencies in Switzerland for SMEs in 2026, compared on 8 criteria: FADP compliance, sector focus and deployment speed. Free 30-min audit."
 slug: "agence-ia-pme-suisse-comparatif"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
