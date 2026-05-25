@@ -1,5 +1,6 @@
 ---
 title: "IA pour la finance et comptabilité des PME suisses 2026"
+author: "Laurent Duplat"
 date: "2026-04-22"
 excerpt: "Automatisation de la facturation, rapprochement bancaire IA, prévisions de trésorerie et conformité Swiss GAAP : le guide complet des outils IA finance pour PME suisses, avec intégration Abacus, Sage et Banana."
 slug: "intelligence-artificielle-finance-comptabilite-pme-suisse"

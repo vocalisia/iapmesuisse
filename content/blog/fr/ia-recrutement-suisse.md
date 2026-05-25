@@ -1,5 +1,6 @@
 ---
 title: "IA pour le recrutement en Suisse"
+author: "Laurent Duplat"
 date: "2026-03-26"
 excerpt: "Comment l'intelligence artificielle révolutionne le recrutement dans les PME suisses : tri de CV, entretiens vidéo, réduction des biais, outils et conformité nLPD."
 slug: "ia-recrutement-suisse"

@@ -3,7 +3,7 @@ title: "Automatiser les tâches : Un atout pour les PME suisses"
 date: "2026-03-28"
 excerpt: "Découvrez comment l'automatisation des tâches booste l'efficacité des PME suisses."
 slug: "automatiser-taches-atout-pme-suisses"
-author: "IAPME Suisse"
+author: "Laurent Duplat"
 source: "https://www.heise.de/news/Super-Productivity-18-0-Aufgaben-automatisieren-Deadlines-filtern-11228048.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
 ---

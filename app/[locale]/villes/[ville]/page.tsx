@@ -361,8 +361,6 @@ export default async function VillePage({ params }: Props) {
     serviceType: ['AI audit', 'AI training', 'AI tool integration', 'AI consulting'],
     offers: {
       '@type': 'Offer',
-      price: '0',
-      priceCurrency: 'CHF',
       description: 'Audit IA gratuit 30-60 minutes',
     },
   };
@@ -387,7 +385,7 @@ export default async function VillePage({ params }: Props) {
         <Breadcrumbs
           items={[
             { label: tNav('home'), href: '/' },
-            { label: t.breadcrumbVilles },
+            { label: t.breadcrumbVilles, href: '/villes' },
             { label: name },
           ]}
         />

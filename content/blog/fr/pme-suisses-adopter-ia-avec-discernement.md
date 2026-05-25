@@ -3,7 +3,7 @@ title: "PME suisses : adopter l'IA avec discernement"
 date: "2026-04-06"
 excerpt: "L'IA est prometteuse pour les PME suisses, mais nécessite une approche prudente et informée."
 slug: "pme-suisses-adopter-ia-avec-discernement"
-author: "IAPME Suisse"
+author: "Laurent Duplat"
 source: "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/"
 auto_generated: true
 ---

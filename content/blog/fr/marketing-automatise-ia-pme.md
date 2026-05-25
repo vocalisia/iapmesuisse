@@ -1,5 +1,6 @@
 ---
 title: "Marketing automatisé par IA pour PME suisses"
+author: "Laurent Duplat"
 date: "2026-03-26"
 excerpt: "Comment automatiser votre marketing avec l'intelligence artificielle : emailing, réseaux sociaux, SEO, publicité. Guide complet pour PME suisses avec outils et budgets en CHF."
 slug: "marketing-automatise-ia-pme"

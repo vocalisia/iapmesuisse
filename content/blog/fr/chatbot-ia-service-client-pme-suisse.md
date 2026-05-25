@@ -1,5 +1,6 @@
 ---
 title: "Chatbot IA pour PME suisse : le guide d'implémentation 2026"
+author: "Laurent Duplat"
 date: "2026-04-22"
 excerpt: "Tout ce qu'une PME suisse doit savoir pour implémenter un chatbot IA : types, coûts en CHF, plateformes, conformité LPD, étapes clés et KPIs à suivre."
 slug: "chatbot-ia-service-client-pme-suisse"

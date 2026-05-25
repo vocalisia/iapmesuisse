@@ -1,5 +1,6 @@
 ---
 title: "Subventions et aides pour la digitalisation en Suisse"
+author: "Laurent Duplat"
 date: "2026-03-26"
 excerpt: "Guide complet des subventions, aides et financements disponibles en Suisse pour la digitalisation et l'IA des PME : fédéral, cantonal, programmes sectoriels et déductions fiscales."
 slug: "subventions-digitalisation-suisse"

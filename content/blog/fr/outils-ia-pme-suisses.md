@@ -1,5 +1,6 @@
 ---
 title: "Les outils IA testés et approuvés pour PME suisses"
+author: "Laurent Duplat"
 date: "2026-03-26"
 excerpt: "Sélection rigoureuse des meilleurs outils d'intelligence artificielle pour PME suisses en 2026 : productivité, ventes, RH, comptabilité. Tests, prix en CHF et avis."
 slug: "outils-ia-pme-suisses"

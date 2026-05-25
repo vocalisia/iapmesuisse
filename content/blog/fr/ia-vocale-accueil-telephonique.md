@@ -1,5 +1,6 @@
 ---
 title: "IA vocale pour l'accueil téléphonique des PME"
+author: "Laurent Duplat"
 date: "2026-03-26"
 excerpt: "Comment l'IA vocale révolutionne l'accueil téléphonique des PME suisses : qualification d'appels, prise de rendez-vous 24/7, intégration CRM. Solutions, coûts et retours d'expérience."
 slug: "ia-vocale-accueil-telephonique"

@@ -1,5 +1,6 @@
 ---
 title: "Intelligence Artificielle pour PME Suisses : Guide Complet 2026"
+author: "Laurent Duplat"
 date: "2026-03-26"
 excerpt: "Guide complet sur l'IA pour PME suisses en 2026 : outils, budget, ROI, conformité nLPD et cas d'usage concrets. Accompagnement et formation IA en Suisse."
 slug: "intelligence-artificielle-pme-suisses-guide-complet-2026"

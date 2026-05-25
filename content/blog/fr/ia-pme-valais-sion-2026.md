@@ -1,5 +1,6 @@
 ---
 title: "IA pour PME en Valais et à Sion : guide local 2026 — secteurs, aides et cas concrets"
+author: "Laurent Duplat"
 date: "2026-04-30"
 excerpt: "Comment les PME valaisannes et de Sion adoptent l'IA en 2026 ? Programmes d'aide cantonaux, cas d'usage par secteur, accompagnement local et conformité FADP pour le tissu économique valaisan."
 slug: "ia-pme-valais-sion-2026"

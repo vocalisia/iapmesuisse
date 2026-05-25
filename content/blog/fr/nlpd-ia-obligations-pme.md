@@ -1,5 +1,6 @@
 ---
 title: "nLPD et IA : conformité PME suisses 2026"
+author: "Laurent Duplat"
 date: "2026-03-26"
 excerpt: "nLPD conformité PME que faire avec l'IA : obligations, sanctions, bonnes pratiques. Guide consultant nLPD pour PME suisses. Audit gratuit 30 min."
 slug: "nlpd-ia-obligations-pme"

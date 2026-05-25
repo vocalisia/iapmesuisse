@@ -3,7 +3,7 @@ title: "Adopter l'authentification sans mot de passe en PME suisse"
 date: "2026-04-02"
 excerpt: "Découvrez les avantages de l'authentification sans mot de passe pour sécuriser votre PME suisse."
 slug: "adopter-authentification-sans-mot-de-passe-pme-suisse"
-author: "IAPME Suisse"
+author: "Laurent Duplat"
 source: "https://www.heise.de/news/Passwortlose-Authentifizierung-mit-Passkeys-FIDO-SSO-und-mehr-11219217.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
 ---

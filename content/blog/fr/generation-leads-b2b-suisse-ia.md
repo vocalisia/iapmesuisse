@@ -1,5 +1,6 @@
 ---
 title: "Génération de leads B2B en Suisse avec l'IA : guide complet 2026"
+author: "Laurent Duplat"
 date: "2026-04-22"
 excerpt: "Comment les PME suisses utilisent l'IA pour générer des leads B2B qualifiés en 2026 : outils, conformité LPD, coût par lead, étude de cas romande et stratégie complète pour la prospection automatisée."
 slug: "generation-leads-b2b-suisse-ia"

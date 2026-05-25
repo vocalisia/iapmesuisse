@@ -1,5 +1,6 @@
 ---
 title: "Tesla, un modèle d'intégration de l'IA pour les entreprises suisses"
+author: "Laurent Duplat"
 date: "2026-03-24"
 excerpt: "Analyse détaillée de l'intégration de l'IA chez Tesla à travers la fabrication, la vente, le service client, l'Autopilot et l'énergie, et les leçons concrètes que les PME suisses peuvent en tirer."
 slug: "tesla-modele-ia-entreprise-suisse"

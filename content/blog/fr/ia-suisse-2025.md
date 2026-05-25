@@ -1,5 +1,6 @@
 ---
 title: "L'IA en Suisse : état des lieux 2025"
+author: "Laurent Duplat"
 date: "2025-02-20"
 excerpt: "Où en est l'adoption de l'intelligence artificielle par les entreprises suisses en 2025 ? Panorama des tendances, des chiffres clés et des défis à relever."
 slug: "ia-suisse-2025"

@@ -1,5 +1,6 @@
 ---
 title: "Automatisation des ventes et prospection IA en Suisse romande 2026"
+author: "Laurent Duplat"
 date: "2026-04-22"
 excerpt: "Comment les PME romandes automatisent leur prospection B2B et leurs ventes avec l'IA en 2026 : outils, conformité LPD, LinkedIn automation légal, CRM intelligents, métriques et étude de cas."
 slug: "automatisation-ventes-prospection-suisse"

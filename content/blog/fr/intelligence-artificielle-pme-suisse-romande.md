@@ -1,5 +1,6 @@
 ---
 title: "Intelligence artificielle pour les PME de Suisse romande : guide pratique 2026"
+author: "Laurent Duplat"
 date: "2026-04-10"
 excerpt: "Comment les PME de Suisse romande peuvent adopter l'intelligence artificielle ? Outils concrets, coûts réels en CHF, cas d'usage par secteur et feuille de route pour démarrer."
 slug: "intelligence-artificielle-pme-suisse-romande"

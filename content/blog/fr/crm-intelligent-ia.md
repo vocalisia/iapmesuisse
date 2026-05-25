@@ -1,5 +1,6 @@
 ---
 title: "CRM intelligent : booster vos ventes avec l'IA"
+author: "Laurent Duplat"
 date: "2026-03-26"
 excerpt: "Comment un CRM enrichi par l'intelligence artificielle peut transformer vos ventes : scoring de leads, prédiction, automatisation commerciale. Guide complet pour PME suisses."
 slug: "crm-intelligent-ia"

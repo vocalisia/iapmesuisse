@@ -3,7 +3,7 @@ title: "Comment les PME Suisses Peuvent Tirer Parti de l'IA et de la Data Scienc
 date: "2026-04-27"
 excerpt: "Découvrez comment l'IA et la data science transforment les PME suisses en améliorant la prise de décision et en optimisant les opérations."
 slug: "comment-les-pme-suisses-peuvent-tirer-parti-de-ia-et-data-sc"
-author: "IAPME Suisse"
+author: "Laurent Duplat"
 source: "https://www.heise.de/news/KI-und-Data-Science-im-Unternehmen-von-Rohdaten-zu-verwertbaren-Erkenntnissen-11268069.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
 ---

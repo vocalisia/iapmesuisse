@@ -1,5 +1,6 @@
 ---
 title: "Partenaires IA de confiance en Suisse romande"
+author: "Laurent Duplat"
 date: "2026-03-26"
 excerpt: "Répertoire des partenaires IA de confiance en Suisse romande : agences, intégrateurs, consultants, hautes écoles. Critères de sélection et conseils pour bien choisir."
 slug: "partenaires-ia-suisse-romande"

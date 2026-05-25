@@ -1,5 +1,6 @@
 ---
 title: "ROI de l'IA pour les PME suisses : chiffres et méthode de calcul 2026"
+author: "Laurent Duplat"
 date: "2026-04-22"
 excerpt: "Comment calculer concrètement le retour sur investissement de l'IA dans votre PME suisse ? Méthode pas à pas, benchmarks sectoriels en CHF, délais de rentabilité et erreurs à éviter."
 slug: "roi-intelligence-artificielle-pme-suisse"

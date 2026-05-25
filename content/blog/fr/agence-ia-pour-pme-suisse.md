@@ -1,5 +1,6 @@
 ---
 title: "Agence IA pour PME suisses : comment choisir le bon partenaire en 2026"
+author: "Laurent Duplat"
 date: "2026-04-30"
 excerpt: "Comment sélectionner une agence IA pour PME en Suisse romande ? Critères de choix, questions à poser, exemples concrets de projets PME et tableau comparatif des offres disponibles."
 slug: "agence-ia-pour-pme-suisse"

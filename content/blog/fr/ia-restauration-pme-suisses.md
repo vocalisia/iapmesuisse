@@ -3,7 +3,7 @@ title: "Comment l’IA révolutionne la restauration pour les PME suisses"
 date: "2026-05-06"
 excerpt: "L’intelligence artificielle pourrait transformer la manière dont les PME suisses créent, gèrent et développent leurs restaurants, en intégrant des solutions automatisées et personnalisées."
 slug: "ia-restauration-pme-suisses"
-author: "IAPME Suisse"
+author: "Laurent Duplat"
 source: "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/"
 auto_generated: true
 ---

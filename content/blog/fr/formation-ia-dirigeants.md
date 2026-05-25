@@ -1,5 +1,6 @@
 ---
 title: "Formation IA pour dirigeants : par où commencer"
+author: "Laurent Duplat"
 date: "2026-03-26"
 excerpt: "Guide complet des formations IA pour dirigeants de PME suisses : programmes disponibles, coûts en CHF, formats, durées et conseils pour choisir la formation adaptée à vos besoins."
 slug: "formation-ia-dirigeants"

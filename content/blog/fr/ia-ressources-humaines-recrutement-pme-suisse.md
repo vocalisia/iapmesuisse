@@ -1,5 +1,6 @@
 ---
 title: "IA et RH en Suisse : révolutionner le recrutement des PME en 2026"
+author: "Laurent Duplat"
 date: "2026-04-22"
 excerpt: "Pénurie de talents, coûts RH en hausse, conformité LPD : découvrez comment l'IA transforme le recrutement des PME suisses en 2026, avec outils ATS intelligents, tri automatisé et onboarding optimisé."
 slug: "ia-ressources-humaines-recrutement-pme-suisse"

@@ -1,5 +1,6 @@
 ---
 title: "Audit IA : évaluer la maturité numérique de votre PME"
+author: "Laurent Duplat"
 date: "2026-03-26"
 excerpt: "Comment évaluer la maturité IA de votre PME suisse ? Méthodologie d'audit complète, grille d'évaluation, coûts en CHF et plan d'action concret pour progresser."
 slug: "audit-ia-maturite-pme"

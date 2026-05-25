@@ -1,5 +1,6 @@
 ---
 title: "Comment l'IA transforme l'industrie des véhicules électriques en Suisse"
+author: "Laurent Duplat"
 date: "2026-03-27"
 excerpt: "Découvrez comment l'intelligence artificielle révolutionne l'industrie des véhicules électriques en Suisse : Autopilot Tesla, gestion de flotte, concessions connectées et mobilité durable pilotée par l'IA."
 slug: "ia-vehicules-electriques-revolution-suisse"

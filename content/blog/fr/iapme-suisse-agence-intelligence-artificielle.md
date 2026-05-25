@@ -1,5 +1,6 @@
 ---
 title: "IAPME Suisse : l'agence d'intelligence artificielle pour PME suisses"
+author: "Laurent Duplat"
 date: "2026-04-30"
 excerpt: "IAPME Suisse accompagne les PME suisses dans leur transformation IA : audit, déploiement, formation et conformité FADP. Découvrez notre approche, nos secteurs d'expertise et nos résultats concrets."
 slug: "iapme-suisse-agence-intelligence-artificielle"

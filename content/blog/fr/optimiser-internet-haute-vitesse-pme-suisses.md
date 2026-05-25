@@ -3,7 +3,7 @@ title: "Optimiser l'Internet à haute vitesse pour les PME suisses"
 date: "2026-04-04"
 excerpt: "Découvrez comment les PME suisses peuvent tirer parti des réseaux à haute vitesse pour booster leur efficacité."
 slug: "optimiser-internet-haute-vitesse-pme-suisses"
-author: "IAPME Suisse"
+author: "Laurent Duplat"
 source: "https://www.heise.de/news/Schnelles-Heimnetz-fuer-Glasfaser-Co-c-t-uplink-11244825.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
 ---

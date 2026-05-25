@@ -1,5 +1,6 @@
 ---
 title: "IA pour PME en Valais – Sion : accompagnement local et résultats concrets 2026"
+author: "Laurent Duplat"
 date: "2026-04-10"
 excerpt: "Vous êtes une PME en Valais ou à Sion ? Découvrez comment l'IA peut automatiser vos processus. Accompagnement local, résultats concrets."
 slug: "ia-pme-valais-sion"

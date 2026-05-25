@@ -1,5 +1,6 @@
 ---
 title: "Assistant vocal IA pour PME : le guide complet 2026"
+author: "Laurent Duplat"
 date: "2026-03-26"
 excerpt: "Guide complet sur les assistants vocaux IA pour PME suisses : types, cas d'usage, coûts, mise en oeuvre et solutions recommandées pour automatiser l'accueil téléphonique et le service client."
 slug: "assistant-vocal-ia-pme-guide-complet"

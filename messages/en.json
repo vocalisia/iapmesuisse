@@ -241,7 +241,9 @@
         "Anti no-show reminders",
         "Calendar sync"
       ]
-    }
+    },
+    "digitalSectionBadge": "New AI services",
+    "digitalSectionTitle": "Digital growth through AI"
   },
   "about": {
     "title": "About IAPME Suisse",

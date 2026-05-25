@@ -3,7 +3,7 @@ title: "Comment les PME suisses peuvent accélérer le développement logiciel a
 date: "2026-04-24"
 excerpt: "Découvrez comment les PME suisses peuvent optimiser leur développement logiciel grâce aux assistants IA tout en respectant la nLPD."
 slug: "pme-suisses-accelerer-developpement-logiciel-ia"
-author: "IAPME Suisse"
+author: "Laurent Duplat"
 source: "https://www.heise.de/news/iX-Workshop-Mehr-Tempo-beim-Coding-mit-KI-Assistenten-effizient-programmieren-11256747.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
 ---

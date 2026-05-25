@@ -3,7 +3,7 @@ title: "L'impact des modèles IA avancés pour les PME suisses"
 date: "2026-04-25"
 excerpt: "Découvrez comment les modèles IA avancés transforment les PME suisses en optimisant les processus et en renforçant la compétitivité."
 slug: "impact-modeles-ia-pme-suisses"
-author: "IAPME Suisse"
+author: "Laurent Duplat"
 source: "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/"
 auto_generated: true
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Stratégie IA PME Suisse 2026 · Plan 5 étapes + ROI CHF — IAPME"
+author: "Laurent Duplat"
 date: "2026-05-17"
 excerpt: "Plan d'action stratégie IA pour PME suisse 2026 : audit maturité, 5 étapes opérationnelles, budget CHF par taille d'entreprise, KPIs ROI. Exemples Sion, Genève, Lausanne."
 slug: "strategie-ia-pme-suisse-2026"

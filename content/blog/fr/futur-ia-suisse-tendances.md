@@ -1,5 +1,6 @@
 ---
 title: "Le futur de l'IA en Suisse : tendances 2026-2030"
+author: "Laurent Duplat"
 date: "2026-03-26"
 excerpt: "Les grandes tendances de l'intelligence artificielle en Suisse pour 2026-2030 : IA souveraine, agents autonomes, IA verte, réglementation, impact sur l'emploi et opportunités pour les PME."
 slug: "futur-ia-suisse-tendances"

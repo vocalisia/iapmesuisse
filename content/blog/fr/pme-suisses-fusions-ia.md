@@ -3,7 +3,7 @@ title: "Les PME suisses face aux fusions dans le secteur de l'IA"
 date: "2026-04-11"
 excerpt: "Comprendre les implications des fusions d'IA pour les PME suisses : opportunités, défis et conseils pratiques."
 slug: "pme-suisses-fusions-ia"
-author: "IAPME Suisse"
+author: "Laurent Duplat"
 source: "https://www.heise.de/news/Eine-politische-Ehe-Aleph-Alpha-und-Cohere-verhandeln-ueber-Fusion-11253023.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
 ---

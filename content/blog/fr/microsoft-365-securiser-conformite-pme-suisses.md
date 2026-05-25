@@ -3,7 +3,7 @@ title: "Microsoft 365 : Sécuriser et Conformité pour les PME Suisses"
 date: "2026-04-21"
 excerpt: "Découvrez comment les PME suisses peuvent sécuriser et rendre conforme Microsoft 365."
 slug: "microsoft-365-securiser-conformite-pme-suisses"
-author: "IAPME Suisse"
+author: "Laurent Duplat"
 source: "https://www.heise.de/news/iX-Workshop-Microsoft-365-sicher-einrichten-und-datenschutzkonform-betreiben-11255540.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
 ---

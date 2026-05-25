@@ -1,5 +1,6 @@
 ---
 title: "Automatiser la comptabilité avec l'IA en Suisse"
+author: "Laurent Duplat"
 date: "2026-03-26"
 excerpt: "Comment l'intelligence artificielle transforme la comptabilité des PME suisses : outils, automatisation des factures, conformité TVA, gains de temps et coûts en CHF."
 slug: "automatiser-comptabilite-ia"

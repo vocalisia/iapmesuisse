@@ -241,7 +241,9 @@
         "Rappels anti no-show",
         "Sync calendrier"
       ]
-    }
+    },
+    "digitalSectionBadge": "Nouveaux services IA",
+    "digitalSectionTitle": "Croissance digitale par l'IA"
   },
   "about": {
     "title": "À propos d'IAPME Suisse",

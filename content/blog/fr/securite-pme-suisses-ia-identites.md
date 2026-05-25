@@ -3,7 +3,7 @@ title: "Sécurité des PME suisses : IA et gestion des identités"
 date: "2026-04-29"
 excerpt: "Explorez comment les PME suisses peuvent sécuriser leur infrastructure IT face aux défis de l'IA et de la gestion des identités."
 slug: "securite-pme-suisses-ia-identites"
-author: "IAPME Suisse"
+author: "Laurent Duplat"
 source: "https://www.heise.de/news/heise-security-Tour-KI-Identitaeten-und-Lieferkette-versus-Security-11271374.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
 ---

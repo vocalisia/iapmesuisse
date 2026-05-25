@@ -233,8 +233,6 @@ export default async function CantonPage({ params }: Props) {
     },
     offers: {
       '@type': 'Offer',
-      price: '0',
-      priceCurrency: 'CHF',
       description: 'Audit IA gratuit 30-60 minutes',
     },
   };
@@ -341,7 +339,7 @@ export default async function CantonPage({ params }: Props) {
         <Breadcrumbs
           items={[
             { label: tNav('home'), href: '/' },
-            { label: t.breadcrumbCantons },
+            { label: t.breadcrumbCantons, href: '/cantons' },
             { label: name },
           ]}
         />

@@ -1,5 +1,6 @@
 ---
 title: "Stack IA pour PME suisse : les outils qui font vraiment la différence en 2026"
+author: "Laurent Duplat"
 date: "2026-04-22"
 excerpt: "Voix IA, génération de leads, SEO automatisé : découvrez le stack IA complet que les PME suisses adoptent en 2026 pour rester compétitives. Outils testés, tarifs CHF, retours d'expérience."
 slug: "outils-ia-ecosysteme-pme-suisse-2026"

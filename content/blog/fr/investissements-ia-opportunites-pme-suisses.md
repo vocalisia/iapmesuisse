@@ -3,7 +3,7 @@ title: "Investissements en IA : Opportunités pour les PME Suisses"
 date: "2026-04-30"
 excerpt: "Comment les PME suisses peuvent tirer parti des investissements massifs dans l'IA."
 slug: "investissements-ia-opportunites-pme-suisses"
-author: "IAPME Suisse"
+author: "Laurent Duplat"
 source: "https://www.heise.de/news/KI-Wettruesten-Tech-Riesen-investieren-hunderte-Milliarden-11277500.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
 ---

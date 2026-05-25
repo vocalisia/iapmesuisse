@@ -1,5 +1,6 @@
 ---
 title: "Agence IA pour PME suisse : comment choisir en 2026 ?"
+author: "Laurent Duplat"
 date: "2026-04-22"
 excerpt: "Agence IA, consultant indépendant ou SaaS clé en main : comment choisir le bon partenaire pour digitaliser votre PME suisse avec l'intelligence artificielle ? Critères, tarifs CHF, erreurs à éviter."
 slug: "agence-ia-pme-suisse-comparatif"

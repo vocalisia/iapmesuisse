@@ -1,5 +1,6 @@
 ---
 title: "Études de cas : PME romandes transformées par l'IA"
+author: "Laurent Duplat"
 date: "2026-03-26"
 excerpt: "6 études de cas détaillées de PME romandes ayant intégré l'intelligence artificielle avec succès : secteurs, solutions déployées, investissements en CHF et résultats mesurés."
 slug: "etudes-cas-pme-romandes-ia"

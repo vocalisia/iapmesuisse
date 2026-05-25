@@ -1,5 +1,6 @@
 ---
 title: "Événements IA en Suisse : agenda 2026"
+author: "Laurent Duplat"
 date: "2026-03-26"
 excerpt: "Agenda complet des événements, conférences et formations IA en Suisse pour 2026 : dates, lieux, prix en CHF et conseils pour choisir les événements les plus pertinents."
 slug: "evenements-ia-suisse-2026"

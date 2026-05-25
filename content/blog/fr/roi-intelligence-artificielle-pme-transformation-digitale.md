@@ -1,5 +1,6 @@
 ---
 title: "ROI Intelligence Artificielle PME Suisse 2026 · Benchmarks CHF — IAPME"
+author: "Laurent Duplat"
 date: "2026-05-17"
 excerpt: "Calculer le ROI de l'IA pour votre PME suisse : méthode, benchmarks sectoriels CHF, KPIs, tableau de bord, erreurs à éviter. Cas concrets Sion, Genève, Zurich."
 slug: "roi-intelligence-artificielle-pme-transformation-digitale"

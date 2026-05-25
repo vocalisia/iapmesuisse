@@ -1,5 +1,6 @@
 ---
 title: "Formation IA pour PME suisses en 2026 : programmes, coûts et subventions"
+author: "Laurent Duplat"
 date: "2026-04-30"
 excerpt: "Quelles formations IA choisir pour vos équipes en PME suisse ? Comparatif des programmes disponibles en Suisse romande, coûts en CHF, aides cantonales et plan d'action concret."
 slug: "formation-ia-pme-suisse-2026"

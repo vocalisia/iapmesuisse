@@ -3,7 +3,7 @@ title: "Transformez votre PME avec l'IA : Nouveaux modèles de Microsoft"
 date: "2026-04-03"
 excerpt: "Découvrez comment les nouveaux modèles IA de Microsoft peuvent révolutionner les PME suisses."
 slug: "transformez-votre-pme-avec-ia-nouveaux-modeles-microsoft"
-author: "IAPME Suisse"
+author: "Laurent Duplat"
 source: "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/"
 auto_generated: true
 ---

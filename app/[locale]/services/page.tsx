@@ -212,9 +212,9 @@ export default async function ServicesPage({
           <div className="mt-16">
             <div className="mb-8 text-center">
               <span className="inline-flex items-center rounded-full bg-blue-50 px-3 py-1 text-sm font-medium text-[#0369A1] ring-1 ring-inset ring-blue-100">
-                Nouveaux services IA
+                {t('digitalSectionBadge')}
               </span>
-              <h2 className="mt-3 text-2xl font-bold text-[#1B2A4A]">Croissance digitale par l'IA</h2>
+              <h2 className="mt-3 text-2xl font-bold text-[#1B2A4A]">{t('digitalSectionTitle')}</h2>
             </div>
             <div className="grid gap-8 sm:grid-cols-3">
               {digitalServices.map((service) => {

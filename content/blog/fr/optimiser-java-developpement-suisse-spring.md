@@ -3,7 +3,7 @@ title: "Optimiser votre développement Java en Suisse avec Spring"
 date: "2026-03-29"
 excerpt: "Découvrez comment les PME suisses peuvent tirer parti de Java et Spring pour dynamiser leur transformation digitale."
 slug: "optimiser-java-developpement-suisse-spring"
-author: "IAPME Suisse"
+author: "Laurent Duplat"
 source: "https://www.heise.de/news/Moderne-Java-Entwicklung-Noch-Fruehbuchertickets-fuer-betterCode-Spring-sichern-11226822.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
 ---

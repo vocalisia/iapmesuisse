@@ -3,7 +3,7 @@ title: "L'Impact de l'Innovation des Puces AI sur les PME Suisses"
 date: "2026-04-19"
 excerpt: "Découvrez comment l'avancée des puces AI influence la transformation digitale des PME suisses."
 slug: "impact-innovation-puces-ai-pme-suisses"
-author: "IAPME Suisse"
+author: "Laurent Duplat"
 source: "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/"
 auto_generated: true
 ---

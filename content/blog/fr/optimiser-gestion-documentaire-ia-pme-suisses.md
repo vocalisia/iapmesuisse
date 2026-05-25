@@ -3,7 +3,7 @@ title: "Optimiser la gestion documentaire grâce à l'IA pour les PME suisses"
 date: "2026-04-13"
 excerpt: "Découvrez comment l'IA transforme la gestion documentaire des PME suisses vers plus d'efficacité."
 slug: "optimiser-gestion-documentaire-ia-pme-suisses"
-author: "IAPME Suisse"
+author: "Laurent Duplat"
 source: "https://www.heise.de/ratgeber/Wie-KI-gestuetzte-Dokumentengeneration-Cloud-Design-Prozesse-vereinfacht-11246552.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
 auto_generated: true
 ---

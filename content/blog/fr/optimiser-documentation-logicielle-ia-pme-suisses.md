@@ -3,7 +3,7 @@ title: "Optimiser la documentation logicielle avec l'IA : Un atout pour les PME 
 date: "2026-04-22"
 excerpt: "L'IA transforme la documentation logicielle pour les PME suisses, simplifiant les processus et augmentant l'efficacité."
 slug: "optimiser-documentation-logicielle-ia-pme-suisses"
-author: "IAPME Suisse"
+author: "Laurent Duplat"
 source: "https://www.heise.de/hintergrund/Softwarearchitektur-leserfreundlich-mit-LLMs-dokumentieren-11266519.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
 ---
