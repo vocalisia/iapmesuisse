@@ -5,7 +5,7 @@ date: "2026-04-14"
 tags: ["ia", "pme-valais", "sion", "intelligence-artificielle"]
 slug: "ia-pme-valais-sion-2026-04-14"
 image: "https://oaidalleapiprodscus.blob.core.windows.net/private/org-SfBXURZ3NxADNhYFSlwKFMAx/user-TKeXlBxVEAlV77TDCfIuBkbe/img-nYIRBS77d0n0f4KDwBkO3423.png?st=2026-04-14T10%3A31%3A28Z&se=2026-04-14T12%3A31%3A28Z&sp=r&sv=2026-02-06&sr=b&rscd=inline&rsct=image/png&skoid=7daae675-7b42-4e2e-ab4c-8d8419a28d99&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-04-13T11%3A42%3A36Z&ske=2026-04-14T11%3A42%3A36Z&sks=b&skv=2026-02-06&sig=tDaHmSHu4iYGnF6J0gLiGpxzUGcs4E7OeVyrgIe4CVg%3D"
-author: "SEO Autopilot"
+author: "Laurent Duplat"
 lang: "fr"
 ---
 

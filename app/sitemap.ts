@@ -23,6 +23,7 @@ const pages = [
   '/politique-confidentialite',
   '/cgv',
   '/formation-ia-pme',
+  '/automatisation-ia-pme-suisse',
   '/consulting',
   '/newsletter',
   '/evenements-ia',

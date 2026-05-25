@@ -17,10 +17,22 @@ export async function generateMetadata({
 
   if (!post) return {};
 
+  const allLocales = ['fr', 'de', 'en', 'it'] as const;
+  const availableLocales = allLocales.filter((l) =>
+    getBlogPosts(l).some((p) => p.slug === slug)
+  );
+
   return {
     title: { absolute: post.title },
     description: post.excerpt,
-    alternates: getAlternates(locale, `/blog/${slug}`),
+    alternates: getAlternates(locale, `/blog/${slug}`, availableLocales.length > 0 ? availableLocales : [locale]),
+    openGraph: {
+      title: post.title,
+      description: post.excerpt,
+      type: 'article',
+      locale,
+      siteName: 'IAPME Suisse',
+    },
   };
 }
 

@@ -204,10 +204,9 @@ const T = {
   },
 };
 
-const tData = T.fr;
-
 export default async function AutomatisationPillarPage({ params }: Props) {
   const { locale } = await params;
+  const tData = T[locale as keyof typeof T] ?? T.fr;
   const t = await getTranslations({ locale, namespace: 'nav' });
   const tHome = await getTranslations({ locale, namespace: 'home' });
 

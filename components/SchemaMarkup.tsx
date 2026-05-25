@@ -10,11 +10,6 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
     "description": "Formation IA et accompagnement stratégique pour PME suisses",
     "publisher": { "@id": `${baseUrl}/#organization` },
     "inLanguage": ["fr", "de", "en", "it"],
-    "potentialAction": {
-      "@type": "SearchAction",
-      "target": { "@type": "EntryPoint", "urlTemplate": `${baseUrl}/fr?q={search_term_string}` },
-      "query-input": "required name=search_term_string",
-    },
   };
 
   const personSchema = {
@@ -22,12 +17,12 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
     "@type": "Person",
     "@id": `${baseUrl}/#founder`,
     "name": "Laurent Duplat",
-    "url": `${baseUrl}/fr/a-propos`,
+    "url": `${baseUrl}/${locale}/a-propos`,
     "jobTitle": "Directeur de la publication & Formateur IA",
     "description": "Directeur de la publication IAPME Suisse, formateur et consultant IA pour PME suisses, plus de 10 ans d'expérience en stratégie digitale et automatisation.",
     "worksFor": { "@type": "Organization", "@id": `${baseUrl}/#organization` },
     "knowsLanguage": ["fr", "de", "en"],
-    "sameAs": ["https://vocalis.pro"],
+    "sameAs": ["https://www.linkedin.com/company/iapme-suisse"],
   };
 
   const organizationSchema = {
@@ -36,7 +31,6 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
     "@id": `${baseUrl}/#organization`,
     "name": "IAPME Suisse",
     "url": baseUrl,
-    "logo": { "@type": "ImageObject", "url": `${baseUrl}/images/hero-bg.jpg`, "width": 1200, "height": 630 },
     "image": `${baseUrl}/images/hero-bg.jpg`,
     "description":
       locale === 'de'
@@ -83,12 +77,7 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
       "closes": "18:00",
     },
     "sameAs": [
-      "https://vocalis.pro",
-      "https://vocalis.blog",
-      "https://tesla-mag.ch",
-      "https://master-seller.fr",
-      "https://seo-true.com",
-      "https://trustly-ai.com",
+      "https://www.linkedin.com/company/iapme-suisse",
     ],
   };
 
