@@ -3,12 +3,13 @@
 import { useState, useRef, useEffect } from 'react';
 import { useLocale } from 'next-intl';
 import { useRouter, usePathname } from '@/i18n/routing';
+import ReactCountryFlag from 'react-country-flag';
 
 const locales = [
-  { code: 'fr', label: 'Francais', flag: '\u{1F1EB}\u{1F1F7}' },
-  { code: 'de', label: 'Deutsch', flag: '\u{1F1E9}\u{1F1EA}' },
-  { code: 'en', label: 'English', flag: '\u{1F1EC}\u{1F1E7}' },
-  { code: 'it', label: 'Italiano', flag: '\u{1F1EE}\u{1F1F9}' },
+  { code: 'fr', label: 'Français', countryCode: 'FR' },
+  { code: 'de', label: 'Deutsch', countryCode: 'DE' },
+  { code: 'en', label: 'English', countryCode: 'GB' },
+  { code: 'it', label: 'Italiano', countryCode: 'IT' },
 ] as const;
 
 export default function LanguageSwitcher() {
@@ -47,7 +48,7 @@ export default function LanguageSwitcher() {
         aria-expanded={isOpen}
         aria-haspopup="listbox"
       >
-        <span className="text-xl leading-none">{currentLocale.flag}</span>
+        <ReactCountryFlag countryCode={currentLocale.countryCode} svg style={{ width: '1.4em', height: '1.4em' }} />
         <svg
           className={`h-4 w-4 transition-transform ${isOpen ? 'rotate-180' : ''}`}
           fill="none"
@@ -77,7 +78,7 @@ export default function LanguageSwitcher() {
                     : 'text-gray-700 hover:bg-gray-50'
                 }`}
               >
-                <span className="text-xl leading-none">{l.flag}</span>
+                <ReactCountryFlag countryCode={l.countryCode} svg style={{ width: '1.4em', height: '1.4em' }} />
                 <span>{l.label}</span>
               </button>
             </li>
