@@ -47,8 +47,7 @@ export default function LanguageSwitcher() {
         aria-expanded={isOpen}
         aria-haspopup="listbox"
       >
-        <span className="text-lg leading-none">{currentLocale.flag}</span>
-        <span className="hidden sm:inline">{currentLocale.code.toUpperCase()}</span>
+        <span className="text-xl leading-none">{currentLocale.flag}</span>
         <svg
           className={`h-4 w-4 transition-transform ${isOpen ? 'rotate-180' : ''}`}
           fill="none"
@@ -78,7 +77,7 @@ export default function LanguageSwitcher() {
                     : 'text-gray-700 hover:bg-gray-50'
                 }`}
               >
-                <span className="text-lg leading-none">{l.flag}</span>
+                <span className="text-xl leading-none">{l.flag}</span>
                 <span>{l.label}</span>
               </button>
             </li>
