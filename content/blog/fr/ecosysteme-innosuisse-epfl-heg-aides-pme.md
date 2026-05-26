@@ -1,14 +1,15 @@
 ---
-title: "Écosystème InnoSuisse, EPFL & HES-SO : aides PME romandes 2026"
+title: "InnoSuisse pour PME suisses : guide complet 2026 — aides, instruments, démarches"
 date: "2026-05-01"
-excerpt: "Cartographie complète des aides à l'innovation IA pour PME suisses : InnoSuisse, EPFL, HES-SO, HEG, ETH. Démarches, plafonds, délais réels."
+excerpt: "InnoSuisse : Innovationscheck (CHF 15 000), Coaching Innovation (CHF 75 000), Projets R&D (CHF 1M). Guide complet des aides InnoSuisse pour PME suisses avec EPFL, HES-SO et ETH. Démarches, délais, cas pratiques."
 slug: "ecosysteme-innosuisse-epfl-heg-aides-pme"
 category: "IA PME Suisses"
 author: "Laurent Duplat"
 locale: "fr"
+image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1280&h=720&fit=crop"
 ---
 
-# Écosystème InnoSuisse, EPFL & HES-SO : aides PME romandes 2026
+# InnoSuisse pour PME suisses : guide complet 2026
 
 La Suisse dispose d'un écosystème d'innovation parmi les plus denses au monde, mais les PME romandes en sous-utilisent largement les leviers. Entre **InnoSuisse**, les hautes écoles (**EPFL, ETH, HES-SO, HEG**), les programmes cantonaux et les fondations privées, une PME éligible peut mobiliser entre **15 000 et 200 000 CHF d'aides directes** sur un projet d'intelligence artificielle. Ce guide cartographie les dispositifs réellement accessibles, les démarches et les délais.
 
@@ -160,3 +161,11 @@ Pas obligatoire mais le taux de succès passe de 20-30% (PME seule) à 60-70% av
 ---
 
 Votre projet IA pourrait-il être éligible à InnoSuisse ou à une aide cantonale ? [Réservez un audit IA gratuit](/fr/contact) : 30 minutes pour cadrer le besoin et identifier les leviers de financement adaptés à votre PME. Voir aussi notre [comparatif AI Act](/fr/blog/ai-act-eu-pme-suisse-conformite-2026) pour anticiper les exigences réglementaires de votre projet.
+
+## Articles connexes
+
+- [Chèque innovation InnoSuisse : guide complet](/fr/blog/innovation-cheque-innosuisse-guide) — étapes détaillées pour obtenir l'Innovationscheck
+- [Coaching PME Suisse : InnoSuisse et IA](/fr/blog/coaching-pme-suisse-innovation-ia) — programme Coaching Innovation complet
+- [Aides à l'innovation Suisse 2026](/fr/blog/aides-innovation-suisse-2026) — toutes les sources fédérales, cantonales et européennes
+- [Financement innovation PME](/fr/blog/financement-innovation-pme-suisse-2026) — stratégie de cumul des financements
+- [Accélérateurs startup Suisse](/fr/blog/accelerateur-startup-suisse-2026) — Venture Kick, MassChallenge, Kickstart
