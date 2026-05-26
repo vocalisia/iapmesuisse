@@ -31,6 +31,12 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
     "@id": `${baseUrl}/#organization`,
     "name": "IAPME Suisse",
     "url": baseUrl,
+    "logo": {
+      "@type": "ImageObject",
+      "url": `${baseUrl}/images/logo.svg`,
+      "width": 320,
+      "height": 80,
+    },
     "image": `${baseUrl}/images/hero-bg.jpg`,
     "description":
       locale === 'de'
@@ -81,108 +87,6 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
     ],
   };
 
-  const courseSchema = {
-    "@context": "https://schema.org",
-    "@type": "Course",
-    "name": locale === 'de'
-      ? 'KI-Schulung fur Schweizer KMU'
-      : locale === 'it'
-        ? 'Formazione IA per PMI svizzere'
-        : locale === 'en'
-          ? 'AI Training for Swiss SMEs'
-          : 'Formation IA pour PME suisses',
-    "description": locale === 'de'
-      ? 'Praxisnahe KI-Schulung fur Schweizer KMU. Von Grundlagen bis Fortgeschrittene. EduQua-zertifiziert.'
-      : locale === 'it'
-        ? 'Formazione pratica IA per PMI svizzere. Dal livello base all\'avanzato. Certificazione EduQua.'
-        : locale === 'en'
-          ? 'Practical AI training for Swiss SMEs. From beginner to advanced. EduQua certified.'
-          : 'Formation pratique en intelligence artificielle pour les PME suisses. Du niveau debutant a expert. Certification EduQua.',
-    "provider": {
-      "@type": "Organization",
-      "@id": `${baseUrl}/#organization`,
-      "name": "IAPME Suisse",
-    },
-    "educationalLevel": "Beginner to Advanced",
-    "inLanguage": [locale, "fr", "de", "en", "it"],
-    "instructor": {
-      "@type": "Person",
-      "name": "Laurent Duplat",
-      "jobTitle": "Directeur de la publication & Formateur IA",
-      "url": `${baseUrl}/${locale}/a-propos`,
-      "worksFor": {
-        "@type": "Organization",
-        "@id": `${baseUrl}/#organization`,
-      },
-    },
-    "hasCourseInstance": [
-      {
-        "@type": "CourseInstance",
-        "name": "Découverte",
-        "description": "Webinaire de découverte des outils IA pour PME, 1h en ligne.",
-        "courseMode": "online",
-        "courseWorkload": "PT1H",
-        "instructor": { "@type": "Person", "name": "Laurent Duplat" },
-      },
-      {
-        "@type": "CourseInstance",
-        "name": "Starter",
-        "description": "Initiation IA pour PME — 4h en visioconférence.",
-        "courseMode": "online",
-        "courseWorkload": "PT4H",
-        "instructor": { "@type": "Person", "name": "Laurent Duplat" },
-      },
-      {
-        "@type": "CourseInstance",
-        "name": "Pro",
-        "description": "Formation IA approfondie — outils, prompts, workflows. 12h en blended learning.",
-        "courseMode": "blended",
-        "courseWorkload": "PT12H",
-        "instructor": { "@type": "Person", "name": "Laurent Duplat" },
-      },
-      {
-        "@type": "CourseInstance",
-        "name": "Premium",
-        "description": "Formation IA intensive avec accompagnement individuel — 30h.",
-        "courseMode": "blended",
-        "courseWorkload": "PT30H",
-        "instructor": { "@type": "Person", "name": "Laurent Duplat" },
-      },
-      {
-        "@type": "CourseInstance",
-        "name": "Formation Équipe",
-        "description": "Formation IA sur mesure pour équipes — 4h en visioconférence ou présentiel.",
-        "courseMode": "blended",
-        "courseWorkload": "PT4H",
-        "location": {
-          "@type": "Place",
-          "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "CH",
-          },
-        },
-        "instructor": { "@type": "Person", "name": "Laurent Duplat" },
-      },
-      {
-        "@type": "CourseInstance",
-        "name": "Formation Claude Code",
-        "description": "Formation Claude Code pour équipes techniques — 4h, dev assisté par IA.",
-        "courseMode": "blended",
-        "courseWorkload": "PT4H",
-        "instructor": { "@type": "Person", "name": "Laurent Duplat" },
-      },
-      {
-        "@type": "CourseInstance",
-        "name": "Formation IA Marketing",
-        "description": "Formation IA appliquée au marketing — outils, automatisation, 4h sur mesure.",
-        "courseMode": "blended",
-        "courseWorkload": "PT4H",
-        "instructor": { "@type": "Person", "name": "Laurent Duplat" },
-      },
-    ],
-    "url": `${baseUrl}/${locale}/formation-ia-pme`,
-  };
-
   return (
     <>
       <script
@@ -196,10 +100,6 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(courseSchema) }}
       />
     </>
   );

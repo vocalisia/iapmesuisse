@@ -34,8 +34,32 @@ export default async function FormationPage({
   const testimonials = t.raw('testimonials') as Array<{quote: string; name: string; role: string; company: string}>;
   const caseMetrics = t.raw('case_study_metrics') as Array<{label: string; before_val: string; after_val: string; gain: string}>;
 
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://iapmesuisse.ch';
+  const courseName = locale === 'de' ? 'KI-Schulung fur Schweizer KMU' : locale === 'it' ? 'Formazione IA per PMI svizzere' : locale === 'en' ? 'AI Training for Swiss SMEs' : 'Formation IA pour PME suisses';
+  const courseDesc = locale === 'de' ? 'Praxisnahe KI-Schulung fur Schweizer KMU. Von Grundlagen bis Fortgeschrittene.' : locale === 'it' ? 'Formazione pratica IA per PMI svizzere. Dal livello base all\'avanzato.' : locale === 'en' ? 'Practical AI training for Swiss SMEs. From beginner to advanced.' : 'Formation pratique en intelligence artificielle pour les PME suisses. Du niveau debutant a expert.';
+
+  const courseSchema = {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": courseName,
+    "description": courseDesc,
+    "provider": { "@type": "Organization", "@id": `${baseUrl}/#organization`, "name": "IAPME Suisse" },
+    "educationalLevel": "Beginner to Advanced",
+    "inLanguage": [locale, "fr", "de", "en", "it"],
+    "instructor": { "@type": "Person", "name": "Laurent Duplat", "jobTitle": "Directeur de la publication & Formateur IA", "url": `${baseUrl}/${locale}/a-propos` },
+    "hasCourseInstance": [
+      { "@type": "CourseInstance", "name": "Decouverte", "courseMode": "online", "courseWorkload": "PT1H", "instructor": { "@type": "Person", "name": "Laurent Duplat" } },
+      { "@type": "CourseInstance", "name": "Starter", "courseMode": "online", "courseWorkload": "PT4H", "instructor": { "@type": "Person", "name": "Laurent Duplat" } },
+      { "@type": "CourseInstance", "name": "Pro", "courseMode": "blended", "courseWorkload": "PT12H", "instructor": { "@type": "Person", "name": "Laurent Duplat" } },
+      { "@type": "CourseInstance", "name": "Premium", "courseMode": "blended", "courseWorkload": "PT30H", "instructor": { "@type": "Person", "name": "Laurent Duplat" } },
+      { "@type": "CourseInstance", "name": "Formation Equipe", "courseMode": "blended", "courseWorkload": "PT4H", "instructor": { "@type": "Person", "name": "Laurent Duplat" } },
+    ],
+    "url": `${baseUrl}/${locale}/formation-ia-pme`,
+  };
+
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(courseSchema) }} />
       {/* Breadcrumbs */}
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <Breadcrumbs

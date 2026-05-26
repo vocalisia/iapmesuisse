@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" width="320" height="80">
+  <rect width="320" height="80" fill="#1B2A4A" rx="8"/>
+  <text x="20" y="32" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#FFFFFF" letter-spacing="1">IAPME</text>
+  <text x="20" y="56" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#FFFFFF" letter-spacing="1">Suisse</text>
+  <rect x="105" y="14" width="2" height="52" fill="#3B82F6" opacity="0.7"/>
+  <text x="118" y="34" font-family="Arial, sans-serif" font-size="10" fill="#93C5FD" letter-spacing="2">INTELLIGENCE</text>
+  <text x="118" y="50" font-family="Arial, sans-serif" font-size="10" fill="#93C5FD" letter-spacing="2">ARTIFICIELLE</text>
+  <text x="118" y="62" font-family="Arial, sans-serif" font-size="10" fill="#93C5FD" letter-spacing="2">PME</text>
+</svg>
