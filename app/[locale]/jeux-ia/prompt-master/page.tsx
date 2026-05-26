@@ -68,13 +68,13 @@ interface LocaleContent {
 const allContent: Record<string, LocaleContent> = {
   fr: {
     pageTitle: 'Prompt Master',
-    pageSubtitle: 'Ecrivez le meilleur prompt possible pour chaque defi. Votre prompt sera evalue sur 5 criteres. Saurez-vous atteindre le score parfait ?',
-    startButton: 'Relever le defi !',
-    challengeOf: 'Defi {current} sur {total}',
+    pageSubtitle: 'Écrivez le meilleur prompt possible pour chaque défi. Votre prompt sera évalué sur 5 critères. Saurez-vous atteindre le score parfait ?',
+    startButton: 'Relever le défi !',
+    challengeOf: 'Défi {current} sur {total}',
     challengeLabel: 'Votre mission :',
-    promptPlaceholder: 'Ecrivez votre prompt ici... Soyez precis, donnez du contexte, definissez le format attendu !',
-    submitButton: 'Evaluer mon prompt',
-    scoreTitle: 'Evaluation de votre prompt',
+    promptPlaceholder: 'Écrivez votre prompt ici... Soyez précis, donnez du contexte, définissez le format attendu !',
+    submitButton: 'Évaluer mon prompt',
+    scoreTitle: 'Évaluation de votre prompt',
     criteriaLabels: {
       length: 'Longueur suffisante',
       context: 'Contexte / Role defini',

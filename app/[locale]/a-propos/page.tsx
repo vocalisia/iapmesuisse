@@ -123,7 +123,7 @@ export default async function AboutPage({
           <div className="mb-12 overflow-hidden rounded-2xl">
             <Image
               src="/images/team.jpg"
-              alt="Notre equipe"
+              alt="Notre équipe"
               width={800}
               height={400}
               className="mx-auto h-64 w-full max-w-3xl object-cover sm:h-80"
