@@ -242,3 +242,4 @@ Et si vous ne savez pas par où commencer, **iapmesuisse.ch** est là pour vous 
 - [ROI de l'IA pour les PME suisses : chiffres et méthode de calcul 2026](/fr/blog/roi-intelligence-artificielle-pme-suisse)
 - [Stratégie IA pour PME suisse : le plan d'action complet 2026](/fr/blog/strategie-ia-pme-suisse-2026)
 - [Audit IA : évaluer la maturité numérique de votre PME](/fr/blog/audit-ia-maturite-pme)
+- [Guide complet : choisir une agence IA pour PME suisse en 2026](/fr/agence-ia-suisse)

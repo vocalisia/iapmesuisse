@@ -161,4 +161,11 @@ La clé : commencer petit, mesurer, itérer. Suivez le [guide d'automatisation I
 
 ---
 
+## Articles connexes
+
+- [Chatbot IA pour entreprise suisse : solutions, déploiement et ROI 2026](/fr/chatbot-ia-entreprise-suisse)
+- [Agence IA pour PME suisses : choisir le bon partenaire](/fr/agence-ia-suisse)
+- [KI-Beratung für KMU Schweiz : guide complet 2026](/fr/ki-beratung-kmu-schweiz)
+- [ROI de l'IA pour les PME suisses : chiffres et méthode de calcul 2026](/fr/blog/roi-intelligence-artificielle-pme-suisse)
+
 *Laurent Duplat accompagne les PME suisses dans leur transformation par l'IA depuis 2022.*
