@@ -126,3 +126,10 @@ Key competencies to develop in your middle managers:
 - [AI Consulting for Executives](/fr/consulting)
 - [AI Strategy for Swiss SMEs 2026](/fr/blog/strategie-ia-pme-suisse-2026)
 - [Free 30-Minute Audit](/fr/contact)
+
+
+## Related Articles
+
+- [AI Consulting for Swiss SMEs : Complete Guide 2026](/en/ki-beratung-kmu-schweiz)
+- [AI Agency for Swiss SMEs : Comparison and Selection 2026](/en/agence-ia-suisse)
+- [AI Chatbot for Swiss Businesses : Solutions and ROI 2026](/en/chatbot-ia-entreprise-suisse)

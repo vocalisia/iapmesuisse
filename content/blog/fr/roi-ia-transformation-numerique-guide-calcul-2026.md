@@ -159,3 +159,10 @@ Pour une PME suisse standard, les projets bien dimensionnés atteignent leur poi
 - [ROI de l'intelligence artificielle pour les PME suisses](/fr/blog/roi-intelligence-artificielle-pme-suisse)
 - [Consulting IA pour PME suisses](/fr/consulting)
 - [Audit IA gratuit 30 min](/fr/contact)
+
+
+## Articles connexes
+
+- [KI-Beratung für KMU Schweiz : guide complet 2026](/fr/ki-beratung-kmu-schweiz)
+- [Agence IA pour PME suisses : comparatif et critères 2026](/fr/agence-ia-suisse)
+- [Chatbot IA pour entreprise suisse : solutions et ROI 2026](/fr/chatbot-ia-entreprise-suisse)

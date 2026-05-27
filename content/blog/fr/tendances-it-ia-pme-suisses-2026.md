@@ -149,3 +149,10 @@ La principale différence structurelle : la Suisse n'est pas soumise à l'EU AI 
 - [Consulting IA pour PME](/fr/consulting)
 - [Formation IA pour équipes](/fr/formation-ia-pme)
 - [Audit IA gratuit 30 min](/fr/contact)
+
+
+## Articles connexes
+
+- [KI-Beratung für KMU Schweiz : guide complet 2026](/fr/ki-beratung-kmu-schweiz)
+- [Agence IA pour PME suisses : comparatif et critères 2026](/fr/agence-ia-suisse)
+- [Chatbot IA pour entreprise suisse : solutions et ROI 2026](/fr/chatbot-ia-entreprise-suisse)

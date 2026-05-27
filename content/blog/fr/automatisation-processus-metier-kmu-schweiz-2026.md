@@ -189,3 +189,10 @@ Pour un accompagnement structuré dans votre démarche d'automatisation, notre �
 - [Consulting IA pour PME](/fr/consulting)
 - [Formation IA pour équipes](/fr/formation-ia-pme)
 - [Audit IA gratuit 30 min](/fr/contact)
+
+
+## Articles connexes
+
+- [KI-Beratung für KMU Schweiz : guide complet 2026](/fr/ki-beratung-kmu-schweiz)
+- [Agence IA pour PME suisses : comparatif et critères 2026](/fr/agence-ia-suisse)
+- [Chatbot IA pour entreprise suisse : solutions et ROI 2026](/fr/chatbot-ia-entreprise-suisse)

@@ -149,3 +149,10 @@ Les déclencheurs d'un audit non planifié : changement de direction, acquisitio
 - [Audit IA gratuit : checklist nLPD](/fr/blog/audit-ia-gratuit-pme-suisse-checklist-nlpd)
 - [Stratégie IA PME suisse 2026](/fr/blog/strategie-ia-pme-suisse-2026)
 - [Audit gratuit 30 minutes](/fr/contact)
+
+
+## Articles connexes
+
+- [KI-Beratung für KMU Schweiz : guide complet 2026](/fr/ki-beratung-kmu-schweiz)
+- [Agence IA pour PME suisses : comparatif et critères 2026](/fr/agence-ia-suisse)
+- [Chatbot IA pour entreprise suisse : solutions et ROI 2026](/fr/chatbot-ia-entreprise-suisse)

@@ -153,3 +153,10 @@ Cette séquence permet d'obtenir des résultats visibles en 6 à 8 semaines, san
 - [Formation IA pour PME suisses : programme complet](/fr/blog/formation-ia-pme-suisse-2026)
 - [Formation IA pour dirigeants](/fr/blog/formation-ia-dirigeants)
 - [Audit IA gratuit 30 min](/fr/contact)
+
+
+## Articles connexes
+
+- [KI-Beratung für KMU Schweiz : guide complet 2026](/fr/ki-beratung-kmu-schweiz)
+- [Agence IA pour PME suisses : comparatif et critères 2026](/fr/agence-ia-suisse)
+- [Chatbot IA pour entreprise suisse : solutions et ROI 2026](/fr/chatbot-ia-entreprise-suisse)

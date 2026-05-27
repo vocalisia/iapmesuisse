@@ -132,3 +132,10 @@ L'avantage concurrentiel de l'IA se construit sur la durée. Chaque mois d'inact
 - [Consulting IA pour dirigeants](/fr/consulting)
 - [Stratégie IA PME suisse 2026](/fr/blog/strategie-ia-pme-suisse-2026)
 - [Audit gratuit 30 minutes](/fr/contact)
+
+
+## Articles connexes
+
+- [KI-Beratung für KMU Schweiz : guide complet 2026](/fr/ki-beratung-kmu-schweiz)
+- [Agence IA pour PME suisses : comparatif et critères 2026](/fr/agence-ia-suisse)
+- [Chatbot IA pour entreprise suisse : solutions et ROI 2026](/fr/chatbot-ia-entreprise-suisse)

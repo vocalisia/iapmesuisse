@@ -154,3 +154,10 @@ C'est LE sujet critique pour les PME suisses. Voici les règles pratiques :
 - [Outils IA pour PME](/fr/outils-ia)
 - [ChatGPT pour PME suisses](/fr/blog/chatgpt-pme)
 - [Audit gratuit 30 minutes](/fr/contact)
+
+
+## Articles connexes
+
+- [KI-Beratung für KMU Schweiz : guide complet 2026](/fr/ki-beratung-kmu-schweiz)
+- [Agence IA pour PME suisses : comparatif et critères 2026](/fr/agence-ia-suisse)
+- [Chatbot IA pour entreprise suisse : solutions et ROI 2026](/fr/chatbot-ia-entreprise-suisse)
