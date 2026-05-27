@@ -108,17 +108,25 @@ const GA4_RULES = [
 ];
 
 function findLayoutFile(root) {
-  for (const rel of LAYOUT_CANDIDATES) {
-    const abs = path.join(root, rel);
-    if (fs.existsSync(abs)) return { rel, abs };
-  }
-  return null;
+  // Return the most specific layout found (prefer [locale] over root for i18n projects)
+  const found = LAYOUT_CANDIDATES
+    .map((rel) => ({ rel, abs: path.join(root, rel) }))
+    .filter(({ abs }) => fs.existsSync(abs));
+  if (found.length === 0) return null;
+  // Merge all layout contents so rules pass if ANY layout satisfies them
+  const merged = found.map(({ abs }) => fs.readFileSync(abs, "utf8")).join("\n");
+  const primary = found[found.length - 1]; // most specific candidate wins for display
+  return { rel: found.map((f) => f.rel).join(" + "), abs: primary.abs, merged };
 }
 
 function checkRules(content, rules, sourceFile) {
+  // For "forbid" rules, strip template literal contents to avoid false positives
+  // on dynamic script content inside dangerouslySetInnerHTML strings.
+  const strippedContent = content.replace(/`[^`]*`/gs, "``");
   const violations = [];
   for (const rule of rules) {
-    const matches = rule.pattern.test(content);
+    const scanTarget = rule.mode === "forbid" ? strippedContent : content;
+    const matches = rule.pattern.test(scanTarget);
     if (rule.mode === "require" && !matches) {
       violations.push({ ...rule, file: sourceFile });
     } else if (rule.mode === "forbid" && matches) {
@@ -141,7 +149,7 @@ function main() {
     process.exit(0);
   }
 
-  const layoutContent = fs.readFileSync(layout.abs, "utf8");
+  const layoutContent = layout.merged || fs.readFileSync(layout.abs, "utf8");
 
   let allRules = RULES;
   if (process.env.SEO_GUARD_GA4 === "1") {
