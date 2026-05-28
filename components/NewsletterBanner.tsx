@@ -48,7 +48,6 @@ export default function NewsletterBanner() {
   function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
     // Brevo integration later
-    console.log('Newsletter banner signup:', email);
     handleDismiss();
   }
 
@@ -75,6 +74,7 @@ export default function NewsletterBanner() {
             value={email}
             onChange={(e) => setEmail(e.target.value)}
             placeholder={t('email_placeholder')}
+            aria-label={t('email_label')}
             className="w-full rounded-lg border border-white/20 bg-white/10 px-4 py-2.5 text-sm text-white placeholder-white/60 transition-colors focus:border-white focus:outline-none sm:w-64"
           />
           <button
@@ -98,6 +98,7 @@ export default function NewsletterBanner() {
             viewBox="0 0 24 24"
             stroke="currentColor"
             strokeWidth={2}
+            aria-hidden="true"
           >
             <path
               strokeLinecap="round"

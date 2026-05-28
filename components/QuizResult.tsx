@@ -278,6 +278,7 @@ export default function QuizResult({
                     value={email}
                     onChange={(e) => setEmail(e.target.value)}
                     placeholder={emailPlaceholder}
+                    aria-label="Adresse email"
                     className="flex-1 rounded-lg border border-gray-300 px-4 py-3 text-sm text-gray-900 transition-colors focus:border-[#FF0000] focus:outline-none focus:ring-2 focus:ring-[#FF0000]/20"
                   />
                   <button

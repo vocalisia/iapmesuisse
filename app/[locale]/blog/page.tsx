@@ -107,6 +107,7 @@ export default async function BlogPage({
             <Link
               href={safePage === 2 ? '/blog' : `/blog?page=${safePage - 1}`}
               rel="prev"
+              aria-label={`Page précédente, page ${safePage - 1}`}
               className="inline-flex items-center gap-2 rounded-lg border border-gray-300 bg-white px-4 py-2 text-sm font-semibold text-primary transition-colors hover:bg-gray-50"
             >
               <span aria-hidden="true">←</span> {safePage - 1}
@@ -123,6 +124,7 @@ export default async function BlogPage({
             <Link
               href={`/blog?page=${safePage + 1}`}
               rel="next"
+              aria-label={`Page suivante, page ${safePage + 1}`}
               className="inline-flex items-center gap-2 rounded-lg border border-gray-300 bg-white px-4 py-2 text-sm font-semibold text-primary transition-colors hover:bg-gray-50"
             >
               {safePage + 1} <span aria-hidden="true">→</span>

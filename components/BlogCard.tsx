@@ -76,6 +76,7 @@ export default function BlogCard({
       <Link
         href={`/blog/${slug}`}
         className="inline-flex items-center text-sm font-semibold text-[#1B2A4A] transition-colors hover:text-[#FF0000]"
+        aria-label={`${readMoreText}: ${title}`}
       >
         {readMoreText}
         <svg
@@ -84,6 +85,7 @@ export default function BlogCard({
           viewBox="0 0 24 24"
           stroke="currentColor"
           strokeWidth={2}
+          aria-hidden="true"
         >
           <path strokeLinecap="round" strokeLinejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
         </svg>
