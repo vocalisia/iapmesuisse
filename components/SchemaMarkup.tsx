@@ -41,8 +41,8 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
     "knowsLanguage": ["fr", "de", "en", "it"],
     "sameAs": [
       "https://www.linkedin.com/company/iapme-suisse",
-      "https://www.linkedin.com/in/laurent-duplat",
-      "https://x.com/laurentduplat",
+      "https://www.linkedin.com/in/vocalisia",
+      "https://x.com/vocalisia",
     ],
   };
 
@@ -126,8 +126,8 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
     "diversityPolicy": `${baseUrl}/${locale}/diversite`,
     "sameAs": [
       "https://www.linkedin.com/company/iapme-suisse",
-      "https://www.linkedin.com/in/laurent-duplat",
-      "https://x.com/laurentduplat",
+      "https://www.linkedin.com/in/vocalisia",
+      "https://x.com/vocalisia",
     ],
   };
 
