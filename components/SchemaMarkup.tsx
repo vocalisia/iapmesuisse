@@ -42,7 +42,7 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
     "sameAs": [
       "https://www.linkedin.com/company/iapme-suisse",
       "https://www.linkedin.com/in/vocalisia",
-      "https://x.com/vocalisia",
+      "https://x.com/VocalisAi",
     ],
   };
 
@@ -127,7 +127,7 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
     "sameAs": [
       "https://www.linkedin.com/company/iapme-suisse",
       "https://www.linkedin.com/in/vocalisia",
-      "https://x.com/vocalisia",
+      "https://x.com/VocalisAi",
     ],
   };
 
