@@ -19,10 +19,31 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
     "name": "Laurent Duplat",
     "url": `${baseUrl}/${locale}/a-propos`,
     "jobTitle": "Directeur de la publication & Formateur IA",
-    "description": "Directeur de la publication IAPME Suisse, formateur et consultant IA pour PME suisses, plus de 10 ans d'expérience en stratégie digitale et automatisation.",
+    "description": "Directeur de la publication IAPME Suisse, formateur et consultant IA pour PME suisses, plus de 10 ans d'experience en strategie digitale et automatisation.",
+    "image": {
+      "@type": "ImageObject",
+      "url": `${baseUrl}/images/authors/laurent-duplat.jpg`,
+      "width": 400,
+      "height": 400,
+    },
+    "nationality": { "@type": "Country", "name": "Switzerland" },
     "worksFor": { "@type": "Organization", "@id": `${baseUrl}/#organization` },
-    "knowsLanguage": ["fr", "de", "en"],
-    "sameAs": ["https://www.linkedin.com/company/iapme-suisse"],
+    "knowsAbout": [
+      "Intelligence artificielle pour PME",
+      "Formation IA generative",
+      "ChatGPT et automatisation entreprise",
+      "Strategie digitale Suisse romande",
+      "Conformite IA et RGPD",
+      "Integration outils IA",
+      "Transformation numerique PME",
+      "Productivite IA",
+    ],
+    "knowsLanguage": ["fr", "de", "en", "it"],
+    "sameAs": [
+      "https://www.linkedin.com/company/iapme-suisse",
+      "https://www.linkedin.com/in/laurent-duplat",
+      "https://x.com/laurentduplat",
+    ],
   };
 
   const organizationSchema = {
@@ -37,7 +58,12 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
       "width": 320,
       "height": 80,
     },
-    "image": `${baseUrl}/images/hero-bg.jpg`,
+    "image": {
+      "@type": "ImageObject",
+      "url": `${baseUrl}/images/hero-bg.jpg`,
+      "width": 1200,
+      "height": 630,
+    },
     "description":
       locale === 'de'
         ? 'Strategische Begleitung, Schulung und Integration von KI-Tools fur Schweizer KMU'
@@ -46,6 +72,7 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
           : locale === 'en'
             ? 'Strategic support, training and AI tool integration for Swiss SMEs'
             : 'Accompagnement strategique, formation et integration d\'outils d\'intelligence artificielle pour les PME suisses',
+    "foundingDate": "2024",
     "email": "contact@iapmesuisse.ch",
     "contactPoint": {
       "@type": "ContactPoint",
@@ -74,6 +101,17 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
       { "@type": "AdministrativeArea", "name": "Bern" },
       { "@type": "AdministrativeArea", "name": "Ticino" },
     ],
+    "knowsAbout": [
+      "Intelligence artificielle pour PME suisses",
+      "Formation ChatGPT et IA generative",
+      "Automatisation business processes",
+      "Strategie IA pour entreprises Suisse romande",
+      "Integration outils IA (Copilot, Claude, Gemini)",
+      "Conformite IA RGPD nLPD",
+      "Transformation digitale PME",
+      "ROI et productivite IA",
+      "Coaching IA dirigeants",
+    ],
     "knowsLanguage": ["fr", "de", "en", "it"],
     "priceRange": "$$",
     "openingHoursSpecification": {
@@ -82,8 +120,14 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
       "opens": "09:00",
       "closes": "18:00",
     },
+    "publishingPrinciples": `${baseUrl}/${locale}/charte-editoriale`,
+    "ethicsPolicy": `${baseUrl}/${locale}/ethique`,
+    "correctionsPolicy": `${baseUrl}/${locale}/corrections`,
+    "diversityPolicy": `${baseUrl}/${locale}/diversite`,
     "sameAs": [
       "https://www.linkedin.com/company/iapme-suisse",
+      "https://www.linkedin.com/in/laurent-duplat",
+      "https://x.com/laurentduplat",
     ],
   };
 
