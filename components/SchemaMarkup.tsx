@@ -41,7 +41,7 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
     "knowsLanguage": ["fr", "de", "en", "it"],
     "sameAs": [
       "https://www.linkedin.com/company/iapme-suisse",
-      "https://www.linkedin.com/in/vocalisia",
+      "https://www.linkedin.com/in/vocalisia/",
       "https://x.com/VocalisAi",
     ],
   };

@@ -673,6 +673,10 @@ export default async function AgenceIASuissePillarPage({ params }: Props) {
       '@type': 'Person',
       name: 'Laurent Duplat',
       jobTitle: 'Consultant IA & Transformation digitale PME',
+      sameAs: [
+        'https://www.linkedin.com/in/vocalisia/',
+        'https://x.com/VocalisAi',
+      ],
     },
     publisher: {
       '@type': 'Organization',
@@ -680,7 +684,7 @@ export default async function AgenceIASuissePillarPage({ params }: Props) {
       url: 'https://iapmesuisse.ch',
     },
     datePublished: '2026-05-27',
-    dateModified: '2026-05-27',
+    dateModified: '2026-05-29',
     mainEntityOfPage: `https://iapmesuisse.ch/${locale}/agence-ia-suisse`,
     url: `https://iapmesuisse.ch/${locale}/agence-ia-suisse`,
   };

@@ -112,6 +112,10 @@ export default async function BlogPostPage({
       '@type': 'Person',
       name: post.author,
       url: `${baseUrl}/${locale}/a-propos`,
+      sameAs: [
+        'https://www.linkedin.com/in/vocalisia/',
+        'https://x.com/VocalisAi',
+      ],
     },
     publisher: {
       '@type': 'Organization',
