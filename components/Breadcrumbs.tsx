@@ -1,5 +1,7 @@
+'use client';
+
 import { Link } from '@/i18n/routing';
-import { getLocale } from 'next-intl/server';
+import { useLocale } from 'next-intl';
 
 interface BreadcrumbItem {
   label: string;
@@ -12,8 +14,8 @@ interface BreadcrumbsProps {
 
 const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://iapmesuisse.ch';
 
-export default async function Breadcrumbs({ items }: BreadcrumbsProps) {
-  const locale = await getLocale();
+export default function Breadcrumbs({ items }: BreadcrumbsProps) {
+  const locale = useLocale();
 
   const schema = {
     '@context': 'https://schema.org',
