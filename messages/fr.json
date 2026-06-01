@@ -431,8 +431,8 @@
       "scope_text": "Les présentes conditions s'appliquent à l'ensemble des prestations proposées par IAPME Suisse.",
       "services_title": "Description des services",
       "services_text": "IAPME Suisse propose des services de conseil, formation et intégration en intelligence artificielle destinés aux PME suisses. Le périmètre exact est défini dans un devis ou contrat spécifique.",
-      "pricing_title": "Tarifs et paiement",
-      "pricing_text": "Les tarifs sont communiqués sur devis. Les prix s'entendent en CHF hors TVA. Paiement dû sous 30 jours.",
+      "pricing_title": "Conditions de paiement",
+      "pricing_text": "Les conditions de mission sont definies dans un contrat ou un accord ecrit. Pour cadrer votre besoin, utilisez la page contact.",
       "cancellation_title": "Annulation",
       "cancellation_text": "Toute annulation doit être communiquée par écrit au minimum 5 jours ouvrables avant la date prévue.",
       "confidentiality_title": "Confidentialité",
@@ -448,7 +448,7 @@
     "subtitle": "Développez les compétences IA de votre équipe avec nos formations adaptées",
     "free": {
       "name": "Découverte",
-      "price": "Gratuit",
+      "price": "Contact",
       "description": "Premiers pas dans l'IA",
       "features": [
         "Mini-cours email 5 jours",
@@ -460,7 +460,7 @@
     },
     "starter": {
       "name": "Starter",
-      "price": "97 CHF",
+      "price": "Contact",
       "description": "Les bases de l'IA pour votre PME",
       "features": [
         "3h de vidéo",
@@ -473,7 +473,7 @@
     },
     "pro": {
       "name": "Pro",
-      "price": "297 CHF",
+      "price": "Contact",
       "description": "Maîtrisez l'IA pour votre entreprise",
       "features": [
         "10h de vidéo",
@@ -491,7 +491,7 @@
     },
     "premium": {
       "name": "Premium",
-      "price": "997 CHF",
+      "price": "Contact",
       "description": "Transformation complète avec accompagnement",
       "features": [
         "Tout le programme Pro",
@@ -503,11 +503,11 @@
       "cta": "Nous contacter",
       "badge": "VIP"
     },
-    "guarantee": "Satisfait ou remboursé 30 jours",
-    "vat_note": "Prix en CHF, hors TVA",
+    "guarantee": "Accompagnement clair, livrables documentes et suivi apres la session.",
+    "vat_note": "",
     "equipe": {
       "name": "Formation Équipe",
-      "price": "2500 CHF",
+      "price": "Contact",
       "description": "Formation IA en visio sur mesure avec vos équipes — 4h d'atelier pratique sur les outils IA adaptés à votre métier",
       "features": [
         "Session visio 4h avec votre équipe",
@@ -530,7 +530,7 @@
     },
     "claude_code": {
       "name": "Formation Claude Code",
-      "price": "3500 CHF",
+      "price": "Contact",
       "description": "Atelier visio 4h dédié à Claude Code pour votre équipe dev",
       "badge": "Dev & Tech",
       "cta": "Réserver ma session",
@@ -547,7 +547,7 @@
     },
     "ia_marketing": {
       "name": "Formation IA Marketing",
-      "price": "2500 CHF",
+      "price": "Contact",
       "description": "Atelier visio 4h IA Marketing pour votre équipe",
       "badge": "Marketing",
       "cta": "Réserver ma session",
@@ -623,7 +623,7 @@
     "subtitle": "Un accompagnement personnalisé pour votre transformation digitale",
     "audit": {
       "name": "Audit IA Express",
-      "price": "297 CHF",
+      "price": "Contact",
       "description": "Identifiez vos opportunités IA",
       "features": [
         "Appel diagnostic 1h",
@@ -635,7 +635,7 @@
     },
     "accompagnement": {
       "name": "Accompagnement",
-      "price": "1'497 CHF",
+      "price": "Contact",
       "description": "Implémentation guidée",
       "features": [
         "Audit complet (2h)",
@@ -649,7 +649,7 @@
     },
     "custom": {
       "name": "Sur mesure",
-      "price": "Sur devis",
+      "price": "Contact",
       "description": "Projets complexes et formations équipe",
       "features": [
         "Formation équipe sur site",
@@ -676,7 +676,7 @@
     "subtitle": "Des offres adaptées à chaque besoin",
     "starter": {
       "name": "Découverte",
-      "price": "Gratuit",
+      "price": "Contact",
       "description": "Premier pas vers l'IA",
       "features": [
         "Audit IA initial (1h)",
@@ -686,7 +686,7 @@
     },
     "pro": {
       "name": "Professionnel",
-      "price": "Sur devis",
+      "price": "Contact",
       "description": "Intégration et formation",
       "features": [
         "Audit IA approfondi",
@@ -698,7 +698,7 @@
     },
     "enterprise": {
       "name": "Entreprise",
-      "price": "Sur devis",
+      "price": "Contact",
       "description": "Transformation complète",
       "features": [
         "Stratégie IA complète",
@@ -715,8 +715,6 @@
     "upcoming": "Événements à venir",
     "past": "Événements passés",
     "all": "Tous",
-    "free": "Gratuit",
-    "paid": "Payant",
     "online": "En ligne",
     "add_calendar": "Ajouter à mon agenda",
     "no_events": "Aucun événement à venir pour le moment",
@@ -729,7 +727,6 @@
         "date": "2026-03-26",
         "location": "EPFL, Lausanne",
         "type": "Conférence",
-        "price": "Payant",
         "url": "https://appliedmldays.org",
         "description": "La plus grande conférence suisse sur le machine learning, organisée par l'EPFL."
       },
@@ -738,7 +735,6 @@
         "date": "2026-11-01",
         "location": "Suisse entière",
         "type": "Journée nationale",
-        "price": "Gratuit",
         "url": "https://digitaltag.swiss",
         "description": "Journée nationale de la digitalisation organisée par digitalswitzerland."
       },
@@ -747,7 +743,6 @@
         "date": "2026-06-15",
         "location": "Zurich",
         "type": "Sommet",
-        "price": "Payant",
         "url": "#",
         "description": "Sommet dédié à l'IA et l'automatisation pour les entreprises suisses."
       },
@@ -756,7 +751,6 @@
         "date": "2026-04-15",
         "location": "En ligne",
         "type": "Webinaire",
-        "price": "Gratuit",
         "url": "#",
         "description": "Webinaire mensuel gratuit : découvrez comment l'IA peut transformer votre PME."
       }
@@ -775,16 +769,12 @@
       "hosting": "Hébergement",
       "translation": "Traduction"
     },
-    "free": "Gratuit",
-    "freemium": "Freemium",
-    "paid": "Payant",
     "visit": "Visiter",
     "items": [
       {
         "name": "ChatGPT",
         "category": "content",
         "rating": 5,
-        "price": "Freemium",
         "description": "L'assistant IA le plus polyvalent pour rédaction, analyse et brainstorming.",
         "url": "https://chat.openai.com"
       },
@@ -792,7 +782,6 @@
         "name": "Claude",
         "category": "content",
         "rating": 5,
-        "price": "Freemium",
         "description": "IA d'Anthropic, excellente pour l'analyse de documents et la rédaction longue.",
         "url": "https://claude.ai"
       },
@@ -800,7 +789,6 @@
         "name": "DeepL",
         "category": "translation",
         "rating": 5,
-        "price": "Freemium",
         "description": "Le meilleur outil de traduction automatique, idéal pour les PME multilingues suisses.",
         "url": "https://www.deepl.com"
       },
@@ -808,7 +796,6 @@
         "name": "Zapier",
         "category": "automation",
         "rating": 4,
-        "price": "Freemium",
         "description": "Connectez vos applications et automatisez vos workflows sans coder.",
         "url": "https://zapier.com"
       },
@@ -816,7 +803,6 @@
         "name": "Make",
         "category": "automation",
         "rating": 4,
-        "price": "Freemium",
         "description": "Automatisation avancée avec une interface visuelle puissante.",
         "url": "https://www.make.com"
       },
@@ -824,7 +810,6 @@
         "name": "Notion AI",
         "category": "productivity",
         "rating": 4,
-        "price": "Payant",
         "description": "Organisation et productivité boostées par l'IA intégrée.",
         "url": "https://notion.so"
       },
@@ -832,7 +817,6 @@
         "name": "Infomaniak",
         "category": "hosting",
         "rating": 5,
-        "price": "Payant",
         "description": "Hébergement web suisse, écologique et souverain. Idéal pour les PME.",
         "url": "https://www.infomaniak.com"
       },
@@ -840,7 +824,6 @@
         "name": "Canva",
         "category": "content",
         "rating": 4,
-        "price": "Freemium",
         "description": "Création graphique simplifiée avec fonctions IA intégrées.",
         "url": "https://www.canva.com"
       },
@@ -848,7 +831,6 @@
         "name": "SEO True",
         "category": "seo",
         "rating": 5,
-        "price": "Freemium",
         "description": "Outil SEO automatisé par IA : audit de contenu, optimisation de mots-clés et génération de recommandations SEO adaptées aux PME suisses.",
         "url": "https://seo-true.com"
       }
@@ -926,8 +908,8 @@
       },
       {
         "question": "Combien coûte un projet IA pour PME ?",
-        "answer": "Les coûts varient : de gratuit (outils de base) à quelques milliers de francs (intégration sur mesure). Notre audit express à 297 CHF vous donne une estimation précise du ROI.",
-        "category": "pricing"
+        "answer": "Un audit initial permet de d?finir le p?rim?tre, les priorit?s et les gains attendus avant tout engagement.",
+        "category": "general"
       },
       {
         "question": "Quelle est la durée d'un projet d'intégration ?",

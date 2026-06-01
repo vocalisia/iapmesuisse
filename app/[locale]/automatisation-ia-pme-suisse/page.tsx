@@ -48,12 +48,12 @@ const T = {
     s1_p2: "En Suisse, 42 % des PME ont déjà intégré au moins un outil d'automatisation (OFS, 2025). Celles qui n'ont pas encore franchi le pas risquent de perdre en compétitivité face à des concurrents qui traitent deux fois plus de demandes clients avec le même effectif.",
     s2_title: 'Les outils d\'automatisation IA adaptés aux PME suisses',
     s2_tools: [
-      { name: 'Make (ex-Integromat)', use: 'Orchestration de workflows multi-étapes', price: 'Dès CHF 9/mois', star: false },
-      { name: 'n8n (auto-hébergé)', use: 'Souveraineté des données, hébergement Infomaniak/Exoscale', price: 'Gratuit (self-hosted)', star: true },
-      { name: 'ChatGPT / Claude', use: 'Rédaction, analyse, réponse client, synthèse', price: 'Dès CHF 20/mois', star: false },
-      { name: 'Bexio + IA', use: 'Comptabilité automatisée, facturation, rappels', price: 'Dès CHF 49/mois', star: false },
-      { name: 'HubSpot CRM', use: 'Qualification de leads, nurturing automatisé', price: 'Gratuit → payant', star: false },
-      { name: 'Vocalis', use: 'Accueil téléphonique IA 24h/24 en FR/DE/IT', price: 'Dès CHF 150/mois', star: true },
+      { name: 'Make (ex-Integromat)', use: 'Orchestration de workflows multi-étapes', star: false },
+      { name: 'n8n (auto-hébergé)', use: 'Souveraineté des données, hébergement Infomaniak/Exoscale', star: true },
+      { name: 'ChatGPT / Claude', use: 'Rédaction, analyse, réponse client, synthèse', star: false },
+      { name: 'Bexio + IA', use: 'Comptabilité automatisée, facturation, rappels', star: false },
+      { name: 'HubSpot CRM', use: 'Qualification de leads, nurturing automatisé', star: false },
+      { name: 'Vocalis', use: 'Accueil téléphonique IA 24h/24 en FR/DE/IT', star: true },
     ],
     s2_star: 'Recommandé pour conformité nLPD',
     s3_title: 'ROI de l\'automatisation IA : chiffres concrets pour PME suisses',
@@ -155,8 +155,8 @@ const T = {
     faq_title: 'Questions fréquentes sur l\'automatisation IA pour PME suisses',
     faqs: [
       {
-        q: 'Combien coûte l\'automatisation IA pour une PME suisse ?',
-        a: 'Un projet pilote démarre entre CHF 500 et CHF 2 000/mois (outils SaaS + intégration). Le retour sur investissement moyen se situe entre 8 et 14 mois pour les PME de services. Les économies générées (CHF 5 000 à CHF 12 000/mois pour une PME de 25 employés) dépassent largement le coût.',
+        q: 'Comment lancer l\'automatisation IA pour une PME suisse ?',
+        a: 'Un projet pilote commence par un audit des processus, puis un quick-win mesurable sur un périmètre réduit. Le retour sur investissement est suivi avec des KPI simples : temps gagné, erreurs évitées, satisfaction client et adoption équipe.',
       },
       {
         q: 'Faut-il des compétences techniques pour automatiser les processus ?',
@@ -326,7 +326,6 @@ export default async function AutomatisationPillarPage({ params }: Props) {
                 <tr className="border-b border-gray-200 bg-gray-50 text-left">
                   <th className="px-4 py-3 font-semibold text-[#1B2A4A]">Outil</th>
                   <th className="px-4 py-3 font-semibold text-[#1B2A4A]">Usage principal</th>
-                  <th className="px-4 py-3 font-semibold text-[#1B2A4A]">Tarif indicatif</th>
                 </tr>
               </thead>
               <tbody>
@@ -341,7 +340,6 @@ export default async function AutomatisationPillarPage({ params }: Props) {
                       )}
                     </td>
                     <td className="px-4 py-3 text-gray-600">{tool.use}</td>
-                    <td className="px-4 py-3 text-gray-600">{tool.price}</td>
                   </tr>
                 ))}
               </tbody>

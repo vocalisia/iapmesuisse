@@ -431,8 +431,8 @@
       "scope_text": "Diese AGB gelten für sämtliche von IAPME Suisse angebotenen Dienstleistungen.",
       "services_title": "Leistungsbeschreibung",
       "services_text": "IAPME Suisse bietet Beratungs-, Schulungs- und Integrationsdienstleistungen im Bereich künstliche Intelligenz für Schweizer KMU an. Der genaue Umfang wird in einem Angebot oder Vertrag festgelegt.",
-      "pricing_title": "Preise und Zahlung",
-      "pricing_text": "Die Preise werden auf Anfrage mitgeteilt. Die Preise verstehen sich in CHF exkl. MwSt. Zahlungsfrist: 30 Tage.",
+      "pricing_title": "Zahlungsbedingungen",
+      "pricing_text": "Die Bedingungen der Zusammenarbeit werden in einer schriftlichen Vereinbarung oder einem Vertrag festgelegt. Zur Abklaerung nutzen Sie die Kontaktseite.",
       "cancellation_title": "Stornierung",
       "cancellation_text": "Stornierungen müssen mindestens 5 Werktage vor dem geplanten Termin schriftlich erfolgen.",
       "confidentiality_title": "Vertraulichkeit",
@@ -448,7 +448,7 @@
     "subtitle": "Entwickeln Sie die KI-Kompetenzen Ihres Teams mit unseren massgeschneiderten Schulungen",
     "free": {
       "name": "Entdecken",
-      "price": "Kostenlos",
+      "price": "Kontakt",
       "description": "Erste Schritte in die KI",
       "features": [
         "5-Tage-E-Mail-Minikurs",
@@ -460,7 +460,7 @@
     },
     "starter": {
       "name": "Starter",
-      "price": "97 CHF",
+      "price": "Kontakt",
       "description": "Die Grundlagen der KI für Ihr KMU",
       "features": [
         "3 Std. Video",
@@ -473,7 +473,7 @@
     },
     "pro": {
       "name": "Pro",
-      "price": "297 CHF",
+      "price": "Kontakt",
       "description": "Meistern Sie KI für Ihr Unternehmen",
       "features": [
         "10 Std. Video",
@@ -491,7 +491,7 @@
     },
     "premium": {
       "name": "Premium",
-      "price": "997 CHF",
+      "price": "Kontakt",
       "description": "Komplette Transformation mit Begleitung",
       "features": [
         "Gesamtes Pro-Programm",
@@ -503,11 +503,11 @@
       "cta": "Kontakt aufnehmen",
       "badge": "VIP"
     },
-    "guarantee": "30 Tage Geld-zurück-Garantie",
-    "vat_note": "Preise in CHF, exkl. MwSt.",
+    "guarantee": "Klare Begleitung, dokumentierte Ergebnisse und Nachbetreuung nach der Session.",
+    "vat_note": "",
     "equipe": {
       "name": "Team-Schulung",
-      "price": "2500 CHF",
+      "price": "Kontakt",
       "description": "Massgeschneiderte KI-Schulung per Video mit Ihrem Team — 4-stündiger Praxis-Workshop mit auf Ihr Unternehmen zugeschnittenen KI-Tools",
       "features": [
         "4h Video-Session mit Ihrem Team",
@@ -530,7 +530,7 @@
     },
     "claude_code": {
       "name": "Formation Claude Code",
-      "price": "3500 CHF",
+      "price": "Kontakt",
       "description": "Atelier visio 4h dédié à Claude Code pour votre équipe dev",
       "badge": "Dev & Tech",
       "cta": "Réserver ma session",
@@ -547,7 +547,7 @@
     },
     "ia_marketing": {
       "name": "Formation IA Marketing",
-      "price": "2500 CHF",
+      "price": "Kontakt",
       "description": "Atelier visio 4h IA Marketing pour votre équipe",
       "badge": "Marketing",
       "cta": "Réserver ma session",
@@ -623,7 +623,7 @@
     "subtitle": "Persönliche Begleitung für Ihre digitale Transformation",
     "audit": {
       "name": "KI-Audit Express",
-      "price": "297 CHF",
+      "price": "Kontakt",
       "description": "Identifizieren Sie Ihre KI-Chancen",
       "features": [
         "1 Std. Diagnosegespräch",
@@ -635,7 +635,7 @@
     },
     "accompagnement": {
       "name": "Begleitung",
-      "price": "1'497 CHF",
+      "price": "Kontakt",
       "description": "Begleitete Implementierung",
       "features": [
         "Vollständiges Audit (2 Std.)",
@@ -649,7 +649,7 @@
     },
     "custom": {
       "name": "Massgeschneidert",
-      "price": "Auf Anfrage",
+      "price": "Kontakt",
       "description": "Komplexe Projekte und Teamschulungen",
       "features": [
         "Teamschulung vor Ort",
@@ -676,7 +676,7 @@
     "subtitle": "Passende Pakete für jeden Bedarf",
     "starter": {
       "name": "Einstieg",
-      "price": "Kostenlos",
+      "price": "Kontakt",
       "description": "Erster Schritt zur KI",
       "features": [
         "Initiales KI-Audit (1 Std.)",
@@ -686,7 +686,7 @@
     },
     "pro": {
       "name": "Professionell",
-      "price": "Auf Anfrage",
+      "price": "Kontakt",
       "description": "Integration und Schulung",
       "features": [
         "Vertieftes KI-Audit",
@@ -698,7 +698,7 @@
     },
     "enterprise": {
       "name": "Unternehmen",
-      "price": "Auf Anfrage",
+      "price": "Kontakt",
       "description": "Komplette Transformation",
       "features": [
         "Umfassende KI-Strategie",
@@ -738,8 +738,6 @@
     "upcoming": "Kommende Veranstaltungen",
     "past": "Vergangene Veranstaltungen",
     "all": "Alle",
-    "free": "Kostenlos",
-    "paid": "Kostenpflichtig",
     "online": "Online",
     "add_calendar": "Zum Kalender hinzufügen",
     "no_events": "Derzeit keine bevorstehenden Veranstaltungen",
@@ -752,7 +750,6 @@
         "date": "2026-03-26",
         "location": "EPFL, Lausanne",
         "type": "Konferenz",
-        "price": "Kostenpflichtig",
         "url": "https://appliedmldays.org",
         "description": "Die grösste Schweizer Konferenz für Machine Learning, organisiert von der EPFL."
       },
@@ -761,7 +758,6 @@
         "date": "2026-11-01",
         "location": "Ganze Schweiz",
         "type": "Nationaler Tag",
-        "price": "Kostenlos",
         "url": "https://digitaltag.swiss",
         "description": "Nationaler Digitalisierungstag, organisiert von digitalswitzerland."
       },
@@ -770,7 +766,6 @@
         "date": "2026-06-15",
         "location": "Zürich",
         "type": "Gipfel",
-        "price": "Kostenpflichtig",
         "url": "#",
         "description": "Gipfel für KI und Automatisierung für Schweizer Unternehmen."
       },
@@ -779,7 +774,6 @@
         "date": "2026-04-15",
         "location": "Online",
         "type": "Webinar",
-        "price": "Kostenlos",
         "url": "#",
         "description": "Kostenloses monatliches Webinar: Erfahren Sie, wie KI Ihr KMU transformieren kann."
       }
@@ -798,16 +792,12 @@
       "hosting": "Hosting",
       "translation": "Ãœbersetzung"
     },
-    "free": "Kostenlos",
-    "freemium": "Freemium",
-    "paid": "Kostenpflichtig",
     "visit": "Besuchen",
     "items": [
       {
         "name": "ChatGPT",
         "category": "content",
         "rating": 5,
-        "price": "Freemium",
         "description": "Der vielseitigste KI-Assistent für Texterstellung, Analyse und Brainstorming.",
         "url": "https://chat.openai.com"
       },
@@ -815,7 +805,6 @@
         "name": "Claude",
         "category": "content",
         "rating": 5,
-        "price": "Freemium",
         "description": "KI von Anthropic, hervorragend für Dokumentenanalyse und lange Texte.",
         "url": "https://claude.ai"
       },
@@ -823,7 +812,6 @@
         "name": "DeepL",
         "category": "translation",
         "rating": 5,
-        "price": "Freemium",
         "description": "Das beste automatische Ãœbersetzungstool, ideal für mehrsprachige Schweizer KMU.",
         "url": "https://www.deepl.com"
       },
@@ -831,7 +819,6 @@
         "name": "Zapier",
         "category": "automation",
         "rating": 4,
-        "price": "Freemium",
         "description": "Verbinden Sie Ihre Anwendungen und automatisieren Sie Workflows ohne zu programmieren.",
         "url": "https://zapier.com"
       },
@@ -839,7 +826,6 @@
         "name": "Make",
         "category": "automation",
         "rating": 4,
-        "price": "Freemium",
         "description": "Fortgeschrittene Automatisierung mit einer leistungsstarken visuellen Oberfläche.",
         "url": "https://www.make.com"
       },
@@ -847,7 +833,6 @@
         "name": "Notion AI",
         "category": "productivity",
         "rating": 4,
-        "price": "Kostenpflichtig",
         "description": "Organisation und Produktivität, unterstützt durch integrierte KI.",
         "url": "https://notion.so"
       },
@@ -855,7 +840,6 @@
         "name": "Infomaniak",
         "category": "hosting",
         "rating": 5,
-        "price": "Kostenpflichtig",
         "description": "Schweizer Webhosting, ökologisch und souverän. Ideal für KMU.",
         "url": "https://www.infomaniak.com"
       },
@@ -863,7 +847,6 @@
         "name": "Canva",
         "category": "content",
         "rating": 4,
-        "price": "Freemium",
         "description": "Vereinfachte Grafikgestaltung mit integrierten KI-Funktionen.",
         "url": "https://www.canva.com"
       }
@@ -941,8 +924,8 @@
       },
       {
         "question": "Was kostet ein KI-Projekt für KMU?",
-        "answer": "Die Kosten variieren: von kostenlos (Basistools) bis zu einigen tausend Franken (massgeschneiderte Integration). Unser Express-Audit für 297 CHF liefert Ihnen eine präzise ROI-Schätzung.",
-        "category": "pricing"
+        "answer": "Ein erstes Audit definiert Umfang, Priorit?ten und erwartete Wirkung vor jeder Zusammenarbeit.",
+        "category": "general"
       },
       {
         "question": "Wie lange dauert ein Integrationsprojekt?",

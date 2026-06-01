@@ -22,7 +22,6 @@ interface EventItem {
   date: string;
   location: string;
   type: string;
-  price: string;
   url: string;
   description: string;
 }
@@ -32,10 +31,6 @@ function formatEventDate(dateStr: string) {
   const day = date.getDate();
   const month = date.toLocaleDateString('fr-CH', { month: 'short' }).toUpperCase();
   return { day, month };
-}
-
-function isFree(price: string) {
-  return price.toLowerCase() === 'gratuit' || price.toLowerCase() === 'free' || price === '0 CHF';
 }
 
 export default async function EventsPage({
@@ -84,7 +79,6 @@ export default async function EventsPage({
         <div className="mx-auto max-w-4xl space-y-6">
           {sortedEvents.map((event, index) => {
             const { day, month } = formatEventDate(event.date);
-            const free = isFree(event.price);
 
             return (
               <article
@@ -105,15 +99,6 @@ export default async function EventsPage({
                     <h3 className="text-xl font-bold text-[#1B2A4A]">{event.name}</h3>
                     <span className="inline-flex items-center rounded-full bg-[#1B2A4A]/10 px-2.5 py-0.5 text-xs font-medium text-[#1B2A4A]">
                       {event.type}
-                    </span>
-                    <span
-                      className={`inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ${
-                        free
-                          ? 'bg-green-100 text-green-700'
-                          : 'bg-gray-100 text-gray-700'
-                      }`}
-                    >
-                      {event.price}
                     </span>
                   </div>
 

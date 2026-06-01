@@ -23,10 +23,10 @@ const questionsFR: QuizQuestion[] = [
     id: 2,
     question: "Quel est votre budget annuel dédié à l'innovation technologique ?",
     options: [
-      { label: 'Aucun', value: 'q2_0', points: 0 },
-      { label: "< 5'000 CHF", value: 'q2_1', points: 1 },
-      { label: "5-20'000 CHF", value: 'q2_2', points: 2 },
-      { label: "> 20'000 CHF", value: 'q2_3', points: 3 },
+      { label: 'Aucun effort d?di?', value: 'q2_0', points: 0 },
+      { label: 'Effort ponctuel', value: 'q2_1', points: 1 },
+      { label: 'Effort structur?', value: 'q2_2', points: 2 },
+      { label: 'Effort strat?gique continu', value: 'q2_3', points: 3 },
     ],
   },
   {
@@ -126,10 +126,10 @@ const questionsDE: QuizQuestion[] = [
     id: 2,
     question: 'Wie hoch ist Ihr jährliches Budget für technologische Innovation?',
     options: [
-      { label: 'Keins', value: 'q2_0', points: 0 },
-      { label: "< 5'000 CHF", value: 'q2_1', points: 1 },
-      { label: "5-20'000 CHF", value: 'q2_2', points: 2 },
-      { label: "> 20'000 CHF", value: 'q2_3', points: 3 },
+      { label: 'Kein dedizierter Einsatz', value: 'q2_0', points: 0 },
+      { label: 'Punktueller Einsatz', value: 'q2_1', points: 1 },
+      { label: 'Strukturierter Einsatz', value: 'q2_2', points: 2 },
+      { label: 'Kontinuierlicher strategischer Einsatz', value: 'q2_3', points: 3 },
     ],
   },
   {
@@ -227,12 +227,12 @@ const questionsEN: QuizQuestion[] = [
   },
   {
     id: 2,
-    question: 'What is your annual budget for technological innovation?',
+    question: 'How much effort can your company dedicate to technological innovation?',
     options: [
-      { label: 'None', value: 'q2_0', points: 0 },
-      { label: '< CHF 5,000', value: 'q2_1', points: 1 },
-      { label: 'CHF 5,000-20,000', value: 'q2_2', points: 2 },
-      { label: '> CHF 20,000', value: 'q2_3', points: 3 },
+      { label: 'No dedicated effort', value: 'q2_0', points: 0 },
+      { label: 'Occasional effort', value: 'q2_1', points: 1 },
+      { label: 'Structured effort', value: 'q2_2', points: 2 },
+      { label: 'Continuous strategic effort', value: 'q2_3', points: 3 },
     ],
   },
   {
@@ -332,10 +332,10 @@ const questionsIT: QuizQuestion[] = [
     id: 2,
     question: "Qual è il vostro budget annuale dedicato all'innovazione tecnologica?",
     options: [
-      { label: 'Nessuno', value: 'q2_0', points: 0 },
-      { label: "< 5'000 CHF", value: 'q2_1', points: 1 },
-      { label: "5-20'000 CHF", value: 'q2_2', points: 2 },
-      { label: "> 20'000 CHF", value: 'q2_3', points: 3 },
+      { label: 'Nessun impegno dedicato', value: 'q2_0', points: 0 },
+      { label: 'Impegno puntuale', value: 'q2_1', points: 1 },
+      { label: 'Impegno strutturato', value: 'q2_2', points: 2 },
+      { label: 'Impegno strategico continuo', value: 'q2_3', points: 3 },
     ],
   },
   {

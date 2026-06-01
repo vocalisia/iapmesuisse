@@ -29,8 +29,6 @@ export default async function ConsultingPage({
   const tHome = await getTranslations({ locale, namespace: 'home' });
 
   const offers = ['audit', 'accompagnement', 'custom'] as const;
-  const stripeLinks = t.raw('links') as Record<string, string>;
-
   return (
     <>
       {/* Breadcrumbs */}
@@ -64,10 +62,6 @@ export default async function ConsultingPage({
             const isAccompagnement = offer === 'accompagnement';
             const isCustom = offer === 'custom';
             const hasBadge = isAccompagnement || isCustom;
-            const stripeUrl = stripeLinks?.[offer] ?? null;
-            const isExternal = !!stripeUrl;
-            const href = stripeUrl ?? '/contact';
-
             return (
               <div
                 key={offer}
@@ -100,15 +94,6 @@ export default async function ConsultingPage({
                 >
                   {t(`${offer}.name`)}
                 </h3>
-
-                {/* Price */}
-                <p
-                  className={`mt-2 text-3xl font-extrabold ${
-                    isCustom ? 'text-white' : 'text-[#1B2A4A]'
-                  }`}
-                >
-                  {t(`${offer}.price`)}
-                </p>
 
                 {/* Description */}
                 <p
@@ -147,31 +132,18 @@ export default async function ConsultingPage({
                 </ul>
 
                 {/* CTA Button */}
-                {isExternal ? (
-                  <a
-                    href={href}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className={`mt-8 inline-flex items-center justify-center rounded-lg px-6 py-3 text-sm font-semibold transition-colors ${
-                      isAccompagnement
+                <Link
+                  href="/contact"
+                  className={`mt-8 inline-flex items-center justify-center rounded-lg px-6 py-3 text-sm font-semibold transition-colors ${
+                    isCustom
+                      ? 'bg-white text-[#1B2A4A] hover:bg-gray-100'
+                      : isAccompagnement
                         ? 'bg-[#FF0000] text-white hover:bg-red-700'
                         : 'bg-[#1B2A4A] text-white hover:bg-[#FF0000]'
-                    }`}
-                  >
-                    {t(`${offer}.cta`)}
-                  </a>
-                ) : (
-                  <Link
-                    href="/contact"
-                    className={`mt-8 inline-flex items-center justify-center rounded-lg px-6 py-3 text-sm font-semibold transition-colors ${
-                      isCustom
-                        ? 'bg-white text-[#1B2A4A] hover:bg-gray-100'
-                        : 'bg-[#1B2A4A] text-white hover:bg-[#FF0000]'
-                    }`}
-                  >
-                    {t(`${offer}.cta`)}
-                  </Link>
-                )}
+                  }`}
+                >
+                  {t(`${offer}.cta`)}
+                </Link>
               </div>
             );
           })}
