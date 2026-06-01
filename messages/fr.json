@@ -843,6 +843,14 @@
         "price": "Freemium",
         "description": "Création graphique simplifiée avec fonctions IA intégrées.",
         "url": "https://www.canva.com"
+      },
+      {
+        "name": "SEO True",
+        "category": "seo",
+        "rating": 5,
+        "price": "Freemium",
+        "description": "Outil SEO automatisé par IA : audit de contenu, optimisation de mots-clés et génération de recommandations SEO adaptées aux PME suisses.",
+        "url": "https://seo-true.com"
       }
     ]
   },
