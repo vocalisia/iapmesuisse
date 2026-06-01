@@ -4,6 +4,9 @@ import type { NextConfig } from 'next';
 const withNextIntl = createNextIntlPlugin();
 
 const nextConfig: NextConfig = {
+  turbopack: {
+    root: process.cwd(),
+  },
   async redirects() {
     return [
       // www → non-www: consolide l'autorité SEO (évite duplicate content)
