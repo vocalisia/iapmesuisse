@@ -20,6 +20,7 @@ interface ToolItem {
   name: string;
   category: string;
   rating: number;
+  price: string;
   description: string;
   url: string;
 }
@@ -39,6 +40,17 @@ function StarRating({ rating }: { rating: number }) {
       ))}
     </div>
   );
+}
+
+function getPriceBadgeStyle(price: string) {
+  const lower = price.toLowerCase();
+  if (lower === 'gratuit' || lower === 'free') {
+    return 'bg-green-100 text-green-700';
+  }
+  if (lower === 'freemium') {
+    return 'bg-blue-100 text-blue-700';
+  }
+  return 'bg-gray-100 text-gray-700';
 }
 
 export default async function ToolsPage({
@@ -98,6 +110,11 @@ export default async function ToolsPage({
                 <div className="mt-3 flex flex-wrap gap-2">
                   <span className="inline-flex items-center rounded-full bg-[#1B2A4A]/10 px-2.5 py-0.5 text-xs font-medium text-[#1B2A4A]">
                     {tool.category}
+                  </span>
+                  <span
+                    className={`inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ${getPriceBadgeStyle(tool.price)}`}
+                  >
+                    {tool.price}
                   </span>
                 </div>
 

@@ -30,6 +30,7 @@ export default async function FormationPage({
   const tHome = await getTranslations({ locale, namespace: 'home' });
 
   const tiers = ['free', 'starter', 'pro', 'premium', 'equipe', 'claude_code', 'ia_marketing'] as const;
+  const stripeLinks = t.raw('links') as Record<string, string>;
   const testimonials = t.raw('testimonials') as Array<{quote: string; name: string; role: string; company: string}>;
   const caseMetrics = t.raw('case_study_metrics') as Array<{label: string; before_val: string; after_val: string; gain: string}>;
 
@@ -94,6 +95,10 @@ export default async function FormationPage({
             const isClaudeCode = tier === 'claude_code';
             const isMarketing = tier === 'ia_marketing';
 
+            const stripeUrl = stripeLinks?.[tier] ?? null;
+            const href = stripeUrl ?? '/contact';
+            const isExternal = !!stripeUrl;
+
             return (
               <div
                 key={tier}
@@ -143,6 +148,10 @@ export default async function FormationPage({
                   {t(`${tier}.name`)}
                 </h3>
 
+                <p className={`mt-2 text-3xl font-extrabold ${isPremium ? 'text-white' : 'text-[#1B2A4A]'}`}>
+                  {t(`${tier}.price`)}
+                </p>
+
                 <p className={`mt-2 text-sm ${isPremium ? 'text-gray-300' : 'text-gray-600'}`}>
                   {t(`${tier}.description`)}
                 </p>
@@ -158,18 +167,33 @@ export default async function FormationPage({
                   ))}
                 </ul>
 
-                <Link
-                  href="/contact"
-                  className={`mt-8 inline-flex items-center justify-center rounded-lg px-6 py-3 text-sm font-semibold transition-colors ${
-                    isPro || isEquipe
-                      ? 'bg-[#FF0000] text-white hover:bg-red-700'
-                      : isPremium
-                        ? 'bg-white text-[#1B2A4A] hover:bg-gray-100'
-                        : 'bg-[#1B2A4A] text-white hover:bg-[#FF0000]'
-                  }`}
-                >
-                  {t(`${tier}.cta`)}
-                </Link>
+                {isExternal ? (
+                  <a
+                    href={href}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className={`mt-8 inline-flex items-center justify-center rounded-lg px-6 py-3 text-sm font-semibold transition-colors ${
+                      isPro
+                        ? 'bg-[#FF0000] text-white hover:bg-red-700'
+                        : isPremium
+                          ? 'bg-white text-[#1B2A4A] hover:bg-gray-100'
+                          : isEquipe
+                            ? 'bg-[#FF0000] text-white hover:bg-red-700'
+                            : 'bg-[#1B2A4A] text-white hover:bg-[#FF0000]'
+                    }`}
+                  >
+                    {t(`${tier}.cta`)}
+                  </a>
+                ) : (
+                  <Link
+                    href="/contact"
+                    className={`mt-8 inline-flex items-center justify-center rounded-lg px-6 py-3 text-sm font-semibold transition-colors ${
+                      isFree ? 'bg-[#1B2A4A] text-white hover:bg-[#FF0000]' : 'bg-[#1B2A4A] text-white hover:bg-[#FF0000]'
+                    }`}
+                  >
+                    {t(`${tier}.cta`)}
+                  </Link>
+                )}
               </div>
             );
           })}
@@ -197,6 +221,7 @@ export default async function FormationPage({
               {t('guarantee')}
             </p>
           </div>
+          <p className="mt-3 text-sm text-gray-500">{t('vat_note')}</p>
         </div>
       </section>
 

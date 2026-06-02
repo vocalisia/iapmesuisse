@@ -16,12 +16,6 @@ export interface BlogPost {
   content: string;
 }
 
-const PUBLIC_PRICING_SLUG_PATTERN = /(^|[-_])(prix|budget|chf|tarif|tarifs|pricing|price|cost)([-_]|$)/i;
-
-export function isPublicPricingSlug(slug: string): boolean {
-  return PUBLIC_PRICING_SLUG_PATTERN.test(slug);
-}
-
 export function getBlogPosts(locale: string): BlogPost[] {
   const localeDir = path.join(contentDirectory, locale);
 
@@ -45,7 +39,7 @@ export function getBlogPosts(locale: string): BlogPost[] {
       image: data.image || '/images/blog-default.jpg',
       content,
     };
-  }).filter((post) => !isPublicPricingSlug(post.slug));
+  });
 
   return posts.sort((a, b) => (a.date > b.date ? -1 : 1));
 }
@@ -70,10 +64,6 @@ export async function getBlogPost(
     const postSlug = data.slug || filename.replace(/\.md$/, '');
 
     if (postSlug === slug) {
-      if (isPublicPricingSlug(postSlug)) {
-        return null;
-      }
-
       const processedContent = await remark().use(html).process(content);
 
       return {

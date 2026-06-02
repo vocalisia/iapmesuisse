@@ -76,8 +76,8 @@ export default async function ServicesPage({
   const faqByLocale: Record<string, { q: string; a: string }[]> = {
     fr: [
       {
-        q: "Comment démarrer une automatisation IA pour une PME suisse ?",
-        a: "L'audit initial permet de cartographier les processus, prioriser un quick-win de 4 à 8 semaines et définir une feuille de route avec ROI mesurable. La suite se discute sur contact selon vos besoins.",
+        q: "Combien coûte une automatisation IA pour une PME suisse ?",
+        a: "L'audit initial est gratuit (30-60 min en visio + rapport sous 48h). L'automatisation IA d'une PME suisse démarre généralement à partir d'un quick-win de 4 à 8 semaines avec un ROI mesurable. Devis personnalisé sous 24h.",
       },
       {
         q: "Intervenez-vous à Sion et dans le canton du Valais ?",
@@ -85,7 +85,7 @@ export default async function ServicesPage({
       },
       {
         q: "Quels outils IA pour une PME en Suisse romande ?",
-        a: "ChatGPT Team, Microsoft Copilot, Claude Pro, Make/Zapier, n8n auto-hébergé. Choix selon métier, taille, conformité nLPD et contraintes de données. Hébergement Suisse ou UE adéquate exigé.",
+        a: "ChatGPT Team, Microsoft Copilot, Claude Pro, Make/Zapier, n8n auto-hébergé. Choix selon métier, taille (5-50 employés), conformité nLPD et budget. Hébergement Suisse ou UE adéquate exigé.",
       },
       {
         q: "Comment garantir la conformité nLPD et AI Act ?",
@@ -94,8 +94,8 @@ export default async function ServicesPage({
     ],
     de: [
       {
-        q: "Wie startet ein Schweizer KMU mit KI-Beratung?",
-        a: "Das Erst-Audit kartiert Prozesse, priorisiert einen Quick Win von 4 bis 8 Wochen und definiert eine Roadmap mit messbarem ROI. Der Umfang wird anschliessend im Kontaktgespräch festgelegt.",
+        q: "Was kostet eine KI-Beratung für ein Schweizer KMU?",
+        a: "Das Erst-Audit ist kostenlos (30-60 Min Videocall + Bericht in 48h). KI-Beratung für KMU in der Schweiz startet typischerweise mit einem Quick-Win (4-8 Wochen) und messbarem ROI. Offerte in 24h.",
       },
       {
         q: "Welche CRM-Implementierung für ein KMU Schweiz?",
@@ -103,7 +103,7 @@ export default async function ServicesPage({
       },
       {
         q: "Welcher Tech-Stack für ein KMU in der Schweiz 2026?",
-        a: "Empfohlen: ChatGPT Team (Frontend), Microsoft Copilot (Office), Make/n8n (Automation), HubSpot (CRM), Notion (Wissen). Alles nDSG-konform, mit Schweizer oder EU-Hosting nach Bedarf.",
+        a: "Empfohlen: ChatGPT Team (Frontend), Microsoft Copilot (Office), Make/n8n (Automation), HubSpot (CRM), Notion (Wissen). Alles nDSG-konform, Schweizer oder EU-Hosting. Vergleich CHF im kostenlosen Audit.",
       },
       {
         q: "Bieten Sie KI-Beratung in Zürich und Bern an?",
@@ -116,12 +116,12 @@ export default async function ServicesPage({
         a: "IAPME Suisse is a specialised AI consulting agency for Swiss SMEs (5-50 employees). Free 30-min audit, multilingual FR/DE/IT/EN, nFADP + AI Act compliant. Presence in Sion, Geneva, Lausanne, Zurich, Bern.",
       },
       {
-        q: "How should a Swiss SME start with AI consulting?",
-        a: "The initial audit maps processes, prioritises a 4-8 week quick win and defines a roadmap with measurable ROI. The next scope is discussed through the contact process.",
+        q: "How much does AI consulting cost for a Swiss SME?",
+        a: "Initial audit is free (30-60 min video call + 48h report). AI consulting for Swiss SMEs typically starts with a quick-win in 4-8 weeks with measurable ROI. Custom quote within 24h.",
       },
       {
         q: "Which AI tools are best for SMEs in Switzerland?",
-        a: "ChatGPT Team, Microsoft Copilot, Claude Pro, Make/Zapier, n8n self-hosted. Choice depends on industry, team size, nFADP compliance and data constraints. Swiss or EU hosting required.",
+        a: "ChatGPT Team, Microsoft Copilot, Claude Pro, Make/Zapier, n8n self-hosted. Choice depends on industry, size (5-50 employees), nFADP compliance and budget. Swiss or EU hosting required.",
       },
       {
         q: "Do you provide AI services in Geneva, Zurich and Sion?",
@@ -130,12 +130,12 @@ export default async function ServicesPage({
     ],
     it: [
       {
-        q: "Come iniziare con la consulenza IA per una PMI svizzera?",
-        a: "L'audit iniziale mappa i processi, prioritizza un quick win di 4-8 settimane e definisce una roadmap con ROI misurabile. Il perimetro successivo viene discusso tramite contatto.",
+        q: "Quanto costa la consulenza IA per una PMI svizzera?",
+        a: "L'audit iniziale è gratuito (30-60 min in videochiamata + rapporto entro 48h). La consulenza IA per le PMI svizzere parte da un quick-win in 4-8 settimane con ROI misurabile. Preventivo in 24h.",
       },
       {
         q: "Quali strumenti IA per una PMI in Ticino?",
-        a: "ChatGPT Team, Microsoft Copilot, Claude Pro, Make/Zapier, n8n. Scelta in base al settore, alla dimensione del team, alla conformità nLPD e ai vincoli sui dati. Hosting Svizzera o UE.",
+        a: "ChatGPT Team, Microsoft Copilot, Claude Pro, Make/Zapier, n8n. Scelta in base al settore, dimensione (5-50 dipendenti), conformità nLPD e budget. Hosting Svizzera o UE.",
       },
     ],
   };
@@ -271,6 +271,7 @@ export default async function ServicesPage({
                     </span>
                   )}
                   <h3 className="text-xl font-bold text-[#1B2A4A]">{tPricing(`${tier}.name`)}</h3>
+                  <p className="mt-2 text-3xl font-extrabold text-[#1B2A4A]">{tPricing(`${tier}.price`)}</p>
                   <p className="mt-2 text-sm text-gray-600">{tPricing(`${tier}.description`)}</p>
                   <ul className="mt-6 flex-1 space-y-3">
                     {features.map((f, i) => (

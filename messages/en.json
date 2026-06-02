@@ -354,8 +354,8 @@
         "answer": "Absolutely. Many AI tools are accessible and affordable, even for micro-businesses. The key is identifying the right use cases."
       },
       {
-        "question": "How do we scope an AI project?",
-        "answer": "An initial audit defines the scope, priorities and expected gains before any engagement."
+        "question": "How much does AI integration cost?",
+        "answer": "Costs vary depending on the complexity of the project. An initial audit helps assess the necessary investments and expected ROI."
       },
       {
         "question": "Do I need technical skills?",
@@ -431,8 +431,8 @@
       "scope_text": "These terms apply to all services offered by IAPME Suisse.",
       "services_title": "Service description",
       "services_text": "IAPME Suisse offers consulting, training and integration services in artificial intelligence for Swiss SMEs. The exact scope is defined in a specific quote or contract.",
-      "pricing_title": "Payment terms",
-      "pricing_text": "Engagement terms are defined in a written agreement or contract. To scope your need, use the contact page.",
+      "pricing_title": "Pricing and payment",
+      "pricing_text": "Prices are provided on request. Prices are in CHF excluding VAT. Payment is due within 30 days.",
       "cancellation_title": "Cancellation",
       "cancellation_text": "Cancellations must be communicated in writing at least 5 business days before the scheduled date.",
       "confidentiality_title": "Confidentiality",
@@ -448,7 +448,7 @@
     "subtitle": "Develop your team's AI skills with our tailored training programmes",
     "free": {
       "name": "Discovery",
-      "price": "Contact",
+      "price": "Free",
       "description": "First steps into AI",
       "features": [
         "5-day email mini-course",
@@ -460,7 +460,7 @@
     },
     "starter": {
       "name": "Starter",
-      "price": "Contact",
+      "price": "97 CHF",
       "description": "AI fundamentals for your SME",
       "features": [
         "3h of video",
@@ -473,7 +473,7 @@
     },
     "pro": {
       "name": "Pro",
-      "price": "Contact",
+      "price": "297 CHF",
       "description": "Master AI for your business",
       "features": [
         "10h of video",
@@ -491,7 +491,7 @@
     },
     "premium": {
       "name": "Premium",
-      "price": "Contact",
+      "price": "997 CHF",
       "description": "Complete transformation with guidance",
       "features": [
         "Full Pro programme",
@@ -503,11 +503,11 @@
       "cta": "Contact us",
       "badge": "VIP"
     },
-    "guarantee": "Clear coaching, documented deliverables and follow-up after the session.",
-    "vat_note": "",
+    "guarantee": "30-day money-back guarantee",
+    "vat_note": "Prices in CHF, excl. VAT",
     "equipe": {
       "name": "Team Training",
-      "price": "Contact",
+      "price": "2500 CHF",
       "description": "Custom AI training via video call with your team — 4h practical workshop on AI tools tailored to your business",
       "features": [
         "4h video session with your team",
@@ -530,7 +530,7 @@
     },
     "claude_code": {
       "name": "Formation Claude Code",
-      "price": "Contact",
+      "price": "3500 CHF",
       "description": "Atelier visio 4h dédié à Claude Code pour votre équipe dev",
       "badge": "Dev & Tech",
       "cta": "Réserver ma session",
@@ -547,7 +547,7 @@
     },
     "ia_marketing": {
       "name": "Formation IA Marketing",
-      "price": "Contact",
+      "price": "2500 CHF",
       "description": "Atelier visio 4h IA Marketing pour votre équipe",
       "badge": "Marketing",
       "cta": "Réserver ma session",
@@ -623,7 +623,7 @@
     "subtitle": "Personalised guidance for your digital transformation",
     "audit": {
       "name": "AI Audit Express",
-      "price": "Contact",
+      "price": "297 CHF",
       "description": "Identify your AI opportunities",
       "features": [
         "1h diagnostic call",
@@ -635,7 +635,7 @@
     },
     "accompagnement": {
       "name": "Guidance",
-      "price": "Contact",
+      "price": "1,497 CHF",
       "description": "Guided implementation",
       "features": [
         "Full audit (2h)",
@@ -649,7 +649,7 @@
     },
     "custom": {
       "name": "Bespoke",
-      "price": "Contact",
+      "price": "On request",
       "description": "Complex projects and team training",
       "features": [
         "On-site team training",
@@ -676,7 +676,7 @@
     "subtitle": "Packages tailored to every need",
     "starter": {
       "name": "Discovery",
-      "price": "Contact",
+      "price": "Free",
       "description": "First step towards AI",
       "features": [
         "Initial AI audit (1h)",
@@ -686,7 +686,7 @@
     },
     "pro": {
       "name": "Professional",
-      "price": "Contact",
+      "price": "On request",
       "description": "Integration and training",
       "features": [
         "In-depth AI audit",
@@ -698,7 +698,7 @@
     },
     "enterprise": {
       "name": "Enterprise",
-      "price": "Contact",
+      "price": "On request",
       "description": "Complete transformation",
       "features": [
         "Comprehensive AI strategy",
@@ -738,6 +738,8 @@
     "upcoming": "Upcoming events",
     "past": "Past events",
     "all": "All",
+    "free": "Free",
+    "paid": "Paid",
     "online": "Online",
     "add_calendar": "Add to calendar",
     "no_events": "No upcoming events at the moment",
@@ -750,6 +752,7 @@
         "date": "2026-03-26",
         "location": "EPFL, Lausanne",
         "type": "Conference",
+        "price": "Paid",
         "url": "https://appliedmldays.org",
         "description": "Switzerland's largest machine learning conference, organised by EPFL."
       },
@@ -758,6 +761,7 @@
         "date": "2026-11-01",
         "location": "Across Switzerland",
         "type": "National day",
+        "price": "Free",
         "url": "https://digitaltag.swiss",
         "description": "National digitalisation day organised by digitalswitzerland."
       },
@@ -766,6 +770,7 @@
         "date": "2026-06-15",
         "location": "Zurich",
         "type": "Summit",
+        "price": "Paid",
         "url": "#",
         "description": "Summit dedicated to AI and automation for Swiss businesses."
       },
@@ -774,6 +779,7 @@
         "date": "2026-04-15",
         "location": "Online",
         "type": "Webinar",
+        "price": "Free",
         "url": "#",
         "description": "Free monthly webinar: discover how AI can transform your SME."
       }
@@ -792,12 +798,16 @@
       "hosting": "Hosting",
       "translation": "Translation"
     },
+    "free": "Free",
+    "freemium": "Freemium",
+    "paid": "Paid",
     "visit": "Visit",
     "items": [
       {
         "name": "ChatGPT",
         "category": "content",
         "rating": 5,
+        "price": "Freemium",
         "description": "The most versatile AI assistant for writing, analysis and brainstorming.",
         "url": "https://chat.openai.com"
       },
@@ -805,6 +815,7 @@
         "name": "Claude",
         "category": "content",
         "rating": 5,
+        "price": "Freemium",
         "description": "Anthropic's AI, excellent for document analysis and long-form writing.",
         "url": "https://claude.ai"
       },
@@ -812,6 +823,7 @@
         "name": "DeepL",
         "category": "translation",
         "rating": 5,
+        "price": "Freemium",
         "description": "The finest machine translation tool, ideal for multilingual Swiss SMEs.",
         "url": "https://www.deepl.com"
       },
@@ -819,6 +831,7 @@
         "name": "Zapier",
         "category": "automation",
         "rating": 4,
+        "price": "Freemium",
         "description": "Connect your apps and automate workflows without coding.",
         "url": "https://zapier.com"
       },
@@ -826,6 +839,7 @@
         "name": "Make",
         "category": "automation",
         "rating": 4,
+        "price": "Freemium",
         "description": "Advanced automation with a powerful visual interface.",
         "url": "https://www.make.com"
       },
@@ -833,6 +847,7 @@
         "name": "Notion AI",
         "category": "productivity",
         "rating": 4,
+        "price": "Paid",
         "description": "Organisation and productivity boosted by integrated AI.",
         "url": "https://notion.so"
       },
@@ -840,6 +855,7 @@
         "name": "Infomaniak",
         "category": "hosting",
         "rating": 5,
+        "price": "Paid",
         "description": "Swiss, ecological and sovereign web hosting. Ideal for SMEs.",
         "url": "https://www.infomaniak.com"
       },
@@ -847,6 +863,7 @@
         "name": "Canva",
         "category": "content",
         "rating": 4,
+        "price": "Freemium",
         "description": "Simplified graphic design with built-in AI features.",
         "url": "https://www.canva.com"
       }
@@ -924,8 +941,8 @@
       },
       {
         "question": "How much does an AI project for an SME cost?",
-        "answer": "An initial audit defines the scope, priorities and expected gains before any engagement.",
-        "category": "general"
+        "answer": "Costs range from free (basic tools) to several thousand francs (bespoke integration). Our express audit at 297 CHF provides a precise ROI estimate.",
+        "category": "pricing"
       },
       {
         "question": "How long does an integration project take?",
