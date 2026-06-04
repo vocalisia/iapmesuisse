@@ -8,7 +8,7 @@ excerpt: >-
 slug: agent-ia-hubspot-pme-suisse
 category: CRM IA
 pillar: automatisation-ia-b2b-suisse
-image: /images/blog/iapme-seo-aio/agent-ia-hubspot-pme-suisse.jpg
+image: /images/blog/iapme-seo-aio/agent-ia-hubspot-pme-suisse-photo.jpg
 ---
 
 # Agent IA HubSpot pour PME suisse

@@ -8,7 +8,7 @@ excerpt: >-
 slug: n8n-self-hosted-pme-suisse
 category: Automatisation IA
 pillar: workflow-ia-pme-suisse
-image: /images/blog/iapme-seo-aio/n8n-self-hosted-pme-suisse.jpg
+image: /images/blog/iapme-seo-aio/n8n-self-hosted-pme-suisse-photo.jpg
 ---
 
 # n8n self hosted pour PME suisse

@@ -8,7 +8,7 @@ excerpt: >-
 slug: agent-ia-vente-prospection-suisse
 category: Agents IA
 pillar: automatisation-ia-b2b-suisse
-image: /images/blog/iapme-seo-aio/agent-ia-vente-prospection-suisse.jpg
+image: /images/blog/iapme-seo-aio/agent-ia-vente-prospection-suisse-photo.jpg
 ---
 
 # Agent IA vente et prospection B2B en Suisse

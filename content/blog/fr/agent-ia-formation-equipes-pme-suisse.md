@@ -8,7 +8,7 @@ excerpt: >-
 slug: agent-ia-formation-equipes-pme-suisse
 category: Agents IA
 pillar: agent-ia-pme-suisse-guide-2026
-image: /images/blog/iapme-seo-aio/agent-ia-formation-equipes-pme-suisse.jpg
+image: /images/blog/iapme-seo-aio/agent-ia-formation-equipes-pme-suisse-photo.jpg
 ---
 
 # Agent IA et formation des equipes PME suisses

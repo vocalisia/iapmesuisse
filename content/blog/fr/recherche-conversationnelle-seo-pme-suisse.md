@@ -8,7 +8,8 @@ excerpt: >-
 slug: recherche-conversationnelle-seo-pme-suisse
 category: SEO IA
 pillar: seo-suisse-french-aio-2026
-image: /images/blog/iapme-seo-aio/recherche-conversationnelle-seo-pme-suisse.jpg
+image: >-
+  /images/blog/iapme-seo-aio/recherche-conversationnelle-seo-pme-suisse-photo.jpg
 ---
 
 # Recherche conversationnelle et SEO PME suisse

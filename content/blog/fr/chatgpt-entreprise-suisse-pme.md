@@ -8,7 +8,7 @@ excerpt: >-
 slug: chatgpt-entreprise-suisse-pme
 category: IA PME Suisses
 pillar: intelligence-artificielle-suisse-pme-guide-operationnel
-image: /images/blog/iapme-seo-aio/chatgpt-entreprise-suisse-pme.jpg
+image: /images/blog/iapme-seo-aio/chatgpt-entreprise-suisse-pme-photo.jpg
 ---
 
 # ChatGPT entreprise Suisse : usages et limites

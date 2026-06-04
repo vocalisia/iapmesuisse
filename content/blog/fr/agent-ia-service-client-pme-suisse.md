@@ -8,7 +8,7 @@ excerpt: >-
 slug: agent-ia-service-client-pme-suisse
 category: Agents IA
 pillar: agent-ia-pme-suisse-guide-2026
-image: /images/blog/iapme-seo-aio/agent-ia-service-client-pme-suisse.jpg
+image: /images/blog/iapme-seo-aio/agent-ia-service-client-pme-suisse-photo.jpg
 ---
 
 # Agent IA service client pour PME suisse

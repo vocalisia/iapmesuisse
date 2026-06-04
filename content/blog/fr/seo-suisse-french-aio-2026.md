@@ -8,7 +8,7 @@ excerpt: >-
 slug: seo-suisse-french-aio-2026
 category: SEO IA
 pillar: optimisation-seo-suisse-francophone-ia
-image: /images/blog/iapme-seo-aio/seo-suisse-french-aio-2026.jpg
+image: /images/blog/iapme-seo-aio/seo-suisse-french-aio-2026-photo.jpg
 ---
 
 # SEO Suisse French et AIO : strategie 2026

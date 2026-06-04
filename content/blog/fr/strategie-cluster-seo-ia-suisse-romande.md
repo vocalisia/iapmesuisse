@@ -8,7 +8,7 @@ excerpt: >-
 slug: strategie-cluster-seo-ia-suisse-romande
 category: SEO IA
 pillar: maillage-interne-seo-ia-pme-suisse
-image: /images/blog/iapme-seo-aio/strategie-cluster-seo-ia-suisse-romande.jpg
+image: /images/blog/iapme-seo-aio/strategie-cluster-seo-ia-suisse-romande-photo.jpg
 ---
 
 # Strategie cluster SEO IA en Suisse romande

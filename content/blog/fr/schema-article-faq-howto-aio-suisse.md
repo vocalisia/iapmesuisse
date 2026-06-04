@@ -8,7 +8,7 @@ excerpt: >-
 slug: schema-article-faq-howto-aio-suisse
 category: SEO IA
 pillar: aio-llm-citation-pme-suisse
-image: /images/blog/iapme-seo-aio/schema-article-faq-howto-aio-suisse.jpg
+image: /images/blog/iapme-seo-aio/schema-article-faq-howto-aio-suisse-photo.jpg
 ---
 
 # Schema Article, FAQ et HowTo : base AIO pour sites suisses

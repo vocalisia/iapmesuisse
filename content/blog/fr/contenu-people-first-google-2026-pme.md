@@ -8,7 +8,7 @@ excerpt: >-
 slug: contenu-people-first-google-2026-pme
 category: SEO IA
 pillar: google-2026-seo-aio-pme-suisse
-image: /images/blog/iapme-seo-aio/contenu-people-first-google-2026-pme.jpg
+image: /images/blog/iapme-seo-aio/contenu-people-first-google-2026-pme-photo.jpg
 ---
 
 # Contenu people-first Google 2026 pour PME suisse

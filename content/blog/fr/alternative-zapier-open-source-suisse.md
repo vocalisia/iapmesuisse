@@ -8,7 +8,7 @@ excerpt: >-
 slug: alternative-zapier-open-source-suisse
 category: Automatisation IA
 pillar: n8n-self-hosted-pme-suisse
-image: /images/blog/iapme-seo-aio/alternative-zapier-open-source-suisse.jpg
+image: /images/blog/iapme-seo-aio/alternative-zapier-open-source-suisse-photo.jpg
 ---
 
 # Alternative Zapier open source : guide pour PME suisse

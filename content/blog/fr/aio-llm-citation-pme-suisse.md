@@ -8,7 +8,7 @@ excerpt: >-
 slug: aio-llm-citation-pme-suisse
 category: SEO IA
 pillar: seo-suisse-french-aio-2026
-image: /images/blog/iapme-seo-aio/aio-llm-citation-pme-suisse.jpg
+image: /images/blog/iapme-seo-aio/aio-llm-citation-pme-suisse-photo.jpg
 ---
 
 # AIO et citations LLM : rendre une PME suisse plus visible

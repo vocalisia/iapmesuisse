@@ -8,7 +8,7 @@ excerpt: >-
 slug: workflow-ia-pme-suisse
 category: Automatisation IA
 pillar: automatisation-processus-ia-guide-pratique-pme-suisses
-image: /images/blog/iapme-seo-aio/workflow-ia-pme-suisse.jpg
+image: /images/blog/iapme-seo-aio/workflow-ia-pme-suisse-photo.jpg
 ---
 
 # Workflow IA : la methode PME suisse

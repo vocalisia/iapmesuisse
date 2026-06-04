@@ -8,7 +8,7 @@ excerpt: >-
 slug: ia-pour-pme-suisses-cas-usages-2026
 category: IA PME Suisses
 pillar: intelligence-artificielle-pme-suisses-guide-complet-2026
-image: /images/blog/iapme-seo-aio/ia-pour-pme-suisses-cas-usages-2026.jpg
+image: /images/blog/iapme-seo-aio/ia-pour-pme-suisses-cas-usages-2026-photo.jpg
 ---
 
 # IA pour PME suisses : cas d'usage 2026

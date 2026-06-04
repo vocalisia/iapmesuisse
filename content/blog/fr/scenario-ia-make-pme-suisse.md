@@ -8,7 +8,7 @@ excerpt: >-
 slug: scenario-ia-make-pme-suisse
 category: Automatisation IA
 pillar: workflow-ia-pme-suisse
-image: /images/blog/iapme-seo-aio/scenario-ia-make-pme-suisse.jpg
+image: /images/blog/iapme-seo-aio/scenario-ia-make-pme-suisse-photo.jpg
 ---
 
 # Scenario IA Make pour PME suisse

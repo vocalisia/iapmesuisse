@@ -8,7 +8,7 @@ excerpt: >-
 slug: google-2026-seo-aio-pme-suisse
 category: SEO IA
 pillar: seo-suisse-french-aio-2026
-image: /images/blog/iapme-seo-aio/google-2026-seo-aio-pme-suisse.jpg
+image: /images/blog/iapme-seo-aio/google-2026-seo-aio-pme-suisse-photo.jpg
 ---
 
 # Google 2026, SEO et AIO : adaptation PME suisse

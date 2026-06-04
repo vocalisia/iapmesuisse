@@ -8,7 +8,7 @@ excerpt: >-
 slug: optimisation-seo-suisse-francophone-ia
 category: SEO IA
 pillar: seo-suisse-french-aio-2026
-image: /images/blog/iapme-seo-aio/optimisation-seo-suisse-francophone-ia.jpg
+image: /images/blog/iapme-seo-aio/optimisation-seo-suisse-francophone-ia-photo.jpg
 ---
 
 # Optimisation SEO Suisse francophone avec l'IA

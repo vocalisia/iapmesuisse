@@ -8,7 +8,7 @@ excerpt: >-
 slug: maillage-interne-seo-ia-pme-suisse
 category: SEO IA
 pillar: seo-suisse-french-aio-2026
-image: /images/blog/iapme-seo-aio/maillage-interne-seo-ia-pme-suisse.jpg
+image: /images/blog/iapme-seo-aio/maillage-interne-seo-ia-pme-suisse-photo.jpg
 ---
 
 # Maillage interne SEO IA pour PME suisse

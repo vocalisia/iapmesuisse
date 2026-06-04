@@ -8,7 +8,7 @@ excerpt: >-
 slug: agence-seo-suisse-romande-ia
 category: SEO IA
 pillar: seo-suisse-french-aio-2026
-image: /images/blog/iapme-seo-aio/agence-seo-suisse-romande-ia.jpg
+image: /images/blog/iapme-seo-aio/agence-seo-suisse-romande-ia-photo.jpg
 ---
 
 # Agence SEO Suisse romande : les criteres 2026

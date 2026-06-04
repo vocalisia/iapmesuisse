@@ -8,7 +8,7 @@ excerpt: >-
 slug: agent-ia-industrie-pme-suisse
 category: Agents IA
 pillar: ia-pour-pme-suisses-cas-usages-2026
-image: /images/blog/iapme-seo-aio/agent-ia-industrie-pme-suisse.jpg
+image: /images/blog/iapme-seo-aio/agent-ia-industrie-pme-suisse-photo.jpg
 ---
 
 # Agent IA industrie PME suisse
