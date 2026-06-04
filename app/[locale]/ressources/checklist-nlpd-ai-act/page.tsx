@@ -286,7 +286,7 @@ export default async function ChecklistPage({ params }: Props) {
             {t.related.map((r) => (
               <li key={r.href}>
                 <Link
-                  href={r.href as any}
+                  href={r.href as `/${string}`}
                   className="block rounded-lg border border-gray-200 bg-gray-50 p-4 text-sm font-medium text-primary transition-all hover:border-accent hover:text-accent"
                 >
                   → {r.title}

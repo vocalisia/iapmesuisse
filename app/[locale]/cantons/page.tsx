@@ -86,7 +86,7 @@ export default async function CantonsIndexPage({ params }: Props) {
               return (
                 <Link
                   key={c.slug}
-                  href={`/cantons/${c.slug}` as any}
+                  href={`/cantons/${c.slug}` as `/cantons/${string}`}
                   className="rounded-2xl border border-gray-200 bg-gray-50 p-6 transition-all duration-300 hover:-translate-y-1 hover:border-accent hover:shadow-lg"
                 >
                   <div className="flex items-center justify-between">

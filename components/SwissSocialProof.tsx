@@ -71,7 +71,7 @@ export default function SwissSocialProof() {
             Sources & études Suisse
           </span>
           <h2 className="mt-4 text-3xl font-bold text-[#1B2A4A] sm:text-4xl">
-            L'IA et les PME suisses — les chiffres réels
+            L&apos;IA et les PME suisses — les chiffres réels
           </h2>
           <p className="mx-auto mt-3 max-w-2xl text-gray-600">
             Données issues de cabinets de conseil internationaux et de recherches sur le marché suisse.
@@ -95,7 +95,7 @@ export default function SwissSocialProof() {
                 <svg className="h-3 w-3" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
                   <path strokeLinecap="round" strokeLinejoin="round" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
                 </svg>
-                Voir l'étude
+                Voir l&apos;étude
               </div>
             </a>
           ))}
@@ -104,7 +104,7 @@ export default function SwissSocialProof() {
         {/* Press coverage */}
         <div className="mt-14">
           <h3 className="mb-6 text-center text-lg font-bold text-[#1B2A4A]">
-            Ce qu'en dit la presse suisse
+            Ce qu&apos;en dit la presse suisse
           </h3>
           <div className="grid gap-4 sm:grid-cols-2">
             {pressLinks.map((p) => (

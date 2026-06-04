@@ -1,4 +1,3 @@
-import { getTranslations } from 'next-intl/server';
 import { getAlternates } from '@/lib/metadata';
 
 const quizMeta: Record<string, { title: string; description: string }> = {
