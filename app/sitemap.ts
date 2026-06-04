@@ -5,6 +5,11 @@ import { VILLES } from '@/lib/villes';
 
 const locales = ['fr', 'de', 'en', 'it'];
 const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://iapmesuisse.ch';
+const excludedBlogSlugsByLocale: Record<string, Set<string>> = {
+  de: new Set(['formation-ia-pme-suisse', 'ia-pme-valais-sion']),
+  en: new Set(['formation-ia-pme-suisse', 'ia-pme-valais-sion']),
+  it: new Set(['formation-ia-pme-suisse', 'ia-pme-valais-sion']),
+};
 
 const pages = [
   '',
@@ -61,7 +66,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Build per-locale slug sets to avoid declaring phantom URLs in sitemap.
   const localeSlugs: Record<string, Set<string>> = {};
   for (const locale of locales) {
-    localeSlugs[locale] = new Set(getBlogPosts(locale).map((p) => p.slug));
+    localeSlugs[locale] = new Set(
+      getBlogPosts(locale)
+        .map((p) => p.slug)
+        .filter((slug) => !excludedBlogSlugsByLocale[locale]?.has(slug))
+    );
   }
 
   // Canton pages (9 cantons × 4 locales)
