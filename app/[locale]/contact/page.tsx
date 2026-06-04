@@ -4,6 +4,8 @@ import Breadcrumbs from '@/components/Breadcrumbs';
 import ContactForm from '@/components/ContactForm';
 import Image from 'next/image';
 
+const WHATSAPP_NUMBER = '41799394222';
+
 export async function generateMetadata({
   params,
 }: {
@@ -166,10 +168,10 @@ export default async function ContactPage({
                   <div>
                     <p className="text-sm font-medium text-gray-500">{t('info.whatsapp_label')}</p>
                     <a
-                      href={`https://wa.me/${t('info.whatsapp').replace(/[\s+]/g, '')}`}
+                      href={`https://wa.me/${WHATSAPP_NUMBER}`}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="text-base font-semibold text-[#1B2A4A] transition-colors hover:text-[#25D366]"
+                      className="inline-flex items-center rounded-full border border-[#25D366]/25 bg-[#25D366]/10 px-3 py-1.5 text-sm font-semibold text-[#1B2A4A] transition-colors hover:border-[#25D366]/50 hover:bg-[#25D366]/15 hover:text-[#128C3A]"
                     >
                       {t('info.whatsapp')}
                     </a>
