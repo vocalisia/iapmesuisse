@@ -14,6 +14,8 @@ const aiBots = [
   'Amazonbot',
   'FacebookBot',
   'YouBot',
+  'ChatGPT-User',
+  'Applebot-Extended',
 ];
 
 export default function robots(): MetadataRoute.Robots {

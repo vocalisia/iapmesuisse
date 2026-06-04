@@ -29,7 +29,7 @@
     },
     "formation": {
       "title": "AI Training for SMEs",
-      "description": "AI training courses tailored to Swiss SMEs. From free to premium, level up your AI skills."
+      "description": "AI training courses tailored to Swiss SMEs. Practical workshops, team enablement and personalized support."
     },
     "consulting": {
       "title": "AI Consulting Switzerland for Small & Medium Businesses — IAPME",
@@ -452,11 +452,11 @@
       "description": "First steps into AI",
       "features": [
         "5-day email mini-course",
-        "Free monthly webinar",
+        "Monthly intro webinar",
         "Community access",
         "Starter PDF guide"
       ],
-      "cta": "Sign up for free"
+      "cta": "Sign up"
     },
     "starter": {
       "name": "Starter",

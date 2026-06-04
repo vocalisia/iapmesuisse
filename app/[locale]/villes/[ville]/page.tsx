@@ -108,7 +108,7 @@ const COPY: Record<string, LocaleCopy> = {
       'Présence physique Suisse romande, alémanique et Tessin',
       'Conformité nLPD + AI Act intégrée à chaque mission',
       'Audit gratuit sans engagement, rapport PDF en 48h',
-      'Tarifs CHF transparents, devis sous 24h',
+      'Conditions claires, proposition personnalisee',
     ],
     related: (cantonSlug) => [
       { title: `Voir toutes les ressources du canton de ${cantonSlug}`, href: `/cantons/${cantonSlug}` },
@@ -124,8 +124,8 @@ const COPY: Record<string, LocaleCopy> = {
         a: `IAPME Suisse propose à ${name} : audit IA gratuit, formation équipes (ChatGPT, Copilot, Claude), intégration d'outils, consulting stratégique. Conformité nLPD + AI Act incluse. Sur site ou en visio.`,
       },
       {
-        q: `Combien coûte un projet IA pour une PME de ${name} ?`,
-        a: `L'audit initial est gratuit (30-60 min + rapport sous 48h). Les missions d'accompagnement démarrent par un quick-win 4-8 semaines, devis personnalisé sous 24h. Subventions cantonales et InnoSuisse mobilisables.`,
+        q: `Comment cadrer un projet IA pour une PME de ${name} ?`,
+        a: `L'audit initial fournit un rapport de cadrage. Les missions d'accompagnement demarrent par un quick-win priorise, puis un plan d'action personnalise selon le canton, le secteur et le niveau de maturite.`,
       },
       {
         q: `Travaillez-vous avec l'écosystème innovation de ${name} ?`,
@@ -133,7 +133,7 @@ const COPY: Record<string, LocaleCopy> = {
       },
       {
         q: `Quelles aides cantonales pour un projet IA à ${name} (canton de ${cantonName}) ?`,
-        a: `Subventions cantonales spécifiques au canton de ${cantonName}, complétées par InnoSuisse (jusqu'à 75 000 CHF), chèque innovation (15 000 CHF) et déductions fiscales formation continue.`,
+        a: `Des programmes cantonaux et nationaux peuvent soutenir certains projets d'innovation. Nous aidons a identifier les pistes pertinentes selon le canton, le secteur et le niveau de maturite.`,
       },
     ],
   },
@@ -174,7 +174,7 @@ const COPY: Record<string, LocaleCopy> = {
       'Präsenz Romandie, Deutschschweiz und Tessin',
       'nDSG + AI Act in jeder Mission integriert',
       'Kostenloses Audit ohne Verpflichtung, PDF in 48 h',
-      'Transparente CHF-Tarife, Offerte in 24 h',
+      'Klare Bedingungen, personalisierter Vorschlag',
     ],
     related: (cantonSlug) => [
       { title: `Alle Ressourcen Kanton ${cantonSlug}`, href: `/cantons/${cantonSlug}` },
@@ -190,8 +190,8 @@ const COPY: Record<string, LocaleCopy> = {
         a: `IAPME Suisse bietet in ${name}: kostenloses KI-Audit, Teamschulung (ChatGPT, Copilot, Claude), Tool-Integration, Strategieberatung. nDSG + AI Act inklusive. Vor Ort oder remote.`,
       },
       {
-        q: `Was kostet ein KI-Projekt für ein KMU in ${name}?`,
-        a: `Das Erst-Audit ist kostenlos (30-60 Min + Bericht in 48 h). Begleitmissionen starten mit einem Quick-Win in 4-8 Wochen. Offerte in 24 h. Kantonale Förderungen und InnoSuisse mobilisierbar.`,
+        q: `Wie wird ein KI-Projekt für ein KMU in ${name} geplant?`,
+        a: `Das Erst-Audit liefert eine klare Priorisierung. Begleitmissionen starten mit einem fokussierten Quick-Win und einem personalisierten Aktionsplan je nach Kanton, Branche und Reifegrad.`,
       },
       {
         q: `Arbeiten Sie mit dem Innovationsökosystem von ${name} zusammen?`,
@@ -199,7 +199,7 @@ const COPY: Record<string, LocaleCopy> = {
       },
       {
         q: `Welche kantonalen Förderungen für ein KI-Projekt in ${name} (Kanton ${cantonName})?`,
-        a: `Kantonsspezifische Förderungen ${cantonName}, ergänzt durch InnoSuisse (bis 75 000 CHF), Innovations-Cheque (15 000 CHF) und steuerliche Abzüge für Weiterbildung.`,
+        a: `Kantonale und nationale Programme koennen Innovationsprojekte unterstuetzen. Wir helfen, relevante Optionen je nach Kanton, Branche und Reifegrad zu identifizieren.`,
       },
     ],
   },
@@ -240,7 +240,7 @@ const COPY: Record<string, LocaleCopy> = {
       'Physical presence French, German & Italian Switzerland',
       'nFADP + AI Act baked into every mission',
       'Free no-commitment audit, PDF report within 48h',
-      'Transparent CHF rates, 24h quote',
+      'Clear terms, personalized proposal',
     ],
     related: (cantonSlug) => [
       { title: `All resources for canton ${cantonSlug}`, href: `/cantons/${cantonSlug}` },
@@ -256,8 +256,8 @@ const COPY: Record<string, LocaleCopy> = {
         a: `IAPME Suisse offers in ${name}: free AI audit, team training (ChatGPT, Copilot, Claude), tool integration, strategic consulting. nFADP + AI Act included. On-site or remote.`,
       },
       {
-        q: `How much does an AI project cost for an SME in ${name}?`,
-        a: `Initial audit is free (30-60 min + 48h report). Engagements start with a 4-8 week quick-win, custom quote within 24h. Cantonal subsidies and InnoSuisse available.`,
+        q: `How is an AI project scoped for an SME in ${name}?`,
+        a: `Initial scoping identifies priorities, risks, useful data and quick wins. The proposal is personalized according to scope and available support programs.`,
       },
       {
         q: `Do you work with the ${name} innovation ecosystem?`,
@@ -265,7 +265,7 @@ const COPY: Record<string, LocaleCopy> = {
       },
       {
         q: `What cantonal funding for an AI project in ${name} (canton ${cantonName})?`,
-        a: `Canton-specific subsidies for ${cantonName}, plus InnoSuisse (up to 75,000 CHF), innovation cheque (15,000 CHF) and continuing-education tax deductions.`,
+        a: `Cantonal and national programs may support selected innovation projects. We help identify relevant options depending on canton, sector and maturity level.`,
       },
     ],
   },
@@ -306,7 +306,7 @@ const COPY: Record<string, LocaleCopy> = {
       'Presenza Svizzera romanda, tedesca e Ticino',
       'nLPD + AI Act integrati in ogni missione',
       'Audit gratuito senza impegno, rapporto PDF in 48 h',
-      'Tariffe CHF trasparenti, preventivo in 24 h',
+      'Condizioni chiare, proposta personalizzata',
     ],
     related: (cantonSlug) => [
       { title: `Tutte le risorse del cantone ${cantonSlug}`, href: `/cantons/${cantonSlug}` },
@@ -322,8 +322,8 @@ const COPY: Record<string, LocaleCopy> = {
         a: `IAPME Suisse offre a ${name}: audit IA gratuito, formazione team (ChatGPT, Copilot, Claude), integrazione strumenti, consulenza strategica. Conformità nLPD + AI Act inclusa. In loco o in videochiamata.`,
       },
       {
-        q: `Quanto costa un progetto IA per una PMI di ${name}?`,
-        a: `L'audit iniziale è gratuito (30-60 min + rapporto in 48 h). Le missioni di accompagnamento partono da un quick-win in 4-8 settimane. Preventivo in 24 h. Sussidi cantonali e InnoSuisse mobilizzabili.`,
+        q: `Come viene definito un progetto IA per una PMI di ${name}?`,
+        a: `La fase iniziale chiarisce priorita, rischi, dati utili e quick win. La proposta viene personalizzata in base al perimetro e agli eventuali programmi di sostegno disponibili.`,
       },
       {
         q: `Collaborate con l'ecosistema d'innovazione di ${name}?`,
@@ -331,7 +331,7 @@ const COPY: Record<string, LocaleCopy> = {
       },
       {
         q: `Quali aiuti cantonali per un progetto IA a ${name} (cantone ${cantonName})?`,
-        a: `Sussidi specifici del cantone ${cantonName}, completati da InnoSuisse (fino a 75 000 CHF), assegno innovazione (15 000 CHF) e deduzioni fiscali per la formazione continua.`,
+        a: `Programmi cantonali e nazionali possono sostenere alcuni progetti di innovazione. Aiutiamo a identificare le opzioni pertinenti secondo cantone, settore e maturita.`,
       },
     ],
   },
@@ -359,10 +359,6 @@ export default async function VillePage({ params }: Props) {
       { '@type': 'AdministrativeArea', name: cantonName, addressCountry: 'CH' },
     ],
     serviceType: ['AI audit', 'AI training', 'AI tool integration', 'AI consulting'],
-    offers: {
-      '@type': 'Offer',
-      description: 'Audit IA gratuit 30-60 minutes',
-    },
   };
 
   const faqList = t.faqMaker(name, cantonName, ville.ecosystem);

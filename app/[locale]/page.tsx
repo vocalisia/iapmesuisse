@@ -4,6 +4,7 @@ import { getAlternates } from '@/lib/metadata';
 import ServiceCard from '@/components/ServiceCard';
 import CTA from '@/components/CTA';
 import Image from 'next/image';
+import { buildHomeFaqSchema } from '@/lib/structured-data';
 
 export async function generateMetadata({
   params,
@@ -31,6 +32,7 @@ export default async function HomePage({
   const tHome = await getTranslations({ locale, namespace: 'home' });
   const tServices = await getTranslations({ locale, namespace: 'services' });
   const tFormation = await getTranslations({ locale, namespace: 'formation' });
+  const homeFaqSchema = buildHomeFaqSchema(locale);
 
   const testimonialsRaw = tFormation.raw('testimonials') as
     | { quote: string; name: string; role: string; company: string }[]
@@ -64,6 +66,11 @@ export default async function HomePage({
 
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(homeFaqSchema) }}
+      />
+
       {/* Hero Section */}
       <section className="relative overflow-hidden bg-[#1B2A4A] px-4 py-16 sm:px-6 sm:py-28 lg:px-8">
         <Image

@@ -29,7 +29,7 @@
     },
     "formation": {
       "title": "Formazioni IA per PMI",
-      "description": "Formazioni in intelligenza artificiale per le PMI svizzere. Dal gratuito al premium, migliorate le vostre competenze IA."
+      "description": "Formazioni in intelligenza artificiale per le PMI svizzere. Workshop pratici, supporto ai team e accompagnamento personalizzato."
     },
     "consulting": {
       "title": "Consulenza IA per PMI",
@@ -448,15 +448,15 @@
     "subtitle": "Sviluppate le competenze IA del vostro team con le nostre formazioni personalizzate",
     "free": {
       "name": "Scoperta",
-      "price": "Gratuito",
+      "price": "Accesso introduttivo",
       "description": "Primi passi nell'IA",
       "features": [
         "Mini-corso email di 5 giorni",
-        "Webinar mensile gratuito",
+        "Webinar mensile introduttivo",
         "Accesso alla community",
         "Guida PDF di avvio"
       ],
-      "cta": "Iscriversi gratuitamente"
+      "cta": "Iscriversi"
     },
     "starter": {
       "name": "Starter",

@@ -29,7 +29,7 @@
     },
     "formation": {
       "title": "KI-Schulung KMU Schweiz · Zürich · Bern · Basel — IAPME",
-      "description": "KI-Schulungen für Schweizer KMU in Zürich, Bern, Basel & Genf. ChatGPT, Copilot, Claude — kostenlos bis Premium. Konform Art. 4 AI Act. Offerte in 24h."
+      "description": "KI-Schulungen für Schweizer KMU in Zürich, Bern, Basel & Genf. ChatGPT, Copilot, Claude und praxisnahe Begleitung. Konform Art. 4 AI Act."
     },
     "consulting": {
       "title": "KI-Beratung KMU Schweiz · CRM-Implementierung & Tech-Stack",
@@ -448,15 +448,15 @@
     "subtitle": "Entwickeln Sie die KI-Kompetenzen Ihres Teams mit unseren massgeschneiderten Schulungen",
     "free": {
       "name": "Entdecken",
-      "price": "Kostenlos",
+      "price": "Einstieg",
       "description": "Erste Schritte in die KI",
       "features": [
         "5-Tage-E-Mail-Minikurs",
-        "Kostenloses monatliches Webinar",
+        "Monatliches Einstiegs-Webinar",
         "Community-Zugang",
         "Starter-PDF-Leitfaden"
       ],
-      "cta": "Kostenlos anmelden"
+      "cta": "Anmelden"
     },
     "starter": {
       "name": "Starter",

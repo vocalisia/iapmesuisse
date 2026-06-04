@@ -3,6 +3,7 @@ import path from 'path';
 import matter from 'gray-matter';
 import { remark } from 'remark';
 import html from 'remark-html';
+import { isPublicPricingSlug, sanitizePublicPricingText } from './structured-data';
 
 const contentDirectory = path.join(process.cwd(), 'content', 'blog');
 
@@ -30,18 +31,22 @@ export function getBlogPosts(locale: string): BlogPost[] {
     const fileContents = fs.readFileSync(filePath, 'utf8');
     const { data, content } = matter(fileContents);
 
+    const slug = data.slug || filename.replace(/\.md$/, '');
+
     return {
-      slug: data.slug || filename.replace(/\.md$/, ''),
-      title: data.title || '',
+      slug,
+      title: sanitizePublicPricingText(data.title || ''),
       date: data.date || '',
-      excerpt: data.excerpt || '',
+      excerpt: sanitizePublicPricingText(data.excerpt || ''),
       author: data.author || 'IAPME Suisse',
       image: data.image || '/images/blog-default.jpg',
       content,
     };
   });
 
-  return posts.sort((a, b) => (a.date > b.date ? -1 : 1));
+  return posts
+    .filter((post) => !isPublicPricingSlug(post.slug))
+    .sort((a, b) => (a.date > b.date ? -1 : 1));
 }
 
 export async function getBlogPost(
@@ -68,12 +73,12 @@ export async function getBlogPost(
 
       return {
         slug: postSlug,
-        title: data.title || '',
+        title: sanitizePublicPricingText(data.title || ''),
         date: data.date || '',
-        excerpt: data.excerpt || '',
+        excerpt: sanitizePublicPricingText(data.excerpt || ''),
         author: data.author || 'IAPME Suisse',
         image: data.image || '/images/blog-default.jpg',
-        content: processedContent.toString(),
+        content: sanitizePublicPricingText(processedContent.toString()),
       };
     }
   }

@@ -3,6 +3,7 @@ import { Link } from '@/i18n/routing';
 import { getAlternates } from '@/lib/metadata';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import CTA from '@/components/CTA';
+import { buildHowToSchema, getSiteUrl } from '@/lib/structured-data';
 
 export async function generateMetadata({
   params,
@@ -42,6 +43,8 @@ export default async function GenerationLeadsPage({
 
   const steps = ['analyse', 'ciblage', 'automatisation', 'suivi'] as const;
   const features = ['crm', 'scoring', 'nurturing', 'reporting', 'multichannel', 'rgpd'] as const;
+  const baseUrl = getSiteUrl();
+  const pageUrl = `${baseUrl}/${locale}/services/generation-leads`;
 
   const schema = {
     '@context': 'https://schema.org',
@@ -54,14 +57,28 @@ export default async function GenerationLeadsPage({
       url: 'https://iapmesuisse.ch',
     },
     areaServed: { '@type': 'Country', name: 'Switzerland' },
-    url: `https://iapmesuisse.ch/${locale}/services/generation-leads`,
+    url: pageUrl,
   };
+  const howToSchema = buildHowToSchema({
+    name: t('process.title'),
+    description: t('process.subtitle'),
+    url: pageUrl,
+    locale,
+    steps: steps.map((step) => ({
+      name: t(`process.${step}.title`),
+      text: t(`process.${step}.desc`),
+    })),
+  });
 
   return (
     <>
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(howToSchema) }}
       />
 
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">

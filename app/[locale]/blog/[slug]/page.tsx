@@ -4,8 +4,15 @@ import { getBlogPost, getBlogPosts } from '@/lib/markdown';
 import { normalizeHtmlBlogAnchors } from '@/lib/normalize-blog-href';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import { Link } from '@/i18n/routing';
-import { notFound } from 'next/navigation';
+import { notFound, permanentRedirect } from 'next/navigation';
 import { VILLES } from '@/lib/villes';
+import {
+  buildHowToFromHtml,
+  getSchemaLanguage,
+  getSiteUrl,
+  isPublicPricingSlug,
+  stripHtml,
+} from '@/lib/structured-data';
 
 export async function generateMetadata({
   params,
@@ -13,6 +20,8 @@ export async function generateMetadata({
   params: Promise<{ locale: string; slug: string }>;
 }) {
   const { locale, slug } = await params;
+  if (isPublicPricingSlug(slug)) return {};
+
   const post = await getBlogPost(locale, slug);
 
   if (!post) return {};
@@ -58,6 +67,10 @@ export default async function BlogPostPage({
   const { locale, slug } = await params;
   const t = await getTranslations({ locale, namespace: 'blog' });
   const tNav = await getTranslations({ locale, namespace: 'nav' });
+  if (isPublicPricingSlug(slug)) {
+    permanentRedirect(`/${locale}/contact`);
+  }
+
   const post = await getBlogPost(locale, slug);
 
   if (!post) notFound();
@@ -95,13 +108,14 @@ export default async function BlogPostPage({
     }
   );
 
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://iapmesuisse.ch';
+  const baseUrl = getSiteUrl();
   const articleUrl = `${baseUrl}/${locale}/blog/${slug}`;
   const imageUrl = post.image.startsWith('http') ? post.image : `${baseUrl}${post.image}`;
+  const articleText = stripHtml(post.content);
 
   const blogPostingSchema = {
     '@context': 'https://schema.org',
-    '@type': 'BlogPosting',
+    '@type': ['BlogPosting', 'Article'],
     '@id': `${articleUrl}#article`,
     headline: post.title,
     description: post.excerpt,
@@ -110,6 +124,7 @@ export default async function BlogPostPage({
     dateModified: post.date,
     author: {
       '@type': 'Person',
+      '@id': `${baseUrl}/#founder`,
       name: post.author,
       url: `${baseUrl}/${locale}/a-propos`,
       sameAs: [
@@ -119,19 +134,29 @@ export default async function BlogPostPage({
     },
     publisher: {
       '@type': 'Organization',
+      '@id': `${baseUrl}/#organization`,
       name: 'IAPME Suisse',
       logo: {
         '@type': 'ImageObject',
-        url: `${baseUrl}/images/logo.png`,
+        url: `${baseUrl}/images/logo.svg`,
       },
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
       '@id': articleUrl,
     },
-    inLanguage: localeMap[locale] || 'fr-CH',
+    inLanguage: getSchemaLanguage(locale),
     url: articleUrl,
+    isAccessibleForFree: true,
+    wordCount: articleText ? articleText.split(/\s+/).length : undefined,
   };
+  const howToSchema = buildHowToFromHtml({
+    title: post.title,
+    description: post.excerpt,
+    html: post.content,
+    url: articleUrl,
+    locale,
+  });
 
   return (
     <section className="min-h-screen bg-gray-light">
@@ -139,6 +164,12 @@ export default async function BlogPostPage({
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(blogPostingSchema) }}
       />
+      {howToSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(howToSchema) }}
+        />
+      )}
       {/* Breadcrumbs */}
       <div className="mx-auto max-w-4xl px-4 pt-6 sm:px-6 lg:px-8">
         <Breadcrumbs

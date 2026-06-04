@@ -3,6 +3,7 @@ import { Link } from '@/i18n/routing';
 import { getAlternates } from '@/lib/metadata';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import CTA from '@/components/CTA';
+import { buildHowToSchema, getSiteUrl } from '@/lib/structured-data';
 
 export async function generateMetadata({
   params,
@@ -35,6 +36,8 @@ export default async function PriseDeRdvPage({
 
   const steps = ['qualify', 'schedule', 'remind', 'followup'] as const;
   const benefits = ['available', 'noshow', 'qualify', 'crm', 'multilang', 'reporting'] as const;
+  const baseUrl = getSiteUrl();
+  const pageUrl = `${baseUrl}/${locale}/services/prise-de-rdv`;
 
   const schema = {
     '@context': 'https://schema.org',
@@ -43,12 +46,23 @@ export default async function PriseDeRdvPage({
     description: t('schema.description'),
     provider: { '@type': 'ProfessionalService', name: 'IAPME Suisse', url: 'https://iapmesuisse.ch' },
     areaServed: { '@type': 'Country', name: 'Switzerland' },
-    url: `https://iapmesuisse.ch/${locale}/services/prise-de-rdv`,
+    url: pageUrl,
   };
+  const howToSchema = buildHowToSchema({
+    name: t('how.title'),
+    description: t('how.subtitle'),
+    url: pageUrl,
+    locale,
+    steps: steps.map((step) => ({
+      name: t(`how.${step}.title`),
+      text: t(`how.${step}.desc`),
+    })),
+  });
 
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(howToSchema) }} />
 
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <Breadcrumbs items={[

@@ -448,15 +448,15 @@
     "subtitle": "Développez les compétences IA de votre équipe avec nos formations adaptées",
     "free": {
       "name": "Découverte",
-      "price": "Gratuit",
+      "price": "Acces decouverte",
       "description": "Premiers pas dans l'IA",
       "features": [
         "Mini-cours email 5 jours",
-        "Webinaire mensuel gratuit",
+        "Webinaire mensuel d'introduction",
         "Accès communauté",
         "Guide démarrage PDF"
       ],
-      "cta": "S'inscrire gratuitement"
+      "cta": "S'inscrire"
     },
     "starter": {
       "name": "Starter",

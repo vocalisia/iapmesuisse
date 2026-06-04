@@ -3,6 +3,7 @@ import { Link } from '@/i18n/routing';
 import { getAlternates } from '@/lib/metadata';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import CTA from '@/components/CTA';
+import { buildHowToSchema, getSiteUrl } from '@/lib/structured-data';
 
 export async function generateMetadata({
   params,
@@ -35,6 +36,8 @@ export default async function MarketingIaPage({
 
   const pillars = ['content', 'email', 'social', 'seo', 'ads', 'analytics'] as const;
   const usecases = ['ecommerce', 'services', 'b2b', 'local'] as const;
+  const baseUrl = getSiteUrl();
+  const pageUrl = `${baseUrl}/${locale}/services/marketing-ia`;
 
   const schema = {
     '@context': 'https://schema.org',
@@ -43,12 +46,23 @@ export default async function MarketingIaPage({
     description: t('schema.description'),
     provider: { '@type': 'ProfessionalService', name: 'IAPME Suisse', url: 'https://iapmesuisse.ch' },
     areaServed: { '@type': 'Country', name: 'Switzerland' },
-    url: `https://iapmesuisse.ch/${locale}/services/marketing-ia`,
+    url: pageUrl,
   };
+  const howToSchema = buildHowToSchema({
+    name: t('pillars.title'),
+    description: t('pillars.subtitle'),
+    url: pageUrl,
+    locale,
+    steps: pillars.slice(0, 5).map((pillar) => ({
+      name: t(`pillars.${pillar}.title`),
+      text: t(`pillars.${pillar}.desc`),
+    })),
+  });
 
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(howToSchema) }} />
 
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <Breadcrumbs items={[
