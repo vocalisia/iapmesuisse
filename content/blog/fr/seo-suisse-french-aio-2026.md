@@ -1,12 +1,14 @@
 ---
-title: "SEO Suisse French et AIO : strategie 2026 pour PME"
-author: "Laurent Duplat"
-date: "2026-06-04"
-excerpt: "Adapter son SEO Suisse French aux reponses IA, aux exigences Google 2026 et aux recherches des PME suisses francophones."
-slug: "seo-suisse-french-aio-2026"
-category: "SEO IA"
-pillar: "optimisation-seo-suisse-francophone-ia"
-image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1280&h=720&fit=crop"
+title: 'SEO Suisse French et AIO : strategie 2026 pour PME'
+author: Laurent Duplat
+date: '2026-06-04'
+excerpt: >-
+  Adapter son SEO Suisse French aux reponses IA, aux exigences Google 2026 et
+  aux recherches des PME suisses francophones.
+slug: seo-suisse-french-aio-2026
+category: SEO IA
+pillar: optimisation-seo-suisse-francophone-ia
+image: /images/blog/iapme-seo-aio/seo-suisse-french-aio-2026.jpg
 ---
 
 # SEO Suisse French et AIO : strategie 2026

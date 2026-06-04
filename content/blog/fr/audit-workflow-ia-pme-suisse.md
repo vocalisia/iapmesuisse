@@ -1,12 +1,14 @@
 ---
-title: "Audit workflow IA PME suisse : methode avant automatisation"
-author: "Laurent Duplat"
-date: "2026-06-04"
-excerpt: "Audit workflow IA pour PME suisse : identifier les processus automatisables, evaluer les risques et construire une roadmap utile."
-slug: "audit-workflow-ia-pme-suisse"
-category: "Automatisation IA"
-pillar: "workflow-ia-pme-suisse"
-image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1280&h=720&fit=crop"
+title: 'Audit workflow IA PME suisse : methode avant automatisation'
+author: Laurent Duplat
+date: '2026-06-04'
+excerpt: >-
+  Audit workflow IA pour PME suisse : identifier les processus automatisables,
+  evaluer les risques et construire une roadmap utile.
+slug: audit-workflow-ia-pme-suisse
+category: Automatisation IA
+pillar: workflow-ia-pme-suisse
+image: /images/blog/iapme-seo-aio/audit-workflow-ia-pme-suisse.jpg
 ---
 
 # Audit workflow IA PME suisse

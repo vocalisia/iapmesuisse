@@ -1,12 +1,14 @@
 ---
-title: "n8n self hosted pour PME suisse : controle, nLPD et agents IA"
-author: "Laurent Duplat"
-date: "2026-06-04"
-excerpt: "Pourquoi n8n self hosted devient une option strategique pour les PME suisses qui veulent automatiser avec l'IA sans perdre le controle de leurs donnees."
-slug: "n8n-self-hosted-pme-suisse"
-category: "Automatisation IA"
-pillar: "workflow-ia-pme-suisse"
-image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1280&h=720&fit=crop"
+title: 'n8n self hosted pour PME suisse : controle, nLPD et agents IA'
+author: Laurent Duplat
+date: '2026-06-04'
+excerpt: >-
+  Pourquoi n8n self hosted devient une option strategique pour les PME suisses
+  qui veulent automatiser avec l'IA sans perdre le controle de leurs donnees.
+slug: n8n-self-hosted-pme-suisse
+category: Automatisation IA
+pillar: workflow-ia-pme-suisse
+image: /images/blog/iapme-seo-aio/n8n-self-hosted-pme-suisse.jpg
 ---
 
 # n8n self hosted pour PME suisse

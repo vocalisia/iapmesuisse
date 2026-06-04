@@ -1,12 +1,14 @@
 ---
-title: "Alternative Zapier open source : guide Suisse pour automatisation IA"
-author: "Laurent Duplat"
-date: "2026-06-04"
-excerpt: "Comparer Zapier, Make et les alternatives open source pour les PME suisses qui veulent automatiser leurs processus avec l'IA."
-slug: "alternative-zapier-open-source-suisse"
-category: "Automatisation IA"
-pillar: "n8n-self-hosted-pme-suisse"
-image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1280&h=720&fit=crop"
+title: 'Alternative Zapier open source : guide Suisse pour automatisation IA'
+author: Laurent Duplat
+date: '2026-06-04'
+excerpt: >-
+  Comparer Zapier, Make et les alternatives open source pour les PME suisses qui
+  veulent automatiser leurs processus avec l'IA.
+slug: alternative-zapier-open-source-suisse
+category: Automatisation IA
+pillar: n8n-self-hosted-pme-suisse
+image: /images/blog/iapme-seo-aio/alternative-zapier-open-source-suisse.jpg
 ---
 
 # Alternative Zapier open source : guide pour PME suisse

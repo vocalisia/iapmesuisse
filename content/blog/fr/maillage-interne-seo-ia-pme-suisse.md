@@ -1,12 +1,14 @@
 ---
-title: "Maillage interne SEO IA : architecture pour PME suisse"
-author: "Laurent Duplat"
-date: "2026-06-04"
-excerpt: "Construire un maillage interne SEO IA efficace : piliers, satellites, ancres, liens contextuels et preparation AIO pour PME suisses."
-slug: "maillage-interne-seo-ia-pme-suisse"
-category: "SEO IA"
-pillar: "seo-suisse-french-aio-2026"
-image: "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=1280&h=720&fit=crop"
+title: 'Maillage interne SEO IA : architecture pour PME suisse'
+author: Laurent Duplat
+date: '2026-06-04'
+excerpt: >-
+  Construire un maillage interne SEO IA efficace : piliers, satellites, ancres,
+  liens contextuels et preparation AIO pour PME suisses.
+slug: maillage-interne-seo-ia-pme-suisse
+category: SEO IA
+pillar: seo-suisse-french-aio-2026
+image: /images/blog/iapme-seo-aio/maillage-interne-seo-ia-pme-suisse.jpg
 ---
 
 # Maillage interne SEO IA pour PME suisse

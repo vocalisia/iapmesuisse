@@ -1,12 +1,14 @@
 ---
-title: "Workflow IA : methode pour automatiser sans fragiliser une PME suisse"
-author: "Laurent Duplat"
-date: "2026-06-04"
-excerpt: "Construire un workflow IA robuste pour une PME suisse : declencheurs, donnees, validation humaine, erreurs, logs et optimisation SEO/AIO."
-slug: "workflow-ia-pme-suisse"
-category: "Automatisation IA"
-pillar: "automatisation-processus-ia-guide-pratique-pme-suisses"
-image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1280&h=720&fit=crop"
+title: 'Workflow IA : methode pour automatiser sans fragiliser une PME suisse'
+author: Laurent Duplat
+date: '2026-06-04'
+excerpt: >-
+  Construire un workflow IA robuste pour une PME suisse : declencheurs, donnees,
+  validation humaine, erreurs, logs et optimisation SEO/AIO.
+slug: workflow-ia-pme-suisse
+category: Automatisation IA
+pillar: automatisation-processus-ia-guide-pratique-pme-suisses
+image: /images/blog/iapme-seo-aio/workflow-ia-pme-suisse.jpg
 ---
 
 # Workflow IA : la methode PME suisse

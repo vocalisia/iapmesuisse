@@ -1,12 +1,14 @@
 ---
-title: "IA automatisation Suisse : methode PME pour 2026"
-author: "Laurent Duplat"
-date: "2026-06-04"
-excerpt: "Methode IA automatisation Suisse pour PME : cartographie processus, outils no-code, agents IA, controle humain et contenu AIO."
-slug: "ia-automatisation-suisse-pme"
-category: "Automatisation IA"
-pillar: "workflow-ia-pme-suisse"
-image: "https://images.unsplash.com/photo-1504384764586-bb4cdc1707b0?w=1280&h=720&fit=crop"
+title: 'IA automatisation Suisse : methode PME pour 2026'
+author: Laurent Duplat
+date: '2026-06-04'
+excerpt: >-
+  Methode IA automatisation Suisse pour PME : cartographie processus, outils
+  no-code, agents IA, controle humain et contenu AIO.
+slug: ia-automatisation-suisse-pme
+category: Automatisation IA
+pillar: workflow-ia-pme-suisse
+image: /images/blog/iapme-seo-aio/ia-automatisation-suisse-pme.jpg
 ---
 
 # IA automatisation Suisse : methode PME

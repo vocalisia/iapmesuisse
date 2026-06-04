@@ -1,12 +1,14 @@
 ---
-title: "Contenu people-first Google 2026 : guide PME suisse"
-author: "Laurent Duplat"
-date: "2026-06-04"
-excerpt: "Creer du contenu people-first adapte a Google 2026, aux AI Overviews et aux besoins reels des PME suisses."
-slug: "contenu-people-first-google-2026-pme"
-category: "SEO IA"
-pillar: "google-2026-seo-aio-pme-suisse"
-image: "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=1280&h=720&fit=crop"
+title: 'Contenu people-first Google 2026 : guide PME suisse'
+author: Laurent Duplat
+date: '2026-06-04'
+excerpt: >-
+  Creer du contenu people-first adapte a Google 2026, aux AI Overviews et aux
+  besoins reels des PME suisses.
+slug: contenu-people-first-google-2026-pme
+category: SEO IA
+pillar: google-2026-seo-aio-pme-suisse
+image: /images/blog/iapme-seo-aio/contenu-people-first-google-2026-pme.jpg
 ---
 
 # Contenu people-first Google 2026 pour PME suisse

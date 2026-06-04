@@ -1,12 +1,14 @@
 ---
-title: "Agence SEO Suisse romande : choisir une approche IA et AIO"
-author: "Laurent Duplat"
-date: "2026-06-04"
-excerpt: "Comment choisir une agence SEO Suisse romande capable de travailler le SEO, l'AIO, le contenu utile et le maillage interne pour PME."
-slug: "agence-seo-suisse-romande-ia"
-category: "SEO IA"
-pillar: "seo-suisse-french-aio-2026"
-image: "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=1280&h=720&fit=crop"
+title: 'Agence SEO Suisse romande : choisir une approche IA et AIO'
+author: Laurent Duplat
+date: '2026-06-04'
+excerpt: >-
+  Comment choisir une agence SEO Suisse romande capable de travailler le SEO,
+  l'AIO, le contenu utile et le maillage interne pour PME.
+slug: agence-seo-suisse-romande-ia
+category: SEO IA
+pillar: seo-suisse-french-aio-2026
+image: /images/blog/iapme-seo-aio/agence-seo-suisse-romande-ia.jpg
 ---
 
 # Agence SEO Suisse romande : les criteres 2026

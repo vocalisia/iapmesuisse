@@ -1,12 +1,14 @@
 ---
-title: "Automatisation IA B2B en Suisse : workflows, CRM et agents"
-author: "Laurent Duplat"
-date: "2026-06-04"
-excerpt: "Methode d'automatisation IA B2B pour PME suisses : qualification, CRM, nurturing, agents IA et maillage SEO francophone."
-slug: "automatisation-ia-b2b-suisse"
-category: "Automatisation IA"
-pillar: "generation-leads-b2b-suisse-ia"
-image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1280&h=720&fit=crop"
+title: 'Automatisation IA B2B en Suisse : workflows, CRM et agents'
+author: Laurent Duplat
+date: '2026-06-04'
+excerpt: >-
+  Methode d'automatisation IA B2B pour PME suisses : qualification, CRM,
+  nurturing, agents IA et maillage SEO francophone.
+slug: automatisation-ia-b2b-suisse
+category: Automatisation IA
+pillar: generation-leads-b2b-suisse-ia
+image: /images/blog/iapme-seo-aio/automatisation-ia-b2b-suisse.jpg
 ---
 
 # Automatisation IA B2B en Suisse

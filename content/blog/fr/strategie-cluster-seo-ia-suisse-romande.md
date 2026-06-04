@@ -1,12 +1,14 @@
 ---
-title: "Strategie cluster SEO IA pour PME en Suisse romande"
-author: "Laurent Duplat"
-date: "2026-06-04"
-excerpt: "Construire un cluster SEO IA en Suisse romande : pages piliers, articles satellites, ancres, schema et suivi Search Console."
-slug: "strategie-cluster-seo-ia-suisse-romande"
-category: "SEO IA"
-pillar: "maillage-interne-seo-ia-pme-suisse"
-image: "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1280&h=720&fit=crop"
+title: Strategie cluster SEO IA pour PME en Suisse romande
+author: Laurent Duplat
+date: '2026-06-04'
+excerpt: >-
+  Construire un cluster SEO IA en Suisse romande : pages piliers, articles
+  satellites, ancres, schema et suivi Search Console.
+slug: strategie-cluster-seo-ia-suisse-romande
+category: SEO IA
+pillar: maillage-interne-seo-ia-pme-suisse
+image: /images/blog/iapme-seo-aio/strategie-cluster-seo-ia-suisse-romande.jpg
 ---
 
 # Strategie cluster SEO IA en Suisse romande

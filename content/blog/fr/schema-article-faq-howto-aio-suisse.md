@@ -1,12 +1,14 @@
 ---
-title: "Schema Article, FAQ et HowTo : base AIO pour sites suisses"
-author: "Laurent Duplat"
-date: "2026-06-04"
-excerpt: "Utiliser les schemas Article, FAQPage et HowTo pour aider Google et les LLM a comprendre les contenus SEO d'une PME suisse."
-slug: "schema-article-faq-howto-aio-suisse"
-category: "SEO IA"
-pillar: "aio-llm-citation-pme-suisse"
-image: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1280&h=720&fit=crop"
+title: 'Schema Article, FAQ et HowTo : base AIO pour sites suisses'
+author: Laurent Duplat
+date: '2026-06-04'
+excerpt: >-
+  Utiliser les schemas Article, FAQPage et HowTo pour aider Google et les LLM a
+  comprendre les contenus SEO d'une PME suisse.
+slug: schema-article-faq-howto-aio-suisse
+category: SEO IA
+pillar: aio-llm-citation-pme-suisse
+image: /images/blog/iapme-seo-aio/schema-article-faq-howto-aio-suisse.jpg
 ---
 
 # Schema Article, FAQ et HowTo : base AIO pour sites suisses

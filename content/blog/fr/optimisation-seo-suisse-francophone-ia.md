@@ -1,12 +1,14 @@
 ---
-title: "Optimisation SEO Suisse francophone avec l'IA"
-author: "Laurent Duplat"
-date: "2026-06-04"
-excerpt: "Methode d'optimisation SEO Suisse francophone : intentions locales, contenu utile, maillage interne, schema Article et preparation AIO."
-slug: "optimisation-seo-suisse-francophone-ia"
-category: "SEO IA"
-pillar: "seo-suisse-french-aio-2026"
-image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1280&h=720&fit=crop"
+title: Optimisation SEO Suisse francophone avec l'IA
+author: Laurent Duplat
+date: '2026-06-04'
+excerpt: >-
+  Methode d'optimisation SEO Suisse francophone : intentions locales, contenu
+  utile, maillage interne, schema Article et preparation AIO.
+slug: optimisation-seo-suisse-francophone-ia
+category: SEO IA
+pillar: seo-suisse-french-aio-2026
+image: /images/blog/iapme-seo-aio/optimisation-seo-suisse-francophone-ia.jpg
 ---
 
 # Optimisation SEO Suisse francophone avec l'IA

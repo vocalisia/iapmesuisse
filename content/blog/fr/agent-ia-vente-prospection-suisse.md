@@ -1,12 +1,14 @@
 ---
-title: "Agent IA vente et prospection B2B en Suisse"
-author: "Laurent Duplat"
-date: "2026-06-04"
-excerpt: "Agent IA pour vente B2B suisse : qualification, enrichissement CRM, preparation de relance, signaux d'achat et limites relationnelles."
-slug: "agent-ia-vente-prospection-suisse"
-category: "Agents IA"
-pillar: "automatisation-ia-b2b-suisse"
-image: "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=1280&h=720&fit=crop"
+title: Agent IA vente et prospection B2B en Suisse
+author: Laurent Duplat
+date: '2026-06-04'
+excerpt: >-
+  Agent IA pour vente B2B suisse : qualification, enrichissement CRM,
+  preparation de relance, signaux d'achat et limites relationnelles.
+slug: agent-ia-vente-prospection-suisse
+category: Agents IA
+pillar: automatisation-ia-b2b-suisse
+image: /images/blog/iapme-seo-aio/agent-ia-vente-prospection-suisse.jpg
 ---
 
 # Agent IA vente et prospection B2B en Suisse

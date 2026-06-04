@@ -1,12 +1,15 @@
 ---
-title: "Intelligence artificielle Suisse PME : guide operationnel"
-author: "Laurent Duplat"
-date: "2026-06-04"
-excerpt: "Guide operationnel pour introduire l'intelligence artificielle dans une PME suisse : gouvernance, donnees, workflows, agents IA et SEO."
-slug: "intelligence-artificielle-suisse-pme-guide-operationnel"
-category: "IA PME Suisses"
-pillar: "ia-pour-pme-suisses-cas-usages-2026"
-image: "https://images.unsplash.com/photo-1526378722484-bd91ca387e72?w=1280&h=720&fit=crop"
+title: 'Intelligence artificielle Suisse PME : guide operationnel'
+author: Laurent Duplat
+date: '2026-06-04'
+excerpt: >-
+  Guide operationnel pour introduire l'intelligence artificielle dans une PME
+  suisse : gouvernance, donnees, workflows, agents IA et SEO.
+slug: intelligence-artificielle-suisse-pme-guide-operationnel
+category: IA PME Suisses
+pillar: ia-pour-pme-suisses-cas-usages-2026
+image: >-
+  /images/blog/iapme-seo-aio/intelligence-artificielle-suisse-pme-guide-operationnel.jpg
 ---
 
 # Intelligence artificielle Suisse PME : guide operationnel

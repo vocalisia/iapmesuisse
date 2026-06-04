@@ -1,12 +1,14 @@
 ---
-title: "Agent IA HubSpot : automatiser vente et marketing en PME suisse"
-author: "Laurent Duplat"
-date: "2026-06-04"
-excerpt: "Comment connecter un agent IA a HubSpot pour qualifier les leads, enrichir les fiches, preparer les suivis et ameliorer l'automatisation IA B2B."
-slug: "agent-ia-hubspot-pme-suisse"
-category: "CRM IA"
-pillar: "automatisation-ia-b2b-suisse"
-image: "https://images.unsplash.com/photo-1518005020951-eccb494ad742?w=1280&h=720&fit=crop"
+title: 'Agent IA HubSpot : automatiser vente et marketing en PME suisse'
+author: Laurent Duplat
+date: '2026-06-04'
+excerpt: >-
+  Comment connecter un agent IA a HubSpot pour qualifier les leads, enrichir les
+  fiches, preparer les suivis et ameliorer l'automatisation IA B2B.
+slug: agent-ia-hubspot-pme-suisse
+category: CRM IA
+pillar: automatisation-ia-b2b-suisse
+image: /images/blog/iapme-seo-aio/agent-ia-hubspot-pme-suisse.jpg
 ---
 
 # Agent IA HubSpot pour PME suisse

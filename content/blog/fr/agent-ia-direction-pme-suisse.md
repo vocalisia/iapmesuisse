@@ -1,12 +1,14 @@
 ---
-title: "Agent IA pour direction de PME suisse : pilotage et decision"
-author: "Laurent Duplat"
-date: "2026-06-04"
-excerpt: "Agent IA pour dirigeants de PME suisses : synthese, veille, reporting, preparation de reunion, limites et gouvernance."
-slug: "agent-ia-direction-pme-suisse"
-category: "Agents IA"
-pillar: "intelligence-artificielle-suisse-pme-guide-operationnel"
-image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1280&h=720&fit=crop"
+title: 'Agent IA pour direction de PME suisse : pilotage et decision'
+author: Laurent Duplat
+date: '2026-06-04'
+excerpt: >-
+  Agent IA pour dirigeants de PME suisses : synthese, veille, reporting,
+  preparation de reunion, limites et gouvernance.
+slug: agent-ia-direction-pme-suisse
+category: Agents IA
+pillar: intelligence-artificielle-suisse-pme-guide-operationnel
+image: /images/blog/iapme-seo-aio/agent-ia-direction-pme-suisse.jpg
 ---
 
 # Agent IA pour direction de PME suisse

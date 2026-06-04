@@ -1,12 +1,14 @@
 ---
-title: "Automatisation processus IA PME : checklist de cadrage"
-author: "Laurent Duplat"
-date: "2026-06-04"
-excerpt: "Checklist de cadrage pour automatisation processus IA PME : prioriser, securiser, choisir l'outil, mesurer et documenter."
-slug: "automatisation-processus-ia-pme-checklist"
-category: "Automatisation IA"
-pillar: "automatisation-processus-ia-guide-pratique-pme-suisses"
-image: "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1280&h=720&fit=crop"
+title: 'Automatisation processus IA PME : checklist de cadrage'
+author: Laurent Duplat
+date: '2026-06-04'
+excerpt: >-
+  Checklist de cadrage pour automatisation processus IA PME : prioriser,
+  securiser, choisir l'outil, mesurer et documenter.
+slug: automatisation-processus-ia-pme-checklist
+category: Automatisation IA
+pillar: automatisation-processus-ia-guide-pratique-pme-suisses
+image: /images/blog/iapme-seo-aio/automatisation-processus-ia-pme-checklist.jpg
 ---
 
 # Automatisation processus IA PME : checklist de cadrage

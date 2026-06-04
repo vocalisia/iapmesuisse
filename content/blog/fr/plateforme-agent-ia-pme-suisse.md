@@ -1,12 +1,14 @@
 ---
-title: "Plateforme agent IA : comparatif pour PME suisses"
-author: "Laurent Duplat"
-date: "2026-06-04"
-excerpt: "Comment evaluer une plateforme agent IA pour une PME suisse : securite, integrations, orchestration, donnees, gouvernance et visibilite SEO/AIO."
-slug: "plateforme-agent-ia-pme-suisse"
-category: "Agents IA"
-pillar: "agent-ia-pme-suisse-guide-2026"
-image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1280&h=720&fit=crop"
+title: 'Plateforme agent IA : comparatif pour PME suisses'
+author: Laurent Duplat
+date: '2026-06-04'
+excerpt: >-
+  Comment evaluer une plateforme agent IA pour une PME suisse : securite,
+  integrations, orchestration, donnees, gouvernance et visibilite SEO/AIO.
+slug: plateforme-agent-ia-pme-suisse
+category: Agents IA
+pillar: agent-ia-pme-suisse-guide-2026
+image: /images/blog/iapme-seo-aio/plateforme-agent-ia-pme-suisse.jpg
 ---
 
 # Plateforme agent IA : comment choisir pour une PME suisse

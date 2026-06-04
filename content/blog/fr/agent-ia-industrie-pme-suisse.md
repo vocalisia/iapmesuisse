@@ -1,12 +1,14 @@
 ---
-title: "Agent IA industrie PME suisse : operations, qualite et documentation"
-author: "Laurent Duplat"
-date: "2026-06-04"
-excerpt: "Agent IA pour PME industrielles suisses : documentation, qualite, maintenance, reporting, support interne et workflows controles."
-slug: "agent-ia-industrie-pme-suisse"
-category: "Agents IA"
-pillar: "ia-pour-pme-suisses-cas-usages-2026"
-image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1280&h=720&fit=crop"
+title: 'Agent IA industrie PME suisse : operations, qualite et documentation'
+author: Laurent Duplat
+date: '2026-06-04'
+excerpt: >-
+  Agent IA pour PME industrielles suisses : documentation, qualite, maintenance,
+  reporting, support interne et workflows controles.
+slug: agent-ia-industrie-pme-suisse
+category: Agents IA
+pillar: ia-pour-pme-suisses-cas-usages-2026
+image: /images/blog/iapme-seo-aio/agent-ia-industrie-pme-suisse.jpg
 ---
 
 # Agent IA industrie PME suisse

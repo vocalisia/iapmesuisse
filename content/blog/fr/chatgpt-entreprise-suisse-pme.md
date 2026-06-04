@@ -1,12 +1,14 @@
 ---
-title: "ChatGPT entreprise Suisse : usages, limites et gouvernance PME"
-author: "Laurent Duplat"
-date: "2026-06-04"
-excerpt: "Utiliser ChatGPT en entreprise suisse : cas d'usage PME, gouvernance, donnees sensibles, workflows IA et bonnes pratiques SEO/AIO."
-slug: "chatgpt-entreprise-suisse-pme"
-category: "IA PME Suisses"
-pillar: "intelligence-artificielle-suisse-pme-guide-operationnel"
-image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1280&h=720&fit=crop"
+title: 'ChatGPT entreprise Suisse : usages, limites et gouvernance PME'
+author: Laurent Duplat
+date: '2026-06-04'
+excerpt: >-
+  Utiliser ChatGPT en entreprise suisse : cas d'usage PME, gouvernance, donnees
+  sensibles, workflows IA et bonnes pratiques SEO/AIO.
+slug: chatgpt-entreprise-suisse-pme
+category: IA PME Suisses
+pillar: intelligence-artificielle-suisse-pme-guide-operationnel
+image: /images/blog/iapme-seo-aio/chatgpt-entreprise-suisse-pme.jpg
 ---
 
 # ChatGPT entreprise Suisse : usages et limites

@@ -1,12 +1,14 @@
 ---
-title: "Google 2026, SEO et AIO : ce que les PME suisses doivent adapter"
-author: "Laurent Duplat"
-date: "2026-06-04"
-excerpt: "Lecture pratique des attentes Google 2026 pour PME suisses : contenu utile, fiabilite, maillage, schema et preparation aux reponses IA."
-slug: "google-2026-seo-aio-pme-suisse"
-category: "SEO IA"
-pillar: "seo-suisse-french-aio-2026"
-image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1280&h=720&fit=crop"
+title: 'Google 2026, SEO et AIO : ce que les PME suisses doivent adapter'
+author: Laurent Duplat
+date: '2026-06-04'
+excerpt: >-
+  Lecture pratique des attentes Google 2026 pour PME suisses : contenu utile,
+  fiabilite, maillage, schema et preparation aux reponses IA.
+slug: google-2026-seo-aio-pme-suisse
+category: SEO IA
+pillar: seo-suisse-french-aio-2026
+image: /images/blog/iapme-seo-aio/google-2026-seo-aio-pme-suisse.jpg
 ---
 
 # Google 2026, SEO et AIO : adaptation PME suisse

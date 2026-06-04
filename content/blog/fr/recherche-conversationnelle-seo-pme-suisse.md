@@ -1,12 +1,14 @@
 ---
-title: "Recherche conversationnelle : adapter le SEO PME suisse"
-author: "Laurent Duplat"
-date: "2026-06-04"
-excerpt: "Adapter les contenus d'une PME suisse aux recherches conversationnelles, AI Overviews et questions longues des decideurs."
-slug: "recherche-conversationnelle-seo-pme-suisse"
-category: "SEO IA"
-pillar: "seo-suisse-french-aio-2026"
-image: "https://images.unsplash.com/photo-1551434678-e076c223a692?w=1280&h=720&fit=crop"
+title: 'Recherche conversationnelle : adapter le SEO PME suisse'
+author: Laurent Duplat
+date: '2026-06-04'
+excerpt: >-
+  Adapter les contenus d'une PME suisse aux recherches conversationnelles, AI
+  Overviews et questions longues des decideurs.
+slug: recherche-conversationnelle-seo-pme-suisse
+category: SEO IA
+pillar: seo-suisse-french-aio-2026
+image: /images/blog/iapme-seo-aio/recherche-conversationnelle-seo-pme-suisse.jpg
 ---
 
 # Recherche conversationnelle et SEO PME suisse

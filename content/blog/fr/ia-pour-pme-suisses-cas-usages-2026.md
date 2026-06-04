@@ -1,12 +1,14 @@
 ---
-title: "IA pour PME suisses : cas d'usage prioritaires en 2026"
-author: "Laurent Duplat"
-date: "2026-06-04"
-excerpt: "Les cas d'usage IA pour PME suisses les plus utiles : support, vente, operations, documentation, SEO, CRM et automatisation."
-slug: "ia-pour-pme-suisses-cas-usages-2026"
-category: "IA PME Suisses"
-pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
-image: "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=1280&h=720&fit=crop"
+title: 'IA pour PME suisses : cas d''usage prioritaires en 2026'
+author: Laurent Duplat
+date: '2026-06-04'
+excerpt: >-
+  Les cas d'usage IA pour PME suisses les plus utiles : support, vente,
+  operations, documentation, SEO, CRM et automatisation.
+slug: ia-pour-pme-suisses-cas-usages-2026
+category: IA PME Suisses
+pillar: intelligence-artificielle-pme-suisses-guide-complet-2026
+image: /images/blog/iapme-seo-aio/ia-pour-pme-suisses-cas-usages-2026.jpg
 ---
 
 # IA pour PME suisses : cas d'usage 2026

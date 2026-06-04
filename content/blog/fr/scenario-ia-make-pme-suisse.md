@@ -1,12 +1,14 @@
 ---
-title: "Scenario IA Make : exemples utiles pour PME suisses"
-author: "Laurent Duplat"
-date: "2026-06-04"
-excerpt: "Des scenarios IA Make pour automatiser les processus d'une PME suisse : CRM, emails, support, marketing et validation humaine."
-slug: "scenario-ia-make-pme-suisse"
-category: "Automatisation IA"
-pillar: "workflow-ia-pme-suisse"
-image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1280&h=720&fit=crop"
+title: 'Scenario IA Make : exemples utiles pour PME suisses'
+author: Laurent Duplat
+date: '2026-06-04'
+excerpt: >-
+  Des scenarios IA Make pour automatiser les processus d'une PME suisse : CRM,
+  emails, support, marketing et validation humaine.
+slug: scenario-ia-make-pme-suisse
+category: Automatisation IA
+pillar: workflow-ia-pme-suisse
+image: /images/blog/iapme-seo-aio/scenario-ia-make-pme-suisse.jpg
 ---
 
 # Scenario IA Make pour PME suisse

@@ -1,12 +1,14 @@
 ---
-title: "Agent IA et formation des equipes PME suisses"
-author: "Laurent Duplat"
-date: "2026-06-04"
-excerpt: "Former les equipes d'une PME suisse a utiliser les agents IA, ChatGPT entreprise Suisse et les workflows IA sans perdre le controle metier."
-slug: "agent-ia-formation-equipes-pme-suisse"
-category: "Agents IA"
-pillar: "agent-ia-pme-suisse-guide-2026"
-image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1280&h=720&fit=crop"
+title: Agent IA et formation des equipes PME suisses
+author: Laurent Duplat
+date: '2026-06-04'
+excerpt: >-
+  Former les equipes d'une PME suisse a utiliser les agents IA, ChatGPT
+  entreprise Suisse et les workflows IA sans perdre le controle metier.
+slug: agent-ia-formation-equipes-pme-suisse
+category: Agents IA
+pillar: agent-ia-pme-suisse-guide-2026
+image: /images/blog/iapme-seo-aio/agent-ia-formation-equipes-pme-suisse.jpg
 ---
 
 # Agent IA et formation des equipes PME suisses

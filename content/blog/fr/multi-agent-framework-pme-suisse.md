@@ -1,12 +1,14 @@
 ---
-title: "Multi agent framework : quand l'utiliser dans une PME suisse"
-author: "Laurent Duplat"
-date: "2026-06-04"
-excerpt: "Comprendre les frameworks multi-agents, leurs cas d'usage reels, leurs risques et leur interet pour les PME suisses en 2026."
-slug: "multi-agent-framework-pme-suisse"
-category: "Agents IA"
-pillar: "agent-ia-pme-suisse-guide-2026"
-image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1280&h=720&fit=crop"
+title: 'Multi agent framework : quand l''utiliser dans une PME suisse'
+author: Laurent Duplat
+date: '2026-06-04'
+excerpt: >-
+  Comprendre les frameworks multi-agents, leurs cas d'usage reels, leurs risques
+  et leur interet pour les PME suisses en 2026.
+slug: multi-agent-framework-pme-suisse
+category: Agents IA
+pillar: agent-ia-pme-suisse-guide-2026
+image: /images/blog/iapme-seo-aio/multi-agent-framework-pme-suisse.jpg
 ---
 
 # Multi agent framework : utile ou excessif pour une PME ?

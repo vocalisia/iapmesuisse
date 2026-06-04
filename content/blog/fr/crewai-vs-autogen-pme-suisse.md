@@ -1,12 +1,14 @@
 ---
-title: "CrewAI vs AutoGen : comparatif PME suisse 2026"
-author: "Laurent Duplat"
-date: "2026-06-04"
-excerpt: "CrewAI vs AutoGen pour PME suisses : differences, cas d'usage, limites, gouvernance et choix selon le niveau de maturite IA."
-slug: "crewai-vs-autogen-pme-suisse"
-category: "Agents IA"
-pillar: "multi-agent-framework-pme-suisse"
-image: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=1280&h=720&fit=crop"
+title: 'CrewAI vs AutoGen : comparatif PME suisse 2026'
+author: Laurent Duplat
+date: '2026-06-04'
+excerpt: >-
+  CrewAI vs AutoGen pour PME suisses : differences, cas d'usage, limites,
+  gouvernance et choix selon le niveau de maturite IA.
+slug: crewai-vs-autogen-pme-suisse
+category: Agents IA
+pillar: multi-agent-framework-pme-suisse
+image: /images/blog/iapme-seo-aio/crewai-vs-autogen-pme-suisse.jpg
 ---
 
 # CrewAI vs AutoGen : quel framework pour une PME suisse ?

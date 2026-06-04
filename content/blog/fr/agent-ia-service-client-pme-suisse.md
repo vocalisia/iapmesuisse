@@ -1,12 +1,14 @@
 ---
-title: "Agent IA service client : PME suisse et support multilingue"
-author: "Laurent Duplat"
-date: "2026-06-04"
-excerpt: "Mettre en place un agent IA service client pour PME suisse : base de connaissances, multilinguisme, validation, escalade et qualite."
-slug: "agent-ia-service-client-pme-suisse"
-category: "Agents IA"
-pillar: "agent-ia-pme-suisse-guide-2026"
-image: "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=1280&h=720&fit=crop"
+title: 'Agent IA service client : PME suisse et support multilingue'
+author: Laurent Duplat
+date: '2026-06-04'
+excerpt: >-
+  Mettre en place un agent IA service client pour PME suisse : base de
+  connaissances, multilinguisme, validation, escalade et qualite.
+slug: agent-ia-service-client-pme-suisse
+category: Agents IA
+pillar: agent-ia-pme-suisse-guide-2026
+image: /images/blog/iapme-seo-aio/agent-ia-service-client-pme-suisse.jpg
 ---
 
 # Agent IA service client pour PME suisse

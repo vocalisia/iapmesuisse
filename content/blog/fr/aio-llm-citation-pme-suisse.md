@@ -1,12 +1,14 @@
 ---
-title: "AIO et citations LLM : rendre une PME suisse plus visible"
-author: "Laurent Duplat"
-date: "2026-06-04"
-excerpt: "Comment structurer les contenus d'une PME suisse pour etre mieux compris et cites par les moteurs IA, AI Overviews et LLM."
-slug: "aio-llm-citation-pme-suisse"
-category: "SEO IA"
-pillar: "seo-suisse-french-aio-2026"
-image: "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=1280&h=720&fit=crop"
+title: 'AIO et citations LLM : rendre une PME suisse plus visible'
+author: Laurent Duplat
+date: '2026-06-04'
+excerpt: >-
+  Comment structurer les contenus d'une PME suisse pour etre mieux compris et
+  cites par les moteurs IA, AI Overviews et LLM.
+slug: aio-llm-citation-pme-suisse
+category: SEO IA
+pillar: seo-suisse-french-aio-2026
+image: /images/blog/iapme-seo-aio/aio-llm-citation-pme-suisse.jpg
 ---
 
 # AIO et citations LLM : rendre une PME suisse plus visible

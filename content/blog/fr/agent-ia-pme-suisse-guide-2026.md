@@ -1,12 +1,14 @@
 ---
-title: "Agent IA pour PME suisse : guide SEO et AIO 2026"
-author: "Laurent Duplat"
-date: "2026-06-04"
-excerpt: "Comment choisir, cadrer et deployer un agent IA dans une PME suisse en respectant la nLPD, les attentes Google 2026 et les usages metier reels."
-slug: "agent-ia-pme-suisse-guide-2026"
-category: "Agents IA"
-pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
-image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1280&h=720&fit=crop"
+title: 'Agent IA pour PME suisse : guide SEO et AIO 2026'
+author: Laurent Duplat
+date: '2026-06-04'
+excerpt: >-
+  Comment choisir, cadrer et deployer un agent IA dans une PME suisse en
+  respectant la nLPD, les attentes Google 2026 et les usages metier reels.
+slug: agent-ia-pme-suisse-guide-2026
+category: Agents IA
+pillar: intelligence-artificielle-pme-suisses-guide-complet-2026
+image: /images/blog/iapme-seo-aio/agent-ia-pme-suisse-guide-2026.jpg
 ---
 
 # Agent IA pour PME suisse : le guide 2026
