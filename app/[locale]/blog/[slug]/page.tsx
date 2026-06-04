@@ -4,6 +4,7 @@ import { getBlogPost, getBlogPosts } from '@/lib/markdown';
 import { normalizeHtmlBlogAnchors } from '@/lib/normalize-blog-href';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import { Link } from '@/i18n/routing';
+import Image from 'next/image';
 import { notFound, permanentRedirect } from 'next/navigation';
 import { VILLES } from '@/lib/villes';
 import {
@@ -205,6 +206,26 @@ export default async function BlogPostPage({
               {post.excerpt}
             </p>
           )}
+          <div className="relative mt-8 aspect-[16/9] overflow-hidden rounded-xl border border-gray-200 bg-white shadow-sm">
+            {post.image.startsWith('http') ? (
+              <Image
+                src={post.image}
+                alt={post.title}
+                fill
+                priority
+                unoptimized
+                className="object-cover"
+              />
+            ) : (
+              <Image
+                src={post.image || '/images/blog-default.jpg'}
+                alt={post.title}
+                fill
+                priority
+                className="object-cover"
+              />
+            )}
+          </div>
           <div className="mt-6 h-px w-full bg-gray-200" />
         </header>
 
