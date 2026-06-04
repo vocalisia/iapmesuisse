@@ -3,7 +3,6 @@ import { getAlternates } from '@/lib/metadata';
 import { getBlogPost, getBlogPosts } from '@/lib/markdown';
 import { normalizeHtmlBlogAnchors } from '@/lib/normalize-blog-href';
 import Breadcrumbs from '@/components/Breadcrumbs';
-import ContactForm from '@/components/ContactForm';
 import { Link } from '@/i18n/routing';
 import Image from 'next/image';
 import { notFound, permanentRedirect } from 'next/navigation';
@@ -93,30 +92,34 @@ export default async function BlogPostPage({
     it: { sectionTitle: 'Trova la nostra agenzia IA nella tua città', ctaText: 'Vedi i servizi →' },
   };
   const villeLabel = villeLabels[locale] ?? villeLabels.fr;
-  const contactLabels: Record<string, { eyebrow: string; title: string; description: string }> = {
+  const contactLabels: Record<string, { eyebrow: string; title: string; description: string; button: string }> = {
     fr: {
       eyebrow: 'Contact',
       title: 'Parlez-nous de votre projet IA',
       description:
         'Expliquez votre objectif, votre contexte PME et les workflows a automatiser. Nous vous repondons avec une prochaine etape concrete.',
+      button: 'Ouvrir le formulaire de contact',
     },
     de: {
       eyebrow: 'Kontakt',
       title: 'Erzahlen Sie uns von Ihrem KI-Projekt',
       description:
         'Beschreiben Sie Ihr Ziel, Ihren KMU-Kontext und die Workflows, die automatisiert werden sollen.',
+      button: 'Kontaktformular offnen',
     },
     en: {
       eyebrow: 'Contact',
       title: 'Tell us about your AI project',
       description:
         'Share your goal, company context and the workflows you want to automate. We will answer with a clear next step.',
+      button: 'Open the contact form',
     },
     it: {
       eyebrow: 'Contatto',
       title: 'Parlaci del tuo progetto IA',
       description:
         'Descrivi il tuo obiettivo, il contesto PMI e i workflow da automatizzare. Ti risponderemo con un prossimo passo concreto.',
+      button: 'Apri il modulo di contatto',
     },
   };
   const contactLabel = contactLabels[locale] ?? contactLabels.fr;
@@ -290,21 +293,26 @@ export default async function BlogPostPage({
           </div>
         </div>
 
-        {/* Contact form */}
+        {/* Contact CTA */}
         <div className="mt-14 border-t border-gray-200 pt-10">
-          <div className="rounded-2xl bg-white p-6 shadow-sm sm:p-8">
-            <div className="mb-6">
+          <div className="rounded-xl border border-gray-200 bg-white p-6 shadow-sm sm:flex sm:items-center sm:justify-between sm:gap-8 sm:p-7">
+            <div className="max-w-2xl">
               <p className="text-sm font-semibold uppercase tracking-wide text-accent">
                 {contactLabel.eyebrow}
               </p>
-              <h2 className="mt-2 text-2xl font-bold text-primary">
+              <h2 className="mt-2 text-2xl font-bold leading-tight text-primary">
                 {contactLabel.title}
               </h2>
-              <p className="mt-3 text-sm leading-relaxed text-gray-600">
+              <p className="mt-3 text-sm leading-relaxed text-gray-600 sm:text-base">
                 {contactLabel.description}
               </p>
             </div>
-            <ContactForm />
+            <Link
+              href="/contact"
+              className="mt-5 inline-flex w-full items-center justify-center rounded-lg bg-accent px-5 py-3 text-sm font-semibold text-white shadow-sm transition-colors hover:bg-accent/90 sm:mt-0 sm:w-auto sm:shrink-0"
+            >
+              {contactLabel.button}
+            </Link>
           </div>
         </div>
 
