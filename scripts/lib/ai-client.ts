@@ -17,6 +17,6 @@ if (!apiKey) {
 
 export const aiClient = new OpenAI(
   useMammouth
-    ? { apiKey, baseURL: 'https://api.mammouth.ai/v1' }
-    : { apiKey }
+    ? { apiKey, baseURL: 'https://api.mammouth.ai/v1', timeout: 30000, maxRetries: 0 }
+    : { apiKey, timeout: 30000, maxRetries: 0 }
 );
