@@ -8,16 +8,20 @@ interface TranslatedArticle {
   content: string;
 }
 
-async function withTimeout<T>(promise: Promise<T>, ms: number, label: string): Promise<T> {
-  let timer: ReturnType<typeof setTimeout>;
-  const timeout = new Promise<never>((_, reject) => {
-    timer = setTimeout(() => reject(new Error(`${label} timed out after ${ms}ms`)), ms);
-  });
+async function withAbortTimeout<T>(
+  run: (signal: AbortSignal) => Promise<T>,
+  ms: number,
+  label: string
+): Promise<T> {
+  const controller = new AbortController();
+  const timer = setTimeout(() => {
+    controller.abort(new Error(`${label} timed out after ${ms}ms`));
+  }, ms);
 
   try {
-    return await Promise.race([promise, timeout]);
+    return await run(controller.signal);
   } finally {
-    clearTimeout(timer!);
+    clearTimeout(timer);
   }
 }
 
@@ -37,17 +41,21 @@ Extrait : ${article.excerpt}
 Contenu :
 ${article.content}`;
 
-  const response = await withTimeout(
-    aiClient.chat.completions.create({
-      model: OPENAI_MODEL,
-      response_format: { type: 'json_object' },
-      messages: [
-        { role: 'system', content: systemPrompt },
-        { role: 'user', content: userPrompt },
-      ],
-      temperature: 0.3,
-      max_tokens: 4000,
-    }),
+  const response = await withAbortTimeout(
+    (signal) =>
+      aiClient.chat.completions.create(
+        {
+          model: OPENAI_MODEL,
+          response_format: { type: 'json_object' },
+          messages: [
+            { role: 'system', content: systemPrompt },
+            { role: 'user', content: userPrompt },
+          ],
+          temperature: 0.3,
+          max_tokens: 4000,
+        },
+        { signal }
+      ),
     45000,
     `Translation ${targetLocale}`
   );

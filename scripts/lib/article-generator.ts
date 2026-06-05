@@ -9,16 +9,20 @@ export interface GeneratedArticle {
   slug: string;
 }
 
-async function withTimeout<T>(promise: Promise<T>, ms: number, label: string): Promise<T> {
-  let timer: ReturnType<typeof setTimeout>;
-  const timeout = new Promise<never>((_, reject) => {
-    timer = setTimeout(() => reject(new Error(`${label} timed out after ${ms}ms`)), ms);
-  });
+async function withAbortTimeout<T>(
+  run: (signal: AbortSignal) => Promise<T>,
+  ms: number,
+  label: string
+): Promise<T> {
+  const controller = new AbortController();
+  const timer = setTimeout(() => {
+    controller.abort(new Error(`${label} timed out after ${ms}ms`));
+  }, ms);
 
   try {
-    return await Promise.race([promise, timeout]);
+    return await run(controller.signal);
   } finally {
-    clearTimeout(timer!);
+    clearTimeout(timer);
   }
 }
 
@@ -77,17 +81,21 @@ Rédige un article ORIGINAL pour les PME suisses basé sur ce sujet.`;
 
   let response;
   try {
-    response = await withTimeout(
-      aiClient.chat.completions.create({
-        model: OPENAI_MODEL,
-        response_format: { type: 'json_object' },
-        messages: [
-          { role: 'system', content: SYSTEM_PROMPTS.generator },
-          { role: 'user', content: userPrompt },
-        ],
-        temperature: 0.7,
-        max_tokens: 4000,
-      }),
+    response = await withAbortTimeout(
+      (signal) =>
+        aiClient.chat.completions.create(
+          {
+            model: OPENAI_MODEL,
+            response_format: { type: 'json_object' },
+            messages: [
+              { role: 'system', content: SYSTEM_PROMPTS.generator },
+              { role: 'user', content: userPrompt },
+            ],
+            temperature: 0.7,
+            max_tokens: 4000,
+          },
+          { signal }
+        ),
       45000,
       'Article generation'
     );
