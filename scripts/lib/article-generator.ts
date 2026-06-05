@@ -9,6 +9,19 @@ export interface GeneratedArticle {
   slug: string;
 }
 
+async function withTimeout<T>(promise: Promise<T>, ms: number, label: string): Promise<T> {
+  let timer: ReturnType<typeof setTimeout>;
+  const timeout = new Promise<never>((_, reject) => {
+    timer = setTimeout(() => reject(new Error(`${label} timed out after ${ms}ms`)), ms);
+  });
+
+  try {
+    return await Promise.race([promise, timeout]);
+  } finally {
+    clearTimeout(timer!);
+  }
+}
+
 function fallbackArticle(item: RSSItem): GeneratedArticle {
   const title = `Ce que les PME suisses doivent retenir : ${item.title}`.slice(0, 95);
   const description = item.description || `Analyse pratique pour les PME suisses à partir de l'actualité ${item.source}.`;
@@ -64,16 +77,20 @@ Rédige un article ORIGINAL pour les PME suisses basé sur ce sujet.`;
 
   let response;
   try {
-    response = await aiClient.chat.completions.create({
-      model: OPENAI_MODEL,
-      response_format: { type: 'json_object' },
-      messages: [
-        { role: 'system', content: SYSTEM_PROMPTS.generator },
-        { role: 'user', content: userPrompt },
-      ],
-      temperature: 0.7,
-      max_tokens: 4000,
-    });
+    response = await withTimeout(
+      aiClient.chat.completions.create({
+        model: OPENAI_MODEL,
+        response_format: { type: 'json_object' },
+        messages: [
+          { role: 'system', content: SYSTEM_PROMPTS.generator },
+          { role: 'user', content: userPrompt },
+        ],
+        temperature: 0.7,
+        max_tokens: 4000,
+      }),
+      45000,
+      'Article generation'
+    );
   } catch (err) {
     console.warn(`[Generator] AI unavailable, using deterministic fallback: ${(err as Error).message}`);
     return fallbackArticle(item);
