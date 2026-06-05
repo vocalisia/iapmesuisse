@@ -55,14 +55,6 @@ export async function translateToAllLocales(
 ): Promise<Record<string, { title: string; excerpt: string; content: string }>> {
   const targetLocales: ('de' | 'en' | 'it')[] = ['de', 'en', 'it'];
 
-  // Translate in parallel
-  const translations = await Promise.all(
-    targetLocales.map(async (locale) => {
-      const translated = await translateArticle(article, locale);
-      return { locale, ...translated };
-    })
-  );
-
   const result: Record<string, { title: string; excerpt: string; content: string }> = {
     fr: {
       title: article.title,
@@ -71,12 +63,17 @@ export async function translateToAllLocales(
     },
   };
 
-  for (const t of translations) {
-    result[t.locale] = {
-      title: t.title,
-      excerpt: t.excerpt,
-      content: t.content,
-    };
+  for (const locale of targetLocales) {
+    try {
+      const translated = await translateArticle(article, locale);
+      result[locale] = {
+        title: translated.title,
+        excerpt: translated.excerpt,
+        content: translated.content,
+      };
+    } catch (err) {
+      console.warn(`[Translator] Skipping ${locale}: ${(err as Error).message}`);
+    }
   }
 
   return result;
