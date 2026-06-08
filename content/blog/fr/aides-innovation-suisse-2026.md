@@ -6,7 +6,7 @@ slug: "aides-innovation-suisse-2026"
 category: "Innovation & Financement"
 author: "Laurent Duplat"
 locale: "fr"
-image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Aides à l'innovation Suisse 2026
@@ -192,3 +192,7 @@ Le versement se fait généralement par tranches liées à l'avancement du proje
 
 **Faut-il un comptable spécialisé pour gérer les dossiers d'aides à l'innovation ?**
 Ce n'est pas obligatoire mais fortement recommandé pour les projets InnoSuisse R&D (budgets complexes, obligations de reporting). Pour les Innovationschecks et aides cantonales simples, un bon dossier bien documenté suffit.
+
+## Pour aller plus loin
+
+Pour approfondir ce sujet, consultez [Subventions PME Suisse 2026 : guide complet des aides fédérales, cantonales et européennes](/fr/blog/subventions-pme-suisse-guide-2026).

@@ -6,7 +6,7 @@ slug: "ecosysteme-innosuisse-epfl-heg-aides-pme"
 category: "IA PME Suisses"
 author: "Laurent Duplat"
 locale: "fr"
-image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # InnoSuisse pour PME suisses : guide complet 2026
@@ -169,3 +169,7 @@ Votre projet IA pourrait-il être éligible à InnoSuisse ou à une aide cantona
 - [Aides à l'innovation Suisse 2026](/fr/blog/aides-innovation-suisse-2026) — toutes les sources fédérales, cantonales et européennes
 - [Financement innovation PME](/fr/blog/financement-innovation-pme-suisse-2026) — stratégie de cumul des financements
 - [Accélérateurs startup Suisse](/fr/blog/accelerateur-startup-suisse-2026) — Venture Kick, MassChallenge, Kickstart
+
+## Pour aller plus loin
+
+Pour approfondir ce sujet, consultez [Subventions PME Suisse 2026 : guide complet des aides fédérales, cantonales et européennes](/fr/blog/subventions-pme-suisse-guide-2026).

@@ -6,7 +6,7 @@ slug: "financement-innovation-pme-suisse-2026"
 category: "Innovation & Financement"
 author: "Laurent Duplat"
 locale: "fr"
-image: "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Financement innovation PME Suisse 2026
@@ -179,3 +179,9 @@ Les aides fédérales (InnoSuisse) requièrent un siège en Suisse avec un IDE (
 
 **Les aides à l'innovation sont-elles imposables ?**
 En général, les subventions reçues constituent un produit imposable (sous déduction des dépenses correspondantes). L'avantage fiscal du crédit R&D s'applique sur les dépenses, pas sur les recettes. Consultez votre fiduciaire pour optimiser la structuration.
+
+## Pour aller plus loin
+
+Pour approfondir ce sujet, consultez [Aides à l'innovation Suisse 2026 : guide complet pour PME et startups](/fr/blog/aides-innovation-suisse-2026).
+
+Pour approfondir ce sujet, consultez [Subventions PME Suisse 2026 : guide complet des aides fédérales, cantonales et européennes](/fr/blog/subventions-pme-suisse-guide-2026).

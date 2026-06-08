@@ -268,3 +268,7 @@ Votre PME suisse mérite un investissement IA rentable. Les outils de calcul exi
 - [Stratégie IA pour PME suisse : le plan d'action complet 2026](/fr/blog/strategie-ia-pme-suisse-2026)
 - [IA pour la finance et comptabilité des PME suisses 2026](/fr/blog/intelligence-artificielle-finance-comptabilite-pme-suisse)
 - [Budget IA pour PME suisse : combien prévoir et comment optimiser](/fr/blog/budget-ia-pme-suisse)
+
+## Pour aller plus loin
+
+Pour approfondir ce sujet, consultez [ROI de l'IA et transformation numérique : guide de calcul pour PME suisses 2026](/fr/blog/roi-ia-transformation-numerique-guide-calcul-2026).

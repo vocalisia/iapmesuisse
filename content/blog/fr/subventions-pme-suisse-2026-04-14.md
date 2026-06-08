@@ -120,3 +120,7 @@ A: En règle générale, oui, à condition que l'entreprise soit légalement enr
 Le paysage des **subventions PME suisse** est riche, structuré et en constante évolution. Entre Innosuisse, le SECO, les fonds cantonaux et les programmes sectoriels dédiés à la durabilité ou à la digitalisation, les opportunités de financement public n'ont jamais été aussi nombreuses pour les entrepreneurs helvétiques. La clé du succès réside dans une préparation rigoureuse, une bonne connaissance des critères d'éligibilité et une capacité à articuler clairement l'impact de votre projet.
 
 Ne laissez pas ces ressources inexploitées : commencez dès aujourd'hui par identifier les deux ou trois programmes les mieux adaptés à votre situation, et constituez votre premier dossier de candidature. Pour vous aider dans cette démarche, consultez notre guide complet sur les [subventions PME suisse et les stratégies de financement public](/fr/blog/audit-ia-maturite-pme) et prenez une longueur d'avance sur vos concurrents.
+
+## Pour aller plus loin
+
+Pour approfondir ce sujet, consultez [Subventions PME Suisse 2026 : guide complet des aides fédérales, cantonales et européennes](/fr/blog/subventions-pme-suisse-guide-2026).
