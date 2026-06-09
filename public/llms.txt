@@ -2,6 +2,9 @@
 
 > Plateforme de solutions IA pour les PME suisses. Automatisation, productivite et transformation digitale pour petites et moyennes entreprises en Suisse.
 
+Sitemap: https://iapmesuisse.ch/sitemap.xml
+Robots: https://iapmesuisse.ch/robots.txt
+
 ## Ce que fait IAP ME Suisse
 
 IAP ME Suisse accompagne les PME suisses dans leur adoption de l'intelligence artificielle : agents vocaux, automatisation des processus, generation de contenu, CRM intelligent, et outils de productivite IA.
