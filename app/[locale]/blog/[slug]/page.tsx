@@ -16,6 +16,62 @@ import {
   stripHtml,
 } from '@/lib/structured-data';
 
+type BlogSummary = ReturnType<typeof getBlogPosts>[number];
+
+const STOP_WORDS = new Set([
+  'avec',
+  'pour',
+  'dans',
+  'des',
+  'les',
+  'une',
+  'aux',
+  'and',
+  'the',
+  'for',
+  'und',
+  'der',
+  'die',
+  'das',
+  'con',
+  'per',
+  'gli',
+]);
+
+function keywords(text: string) {
+  return new Set(
+    text
+      .toLowerCase()
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '')
+      .split(/[^a-z0-9]+/)
+      .filter((word) => word.length >= 4 && !STOP_WORDS.has(word))
+  );
+}
+
+function getRelatedPosts(post: BlogSummary, locale: string) {
+  const current = keywords(`${post.title} ${post.excerpt} ${post.slug.replace(/-/g, ' ')}`);
+  return getBlogPosts(locale)
+    .filter((candidate) => candidate.slug !== post.slug)
+    .map((candidate) => {
+      const candidateWords = keywords(`${candidate.title} ${candidate.excerpt} ${candidate.slug.replace(/-/g, ' ')}`);
+      let score = 0;
+      current.forEach((word) => {
+        if (candidateWords.has(word)) score += 1;
+      });
+      return { post: candidate, score };
+    })
+    .sort((a, b) => b.score - a.score || (a.post.date > b.post.date ? -1 : 1))
+    .slice(0, 5)
+    .map((item) => item.post);
+}
+
+function normalizeContentHeadings(html: string) {
+  return html
+    .replace(/<h1(\s[^>]*)?>/gi, '<h2$1>')
+    .replace(/<\/h1>/gi, '</h2>');
+}
+
 export async function generateMetadata({
   params,
 }: {
@@ -120,6 +176,13 @@ export default async function BlogPostPage({
     },
   };
   const contactLabel = contactLabels[locale] ?? contactLabels.fr;
+  const relatedLabels: Record<string, string> = {
+    fr: 'Pour aller plus loin',
+    de: 'Weiterlesen',
+    en: 'Read next',
+    it: 'Per approfondire',
+  };
+  const relatedLabel = relatedLabels[locale] ?? relatedLabels.fr;
 
   const localeMap: Record<string, string> = {
     fr: 'fr-CH',
@@ -140,7 +203,9 @@ export default async function BlogPostPage({
   const baseUrl = getSiteUrl();
   const articleUrl = `${baseUrl}/${locale}/blog/${slug}`;
   const imageUrl = post.image.startsWith('http') ? post.image : `${baseUrl}${post.image}`;
-  const articleText = stripHtml(post.content);
+  const contentHtml = normalizeContentHeadings(post.content);
+  const articleText = stripHtml(contentHtml);
+  const relatedPosts = getRelatedPosts(post, locale);
 
   const blogPostingSchema = {
     '@context': 'https://schema.org',
@@ -182,7 +247,7 @@ export default async function BlogPostPage({
   const howToSchema = buildHowToFromHtml({
     title: post.title,
     description: post.excerpt,
-    html: post.content,
+    html: contentHtml,
     url: articleUrl,
     locale,
   });
@@ -261,12 +326,35 @@ export default async function BlogPostPage({
         <div
           className="prose prose-lg max-w-none prose-headings:font-bold prose-headings:text-primary prose-h2:mt-10 prose-h2:text-2xl prose-h3:text-xl prose-p:leading-relaxed prose-p:text-gray-700 prose-a:text-accent prose-a:underline hover:prose-a:text-primary prose-strong:text-primary prose-ul:text-gray-700 prose-ol:text-gray-700 prose-li:marker:text-accent"
           dangerouslySetInnerHTML={{
-            __html: normalizeHtmlBlogAnchors(post.content, locale, {
+            __html: normalizeHtmlBlogAnchors(contentHtml, locale, {
               sameOriginHosts: ['iapmesuisse.ch'],
               blogPathPrefix: `/${locale}/blog`,
             }),
           }}
         />
+
+        {relatedPosts.length > 0 && (
+          <nav className="mt-14 border-t border-gray-200 pt-10" aria-labelledby="related-posts-title">
+            <h2 id="related-posts-title" className="mb-5 text-xl font-bold text-primary">
+              {relatedLabel}
+            </h2>
+            <ul className="space-y-3">
+              {relatedPosts.map((related) => (
+                <li key={related.slug}>
+                  <Link
+                    href={`/blog/${related.slug}`}
+                    className="font-semibold text-accent underline underline-offset-4 hover:text-primary"
+                  >
+                    {related.title}
+                  </Link>
+                  {related.excerpt && (
+                    <p className="mt-1 text-sm leading-relaxed text-gray-600">{related.excerpt}</p>
+                  )}
+                </li>
+              ))}
+            </ul>
+          </nav>
+        )}
 
         {/* City internal links — maillage SEO */}
         <div className="mt-14 border-t border-gray-200 pt-10">
