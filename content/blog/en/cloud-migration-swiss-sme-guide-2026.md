@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Cloud migration to sovereign infrastructure (Exoscale, Infomaniak, SWITCH) and marketing automation for Swiss SMEs. nFADP compliance, HubSpot, Brevo, real case study from a Romandy SME."
 author: "Laurent Duplat"
 slug: "cloud-migration-swiss-sme-guide-2026"
-image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Cloud Migration and Marketing Automation for Swiss SMEs: Complete Guide 2026

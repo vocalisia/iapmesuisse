@@ -1,4 +1,4 @@
----
+﻿---
 title: "Sales Automation and AI Prospecting in Swiss Romandy 2026"
 date: "2026-04-22"
 excerpt: "How Swiss SMEs in Romandy automate their B2B prospecting and sales with AI in 2026: tools, nLPD compliance, legal LinkedIn automation, intelligent CRMs, metrics, and case studies."

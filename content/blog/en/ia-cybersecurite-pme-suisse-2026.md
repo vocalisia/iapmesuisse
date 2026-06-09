@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "How AI strengthens cybersecurity for Swiss SMEs: anomaly detection, AI phishing, smart backups, Swiss FADP compliance. Practical guide 2026."
 author: "Laurent Duplat"
 slug: "ia-cybersecurite-pme-suisse-2026"
-image: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # AI and Cybersecurity for Swiss SMEs: Protecting Your Business in 2026

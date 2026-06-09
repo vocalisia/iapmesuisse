@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Wie berechnet ein Schweizer KMU den ROI von KI-Projekten? TCO-Methode, Branchenbenchmarks, buchhalterische Robotisierung und realistische Amortisationszeiten — ein praxisnaher Leitfaden."
 author: "Laurent Duplat"
 slug: "roi-ki-digitale-transformation-kmu-2026"
-image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # ROI der KI und digitalen Transformation für Schweizer KMU

@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "IA negli studi legali svizzeri: ricerca giuridica automatizzata, redazione di contratti con IA, due diligence, conformità all'Ordine degli avvocati. Casi d'uso dalla Svizzera romanda e tedesca."
 author: "Laurent Duplat"
 slug: "ia-juridique-avocats-suisse-guide-2026"
-image: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # IA per avvocati e studi legali svizzeri: guida 2026

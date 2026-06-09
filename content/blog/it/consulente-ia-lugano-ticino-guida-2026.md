@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Mercato dell'IA a Lugano e in Ticino nel 2026: specificità del mercato trilingue, attori locali, trasformazione digitale per PMI della Svizzera italiana. Guida esperta per le imprese del sud della Svizzera."
 author: "Laurent Duplat"
 slug: "consulente-ia-lugano-ticino-guida-2026"
-image: "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Consulente IA a Lugano e in Ticino: guida completa per PMI 2026

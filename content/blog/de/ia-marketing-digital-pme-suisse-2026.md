@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Das digitale Marketing eines Schweizer KMU mit KI transformieren: mehrsprachige Inhaltserstellung, automatisiertes SEO, KI-gestützte Google Ads, Social Media, E-Mail-Marketing. Messbarer ROI."
 author: "Laurent Duplat"
 slug: "ia-marketing-digital-pme-suisse-2026"
-image: "https://images.unsplash.com/photo-1533750349088-cd871a92f312?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # KI für das digitale Marketing von Schweizer KMU: vollständiger Leitfaden 2026

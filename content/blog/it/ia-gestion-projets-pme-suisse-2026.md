@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Trasformare la gestione dei progetti in una PMI svizzera con l'IA: pianificazione predittiva, monitoraggio automatizzato, reporting IA, integrazione Asana/Monday/Jira. Guida pratica 2026."
 author: "Laurent Duplat"
 slug: "ia-gestion-projets-pme-suisse-2026"
-image: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # IA e gestione dei progetti per le PMI svizzere: guida 2026

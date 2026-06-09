@@ -7,7 +7,7 @@ lang: "de"
 category: "Landwirtschaft"
 tags: ["KI Landwirtschaft", "Weinbau Digitalisierung", "Präzisionslandwirtschaft", "Schweizer KMU", "Agritech Schweiz"]
 slug: "ia-agriculture-viticulture-suisse-2026"
-image: "https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 Die Schweiz zählt **51 000 Landwirtschaftsbetriebe** (BFS) und über **15 000 Hektar Rebfläche** — eine der höchsten Rebflächen-Dichten Europas im Verhältnis zur Landesgrösse. Der wirtschaftliche Druck ist erheblich: hohe Produktionskosten, zunehmende Klimaextreme, strenge Rückverfolgbarkeitsanforderungen von Bio Suisse und Herkunftsbezeichnungen sowie ein wachsender Fachkräftemangel in saisonalen Betrieben.

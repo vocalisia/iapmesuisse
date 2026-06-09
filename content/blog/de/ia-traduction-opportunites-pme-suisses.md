@@ -3,7 +3,7 @@ title: "KI und Übersetzung: Chancen für Schweizer KMU"
 date: "2026-03-25"
 excerpt: "Lassen Sie uns erkunden, wie KI, wie Apertus, die Übersetzungen für Schweizer KMU transformieren kann."
 slug: "ia-traduction-opportunites-pme-suisses"
-image: "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=800&h=400&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 author: "IAPME Suisse"
 source: "https://www.ictjournal.ch/news/2026-03-24/le-canton-du-tessin-mise-sur-apertus-pour-ses-traductions"
 auto_generated: true
@@ -39,3 +39,8 @@ Es ist auch wichtig, das Personal im Umgang mit diesen neuen Technologien zu sch
 ## Fazit: Eine Chance, die es zu ergreifen gilt
 
 Die Initiative des Kantons Tessin mit Apertus ist erst der Anfang einer technologischen Revolution, die die Geschäftswelt in der Schweiz verändern könnte. Für KMU stellt die Integration von KI in ihre Übersetzungsprozesse eine Chance dar, nicht nur ihre Abläufe zu optimieren, sondern sich auch als innovative Marktführer zu positionieren. Bei IAPME Schweiz engagieren wir uns dafür, KMU bei diesem Übergang zu unterstützen, indem wir Ressourcen und Beratung bereitstellen, um sich in der komplexen Welt der digitalen Transformation zurechtzufinden.
+{/* cocon-links:start */}
+## Pour aller plus loin
+
+- [Sicherheit für Schweizer KMU und Identitätsmanagement](https://iapmesuisse.ch/de/blog/securite-pme-suisses-ia-identites)
+{/* cocon-links:end */}

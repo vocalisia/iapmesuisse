@@ -6,7 +6,7 @@ slug: "incubateur-suisse-guide-2026"
 category: "Innovation & Financement"
 author: "Laurent Duplat"
 locale: "fr"
-image: "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Incubateur Suisse 2026 : guide complet des meilleurs programmes

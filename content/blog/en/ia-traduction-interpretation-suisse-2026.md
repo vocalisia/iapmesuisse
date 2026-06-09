@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "AI translation for Swiss SMEs: DeepL, Claude, multilingual translation FR/DE/IT/EN, cultural localization, compliance for regulated content. Practical guide 2026."
 author: "Laurent Duplat"
 slug: "ia-traduction-interpretation-suisse-2026"
-image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # AI and Machine Translation for Swiss SMEs: Multilingualism Made Accessible

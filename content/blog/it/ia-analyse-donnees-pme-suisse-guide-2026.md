@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Come una PMI svizzera sfrutta l'IA per analizzare i propri dati: dashboard IA, previsioni, analisi clienti, Business Intelligence accessibile. Guida pratica 2026."
 author: "Laurent Duplat"
 slug: "ia-analyse-donnees-pme-suisse-guide-2026"
-image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # IA e analisi dei dati per le PMI svizzere: trasformare i tuoi numeri in decisioni

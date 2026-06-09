@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "IA appliquée aux ressources humaines suisses : tri de CV automatisé, onboarding IA, gestion des absences, formation personnalisée. Conformité nLPD et AI Act pour les RH."
 author: "Laurent Duplat"
 slug: "ia-rh-recrutement-automatise-suisse-2026"
-image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # IA pour les RH et le recrutement automatisé en Suisse : guide 2026

@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Guida Prozessautomatisierung per PMI svizzere: RPA, n8n, Make, settori prioritari, conformità LPD, ROI per processo. Workflow concreti e metodi testati nella realtà delle PMI svizzere."
 author: "Laurent Duplat"
 slug: "automazione-processi-pmi-svizzera-2026"
-image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Automazione dei processi aziendali per PMI svizzere: guida pratica 2026

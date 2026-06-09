@@ -1,4 +1,4 @@
----
+﻿---
 title: "Top AI Agencies in Switzerland for SMEs 2026"
 date: "2026-04-22"
 excerpt: "The 10 best AI agencies in Switzerland for SMEs in 2026, compared on 8 criteria: FADP compliance, sector focus and deployment speed. Free 30-min audit."

@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Intelligenza artificiale negli studi medici svizzeri: prenotazione appuntamenti IA, promemoria pazienti, gestione amministrativa, conformità nLPD e LPMed. Guida 2026."
 author: "Laurent Duplat"
 slug: "ia-sante-cabinet-medical-suisse-2026"
-image: "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # IA per gli studi medici svizzeri: guida pratica 2026

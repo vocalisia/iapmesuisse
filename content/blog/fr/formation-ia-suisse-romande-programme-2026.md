@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Guide complet des formations IA disponibles en Suisse romande et alémanique : HES-SO, EPFL Extension School, ZHAW, workshops entreprise, certifications reconnues. Contenu, durée, ROI formation pour dirigeants et collaborateurs."
 author: "Laurent Duplat"
 slug: "formation-ia-suisse-romande-programme-2026"
-image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Formation IA en Suisse romande : programmes, certifications et workshops 2026

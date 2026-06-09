@@ -7,7 +7,7 @@ category: "Outils IA"
 author: "Laurent Duplat"
 lang: "fr"
 tags: ["chatbot PME suisse", "IA service client", "automatisation", "nLPD", "outils IA"]
-image: "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=1200&q=80"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Chatbot IA pour PME suisses : guide pratique + 5 outils testés en 2026

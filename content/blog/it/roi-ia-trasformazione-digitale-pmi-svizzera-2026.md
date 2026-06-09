@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Come calcolare il ROI dei progetti IA per una PMI svizzera: metodo TCO, benchmark per settore, robotizzazione contabile e tempi di ammortamento realistici con formule pratiche."
 author: "Laurent Duplat"
 slug: "roi-ia-trasformazione-digitale-pmi-svizzera-2026"
-image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # ROI dell'IA e della trasformazione digitale per le PMI svizzere

@@ -6,7 +6,7 @@ slug: "medtech-accelerator-switzerland-guide"
 category: "Innovation & Funding"
 author: "Laurent Duplat"
 locale: "en"
-image: "https://images.unsplash.com/photo-1530497610245-94d3c16cda28?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Medtech Accelerator Switzerland 2026

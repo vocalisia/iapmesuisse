@@ -4,7 +4,7 @@ date: "2026-05-17"
 excerpt: "I 15 migliori strumenti IA gratuiti o freemium per PMI romande, tedescofone e ticinesi: ChatGPT, Claude, Mistral, n8n, NotebookLM. Analisi nLPD per ogni strumento."
 author: "Laurent Duplat"
 slug: "outils-ia-gratuits-pme-suisse-top-15-2026"
-image: "https://images.unsplash.com/photo-1581090700227-1e37b190418e?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Strumenti IA gratuiti per PMI svizzere: top 15 (2026)

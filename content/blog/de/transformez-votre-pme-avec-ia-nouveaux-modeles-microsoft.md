@@ -33,3 +33,10 @@ Um diese neuen KI-Technologien effektiv zu integrieren, sollten Schweizer KMU zu
 Die neuen KI-Modelle von Microsoft stellen eine einzigartige Gelegenheit für Schweizer KMU dar, ihre Wettbewerbsfähigkeit zu verbessern und ihre Marktposition zu stärken. Durch die Einführung dieser Technologien können Unternehmen nicht nur ihre Abläufe optimieren, sondern auch innovative und personalisierte Kundenerlebnisse bieten. Es ist jedoch wichtig, ein Gleichgewicht zwischen der Einführung von KI und der Einhaltung lokaler Vorschriften zu wahren.
 
 Bei IAPME Schweiz ist es unsere Mission, KMU durch diese digitale Transformation zu führen, indem wir angepasste Beratung und Ressourcen bereitstellen, um das Beste aus der KI herauszuholen und gleichzeitig die Besonderheiten des Schweizer Marktes zu berücksichtigen. Wir sind fest davon überzeugt, dass technologische Innovation für alle Unternehmen zugänglich sein sollte, unabhängig von ihrer Größe.
+
+{/* cocon-links:start */}
+## Pour aller plus loin
+
+- [Der Einfluss fortschrittlicher KI-Modelle auf Schweizer KMU](https://iapmesuisse.ch/de/blog/impact-modeles-ia-pme-suisses)
+- [Schweizer KMU Künstliche Intelligenz mit Bedacht einsetzen](https://iapmesuisse.ch/de/blog/pme-suisses-adopter-ia-avec-discernement)
+{/* cocon-links:end */}

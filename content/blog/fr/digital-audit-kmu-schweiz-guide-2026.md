@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Comment réaliser un audit digital et IA complet pour votre PME suisse : infrastructure IT, maturité IA, conformité nLPD, cybersécurité. Guide étape par étape avec focus Genève et Berne."
 author: "Laurent Duplat"
 slug: "digital-audit-kmu-schweiz-guide-2026"
-image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Digital Audit PME suisse : le guide complet 2026

@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Die Integration neuer Mitarbeitender mit KI verbessern: automatisierter Einarbeitungsprozess, HR-Chatbot, adaptives E-Learning, nDSG-Konformität. KMU-Leitfaden Schweiz 2026."
 author: "Laurent Duplat"
 slug: "ia-onboarding-collaborateurs-suisse-2026"
-image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # KI für das Onboarding von Mitarbeitenden in der Schweiz: Praxisleitfaden 2026

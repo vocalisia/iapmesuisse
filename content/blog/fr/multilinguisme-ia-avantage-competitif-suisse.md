@@ -4,7 +4,7 @@ author: "Laurent Duplat"
 date: "2026-03-23"
 excerpt: "Comment les solutions d'IA multilingues transforment le multilinguisme suisse en avantage compétitif : assistants vocaux, traduction automatique, chatbots et service client dans les quatre langues nationales."
 slug: "multilinguisme-ia-avantage-competitif-suisse"
-image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=800&h=400&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Le multilinguisme IA : l'avantage compétitif des entreprises suisses

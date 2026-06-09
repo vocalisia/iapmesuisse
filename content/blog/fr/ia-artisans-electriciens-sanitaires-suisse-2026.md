@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Comment les électriciens et sanitaires suisses utilisent l'IA pour automatiser la prise de RDV, les devis, la facturation et la gestion chantier. Assistants vocaux, chatbots WhatsApp, planning IA."
 author: "Laurent Duplat"
 slug: "ia-artisans-electriciens-sanitaires-suisse-2026"
-image: "https://images.unsplash.com/photo-1621905251918-48416bd8575a?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # IA pour les artisans suisses : électriciens et sanitaires, gagnez 10h par semaine

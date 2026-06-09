@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Artificial intelligence in Swiss insurance: AI underwriting, fraud detection, chatbot customer service, claims automation. Guide for independent brokers and insurers 2026."
 author: "Laurent Duplat"
 slug: "ia-assurance-courtage-suisse-guide-2026"
-image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # AI for the Swiss Insurance and Brokerage Sector: 2026 Guide

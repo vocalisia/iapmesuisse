@@ -44,3 +44,10 @@ In der Schweiz haben KMU wie Doodle und Farmy die digitalen Technologien erfolgr
 4. **Planen Sie die Zukunft**: Wählen Sie skalierbare Lösungen, die sich an das Wachstum Ihres Unternehmens anpassen können.
 
 Abschließend ist die Einführung von Hochgeschwindigkeitsinternet für Schweizer KMU mehr als nur ein technologisches Update. Es ist eine Gelegenheit, ihre Abläufe zu transformieren und in einem zunehmend digital orientierten Markt wettbewerbsfähig zu bleiben. Bei IAPME Schweiz engagieren wir uns dafür, KMU bei ihrem digitalen Wandel zu unterstützen, indem wir maßgeschneiderte Beratung und Ressourcen anbieten, die auf ihre spezifischen Bedürfnisse zugeschnitten sind.
+{/* cocon-links:start */}
+## Mehr zum Thema
+
+- [KI und Übersetzung: Chancen für Schweizer KMU](https://iapmesuisse.ch/de/blog/ia-traduction-opportunites-pme-suisses)
+- [Optimierung der Innovation mit Cloud und KI für Schweizer KMU](https://iapmesuisse.ch/de/blog/optimiser-innovation-cloud-ia-pme-suisses)
+- [Schweizer KMU: Künstliche Intelligenz mit Bedacht einsetzen](https://iapmesuisse.ch/de/blog/pme-suisses-adopter-ia-avec-discernement)
+{/* cocon-links:end */}

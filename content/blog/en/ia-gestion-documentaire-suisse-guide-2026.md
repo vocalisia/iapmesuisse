@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Automating document management with AI in a Swiss SME: intelligent OCR, automatic archiving, semantic search, Swiss FADP compliance, electronic signature."
 author: "Laurent Duplat"
 slug: "ia-gestion-documentaire-suisse-guide-2026"
-image: "https://images.unsplash.com/photo-1568667256549-094345857637?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # AI and Document Management for Swiss SMEs: Going Paperless in 2026

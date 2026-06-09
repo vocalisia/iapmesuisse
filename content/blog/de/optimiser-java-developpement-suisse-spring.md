@@ -40,3 +40,8 @@ Darüber hinaus ermöglicht die Modularität von Spring, Sicherheitskomponenten 
 ## Fazit
 
 Für Schweizer KMU ist die Einführung moderner Technologien wie Java und Spring mehr als nur eine Frage des Auf-dem-Laufenden-Bleibens; es ist eine wesentliche Strategie, um in einer sich ständig weiterentwickelnden digitalen Umgebung zu wachsen und zu gedeihen. Während Unternehmen danach streben, sich digital zu transformieren, engagiert sich IAPME Schweiz, Ressourcen und Unterstützung bereitzustellen, um diesen Übergang zu erleichtern und KMU zu helfen, Spitzentechnologien zu nutzen und gleichzeitig die lokalen Vorschriften einzuhalten.
+{/* cocon-links:start */}
+## Mehr zum Thema
+
+- [KI und Übersetzung: Chancen für Schweizer KMU](https://iapmesuisse.ch/de/blog/ia-traduction-opportunites-pme-suisses)
+{/* cocon-links:end */}

@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Stratégie SEO multilingue IA pour PME suisses : contenu FR/DE/IT/EN, hreflang, rich snippets, GEO (Generative Engine Optimization) pour ChatGPT et Perplexity. Guide 2026."
 author: "Laurent Duplat"
 slug: "ia-seo-contenu-multilingue-suisse-pme-2026"
-image: "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # IA et SEO multilingue pour PME suisses : dominer Google en FR/DE/IT/EN

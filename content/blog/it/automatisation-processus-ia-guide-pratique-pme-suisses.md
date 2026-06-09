@@ -3,7 +3,7 @@ title: "Automazione dei Processi con l'IA: Guida Pratica per le PMI Svizzere"
 date: "2026-03-26"
 excerpt: "Guida pratica per automatizzare i processi con l'IA nelle PMI svizzere: strumenti, budget in CHF, conformità nLPD, ROI e roadmap di 90 giorni. Casi concreti dalla Svizzera italiana."
 slug: "automatisation-processus-ia-guide-pratique-pme-suisses"
-image: "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=800&h=400&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Automazione dei Processi con l'IA: Guida Pratica per le PMI Svizzere

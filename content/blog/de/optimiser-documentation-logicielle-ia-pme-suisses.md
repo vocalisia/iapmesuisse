@@ -51,3 +51,11 @@ Die Integration neuer Technologien erfordert eine angemessene Schulung der Teams
 ## Das Engagement von IAPME Schweiz
 
 Bei IAPME Schweiz sind wir entschlossen, Schweizer KMU dabei zu unterstützen, das Potenzial der KI zur Transformation ihrer internen Prozesse zu nutzen. Unsere Mission ist es, maßgeschneiderte Beratung und Unterstützung zu bieten, um sicherzustellen, dass jedes Unternehmen von den neuesten technologischen Innovationen profitieren kann. Mit einem kundenorientierten Ansatz und dem Fokus auf Nachhaltigkeit engagiert sich IAPME Schweiz, KMU bei ihrer digitalen Transformation zu begleiten, insbesondere im Bereich der Softwaredokumentation.
+
+{/* cocon-links:start */}
+## Pour aller plus loin
+
+- [Optimierung des Dokumentenmanagements durch für Schweizer KMU](https://iapmesuisse.ch/de/blog/optimiser-gestion-documentaire-ia-pme-suisses)
+- [und Übersetzung Chancen für Schweizer KMU](https://iapmesuisse.ch/de/blog/ia-traduction-opportunites-pme-suisses)
+- [Optimierung der Innovation mit Cloud und für](https://iapmesuisse.ch/de/blog/optimiser-innovation-cloud-ia-pme-suisses)
+{/* cocon-links:end */}

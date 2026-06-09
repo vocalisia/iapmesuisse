@@ -1,4 +1,4 @@
----
+﻿---
 title: "How Swiss SMEs Can Leverage AI and Data Science"
 date: "2026-04-27"
 excerpt: "Discover how AI and data science are transforming Swiss SMEs by enhancing decision-making and optimising operations."

@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Intelligenza artificiale nell'orologeria e nel lusso svizzero: autenticazione IA, servizio clienti premium, controllo qualità con visione IA, personalizzazione. Casi d'uso dalla Vallée de Joux, Ginevra."
 author: "Laurent Duplat"
 slug: "ia-horlogerie-luxe-suisse-guide-2026"
-image: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # IA per l'orologeria e il lusso svizzero: guida 2026

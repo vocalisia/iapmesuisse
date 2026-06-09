@@ -6,7 +6,7 @@ slug: "digital-health-accelerator-switzerland"
 category: "Innovation & Funding"
 author: "Laurent Duplat"
 locale: "en"
-image: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Digital Health Accelerator Switzerland 2026

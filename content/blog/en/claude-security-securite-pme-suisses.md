@@ -1,4 +1,4 @@
----
+﻿---
 title: "Claude Security: A New Era for Swiss SME Security"
 date: "2026-05-01"
 excerpt: "Discover how Claude Security can enhance the cybersecurity of Swiss SMEs through AI."

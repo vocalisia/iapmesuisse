@@ -4,7 +4,7 @@ date: "2025-02-20"
 excerpt: "How far has artificial intelligence adoption progressed among Swiss businesses in 2025? An overview of key trends, figures, and challenges ahead."
 author: "Laurent Duplat"
 slug: "ia-suisse-2025"
-image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=400&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # AI in Switzerland: 2025 State of Affairs

@@ -3,7 +3,7 @@ title: "AI Digital Transformation of Swiss SMEs: Case Studies and Strategies 202
 date: "2026-03-26"
 excerpt: "AI digital transformation for Swiss SMEs in 2026: 6 case studies, Innosuisse grants, concrete strategies, and measured ROI in French-speaking Switzerland."
 slug: "transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026"
-image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800&h=400&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Digital Transformation and AI in Swiss SMEs: Case Studies and Strategies 2026

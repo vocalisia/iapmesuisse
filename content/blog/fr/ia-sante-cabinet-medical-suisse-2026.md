@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Intelligenge artificielle dans les cabinets médicaux suisses : prise de rendez-vous IA, rappels patients, gestion administrative, conformité nLPD et LPMéd. Guide 2026."
 author: "Laurent Duplat"
 slug: "ia-sante-cabinet-medical-suisse-2026"
-image: "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # IA pour les cabinets médicaux suisses : guide pratique 2026

@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Intelligence artificielle dans le BTP suisse : plans IA, appels d'offres automatisés, suivi chantier, sécurité prédictive. Cas d'usage PME construction romande 2026."
 author: "Laurent Duplat"
 slug: "ia-construction-btp-suisse-guide-2026"
-image: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # IA pour la construction et le BTP suisses : guide pratique 2026

@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Automatizzare la gestione documentale con l'IA in una PMI svizzera: OCR intelligente, archiviazione automatica, ricerca semantica, conformità nLPD, firma elettronica."
 author: "Laurent Duplat"
 slug: "ia-gestion-documentaire-suisse-guide-2026"
-image: "https://images.unsplash.com/photo-1568667256549-094345857637?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # IA e gestione documentale per PMI svizzere: zero carta nel 2026

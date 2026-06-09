@@ -49,3 +49,11 @@ Diese Beispiele veranschaulichen, wie die Einführung von KI-Technologien auch f
 ## Fazit
 
 Die Einführung fortschrittlicher KI-Modelle, wie das Modell V4 von DeepSeek, stellt eine bedeutende Chance für Schweizer KMU dar, ihre Wettbewerbsfähigkeit zu verbessern und zu innovieren. Es ist jedoch entscheidend, vorsichtig zu navigieren, indem die Vorschriften wie das nDSG berücksichtigt und gut durchdachte Integrationsstrategien angenommen werden. Bei IAPME Schweiz ist es unsere Mission, KMU in diesem digitalen Wandel zu unterstützen, indem wir maßgeschneiderte Beratung und Ressourcen bereitstellen, die auf ihre spezifischen Bedürfnisse abgestimmt sind.
+
+{/* cocon-links:start */}
+## Pour aller plus loin
+
+- [Transformieren Sie Ihr KMU mit Neue Modelle](https://iapmesuisse.ch/de/blog/transformez-votre-pme-avec-ia-nouveaux-modeles-microsoft)
+- [und Übersetzung Chancen für Schweizer KMU](https://iapmesuisse.ch/de/blog/ia-traduction-opportunites-pme-suisses)
+- [Optimierung des Dokumentenmanagements durch für Schweizer KMU](https://iapmesuisse.ch/de/blog/optimiser-gestion-documentaire-ia-pme-suisses)
+{/* cocon-links:end */}

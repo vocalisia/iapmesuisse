@@ -4,7 +4,7 @@ date: "2026-05-19"
 excerpt: "Guide débutant pour les dirigeants de PME suisses qui veulent lancer l'automatisation IA sans se perdre dans la complexité technique. 5 premiers pas concrets, outils validés, et retours d'expérience romands."
 author: "Laurent Duplat"
 slug: "automatisation-ia-pme-suisse-premiers-pas-2026"
-image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Automatisation IA pour PME suisses : par où commencer en 2026

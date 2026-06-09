@@ -4,7 +4,7 @@ date: "2026-05-17"
 excerpt: "Complete guide to n8n self-hosted in Switzerland: deployment at Infomaniak/Exoscale, Swiss FADP compliance, ROI, fiduciary and medical use cases. Maximum data sovereignty."
 author: "Laurent Duplat"
 slug: "n8n-auto-heberge-pme-suisse-nlpd"
-image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # n8n self-hosted for Swiss SMEs: the path to sovereign automation

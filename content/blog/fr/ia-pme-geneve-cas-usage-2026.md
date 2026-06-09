@@ -7,7 +7,7 @@ category: "IA par région"
 author: "Laurent Duplat"
 lang: "fr"
 tags: ["IA PME Genève", "intelligence artificielle Genève", "agence IA Genève", "automatisation PME"]
-image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=80"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # IA pour PME à Genève : 7 cas d'usage concrets et résultats 2026

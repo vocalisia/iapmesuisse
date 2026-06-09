@@ -3,7 +3,7 @@ title: "Il multilinguismo IA: il vantaggio competitivo delle imprese svizzere"
 date: "2026-03-23"
 excerpt: "Come le soluzioni di IA multilingue trasformano il multilinguismo svizzero in un vantaggio competitivo: assistenti vocali, traduzione automatica, chatbot e servizio clienti nelle quattro lingue nazionali."
 slug: "multilinguisme-ia-avantage-competitif-suisse"
-image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=800&h=400&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Il multilinguismo IA: il vantaggio competitivo delle imprese svizzere

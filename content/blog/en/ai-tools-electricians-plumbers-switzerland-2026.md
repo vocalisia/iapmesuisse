@@ -1,10 +1,10 @@
----
+﻿---
 title: "AI Tools for Electricians and Plumbers in Switzerland: Save 10 Hours a Week"
 date: "2026-05-27"
 excerpt: "How Swiss electricians and plumbing companies use AI voice assistants, WhatsApp chatbots, and automated quoting to cut admin time in half and win more emergency jobs."
 author: "Laurent Duplat"
 slug: "ai-tools-electricians-plumbers-switzerland-2026"
-image: "https://images.unsplash.com/photo-1621905251918-48416bd8575a?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # AI Tools for Electricians and Plumbers in Switzerland: Save 10 Hours a Week

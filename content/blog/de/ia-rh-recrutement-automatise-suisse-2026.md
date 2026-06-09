@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "KI im Schweizer HR-Bereich: automatisiertes CV-Screening, KI-Onboarding, Abwesenheitsmanagement, personalisierte Weiterbildung. nDSG- und AI Act-Konformität für HR."
 author: "Laurent Duplat"
 slug: "ia-rh-recrutement-automatise-suisse-2026"
-image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # KI für HR und automatisiertes Recruiting in der Schweiz: Leitfaden 2026
@@ -64,3 +64,9 @@ HR-Daten gehören zu den sensibelsten Daten, die ein KMU verarbeitet. Spezifisch
 - [Autonome KI-Agenten für Schweizer KMU](/fr/blog/agents-ia-autonomes-pme-suisse-2026)
 - [DSO und nDSG gegenüber KI: praktische Pflichten](/fr/blog/dpo-nlpd-ia-obligations-pratiques-pme-suisse)
 - [Kostenloser KI-Audit](/fr/contact)
+
+{/* cocon-links:start */}
+## Pour aller plus loin
+
+- [für die Berufsbildung und Lehre der Schweiz](https://iapmesuisse.ch/de/blog/ia-formation-apprentissage-suisse-2026)
+{/* cocon-links:end */}

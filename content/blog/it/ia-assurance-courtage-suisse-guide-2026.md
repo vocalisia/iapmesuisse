@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Intelligenza artificiale nel settore assicurativo svizzero: sottoscrizione IA, rilevamento delle frodi, servizio clienti chatbot, automazione dei sinistri. Guida per mediatori indipendenti e assicuratori 2026."
 author: "Laurent Duplat"
 slug: "ia-assurance-courtage-suisse-guide-2026"
-image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 ## Introduzione

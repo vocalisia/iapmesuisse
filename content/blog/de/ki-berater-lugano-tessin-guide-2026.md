@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "KI-Markt in Lugano und dem Tessin 2026: Besonderheiten des dreisprachigen Tessiner Marktes, lokale Akteure, digitale Transformation für KMU im Südschweizer Raum."
 author: "Laurent Duplat"
 slug: "ki-berater-lugano-tessin-guide-2026"
-image: "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # KI-Berater in Lugano und dem Tessin: Leitfaden für KMU 2026

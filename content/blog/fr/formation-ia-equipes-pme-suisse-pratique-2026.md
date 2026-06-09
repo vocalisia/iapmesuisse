@@ -4,7 +4,7 @@ date: "2026-05-19"
 excerpt: "Comment former les équipes d'une PME suisse à l'IA en 2026 : programme de formation adapté aux PME romandes, outils de montée en compétence, certification, et retours d'expérience concrets."
 author: "Laurent Duplat"
 slug: "formation-ia-equipes-pme-suisse-pratique-2026"
-image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Former vos équipes à l'IA en PME suisse : guide pratique 2026

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Secure Mobile Device Management for Swiss SMEs"
 date: "2026-04-28"
 excerpt: "Optimise mobile security in Swiss SMEs with effective cloud solutions."

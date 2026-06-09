@@ -1,4 +1,4 @@
----
+﻿---
 title: "Free AI Audit for Swiss SMEs · nFADP + AI Act 2026 Checklist"
 date: "2026-05-01"
 excerpt: "How to book a free AI audit for your Swiss SME in 2026. nFADP + AI Act checklist, 5 quick wins, ROI estimate in 30 minutes."

@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "KI in Schweizer Treuhandkanzleien: OCR-Buchhaltung, automatisierte MwSt, KI-Jahresabschluss, Bexio und ProffixPX erweitert. nDSG-Konformität, messbarer ROI."
 author: "Laurent Duplat"
 slug: "ia-fiduciaire-comptable-suisse-guide-2026"
-image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 lang: "de"
 category: "Treuhand & Buchhaltung"
 tags: ["KI Treuhand", "Buchhaltung automatisieren", "Bexio KI", "nDSG Treuhand", "Schweizer KMU"]

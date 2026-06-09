@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "IA e Industria 4.0 in Svizzera: manutenzione predittiva, controllo qualità IA, automazione robotica, IoT industriale. Guida per PMI industriali della Romandia e della Svizzera tedesca 2026."
 author: "Laurent Duplat"
 slug: "ia-industrie-4-0-suisse-pme-2026"
-image: "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Industria 4.0 e IA per le PMI industriali svizzere: guida 2026

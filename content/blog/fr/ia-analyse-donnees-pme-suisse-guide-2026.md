@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Comment une PME suisse exploite l'IA pour analyser ses données : tableaux de bord IA, prévisions, analyse client, Business Intelligence accessible. Guide pratique 2026."
 author: "Laurent Duplat"
 slug: "ia-analyse-donnees-pme-suisse-guide-2026"
-image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # IA et analyse de données pour PME suisses : transformer vos chiffres en décisions

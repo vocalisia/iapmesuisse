@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Optimise the supply chain with AI in Switzerland: demand forecasting, smart inventory management, automated supplier orders, AI traceability. SME guide 2026."
 author: "Laurent Duplat"
 slug: "ia-logistique-supply-chain-suisse-2026"
-image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # AI for Logistics and Supply Chain in Switzerland: SME Guide 2026

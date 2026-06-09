@@ -6,7 +6,7 @@ slug: "masschallenge-suisse-guide-2026"
 category: "Innovation & Financement"
 author: "Laurent Duplat"
 locale: "fr"
-image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # MassChallenge Suisse 2026 : le guide complet

@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Artificial intelligence in Swiss real estate: automated valuation, buyer-property matching, AI listings, document analysis. Use cases Geneva, Zurich, Valais."
 author: "Laurent Duplat"
 slug: "ia-immobilier-suisse-agence-guide-2026"
-image: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # AI for Swiss real estate agencies and developers: guide 2026

@@ -6,7 +6,7 @@ slug: "accelerateur-startup-suisse-2026"
 category: "Innovation & Financement"
 author: "Laurent Duplat"
 locale: "fr"
-image: "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Accélérateur startup Suisse : guide complet 2026

@@ -3,7 +3,7 @@ title: "Tesla, a Model of AI Integration for Swiss Businesses"
 date: "2026-03-24"
 excerpt: "A detailed analysis of Tesla's AI integration across manufacturing, sales, customer service, Autopilot, and energy, and the concrete lessons Swiss SMEs can draw from it."
 slug: "tesla-modele-ia-entreprise-suisse"
-image: "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&h=400&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Tesla, a Model of AI Integration for Swiss Businesses

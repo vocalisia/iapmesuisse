@@ -3,7 +3,7 @@ title: "Tesla: Ein Modell für die Integration von KI für Schweizer Unternehmen
 date: "2026-03-24"
 excerpt: "Detaillierte Analyse der KI-Integration bei Tesla in den Bereichen Produktion, Verkauf, Kundenservice, Autopilot und Energie – und konkrete Lektionen für Schweizer KMU."
 slug: "tesla-modele-ia-entreprise-suisse"
-image: "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&h=400&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Tesla: Ein Modell für die Integration von KI für Schweizer Unternehmen

@@ -3,7 +3,7 @@ title: "How AI is Transforming the Electric Vehicle Industry in Switzerland"
 date: "2026-03-27"
 excerpt: "Discover how artificial intelligence is revolutionizing Switzerland's electric vehicle industry: Tesla Autopilot, fleet management, connected dealerships, and AI-driven sustainable mobility."
 slug: "ia-vehicules-electriques-revolution-suisse"
-image: "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800&h=400&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # How AI is Transforming the Electric Vehicle Industry in Switzerland

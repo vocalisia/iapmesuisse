@@ -6,7 +6,7 @@ slug: "subventions-pme-suisse-guide-2026"
 category: "Innovation & Financement"
 author: "Laurent Duplat"
 locale: "fr"
-image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Subventions PME Suisse 2026 : guide complet

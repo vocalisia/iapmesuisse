@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Comment une agence IA marketing accompagne les PME suisses : contenu multilingue, SEO local, Google Ads IA, LinkedIn B2B, lead generation automatisée. Différence accompagnement one-shot vs continu. Spécificités romandes."
 author: "Laurent Duplat"
 slug: "accompagnement-pme-ia-marketing-suisse-2026"
-image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Accompagnement PME par une agence IA marketing en Suisse : guide complet 2026

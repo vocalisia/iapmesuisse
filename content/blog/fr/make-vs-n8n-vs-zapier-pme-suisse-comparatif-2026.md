@@ -4,7 +4,7 @@ date: "2026-05-17"
 excerpt: "Comparatif Make, n8n et Zapier pour PME suisses : tarifs CHF, conformité nLPD, hébergement souverain, intégrations bancaires Bexio, performances réelles. Le verdict pour 2026."
 author: "Laurent Duplat"
 slug: "make-vs-n8n-vs-zapier-pme-suisse-comparatif-2026"
-image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Make vs n8n vs Zapier : quel outil d'automatisation choisir pour une PME suisse en 2026

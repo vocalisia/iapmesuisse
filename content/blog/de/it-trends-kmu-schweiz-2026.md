@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Überblick über die IT- und KI-Trends für Schweizer KMU 2026: Swiss AI-Marktgrösse, GenAI, KI-Agenten, souveräne Cloud, nDSG-Compliance. Strategischer Leitfaden für Unternehmerinnen und Unternehmer."
 author: "Laurent Duplat"
 slug: "it-trends-kmu-schweiz-2026"
-image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # IT-Trends für KMU in der Schweiz 2026: Markt, KI-Adoption und Roadmap

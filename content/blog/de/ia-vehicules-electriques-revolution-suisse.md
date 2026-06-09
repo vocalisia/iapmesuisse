@@ -3,7 +3,7 @@ title: "Wie KI die Elektrofahrzeugindustrie in der Schweiz transformiert"
 date: "2026-03-27"
 excerpt: "Erfahren Sie, wie künstliche Intelligenz die Elektrofahrzeugindustrie in der Schweiz revolutioniert: Tesla Autopilot, Flottenmanagement, vernetzte Autohäuser und durch KI gesteuerte nachhaltige Mobilität."
 slug: "ia-vehicules-electriques-revolution-suisse"
-image: "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800&h=400&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Wie KI die Elektrofahrzeugindustrie in der Schweiz transformiert

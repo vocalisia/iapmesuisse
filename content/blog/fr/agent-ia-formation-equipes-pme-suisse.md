@@ -15,7 +15,7 @@ image: /images/blog/iapme-seo-aio/agent-ia-formation-equipes-pme-suisse-photo.jp
 
 Un **agent IA** ne produit de la valeur que si les equipes savent l'utiliser correctement. Dans une PME suisse, la formation est souvent le facteur qui separe un projet utile d'un gadget. Les collaborateurs doivent comprendre ce que l'agent peut faire, ce qu'il ne doit pas faire, comment verifier une reponse et quand reprendre la main.
 
-Cet article est un satellite de la page mere [agent IA pour PME suisse](/fr/blog/agent-ia-pme-suisse-guide-2026). Il complete le cluster SEO/AIO avec un angle humain : adoption, formation et gouvernance interne.
+Cet article est un satellite de la page mere [agent IA pour PME suisse](/fr/blog/agent-ia-pme-suisse-guide-2026). Il complete le cluster SEO et recherche IA avec un angle humain : adoption, formation et gouvernance interne.
 
 ## Pourquoi former avant d'automatiser
 
@@ -53,7 +53,7 @@ Pas au meme niveau. Les utilisateurs quotidiens ont besoin d'ateliers pratiques.
 
 Non. Il faut prevoir des retours d'experience, des exemples internes et des ajustements apres les premiers usages.
 
-### Quel lien avec le SEO et l'AIO ?
+### Quel lien avec le SEO et la recherche IA ?
 
 Une entreprise qui documente clairement ses usages IA peut ensuite publier des contenus plus utiles, plus concrets et plus faciles a citer par les moteurs IA.
 

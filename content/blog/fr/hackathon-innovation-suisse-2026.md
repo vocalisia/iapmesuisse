@@ -6,7 +6,7 @@ slug: "hackathon-innovation-suisse-2026"
 category: "Innovation & Financement"
 author: "Laurent Duplat"
 locale: "fr"
-image: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Hackathon Innovation Suisse 2026 : guide complet

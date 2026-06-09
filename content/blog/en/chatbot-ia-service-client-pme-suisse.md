@@ -1,4 +1,4 @@
----
+﻿---
 title: "AI Chatbot for Swiss SMEs: The Implementation Guide 2026"
 date: "2026-04-22"
 excerpt: "Everything a Swiss SME needs to know to implement an AI chatbot: types, costs in CHF, platforms, nLPD compliance, key steps, and KPIs to monitor."

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Automating Accounting with AI in Switzerland"
 date: "2026-03-26"
 excerpt: "How artificial intelligence is transforming accounting for Swiss SMEs: tools, invoice automation, VAT compliance, time savings, and costs in CHF."

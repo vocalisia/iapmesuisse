@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Alle verfügbaren Subventionen zur Finanzierung Ihres KI-Projekts in der Schweiz 2026: Innosuisse, kantonale Förderungen, F&E-Steuerabzug, Horizon-Europafonds. Vollständiger Leitfaden."
 author: "Laurent Duplat"
 slug: "ia-subventions-aides-digitalisation-pme-suisse-2026"
-image: "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Subventionen und Förderungen zur KI-Digitalisierung für Schweizer KMU: Leitfaden 2026

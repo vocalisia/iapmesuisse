@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Intelligence artificielle dans les fiduciaires suisses : OCR comptable, TVA automatisée, clôtures IA, Bexio et ProffixPX augmentés. Conformité nLPD, ROI mesurable."
 author: "Laurent Duplat"
 slug: "ia-fiduciaire-comptable-suisse-guide-2026"
-image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # IA pour les fiduciaires et comptables suisses : guide pratique 2026

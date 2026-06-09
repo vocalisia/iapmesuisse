@@ -4,7 +4,7 @@ date: "2026-05-17"
 excerpt: "Everything about autonomous AI agents for Swiss SMEs: difference from chatbots, Claude/GPT/Mistral frameworks, use cases in retail and services, Swiss FADP/AI Act compliance, real ROI."
 author: "Laurent Duplat"
 slug: "agents-ia-autonomes-pme-suisse-2026"
-image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Autonomous AI agents for Swiss SMEs: strategic guide 2026
@@ -145,3 +145,8 @@ Autonomous AI agents are no longer a marketing promise in 2026: they are operati
 - [AI voice assistant for SMEs: complete guide](/fr/blog/assistant-vocal-ia-pme-guide-complet)
 - [EU AI Act and compliance for Swiss SMEs 2026](/fr/blog/ai-act-eu-pme-suisse-conformite-2026)
 - [Free AI audit for your SME](/fr/contact)
+{/* cocon-links:start */}
+## Pour aller plus loin
+
+- [AI-powered WhatsApp Business automation for Swiss SMEs](https://iapmesuisse.ch/en/blog/automatisation-whatsapp-business-ia-pme-suisse)
+{/* cocon-links:end */}

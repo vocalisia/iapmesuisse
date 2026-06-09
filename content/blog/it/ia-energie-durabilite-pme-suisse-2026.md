@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "L'IA al servizio della transizione energetica delle PMI svizzere: ottimizzazione dei consumi energetici, reporting ESG automatizzato, pompe di calore intelligenti, sussidi energetici."
 author: "Laurent Duplat"
 slug: "ia-energie-durabilite-pme-suisse-2026"
-image: "https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # IA per l'energia e la sostenibilità delle PMI svizzere: guida 2026

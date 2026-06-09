@@ -1,4 +1,4 @@
----
+﻿---
 title: "AI Audit: Assessing Your SME's Digital Maturity"
 date: "2026-03-26"
 excerpt: "How can Swiss SMEs evaluate their AI maturity? Comprehensive audit methodology, evaluation framework, costs in CHF, and a concrete action plan for progress."

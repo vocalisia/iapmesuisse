@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Comment l'IA renforce la cybersécurité des PME suisses : détection d'anomalies, phishing IA, sauvegardes intelligentes, conformité nLPD. Guide pratique 2026."
 author: "Laurent Duplat"
 slug: "ia-cybersecurite-pme-suisse-2026"
-image: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # IA et cybersécurité pour PME suisses : protéger votre entreprise en 2026

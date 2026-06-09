@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Wie innovative Schweizer Startups und KMU KI nutzen, um ihre Produktentwicklung, ihren Go-to-Market und ihre Finanzierungsrunden zu beschleunigen. Ökosystem EPFL, ETH, Innosuisse."
 author: "Laurent Duplat"
 slug: "ia-innovation-startup-suisse-guide-2026"
-image: "https://images.unsplash.com/photo-1553484771-047a44eee27b?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # KI und Innovation in Schweizer Startups: mit Künstlicher Intelligenz beschleunigen

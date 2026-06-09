@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Faire tourner des LLM en local avec Ollama pour une PME suisse : modèles disponibles, cas d'usage, performance, souveraineté maximale des données. Guide pratique 2026."
 author: "Laurent Duplat"
 slug: "llm-local-ollama-suisse-pme-guide-2026"
-image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Ollama et LLM locaux pour PME suisses : IA sans cloud, sans coût

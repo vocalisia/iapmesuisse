@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "IA dans les services financiers suisses : détection de fraude, conseil automatisé, conformité FINMA, credit scoring IA. Guide fintechs et gérants de fortune indépendants."
 author: "Laurent Duplat"
 slug: "ia-fintech-services-financiers-suisse-2026"
-image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # IA pour les fintech et services financiers suisses : guide 2026

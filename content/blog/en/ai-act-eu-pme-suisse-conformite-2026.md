@@ -1,4 +1,4 @@
----
+﻿---
 title: "EU AI Act & Swiss SMEs: 2026 Compliance Guide"
 date: "2026-05-01"
 excerpt: "The EU AI Act applies to Swiss SMEs with EU clients. 2025-2027 deadlines, classification, obligations, sanctions, 7-step checklist."

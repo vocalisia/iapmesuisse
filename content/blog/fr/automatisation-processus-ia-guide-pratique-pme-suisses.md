@@ -4,7 +4,7 @@ author: "Laurent Duplat"
 date: "2026-03-26"
 excerpt: "Guide pratique pour automatiser vos processus par IA en PME suisse : outils, budget en CHF, conformité nLPD, ROI et roadmap 90 jours. Cas concrets romands."
 slug: "automatisation-processus-ia-guide-pratique-pme-suisses"
-image: "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=800&h=400&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Automatisation des Processus par IA : Guide Pratique pour PME Suisses

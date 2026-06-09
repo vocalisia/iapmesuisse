@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "IA nella formazione professionale svizzera: e-learning personalizzato, creazione di corsi con IA, simulazione di formazione, conformità LFPr. Guida per centri di formazione e scuole professionali."
 author: "Laurent Duplat"
 slug: "ia-formation-apprentissage-suisse-2026"
-image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # IA per la formazione professionale e l'apprendistato in Svizzera: guida 2026

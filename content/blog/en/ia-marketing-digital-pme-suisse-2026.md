@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Transform the digital marketing of a Swiss SME with AI: multilingual content creation, automated SEO, AI-powered Google Ads, social media, email marketing. Measurable ROI."
 author: "Laurent Duplat"
 slug: "ia-marketing-digital-pme-suisse-2026"
-image: "https://images.unsplash.com/photo-1533750349088-cd871a92f312?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # AI for Digital Marketing of Swiss SMEs: Complete Guide 2026

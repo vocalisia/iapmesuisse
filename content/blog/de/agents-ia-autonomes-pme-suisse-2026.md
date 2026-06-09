@@ -4,7 +4,7 @@ date: "2026-05-17"
 excerpt: "Alles über autonome KI-Agenten im KMU-Umfeld: Unterschied zu Chatbots, Claude/GPT/Mistral-Frameworks, Anwendungsfälle in Handel und Dienstleistungen, nDSG/AI Act-Konformität, echter ROI."
 author: "Laurent Duplat"
 slug: "agents-ia-autonomes-pme-suisse-2026"
-image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Autonome KI-Agenten für Schweizer KMU: strategischer Leitfaden 2026

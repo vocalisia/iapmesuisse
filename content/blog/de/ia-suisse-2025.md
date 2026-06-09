@@ -7,7 +7,7 @@ lang: "de"
 slug: "ia-suisse-2025"
 category: "KI-Strategie"
 tags: ["KI Schweiz", "KMU Digitalisierung", "Generative KI", "nDSG", "KI-Adoption"]
-image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=400&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # KI in der Schweiz: Bestandsaufnahme 2025

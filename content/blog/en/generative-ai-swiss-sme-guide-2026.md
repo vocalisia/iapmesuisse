@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Complete guide to generative AI for Swiss SMEs: Claude, GPT-4, Mistral, Gemini, use cases by business process, nFADP compliance and Swiss sovereign hosting."
 author: "Laurent Duplat"
 slug: "generative-ai-swiss-sme-guide-2026"
-image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Generative AI for Swiss SMEs: Practical Guide 2026
@@ -147,3 +147,11 @@ For a Swiss SME, the practical distinction:
 - [AI Consulting for Swiss SMEs : Complete Guide 2026](/en/ki-beratung-kmu-schweiz)
 - [AI Agency for Swiss SMEs : Comparison and Selection 2026](/en/agence-ia-suisse)
 - [AI Chatbot for Swiss Businesses : Solutions and ROI 2026](/en/chatbot-ia-entreprise-suisse)
+
+{/* cocon-links:start */}
+## Pour aller plus loin
+
+- [Digital Audit for Swiss SMEs The Complete](https://iapmesuisse.ch/en/blog/digital-audit-sme-switzerland-guide-2026)
+- [Chatbot for Swiss SMEs The Implementation Guide](https://iapmesuisse.ch/en/blog/chatbot-ia-service-client-pme-suisse)
+- [Consulting for Swiss SMEs The Complete Guide](https://iapmesuisse.ch/en/blog/ai-consulting-sme-switzerland-guide-2026)
+{/* cocon-links:end */}

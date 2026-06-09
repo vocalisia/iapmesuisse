@@ -4,7 +4,7 @@ date: "2026-05-17"
 excerpt: "KI-gestützte Automatisierung von E-Mail-Eingang und -Ausgang im Schweizer KMU: intelligente Sortierung, automatische mehrsprachige Antworten FR/DE/IT, nDSG-Konformität."
 author: "Laurent Duplat"
 slug: "automatisation-emails-ia-pme-suisse-guide-2026"
-image: "https://images.unsplash.com/photo-1526554850534-7c78330d5f90?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # E-Mail-Automatisierung mit KI für Schweizer KMU: vollständiger Leitfaden 2026
@@ -80,3 +80,8 @@ Siehe auch: [Kostenlose KI-Tools für Schweizer KMU: Top 15](/fr/blog/outils-ia-
 - [n8n self-hosted für Schweizer KMU](/fr/blog/n8n-auto-heberge-pme-suisse-nlpd)
 - [Autonome KI-Agenten für Schweizer KMU](/fr/blog/agents-ia-autonomes-pme-suisse-2026)
 - [Kostenloser KI-Audit](/fr/contact)
+{/* cocon-links:start */}
+## Pour aller plus loin
+
+- [KI-Tools für KMU der Schweiz Vergleich 2026](https://iapmesuisse.ch/de/blog/ai-tools-fuer-kmu-schweiz-vergleich-2026)
+{/* cocon-links:end */}

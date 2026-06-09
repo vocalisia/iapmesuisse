@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "KI-Workshops und Schulungen für Schweizer KMU: HES-SO, EPFL, ZHAW, Präsenz vs. Online, Programminhalt für Führungskräfte und Mitarbeitende, Zertifizierungen und ROI der KI-Ausbildung."
 author: "Laurent Duplat"
 slug: "ki-workshop-schulung-unternehmen-schweiz-2026"
-image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # KI-Workshop und KI-Schulung für Unternehmen in der Schweiz

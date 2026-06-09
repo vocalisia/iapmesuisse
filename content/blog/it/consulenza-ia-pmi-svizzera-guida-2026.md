@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Come scegliere il consulente IA giusto per la tua PMI svizzera nel 2026. Criteri di selezione, città chiave (Zurigo, Berna, Basilea, Ginevra, Lugano), domande da fare, ROI atteso, conformità LPD."
 author: "Laurent Duplat"
 slug: "consulenza-ia-pmi-svizzera-guida-2026"
-image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Consulenza IA per PMI svizzere: guida completa per scegliere il partner giusto nel 2026

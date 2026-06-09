@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Steigern Sie Ihren Schweizer Online-Shop mit KI: Produktempfehlungen, Chatbot-Kundenservice, automatisiertes SEO, Verkaufsprognosen. Shopify- und WooCommerce-Leitfaden 2026."
 author: "Laurent Duplat"
 slug: "ia-e-commerce-shopify-suisse-guide-2026"
-image: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # KI für den Schweizer E-Commerce (Shopify, WooCommerce): Praxisleitfaden 2026

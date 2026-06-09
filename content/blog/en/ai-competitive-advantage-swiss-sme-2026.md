@@ -1,10 +1,10 @@
----
+﻿---
 title: "AI as a Lasting Competitive Advantage for Swiss SMEs: Executive Guide 2026"
 date: "2026-05-27"
 excerpt: "How Swiss SMEs adopting AI outperform their competitors: FSO data, real cases, executive roadmap. Building AI leadership skills for Swiss managers and executives."
 author: "Laurent Duplat"
 slug: "ai-competitive-advantage-swiss-sme-2026"
-image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # AI as a Lasting Competitive Advantage for Swiss SMEs: Executive Guide 2026

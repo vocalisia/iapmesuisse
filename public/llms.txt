@@ -1,5 +1,8 @@
 # IA PME Suisse
 
+Sitemap: https://iapmesuisse.ch/sitemap.xml
+Robots: https://iapmesuisse.ch/robots.txt
+
 > Plateforme de solutions IA pour les PME suisses. Automatisation, productivite et transformation digitale pour petites et moyennes entreprises en Suisse.
 
 Sitemap: https://iapmesuisse.ch/sitemap.xml

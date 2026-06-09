@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "KI-Übersetzung für Schweizer KMU: DeepL, Claude, mehrsprachige Übersetzung FR/DE/IT/EN, kulturelle Lokalisierung, Konformität für regulierte Inhalte. Praxisleitfaden 2026."
 author: "Laurent Duplat"
 slug: "ia-traduction-interpretation-suisse-2026"
-image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # KI und maschinelle Übersetzung für Schweizer KMU: Mehrsprachigkeit leicht gemacht

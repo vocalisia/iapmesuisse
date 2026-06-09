@@ -4,7 +4,7 @@ date: "2026-05-17"
 excerpt: "Guida completa n8n self-hosted in Svizzera: deployment Infomaniak/Exoscale, conformità nLPD, ROI, casi d'uso fiduciaria e medico. Sovranità totale dei dati."
 author: "Laurent Duplat"
 slug: "n8n-auto-heberge-pme-suisse-nlpd"
-image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # n8n self-hosted per PMI svizzere: la via dell'automazione sovrana

@@ -7,7 +7,7 @@ slug: "dpo-nlpd-ia-obligations-pratiques-pme-suisse"
 lang: "de"
 category: "Datenschutz & Compliance"
 tags: ["nDSG", "Datenschutz", "DSB", "KI-Compliance", "KMU Schweiz"]
-image: "https://images.unsplash.com/photo-1554224154-22dec7ec8818?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # DSB und nDSG bei KI: praktische Pflichten für Schweizer KMU (2026)

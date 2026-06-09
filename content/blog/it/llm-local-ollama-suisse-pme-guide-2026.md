@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Eseguire LLM in locale con Ollama per una PMI svizzera: modelli disponibili, casi d'uso, performance, massima sovranità dei dati. Guida pratica 2026."
 author: "Laurent Duplat"
 slug: "llm-local-ollama-suisse-pme-guide-2026"
-image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Ollama e LLM locali per le PMI svizzere: IA senza cloud, senza costi

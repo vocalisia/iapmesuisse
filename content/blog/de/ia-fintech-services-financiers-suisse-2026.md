@@ -7,7 +7,7 @@ lang: "de"
 category: "Fintech"
 tags: ["KI Fintech", "FINMA Konformität", "Vermögensverwaltung", "Kreditscoring", "RegTech Schweiz"]
 slug: "ia-fintech-services-financiers-suisse-2026"
-image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 Die Schweiz ist der **drittgrösste Finanzplatz der Welt**. Zürich und Genf beherbergen Hunderte von Fintechs und Tausende unabhängiger Vermögensverwalter, die unter dem Druck zunehmender Regulierung, steigender Compliance-Kosten und des Wettbewerbs mit automatisierten Plattformen stehen. Im Jahr 2026 gestaltet Künstliche Intelligenz den Schweizer Finanzsektor auf allen Ebenen neu — von den Grossbanken bis zum Vermögensverwaltungsbüro mit fünf Mitarbeitenden in Zug oder Genf.

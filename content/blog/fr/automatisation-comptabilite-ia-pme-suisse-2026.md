@@ -7,7 +7,7 @@ category: "Automatisation IA"
 author: "Laurent Duplat"
 lang: "fr"
 tags: ["automatisation comptabilité", "IA PME suisse", "Bexio IA", "comptabilité automatique", "OCR factures"]
-image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&q=80"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Automatiser la comptabilité d'une PME suisse avec l'IA : guide complet 2026

@@ -3,7 +3,7 @@ title: "Trasformazione Digitale IA delle PMI Svizzere: Casi Studio e Strategie 2
 date: "2026-03-26"
 excerpt: "Trasformazione digitale IA per PMI svizzere nel 2026: 6 casi studio, sovvenzioni Innosuisse, strategie concrete e ROI misurati in Svizzera."
 slug: "transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026"
-image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800&h=400&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Trasformazione Digitale IA delle PMI Svizzere Italofone: Studi di Caso e Strategie 2026

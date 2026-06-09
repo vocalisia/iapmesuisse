@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "So führen Sie ein vollständiges Digital- und KI-Audit für Ihr Schweizer KMU durch: IT-Infrastruktur, KI-Reifegrad, DSG-Konformität, Cybersicherheit. Schritt-für-Schritt mit Fokus auf Genf und Bern."
 author: "Laurent Duplat"
 slug: "digital-audit-kmu-schweiz-leitfaden-2026"
-image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Digital Audit für KMU in der Schweiz: Der vollständige Leitfaden 2026
@@ -146,3 +146,9 @@ Auslöser für ein ungeplantes Audit: Führungswechsel, Unternehmensübernahme, 
 - [KI-Beratung für KMU Schweiz : vollständiger Leitfaden 2026](/de/ki-beratung-kmu-schweiz)
 - [KI-Agentur für Schweizer KMU : Vergleich und Kriterien 2026](/de/agence-ia-suisse)
 - [KI-Chatbot für Schweizer Unternehmen : Lösungen und ROI 2026](/de/chatbot-ia-entreprise-suisse)
+
+{/* cocon-links:start */}
+## Pour aller plus loin
+
+- [KI-Beratung für KMU der Schweiz Der vollständige](https://iapmesuisse.ch/de/blog/ki-beratung-kmu-schweiz-leitfaden-2026)
+{/* cocon-links:end */}

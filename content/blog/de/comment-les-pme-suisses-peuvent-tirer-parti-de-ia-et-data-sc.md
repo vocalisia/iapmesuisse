@@ -36,3 +36,9 @@ In der Schweiz ist der Datenschutz von entscheidender Bedeutung. Das neue Datens
 4. **Arbeiten Sie mit Experten zusammen**: Ziehen Sie Berater oder lokale Startups hinzu, die auf digitale Transformation spezialisiert sind, um Sie auf Ihrem digitalen Weg zu begleiten.
 
 Abschließend ermöglicht die Einführung von KI und Data Science Schweizer KMU, wettbewerbsfähig und innovativ zu bleiben. Bei IAPME Schweiz setzen wir uns dafür ein, Unternehmen auf ihrem digitalen Transformationsweg zu unterstützen, indem wir Ressourcen und maßgeschneiderte Ratschläge für jede Phase ihres digitalen Weges bereitstellen.
+
+{/* cocon-links:start */}
+## Pour aller plus loin
+
+- [und Übersetzung Chancen für Schweizer KMU](https://iapmesuisse.ch/de/blog/ia-traduction-opportunites-pme-suisses)
+{/* cocon-links:end */}

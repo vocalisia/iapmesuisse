@@ -4,7 +4,7 @@ author: "Laurent Duplat"
 date: "2026-03-25"
 excerpt: "Retours d'expérience concrets sur l'automatisation du service client avec l'IA en Suisse : secteur médical, immobilier, automobile et commerce. Résultats chiffrés et bonnes pratiques."
 slug: "automatisation-service-client-ia-suisse"
-image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=400&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Automatiser son service client avec l'IA en Suisse : retours d'expérience

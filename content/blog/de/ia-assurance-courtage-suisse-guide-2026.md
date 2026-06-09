@@ -7,7 +7,7 @@ lang: "de"
 slug: "ia-assurance-courtage-suisse-guide-2026"
 category: "Branchenlösungen"
 tags: ["Versicherung", "Makler", "Betrugserkennung", "FINMA", "Schadenmanagement"]
-image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # KI für den Schweizer Versicherungs- und Maklersektor: Leitfaden 2026

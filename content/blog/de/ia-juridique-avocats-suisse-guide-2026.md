@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "KI in Schweizer Anwaltskanzleien: automatisierte Rechtsrecherche, KI-gestützte Vertragsentwürfe, Due Diligence, Standesrechtkonformität. Praxisbeispiele aus der Deutsch- und Westschweiz."
 author: "Laurent Duplat"
 slug: "ia-juridique-avocats-suisse-guide-2026"
-image: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # KI für Schweizer Anwältinnen, Anwälte und Kanzleien: Leitfaden 2026

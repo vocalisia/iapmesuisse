@@ -7,7 +7,7 @@ slug: "ia-tourisme-hotellerie-suisse-guide-2026"
 lang: "de"
 category: "Tourismus & Hotellerie"
 tags: ["KI Tourismus", "Hotellerie Schweiz", "Revenue Management", "Chatbot", "nDSG"]
-image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 Die Schweiz empfängt jährlich mehr als **38 Millionen Übernachtungen** (BFS, 2025). Dennoch verwalten die meisten Schweizer Hotels, Skistationen und Tourismusbüros ihre Kundenkontakte noch mit manuellen Prozessen, die vor einem Jahrzehnt eingeführt wurden. Im Jahr 2026 verändert KI grundlegend, wie Gäste gebucht, empfangen und betreut werden — von der ersten Suchanfrage bis zur Post-Aufenthalt-Bewertung. Wer jetzt nicht handelt, verliert Marktanteile an Wettbewerber, die bereits automatisieren.

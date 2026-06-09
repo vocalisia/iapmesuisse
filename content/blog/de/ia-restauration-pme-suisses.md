@@ -1,4 +1,4 @@
----
+﻿---
 title: "Wie KI die Gastronomie für Schweizer KMU revolutioniert"
 date: "2026-05-06"
 excerpt: "Künstliche Intelligenz könnte die Art und Weise verändern, wie Schweizer KMU ihre Restaurants kreieren, verwalten und ausbauen, indem sie automatisierte und personalisierte Lösungen integrieren."

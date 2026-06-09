@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Potenziare il tuo ERP svizzero con l'IA: SAP Business One AI, Abacus AI, moduli predittivi, automazione dei processi ERP. Guida per le PMI della Svizzera tedesca e romanda."
 author: "Laurent Duplat"
 slug: "ia-sap-erp-pme-suisse-guide-2026"
-image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # IA per gli ERP svizzeri (SAP, Abacus, ProConcept): guida PMI 2026

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Automating Tasks: A Boon for Swiss SMEs"
 date: "2026-03-28"
 excerpt: "Discover how task automation enhances the efficiency of Swiss SMEs."

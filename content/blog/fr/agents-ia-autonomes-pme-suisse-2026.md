@@ -4,7 +4,7 @@ date: "2026-05-17"
 excerpt: "Tout sur les agents IA autonomes en PME suisse : différences avec les chatbots, frameworks Claude/GPT/Mistral, cas d'usage commerce et services, conformité nLPD/AI Act, ROI réel."
 author: "Laurent Duplat"
 slug: "agents-ia-autonomes-pme-suisse-2026"
-image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Agents IA autonomes pour PME suisses : guide stratégique 2026

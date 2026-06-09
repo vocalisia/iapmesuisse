@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Artificial intelligence in Swiss watchmaking and luxury: AI authentication, premium customer service, AI vision quality control, personalisation. Use cases from the Vallée de Joux, Geneva."
 author: "Laurent Duplat"
 slug: "ia-horlogerie-luxe-suisse-guide-2026"
-image: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # AI for the Swiss Watch and Luxury Industries: 2026 Guide

@@ -45,3 +45,9 @@ Um KI effektiv in ein KMU zu integrieren, hier einige praktische Tipps:
 ## Fazit: Die Zukunft der KI für Schweizer KMU
 
 Die Initiative von Poke zeigt, dass KI auch für KMU mit begrenzten Ressourcen zugänglich und vorteilhaft sein kann. Für Schweizer Unternehmen ist es eine Chance, in einer zunehmend digitalisierten Welt einen Schritt voraus zu sein, während sie die strengen lokalen Vorschriften einhalten. Bei IAPME Schweiz engagieren wir uns dafür, KMU bei ihrer digitalen Transformation zu unterstützen, indem wir ihnen Lösungen anbieten, die ihren Bedürfnissen entsprechen und die Schweizer Datenschutzstandards respektieren.
+
+{/* cocon-links:start */}
+## Pour aller plus loin
+
+- [Schweizer KMU Künstliche Intelligenz mit Bedacht einsetzen](https://iapmesuisse.ch/de/blog/pme-suisses-adopter-ia-avec-discernement)
+{/* cocon-links:end */}

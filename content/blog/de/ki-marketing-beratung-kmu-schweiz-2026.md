@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Wie eine KI-Marketing-Agentur Schweizer KMU unterstützt: mehrsprachiger Content, lokales SEO, Google Ads IA, LinkedIn B2B, automatisierte Leadgenerierung. Einmalberatung vs. laufende Begleitung."
 author: "Laurent Duplat"
 slug: "ki-marketing-beratung-kmu-schweiz-2026"
-image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # KI-Marketing-Beratung für Schweizer KMU: vollständiger Leitfaden 2026

@@ -40,3 +40,9 @@ Es ist auch entscheidend, die Teams von Anfang an in den Prozess einzubeziehen, 
 ## Fazit
 
 Für Schweizer KMU ist die Integration von KI-Assistenten in die Softwareentwicklung nicht nur eine Gelegenheit, Effizienz und Innovation zu verbessern, sondern auch eine Notwendigkeit, um in einem dynamischen Markt wettbewerbsfähig zu bleiben. Bei IAPME Schweiz engagieren wir uns dafür, KMU bei ihrer digitalen Transformation zu unterstützen, indem wir maßgeschneiderte Beratung und Lösungen anbieten, um von aufkommenden Technologien zu profitieren und gleichzeitig die lokalen Vorschriften einzuhalten.
+{/* cocon-links:start */}
+## Mehr zum Thema
+
+- [Sicherheit für Schweizer KMU: KI und Identitätsmanagement](https://iapmesuisse.ch/de/blog/securite-pme-suisses-ia-identites)
+- [Optimierung der Innovation mit Cloud und KI für Schweizer KMU](https://iapmesuisse.ch/de/blog/optimiser-innovation-cloud-ia-pme-suisses)
+{/* cocon-links:end */}

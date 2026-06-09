@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Intelligence artificielle dans l'horlogerie et le luxe suisses : authentification IA, service client premium, contrôle qualité vision IA, personnalisation. Cas d'usage Vallée de Joux, Genève."
 author: "Laurent Duplat"
 slug: "ia-horlogerie-luxe-suisse-guide-2026"
-image: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # IA pour l'horlogerie et les industries du luxe suisses : guide 2026

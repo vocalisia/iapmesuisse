@@ -6,7 +6,7 @@ slug: "deep-tech-accelerator-suisse-2026"
 category: "Innovation & Financement"
 author: "Laurent Duplat"
 locale: "fr"
-image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Deep Tech Accelerator Suisse 2026

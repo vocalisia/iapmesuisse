@@ -113,7 +113,6 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
       "Coaching IA dirigeants",
     ],
     "knowsLanguage": ["fr", "de", "en", "it"],
-    "priceRange": "$$",
     "openingHoursSpecification": {
       "@type": "OpeningHoursSpecification",
       "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],

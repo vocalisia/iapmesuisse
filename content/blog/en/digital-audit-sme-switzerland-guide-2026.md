@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "How to conduct a complete digital and AI audit for your Swiss SME: IT infrastructure, AI maturity, nFADP compliance, cybersecurity. Step-by-step guide with focus on Geneva and Bern."
 author: "Laurent Duplat"
 slug: "digital-audit-sme-switzerland-guide-2026"
-image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Digital Audit for Swiss SMEs: The Complete Guide 2026
@@ -146,3 +146,10 @@ Triggers for an unplanned audit: management change, company acquisition, securit
 - [AI Consulting for Swiss SMEs : Complete Guide 2026](/en/ki-beratung-kmu-schweiz)
 - [AI Agency for Swiss SMEs : Comparison and Selection 2026](/en/agence-ia-suisse)
 - [AI Chatbot for Swiss Businesses : Solutions and ROI 2026](/en/chatbot-ia-entreprise-suisse)
+
+{/* cocon-links:start */}
+## Pour aller plus loin
+
+- [Consulting for Swiss SMEs The Complete Guide](https://iapmesuisse.ch/en/blog/ai-consulting-sme-switzerland-guide-2026)
+- [Audit Assessing Your SME's Digital Maturity](https://iapmesuisse.ch/en/blog/audit-ia-maturite-pme)
+{/* cocon-links:end */}

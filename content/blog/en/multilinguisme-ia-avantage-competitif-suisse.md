@@ -3,7 +3,7 @@ title: "AI Multilingualism: The Competitive Advantage for Swiss Businesses"
 date: "2026-03-23"
 excerpt: "How multilingual AI solutions transform Swiss multilingualism into a competitive advantage: voice assistants, automatic translation, chatbots, and customer service in the four national languages."
 slug: "multilinguisme-ia-avantage-competitif-suisse"
-image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=800&h=400&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # AI Multilingualism: The Competitive Advantage for Swiss Businesses

@@ -4,7 +4,7 @@ date: "2026-05-17"
 excerpt: "Automatizzare WhatsApp Business con l'IA per una PMI svizzera: tariffe in CHF, multilingue nativo FR/DE/IT, conformità nLPD, integrazione Bexio. Guida completa 2026."
 author: "Laurent Duplat"
 slug: "automatisation-whatsapp-business-ia-pme-suisse"
-image: "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 ## Automazione WhatsApp Business con IA per PMI svizzere (FR/DE/IT)

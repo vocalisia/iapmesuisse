@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "How a Swiss SME leverages AI to analyse its data: AI dashboards, forecasting, customer analysis, accessible Business Intelligence. Practical guide 2026."
 author: "Laurent Duplat"
 slug: "ia-analyse-donnees-pme-suisse-guide-2026"
-image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # AI and Data Analysis for Swiss SMEs: Turning Your Numbers into Decisions

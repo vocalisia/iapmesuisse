@@ -6,7 +6,7 @@ slug: "startup-accelerator-switzerland-guide"
 category: "Innovation & Funding"
 author: "Laurent Duplat"
 locale: "en"
-image: "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Startup Accelerator Switzerland 2026: Complete Guide

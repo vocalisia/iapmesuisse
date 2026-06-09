@@ -4,7 +4,7 @@ date: "2026-05-17"
 excerpt: "Come automatizzare la gestione delle email in entrata e uscita con l'IA in una PMI svizzera: smistamento intelligente, risposte automatiche multilingue FR/DE/IT, conformità nLPD."
 author: "Laurent Duplat"
 slug: "automatisation-emails-ia-pme-suisse-guide-2026"
-image: "https://images.unsplash.com/photo-1526554850534-7c78330d5f90?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Automazione email con IA per PMI svizzere: guida completa 2026

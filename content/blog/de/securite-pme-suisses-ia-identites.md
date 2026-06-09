@@ -49,3 +49,9 @@ In der Schweiz stellt das neue Datenschutzgesetz (nDSG) strenge Anforderungen an
 Für Schweizer KMU sind die Integration von KI, das Identitätsmanagement und die Sicherung von Lieferketten wesentliche Aspekte der IT-Sicherheitsstrategie. Durch proaktive Maßnahmen und die Beachtung der neuesten Vorschriften wie dem nDSG können diese Unternehmen nicht nur ihre digitalen Vermögenswerte schützen, sondern auch das Vertrauen ihrer Kunden stärken.
 
 Bei IAPME Schweiz engagieren wir uns dafür, KMU bei ihrer digitalen Transformation zu unterstützen, mit einem Schwerpunkt auf sicheren und konformen Lösungen nach Schweizer Standards. Unsere Mission ist es, Ihnen zu helfen, das Beste aus technologischen Innovationen herauszuholen und gleichzeitig die Sicherheit und den Datenschutz Ihres Unternehmens zu gewährleisten.
+{/* cocon-links:start */}
+## Mehr zum Thema
+
+- [Optimierung der Innovation mit Cloud und KI für Schweizer KMU](https://iapmesuisse.ch/de/blog/optimiser-innovation-cloud-ia-pme-suisses)
+- [Microsoft 365: Sicherheit und Compliance für Schweizer KMU](https://iapmesuisse.ch/de/blog/microsoft-365-securiser-conformite-pme-suisses)
+{/* cocon-links:end */}

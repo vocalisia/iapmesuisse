@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Cloud-Migration auf souveräne Infrastruktur (Exoscale, Infomaniak, SWITCH) und Marketing-Automatisierung für Schweizer KMU. DSG-Konformität, HubSpot, Brevo, Praxisbeispiel."
 author: "Laurent Duplat"
 slug: "cloud-migration-kmu-schweiz-guide-2026"
-image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Cloud-Migration und Marketing-Automatisierung für Schweizer KMU: Leitfaden 2026

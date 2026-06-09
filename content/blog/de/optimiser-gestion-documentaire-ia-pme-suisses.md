@@ -49,3 +49,11 @@ Für Schweizer KMU, die die Einführung von KI im Dokumentenmanagement in Betrac
 Durch eine strategische Einführung von KI können Schweizer KMU nicht nur ihre Dokumentenmanagementprozesse optimieren, sondern auch ihre Wettbewerbsfähigkeit auf dem Markt steigern.
 
 Bei IAPME Schweiz engagieren wir uns dafür, KMU bei der Navigation durch die komplexe Welt der digitalen Transformation zu unterstützen. Mit unserer lokalen Expertise und maßgeschneiderten Lösungen begleiten wir Sie auf jedem Schritt Ihres Weges zur technologischen Innovation.
+{/* cocon-links:start */}
+## Mehr zum Thema
+
+- [KI und Übersetzung: Chancen für Schweizer KMU](https://iapmesuisse.ch/de/blog/ia-traduction-opportunites-pme-suisses)
+- [Optimierung des Hochgeschwindigkeitsinternets für Schweizer KMU](https://iapmesuisse.ch/de/blog/optimiser-internet-haute-vitesse-pme-suisses)
+- [Optimierung der Innovation mit Cloud und KI für Schweizer KMU](https://iapmesuisse.ch/de/blog/optimiser-innovation-cloud-ia-pme-suisses)
+- [Der Einfluss fortschrittlicher KI-Modelle auf Schweizer KMU](https://iapmesuisse.ch/de/blog/impact-modeles-ia-pme-suisses)
+{/* cocon-links:end */}

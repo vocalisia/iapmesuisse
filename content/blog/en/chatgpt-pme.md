@@ -1,9 +1,9 @@
----
+﻿---
 title: "How Swiss SMEs Can Leverage ChatGPT"
 date: "2025-01-15"
 excerpt: "Discover how small and medium-sized enterprises in Switzerland are using ChatGPT to boost productivity, improve communications, and automate everyday tasks."
 slug: "chatgpt-pme"
-image: "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?w=800&h=400&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 author: "Laurent Duplat"
 ---
 

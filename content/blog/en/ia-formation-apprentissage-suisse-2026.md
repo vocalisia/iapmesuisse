@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "AI in Swiss vocational training: personalised e-learning, AI course creation, training simulations, VET Act compliance. Guide for vocational training centres and professional schools."
 author: "Laurent Duplat"
 slug: "ia-formation-apprentissage-suisse-2026"
-image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # AI for Vocational Training and Apprenticeships in Switzerland: 2026 Guide

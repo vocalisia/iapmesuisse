@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Praxisleitfaden Prozessautomatisierung für Schweizer KMU: RPA, n8n, Make, prioritäre Branchen, nDSG-Compliance, ROI je Prozess. Konkrete Workflows und bewährte Methoden aus dem Schweizer KMU-Alltag."
 author: "Laurent Duplat"
 slug: "prozessautomatisierung-kmu-schweiz-guide-2026"
-image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Prozessautomatisierung für KMU in der Schweiz: Praxisleitfaden 2026

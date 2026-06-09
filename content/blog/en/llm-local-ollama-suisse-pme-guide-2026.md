@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Running LLMs locally with Ollama for a Swiss SME: available models, use cases, performance, maximum data sovereignty. Practical guide 2026."
 author: "Laurent Duplat"
 slug: "llm-local-ollama-suisse-pme-guide-2026"
-image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # Ollama and Local LLMs for Swiss SMEs: AI Without Cloud, Without Cost

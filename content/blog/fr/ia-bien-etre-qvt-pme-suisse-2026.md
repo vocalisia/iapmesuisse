@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "IA appliquée à la qualité de vie au travail (QVT) dans les PME suisses : détection du burnout, feedback continu, charge de travail équilibrée, télétravail intelligent. Guide 2026."
 author: "Laurent Duplat"
 slug: "ia-bien-etre-qvt-pme-suisse-2026"
-image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # IA et bien-être au travail dans les PME suisses : guide QVT 2026

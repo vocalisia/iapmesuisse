@@ -7,7 +7,7 @@ lang: "de"
 slug: "ia-construction-btp-suisse-guide-2026"
 category: "Branchenlösungen"
 tags: ["Bauwesen", "Ausschreibungen", "Baustellenmonitoring", "Sicherheit", "BIM"]
-image: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # KI für das Schweizer Bauwesen: Praxisleitfaden 2026

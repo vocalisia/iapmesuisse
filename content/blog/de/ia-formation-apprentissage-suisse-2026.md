@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "KI in der Schweizer Berufsbildung: personalisiertes E-Learning, KI-gestützte Kurserstellung, Lernsimulationen, BBG-Konformität. Leitfaden für Berufsbildungszentren und Berufsschulen."
 author: "Laurent Duplat"
 slug: "ia-formation-apprentissage-suisse-2026"
-image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
 # KI für die Berufsbildung und Lehre in der Schweiz: Leitfaden 2026
@@ -71,3 +71,9 @@ Die Aufsichtsbehörde für den Datenschutz ist der **EDÖB** (Eidgenössischer D
 - [Kostenlose KI-Tools für Schweizer KMU: Top 15](/fr/blog/outils-ia-gratuits-pme-suisse-top-15-2026)
 - [KI-Schulung für KMU-Führungskräfte](/fr/formation-ia-pme)
 - [Kostenloser KI-Audit](/fr/contact)
+
+{/* cocon-links:start */}
+## Pour aller plus loin
+
+- [für und automatisiertes Recruiting der Schweiz Leitfaden](https://iapmesuisse.ch/de/blog/ia-rh-recrutement-automatise-suisse-2026)
+{/* cocon-links:end */}

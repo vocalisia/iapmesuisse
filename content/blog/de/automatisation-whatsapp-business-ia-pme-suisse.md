@@ -4,7 +4,7 @@ date: "2026-05-17"
 excerpt: "WhatsApp Business mit KI automatisieren für ein Schweizer KMU: mehrsprachig nativ FR/DE/IT, nDSG-Konformität, Bexio-Integration. Vollständiger Leitfaden 2026."
 author: "Laurent Duplat"
 slug: "automatisation-whatsapp-business-ia-pme-suisse"
-image: "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=1280&h=720&fit=crop"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
 lang: "de"
 category: "Kommunikation & Automatisierung"
 tags: ["WhatsApp Business", "KI Automatisierung", "Schweizer KMU", "mehrsprachig", "nDSG"]
