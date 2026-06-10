@@ -131,7 +131,7 @@
     "why_items": [
       {
         "title": "Produttività",
-        "description": "Automatizzate le attività ripetitive e liberate tempo per ciÃ² che conta davvero."
+        "description": "Automatizzate le attività ripetitive e liberate tempo per ciò che conta davvero."
       },
       {
         "title": "Competitività",
@@ -165,7 +165,7 @@
       ]
     },
     "cta_title": "Pronti a trasformare la vostra PMI?",
-    "cta_description": "Contattateci per un audit gratuito e scoprite come l'IA puÃ² far crescere la vostra impresa.",
+    "cta_description": "Contattateci per un audit gratuito e scoprite come l'IA può far crescere la vostra impresa.",
     "cta_button": "Contattateci"
   },
   "services": {
@@ -317,7 +317,7 @@
     "guides": [
       {
         "title": "Guida introduttiva all'IA per PMI",
-        "description": "Tutto ciÃ² che dovete sapere per iniziare con l'IA nella vostra impresa."
+        "description": "Tutto ciò che dovete sapere per iniziare con l'IA nella vostra impresa."
       },
       {
         "title": "Checklist integrazione ChatGPT",
@@ -351,7 +351,7 @@
     "faq": [
       {
         "question": "L'IA è adatta alle piccole imprese?",
-        "answer": "Assolutamente sÃ¬. Molti strumenti IA sono accessibili e convenienti, anche per le microimprese. L'importante è identificare i casi d'uso più adatti."
+        "answer": "Assolutamente sì. Molti strumenti IA sono accessibili e convenienti, anche per le microimprese. L'importante è identificare i casi d'uso più adatti."
       },
       {
         "question": "Quanto costa l'integrazione dell'IA?",
@@ -363,7 +363,7 @@
       },
       {
         "question": "Quanto tempo richiede un'integrazione?",
-        "answer": "Un progetto semplice puÃ² essere operativo in poche settimane. I progetti più complessi si estendono su 2-3 mesi."
+        "answer": "Un progetto semplice può essere operativo in poche settimane. I progetti più complessi si estendono su 2-3 mesi."
       },
       {
         "question": "I miei dati restano in Svizzera?",
@@ -395,7 +395,7 @@
       "hosting_title": "Hosting",
       "hosting_text": "iapmesuisse.ch è ospitato da Vercel Inc., 340 S Lemon Ave #4133, Walnut, CA 91789, USA.",
       "intellectual_title": "Proprietà intellettuale",
-      "intellectual_text": "Tutti i contenuti del sito (testi, immagini, loghi, icone) sono proprietà di IAPME Suisse o dei suoi partner. Ãˆ vietata qualsiasi riproduzione, anche parziale, senza autorizzazione scritta.",
+      "intellectual_text": "Tutti i contenuti del sito (testi, immagini, loghi, icone) sono proprietà di IAPME Suisse o dei suoi partner. È vietata qualsiasi riproduzione, anche parziale, senza autorizzazione scritta.",
       "liability_title": "Limitazione di responsabilità",
       "liability_text": "IAPME Suisse si impegna a garantire l'accuratezza delle informazioni pubblicate. Tuttavia, non si assume alcuna garanzia sulla completezza o esattezza.",
       "law_title": "Diritto applicabile",
@@ -405,7 +405,7 @@
       "meta_title": "Informativa sulla privacy",
       "meta_description": "Informativa sulla privacy conforme alla nLPD svizzera.",
       "title": "Informativa sulla privacy",
-      "intro": "IAPME Suisse si impegna a proteggere i vostri dati personali conformemente alla nuova Legge federale sulla protezione dei dati (nLPD), in vigore dal 1Â° settembre 2023.",
+      "intro": "IAPME Suisse si impegna a proteggere i vostri dati personali conformemente alla nuova Legge federale sulla protezione dei dati (nLPD), in vigore dal 1° settembre 2023.",
       "responsible_title": "Titolare del trattamento",
       "responsible_text": "IAPME Suisse\nE-mail: contact@iapmesuisse.ch",
       "data_collected_title": "Dati raccolti",
@@ -781,7 +781,7 @@
         "type": "Webinar",
         "price": "Gratuito",
         "url": "#",
-        "description": "Webinar mensile gratuito: scoprite come l'IA puÃ² trasformare la vostra PMI."
+        "description": "Webinar mensile gratuito: scoprite come l'IA può trasformare la vostra PMI."
       }
     ],
     "submit_button": "Inviare"
@@ -887,7 +887,7 @@
         "name": "Sophie Durand",
         "company": "Durand & Fils SA",
         "location": "Losanna",
-        "text": "La formazione Pro è esattamente ciÃ² di cui il nostro team aveva bisogno. Pragmatica, adattata al contesto svizzero e direttamente applicabile. La consiglio vivamente.",
+        "text": "La formazione Pro è esattamente ciò di cui il nostro team aveva bisogno. Pragmatica, adattata al contesto svizzero e direttamente applicabile. La consiglio vivamente.",
         "rating": 5
       },
       {
@@ -901,7 +901,7 @@
   },
   "faq_page": {
     "title": "Domande frequenti sull'IA per PMI",
-    "subtitle": "Tutto ciÃ² che dovete sapere sull'integrazione dell'IA nella vostra PMI svizzera",
+    "subtitle": "Tutto ciò che dovete sapere sull'integrazione dell'IA nella vostra PMI svizzera",
     "categories": {
       "general": "Generale",
       "technical": "Tecnico",
@@ -936,7 +936,7 @@
       },
       {
         "question": "Cos'è la nLPD?",
-        "answer": "La nuova Legge federale sulla protezione dei dati (nLPD), in vigore dal 1Â° settembre 2023, rafforza i diritti delle persone e gli obblighi delle imprese in materia di dati personali.",
+        "answer": "La nuova Legge federale sulla protezione dei dati (nLPD), in vigore dal 1° settembre 2023, rafforza i diritti delle persone e gli obblighi delle imprese in materia di dati personali.",
         "category": "legal"
       },
       {
@@ -946,12 +946,12 @@
       },
       {
         "question": "Quanto dura un progetto di integrazione?",
-        "answer": "Un progetto semplice (es: chatbot, automazione email) puÃ² essere operativo in 2-4 settimane. I progetti più complessi si estendono su 2-3 mesi.",
+        "answer": "Un progetto semplice (es: chatbot, automazione email) può essere operativo in 2-4 settimane. I progetti più complessi si estendono su 2-3 mesi.",
         "category": "technical"
       },
       {
         "question": "Offrite formazioni in tedesco e italiano?",
-        "answer": "SÃ¬, i nostri servizi sono disponibili in francese, tedesco, italiano e inglese. Copriamo tutte le regioni linguistiche della Svizzera.",
+        "answer": "Sì, i nostri servizi sono disponibili in francese, tedesco, italiano e inglese. Copriamo tutte le regioni linguistiche della Svizzera.",
         "category": "general"
       },
       {
@@ -1019,11 +1019,11 @@
       "levels": {
         "beginner": {
           "name": "Principiante IA",
-          "description": "La vostra PMI è all'inizio del suo percorso IA. Ãˆ il momento ideale per iniziare!"
+          "description": "La vostra PMI è all'inizio del suo percorso IA. È il momento ideale per iniziare!"
         },
         "explorer": {
           "name": "Esploratore IA",
-          "description": "Avete mosso i primi passi. Ãˆ tempo di strutturare il vostro approccio."
+          "description": "Avete mosso i primi passi. È tempo di strutturare il vostro approccio."
         },
         "adopter": {
           "name": "Adottatore IA",

@@ -12,7 +12,7 @@
       "description": "KI-Audit, Schulung, Tool-Integration und CRM-Beratung für Schweizer KMU. Tech-Stack-Vergleich, ChatGPT/Copilot/Claude — Zürich · Bern · Sion. Offerte in 24h."
     },
     "about": {
-      "title": "Ãœber IAPME Suisse – Unsere Mission",
+      "title": "Über IAPME Suisse – Unsere Mission",
       "description": "Lernen Sie das Team von IAPME Suisse kennen und unsere Mission: KI für alle Schweizer KMU zugänglich machen."
     },
     "blog": {
@@ -99,7 +99,7 @@
   "nav": {
     "home": "Startseite",
     "services": "Dienstleistungen",
-    "about": "Ãœber uns",
+    "about": "Über uns",
     "blog": "Blog",
     "contact": "Kontakt",
     "resources": "Ressourcen",
@@ -246,7 +246,7 @@
     "digitalSectionTitle": "Digitales Wachstum durch KI"
   },
   "about": {
-    "title": "Ãœber IAPME Suisse",
+    "title": "Über IAPME Suisse",
     "mission_title": "Unsere Mission",
     "mission_text": "Künstliche Intelligenz für alle Schweizer KMU zugänglich und nutzbar machen – unabhängig von Grösse oder Branche.",
     "why_title": "Warum die Schweiz KI für ihre KMU braucht",
@@ -409,7 +409,7 @@
       "responsible_title": "Verantwortliche Stelle",
       "responsible_text": "IAPME Suisse\nE-Mail: contact@iapmesuisse.ch",
       "data_collected_title": "Erhobene Daten",
-      "data_collected_text": "Ãœber unser Kontaktformular erfassen wir: vollständiger Name, E-Mail-Adresse, Unternehmensname und Nachricht. Diese Daten werden ausschliesslich zur Bearbeitung Ihrer Anfrage erhoben.",
+      "data_collected_text": "Über unser Kontaktformular erfassen wir: vollständiger Name, E-Mail-Adresse, Unternehmensname und Nachricht. Diese Daten werden ausschliesslich zur Bearbeitung Ihrer Anfrage erhoben.",
       "purpose_title": "Zweck der Verarbeitung",
       "purpose_text": "Ihre personenbezogenen Daten werden ausschliesslich verwendet, um Ihre Kontaktanfragen zu beantworten, Ihnen Informationen über unsere Dienstleistungen bereitzustellen und unsere Leistungen zu verbessern.",
       "retention_title": "Aufbewahrungsdauer",
@@ -420,7 +420,7 @@
       "cookies_text": "Diese Website verwendet ausschliesslich technisch notwendige Cookies. Tracking- oder Werbe-Cookies werden nicht eingesetzt.",
       "transfer_title": "Datenübermittlung",
       "transfer_text": "Die Website wird von Vercel Inc. (USA) gehostet. Angemessene Schutzmassnahmen gemäss nDSG sind gewährleistet.",
-      "update_title": "Ã„nderungen",
+      "update_title": "Änderungen",
       "update_text": "IAPME Suisse behält sich das Recht vor, diese Datenschutzerklärung jederzeit zu ändern."
     },
     "terms": {
@@ -723,7 +723,7 @@
       "email_placeholder": "hans@unternehmen.ch",
       "submit": "Kostenlos abonnieren",
       "consent": "Mit Ihrer Anmeldung akzeptieren Sie unsere Datenschutzrichtlinie. Abmeldung jederzeit möglich.",
-      "success": "Willkommen! Ãœberprüfen Sie Ihren Posteingang, um Ihre Anmeldung zu bestätigen."
+      "success": "Willkommen! Überprüfen Sie Ihren Posteingang, um Ihre Anmeldung zu bestätigen."
     },
     "count": "Werden Sie Teil unserer Community innovativer KMU",
     "banner_text": "Erhalten Sie unsere wöchentlichen KI-Tipps",
@@ -796,7 +796,7 @@
       "automation": "Automatisierung",
       "productivity": "Produktivität",
       "hosting": "Hosting",
-      "translation": "Ãœbersetzung"
+      "translation": "Übersetzung"
     },
     "free": "Kostenlos",
     "freemium": "Freemium",
@@ -824,7 +824,7 @@
         "category": "translation",
         "rating": 5,
         "price": "Freemium",
-        "description": "Das beste automatische Ãœbersetzungstool, ideal für mehrsprachige Schweizer KMU.",
+        "description": "Das beste automatische Übersetzungstool, ideal für mehrsprachige Schweizer KMU.",
         "url": "https://www.deepl.com"
       },
       {
@@ -963,7 +963,7 @@
   },
   "partners": {
     "title": "Unsere Partner",
-    "subtitle": "Ein vertrauenswürdiges Ã–kosystem für Ihre Transformation",
+    "subtitle": "Ein vertrauenswürdiges Ökosystem für Ihre Transformation",
     "become_partner": "Partner werden",
     "become_text": "Sie möchten mit IAPME Suisse zusammenarbeiten? Kontaktieren Sie uns.",
     "categories": {
