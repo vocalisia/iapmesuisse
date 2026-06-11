@@ -1,7 +1,7 @@
 ---
-title: "Medtech Accelerator Switzerland 2026: Programs, Regulatory Pathways and AI"
+title: "Medtech Accelerator Switzerland: 2026 Program Guide"
 date: "2026-05-26"
-excerpt: "Switzerland's top medtech accelerators in 2026: DayOne Basel, Switzerland Innovation Park, Venture Kick and Innosuisse pathways. Regulatory guidance, clinical evidence and AI integration for medtech startups."
+excerpt: "Switzerland's medtech accelerator guide for 2026: DayOne Basel, Switzerland Innovation Park, Venture Kick, Innosuisse, regulatory pathways and AI validation."
 slug: "medtech-accelerator-switzerland-guide"
 category: "Innovation & Funding"
 author: "Laurent Duplat"
@@ -9,7 +9,7 @@ locale: "en"
 image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
-# Medtech Accelerator Switzerland 2026
+# Medtech Accelerator Switzerland: 2026 Program Guide
 
 **Short answer:** the strongest medtech accelerator options in Switzerland combine clinical access, regulatory preparation, manufacturing expertise and investor readiness. DayOne Basel, Switzerland Innovation Park, Venture Kick, Innosuisse pathways and regional innovation clusters each serve a different stage of the journey.
 
@@ -159,6 +159,14 @@ We help Swiss medtech SMEs and startups implement AI in their products and opera
 - **Training**: team upskilling on AI tools relevant to medtech R&D and regulatory affairs
 
 [Request a free 30-minute AI consultation for your medtech project](/fr/contact)
+
+---
+
+## Related Swiss AI and Innovation Guides
+
+- [AI for Swiss SMEs: operational guide](/en/blog/intelligence-artificielle-pme-suisses-guide-complet-2026)
+- [Innosuisse grants and Swiss innovation support](/fr/blog/aides-innovation-suisse-2026)
+- [AI compliance for Swiss SMEs](/en/blog/dpo-nlpd-ia-obligations-pratiques-pme-suisse)
 
 ---
 

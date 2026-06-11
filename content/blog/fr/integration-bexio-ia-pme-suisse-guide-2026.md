@@ -1,5 +1,5 @@
 ---
-title: "Intégration de Bexio avec l'IA pour PME suisses : guide complet 2026"
+title: "Bexio IA pour PME suisses : automatiser la compta"
 date: "2026-05-18"
 excerpt: "Connecter Bexio à l'IA : OCR factures, relances automatisées, comptabilité IA, intégration n8n/Make. Le guide pratique pour PME romandes, alémaniques et tessinoises."
 author: "Laurent Duplat"
@@ -7,7 +7,7 @@ slug: "integration-bexio-ia-pme-suisse-guide-2026"
 image: "/images/generated/iapmesuisse-ai-consulting.png"
 ---
 
-# Intégration de Bexio avec l'IA pour PME suisses : guide complet 2026
+# Bexio IA pour PME suisses : automatiser la compta
 
 **Bexio est le logiciel de gestion préféré des PME suisses** : facturation, comptabilité, CRM léger, gestion des contacts, devis, banque. Plus de 60 000 PME suisses l'utilisent quotidiennement en 2026. Pourtant, la majorité d'entre elles n'exploitent qu'une fraction de son potentiel d'automatisation par IA. Ce guide explique concrètement comment connecter Bexio à des outils d'intelligence artificielle pour démultiplier productivité et précision.
 
@@ -130,7 +130,7 @@ Pour la méthode détaillée, voir [ROI de l'intelligence artificielle pour PME 
 1. **Sauter la phase de tests** : un workflow Bexio mal calibré peut polluer la comptabilité (écritures erronées, doublons).
 2. **Confier trop à l'IA dès le départ** : commencer par du semi-automatique (brouillon validé) avant de passer en full auto.
 3. **Mauvaise gestion des tokens OAuth** : un token compromis donne accès à toute votre comptabilité. Rotation régulière obligatoire.
-4. **Ignorer les particularités suisses** : TVA suisse à 8.1 %, dates en format suisse, devise CHF, multilinguisme FR/DE/IT.
+4. **Ignorer les particularités suisses** : TVA suisse, dates en format suisse, devise locale, multilinguisme FR/DE/IT.
 5. **Oublier le backup** : avant tout déploiement IA en production, faire un export complet Bexio.
 
 ## 9. Outils complémentaires utiles
