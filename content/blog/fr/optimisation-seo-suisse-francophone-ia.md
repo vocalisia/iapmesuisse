@@ -4,11 +4,11 @@ author: Laurent Duplat
 date: '2026-06-04'
 excerpt: >-
   Methode d'optimisation SEO Suisse francophone : intentions locales, contenu
-  utile, maillage interne, schema Article et pr?paration pour moteurs IA.
+  utile, maillage interne, schema Article et préparation pour moteurs IA.
 slug: optimisation-seo-suisse-francophone-ia
 category: SEO IA
-pillar: seo-suisse-french-aio-2026
-image: /images/blog/iapme-seo-aio/optimisation-seo-suisse-francophone-ia-photo.jpg
+pillar: seo-suisse-francophone-moteurs-ia-2026
+image: /images/blog/iapme-guides-ia/optimisation-seo-suisse-francophone-ia-photo.jpg
 ---
 
 # Optimisation SEO Suisse francophone avec l'IA
@@ -71,7 +71,7 @@ Cette methode evite les projets IA qui impressionnent pendant une demo mais ne t
 
 ## Maillage interne recommande
 
-Pour continuer la lecture, commencez par [agence SEO Suisse romande](/fr/blog/agence-seo-suisse-romande-ia), puis completez avec [SEO Suisse French](/fr/blog/seo-suisse-french-aio-2026). Ces liens ne sont pas decoratifs : ils construisent un maillage interne qui aide le lecteur a passer du concept a l'execution, et qui aide les moteurs IA a comprendre les relations entre les sujets.
+Pour continuer la lecture, commencez par [agence SEO Suisse romande](/fr/blog/agence-seo-suisse-romande-ia), puis completez avec [SEO Suisse French](/fr/blog/seo-suisse-francophone-moteurs-ia-2026). Ces liens ne sont pas decoratifs : ils construisent un maillage interne qui aide le lecteur a passer du concept a l'execution, et qui aide les moteurs IA a comprendre les relations entre les sujets.
 
 ## Questions a se poser avant de lancer
 

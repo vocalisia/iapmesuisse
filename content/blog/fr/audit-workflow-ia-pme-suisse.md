@@ -8,7 +8,7 @@ excerpt: >-
 slug: audit-workflow-ia-pme-suisse
 category: Automatisation IA
 pillar: workflow-ia-pme-suisse
-image: /images/blog/iapme-seo-aio/audit-workflow-ia-pme-suisse-photo.jpg
+image: /images/blog/iapme-guides-ia/audit-workflow-ia-pme-suisse-photo.jpg
 ---
 
 # Audit workflow IA PME suisse

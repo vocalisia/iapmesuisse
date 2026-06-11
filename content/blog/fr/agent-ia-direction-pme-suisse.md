@@ -8,7 +8,7 @@ excerpt: >-
 slug: agent-ia-direction-pme-suisse
 category: Agents IA
 pillar: intelligence-artificielle-suisse-pme-guide-operationnel
-image: /images/blog/iapme-seo-aio/agent-ia-direction-pme-suisse-photo.jpg
+image: /images/blog/iapme-guides-ia/agent-ia-direction-pme-suisse-photo.jpg
 ---
 
 # Agent IA pour direction de PME suisse

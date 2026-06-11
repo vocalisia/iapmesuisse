@@ -8,7 +8,7 @@ excerpt: >-
 slug: multi-agent-framework-pme-suisse
 category: Agents IA
 pillar: agent-ia-pme-suisse-guide-2026
-image: /images/blog/iapme-seo-aio/multi-agent-framework-pme-suisse-photo.jpg
+image: /images/blog/iapme-guides-ia/multi-agent-framework-pme-suisse-photo.jpg
 ---
 
 # Multi agent framework : utile ou excessif pour une PME ?

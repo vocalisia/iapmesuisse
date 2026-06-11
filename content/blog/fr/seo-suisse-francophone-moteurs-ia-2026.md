@@ -5,15 +5,15 @@ date: '2026-06-04'
 excerpt: >-
   Adapter son SEO Suisse French aux reponses IA, aux exigences Google 2026 et
   aux recherches des PME suisses francophones.
-slug: seo-suisse-french-aio-2026
+slug: seo-suisse-francophone-moteurs-ia-2026
 category: SEO IA
 pillar: optimisation-seo-suisse-francophone-ia
-image: /images/blog/iapme-seo-aio/seo-suisse-french-aio-2026-photo.jpg
+image: /images/blog/iapme-guides-ia/seo-suisse-francophone-moteurs-ia-2026-photo.jpg
 ---
 
 # SEO Suisse French et Recherche IA : strategie 2026
 
-Le **SEO Suisse French** ne se limite plus a positionner des pages sur Google.ch. En 2026, les PME suisses doivent aussi penser aux reponses generees par les moteurs IA, aux citations dans AI Overviews et aux recherches conversationnelles. Cette evolution ne remplace pas le SEO classique, elle le rend plus exigeant.
+Le **SEO Suisse francophone** ne se limite plus a positionner des pages sur Google.ch. En 2026, les PME suisses doivent aussi penser aux reponses generees par les moteurs IA, aux citations dans les réponses générées de Google et aux recherches conversationnelles. Cette evolution ne remplace pas le SEO classique, elle le rend plus exigeant.
 
 Google insiste sur les contenus utiles, fiables, orientes utilisateurs et capables de repondre clairement a une intention. Pour les PME romandes, cela signifie produire des pages qui expliquent un probleme local, donnent une methode et relient les sujets entre eux.
 

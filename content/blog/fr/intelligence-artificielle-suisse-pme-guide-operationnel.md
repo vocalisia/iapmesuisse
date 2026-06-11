@@ -9,7 +9,7 @@ slug: intelligence-artificielle-suisse-pme-guide-operationnel
 category: IA PME Suisses
 pillar: ia-pour-pme-suisses-cas-usages-2026
 image: >-
-  /images/blog/iapme-seo-aio/intelligence-artificielle-suisse-pme-guide-operationnel-photo.jpg
+  /images/blog/iapme-guides-ia/intelligence-artificielle-suisse-pme-guide-operationnel-photo.jpg
 ---
 
 # Intelligence artificielle Suisse PME : guide operationnel

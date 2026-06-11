@@ -44,6 +44,26 @@ const nextConfig: NextConfig = {
         destination: '/:locale/blog/roi-intelligence-artificielle-pme-suisse',
         permanent: true,
       },
+      {
+        source: '/:locale(fr|de|en|it)/blog/aio-llm-citation-pme-suisse',
+        destination: '/:locale/blog/citations-moteurs-ia-pme-suisse',
+        permanent: true,
+      },
+      {
+        source: '/:locale(fr|de|en|it)/blog/google-2026-seo-aio-pme-suisse',
+        destination: '/:locale/blog/google-2026-seo-moteurs-ia-pme-suisse',
+        permanent: true,
+      },
+      {
+        source: '/:locale(fr|de|en|it)/blog/schema-article-faq-howto-aio-suisse',
+        destination: '/:locale/blog/schema-article-faq-howto-suisse',
+        permanent: true,
+      },
+      {
+        source: '/:locale(fr|de|en|it)/blog/seo-suisse-french-aio-2026',
+        destination: '/:locale/blog/seo-suisse-francophone-moteurs-ia-2026',
+        permanent: true,
+      },
     ];
   },
 };

@@ -5,10 +5,10 @@ date: '2026-06-04'
 excerpt: >-
   Utiliser les schemas Article, FAQPage et HowTo pour aider Google et les LLM a
   comprendre les contenus SEO d'une PME suisse.
-slug: schema-article-faq-howto-aio-suisse
+slug: schema-article-faq-howto-suisse
 category: SEO IA
-pillar: aio-llm-citation-pme-suisse
-image: /images/blog/iapme-seo-aio/schema-article-faq-howto-aio-suisse-photo.jpg
+pillar: citations-moteurs-ia-pme-suisse
+image: /images/blog/iapme-guides-ia/schema-article-faq-howto-suisse-photo.jpg
 ---
 
 # Schema Article, FAQ et HowTo : base contenu structur? pour sites suisses
@@ -73,7 +73,7 @@ Cette methode evite les projets IA qui impressionnent pendant une demo mais ne t
 
 ## Maillage interne recommande
 
-Pour continuer la lecture, commencez par [citations par moteurs IA](/fr/blog/aio-llm-citation-pme-suisse), puis completez avec [Google 2026 SEO pour moteurs IA](/fr/blog/google-2026-seo-aio-pme-suisse). Ces liens ne sont pas decoratifs : ils construisent un maillage interne qui aide le lecteur a passer du concept a l'execution, et qui aide les moteurs IA a comprendre les relations entre les sujets.
+Pour continuer la lecture, commencez par [citations par moteurs IA](/fr/blog/citations-moteurs-ia-pme-suisse), puis completez avec [Google 2026 SEO pour moteurs IA](/fr/blog/google-2026-seo-moteurs-ia-pme-suisse). Ces liens ne sont pas decoratifs : ils construisent un maillage interne qui aide le lecteur a passer du concept a l'execution, et qui aide les moteurs IA a comprendre les relations entre les sujets.
 
 ## Questions a se poser avant de lancer
 

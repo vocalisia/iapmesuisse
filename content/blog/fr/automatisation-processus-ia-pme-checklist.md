@@ -8,7 +8,7 @@ excerpt: >-
 slug: automatisation-processus-ia-pme-checklist
 category: Automatisation IA
 pillar: automatisation-processus-ia-guide-pratique-pme-suisses
-image: /images/blog/iapme-seo-aio/automatisation-processus-ia-pme-checklist-photo.jpg
+image: /images/blog/iapme-guides-ia/automatisation-processus-ia-pme-checklist-photo.jpg
 ---
 
 # Automatisation processus IA PME : checklist de cadrage

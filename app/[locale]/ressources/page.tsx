@@ -74,7 +74,9 @@ export default async function ResourcesPage({
             {t('guides_title')}
           </h2>
           <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
-            {guides.map((guide, index) => (
+            {guides.map((guide, index) => {
+              const href = index === 1 ? '/ressources/checklist-nlpd-ai-act' : '/contact';
+              return (
               <div
                 key={index}
                 className="flex flex-col rounded-2xl bg-white p-8 shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-lg"
@@ -101,13 +103,13 @@ export default async function ResourcesPage({
                   {guide.description}
                 </p>
                 <Link
-                  href="/contact"
+                  href={href}
                   className="inline-flex items-center rounded-lg bg-[#1B2A4A] px-5 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-[#FF0000]"
                 >
                   {t('download')}
                 </Link>
               </div>
-            ))}
+            )})}
           </div>
         </div>
       </section>

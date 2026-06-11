@@ -3,12 +3,12 @@ title: 'Contenu people-first Google 2026 : guide PME suisse'
 author: Laurent Duplat
 date: '2026-06-04'
 excerpt: >-
-  Creer du contenu people-first adapte a Google 2026, aux AI Overviews et aux
+  Creer du contenu people-first adapte a Google 2026, aux réponses générées et aux
   besoins reels des PME suisses.
 slug: contenu-people-first-google-2026-pme
 category: SEO IA
-pillar: google-2026-seo-aio-pme-suisse
-image: /images/blog/iapme-seo-aio/contenu-people-first-google-2026-pme-photo.jpg
+pillar: google-2026-seo-moteurs-ia-pme-suisse
+image: /images/blog/iapme-guides-ia/contenu-people-first-google-2026-pme-photo.jpg
 ---
 
 # Contenu people-first Google 2026 pour PME suisse
@@ -71,7 +71,7 @@ Cette methode evite les projets IA qui impressionnent pendant une demo mais ne t
 
 ## Maillage interne recommande
 
-Pour continuer la lecture, commencez par [Google 2026 SEO pour moteurs IA](/fr/blog/google-2026-seo-aio-pme-suisse), puis completez avec [recherche conversationnelle](/fr/blog/recherche-conversationnelle-seo-pme-suisse). Ces liens ne sont pas decoratifs : ils construisent un maillage interne qui aide le lecteur a passer du concept a l'execution, et qui aide les moteurs IA a comprendre les relations entre les sujets.
+Pour continuer la lecture, commencez par [Google 2026 SEO pour moteurs IA](/fr/blog/google-2026-seo-moteurs-ia-pme-suisse), puis completez avec [recherche conversationnelle](/fr/blog/recherche-conversationnelle-seo-pme-suisse). Ces liens ne sont pas decoratifs : ils construisent un maillage interne qui aide le lecteur a passer du concept a l'execution, et qui aide les moteurs IA a comprendre les relations entre les sujets.
 
 ## Questions a se poser avant de lancer
 

@@ -8,7 +8,7 @@ excerpt: >-
 slug: crewai-vs-autogen-pme-suisse
 category: Agents IA
 pillar: multi-agent-framework-pme-suisse
-image: /images/blog/iapme-seo-aio/crewai-vs-autogen-pme-suisse-photo.jpg
+image: /images/blog/iapme-guides-ia/crewai-vs-autogen-pme-suisse-photo.jpg
 ---
 
 # CrewAI vs AutoGen : quel framework pour une PME suisse ?

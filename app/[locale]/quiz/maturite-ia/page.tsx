@@ -4,6 +4,7 @@ import { useLocale } from 'next-intl';
 import QuizEngine, { type QuizQuestion } from '@/components/QuizEngine';
 import QuizResult from '@/components/QuizResult';
 import Breadcrumbs from '@/components/Breadcrumbs';
+import { Link } from '@/i18n/routing';
 import { useState } from 'react';
 
 /* ─────────── Questions per locale ─────────── */
@@ -855,6 +856,14 @@ export default function MaturiteIAPage() {
             </div>
 
             <p className="mt-6 text-sm text-gray-500">{ui.infoBadge}</p>
+            <div className="mt-4 flex flex-wrap justify-center gap-4 text-sm font-semibold">
+              <Link href="/quiz/quel-outil-ia" className="text-[#1B2A4A] underline underline-offset-4 hover:text-[#FF0000]">
+                Quel outil IA ?
+              </Link>
+              <Link href="/quiz/test-connaissances" className="text-[#1B2A4A] underline underline-offset-4 hover:text-[#FF0000]">
+                Test connaissances IA
+              </Link>
+            </div>
 
             {/* Feature cards */}
             <div className="mt-12 grid gap-6 sm:grid-cols-3">

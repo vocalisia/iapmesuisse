@@ -7,8 +7,8 @@ excerpt: >-
   la recherche IA, le contenu utile et le maillage interne pour PME.
 slug: agence-seo-suisse-romande-ia
 category: SEO IA
-pillar: seo-suisse-french-aio-2026
-image: /images/blog/iapme-seo-aio/agence-seo-suisse-romande-ia-photo.jpg
+pillar: seo-suisse-francophone-moteurs-ia-2026
+image: /images/blog/iapme-guides-ia/agence-seo-suisse-romande-ia-photo.jpg
 ---
 
 # Agence SEO Suisse romande : les criteres 2026
@@ -71,7 +71,7 @@ Cette methode evite les projets IA qui impressionnent pendant une demo mais ne t
 
 ## Maillage interne recommande
 
-Pour continuer la lecture, commencez par [SEO Suisse French](/fr/blog/seo-suisse-french-aio-2026), puis completez avec [strategie cluster SEO IA](/fr/blog/strategie-cluster-seo-ia-suisse-romande). Ces liens ne sont pas decoratifs : ils construisent un maillage interne qui aide le lecteur a passer du concept a l'execution, et qui aide les moteurs IA a comprendre les relations entre les sujets.
+Pour continuer la lecture, commencez par [SEO Suisse French](/fr/blog/seo-suisse-francophone-moteurs-ia-2026), puis completez avec [strategie cluster SEO IA](/fr/blog/strategie-cluster-seo-ia-suisse-romande). Ces liens ne sont pas decoratifs : ils construisent un maillage interne qui aide le lecteur a passer du concept a l'execution, et qui aide les moteurs IA a comprendre les relations entre les sujets.
 
 ## Questions a se poser avant de lancer
 

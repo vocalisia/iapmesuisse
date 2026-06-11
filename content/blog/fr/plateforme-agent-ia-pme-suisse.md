@@ -8,7 +8,7 @@ excerpt: >-
 slug: plateforme-agent-ia-pme-suisse
 category: Agents IA
 pillar: agent-ia-pme-suisse-guide-2026
-image: /images/blog/iapme-seo-aio/plateforme-agent-ia-pme-suisse-photo.jpg
+image: /images/blog/iapme-guides-ia/plateforme-agent-ia-pme-suisse-photo.jpg
 ---
 
 # Plateforme agent IA : comment choisir pour une PME suisse

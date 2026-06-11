@@ -4,11 +4,11 @@ author: Laurent Duplat
 date: '2026-06-04'
 excerpt: >-
   Comment structurer les contenus d'une PME suisse pour etre mieux compris et
-  cites par les moteurs IA, AI Overviews et LLM.
-slug: aio-llm-citation-pme-suisse
+  cites par les moteurs IA, les réponses générées de Google et LLM.
+slug: citations-moteurs-ia-pme-suisse
 category: SEO IA
-pillar: seo-suisse-french-aio-2026
-image: /images/blog/iapme-seo-aio/aio-llm-citation-pme-suisse-photo.jpg
+pillar: seo-suisse-francophone-moteurs-ia-2026
+image: /images/blog/iapme-guides-ia/citations-moteurs-ia-pme-suisse-photo.jpg
 ---
 
 # Citations LLM et moteurs IA : rendre une PME suisse plus visible
@@ -71,7 +71,7 @@ Cette methode evite les projets IA qui impressionnent pendant une demo mais ne t
 
 ## Maillage interne recommande
 
-Pour continuer la lecture, commencez par [schema Article FAQ HowTo](/fr/blog/schema-article-faq-howto-aio-suisse), puis completez avec [maillage interne SEO IA](/fr/blog/maillage-interne-seo-ia-pme-suisse). Ces liens ne sont pas decoratifs : ils construisent un maillage interne qui aide le lecteur a passer du concept a l'execution, et qui aide les moteurs IA a comprendre les relations entre les sujets.
+Pour continuer la lecture, commencez par [schema Article FAQ HowTo](/fr/blog/schema-article-faq-howto-suisse), puis completez avec [maillage interne SEO IA](/fr/blog/maillage-interne-seo-ia-pme-suisse). Ces liens ne sont pas decoratifs : ils construisent un maillage interne qui aide le lecteur a passer du concept a l'execution, et qui aide les moteurs IA a comprendre les relations entre les sujets.
 
 ## Questions a se poser avant de lancer
 

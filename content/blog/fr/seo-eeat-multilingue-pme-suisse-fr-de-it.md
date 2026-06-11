@@ -1,7 +1,7 @@
 ---
 title: "SEO E-E-A-T multilingue CH FR/DE/IT pour PME : guide 2026"
 date: "2026-05-01"
-excerpt: "Comment ranker en 4 langues sur Google et AI Overviews quand on est PME suisse. Stratégie hreflang, schema, AI Overviews, backlinks locaux."
+excerpt: "Comment ranker en 4 langues sur Google et les réponses générées quand on est PME suisse. Stratégie hreflang, schema, moteurs IA, backlinks locaux."
 slug: "seo-eeat-multilingue-pme-suisse-fr-de-it"
 category: "IA PME Suisses"
 author: "Laurent Duplat"
@@ -10,13 +10,13 @@ locale: "fr"
 
 # SEO E-E-A-T multilingue CH FR/DE/IT pour PME : guide 2026
 
-La Suisse est un cas SEO unique : 4 langues officielles, 26 cantons, un domaine `.ch` en concurrence avec `.fr`, `.de`, `.it`. Pour une PME suisse qui veut ranker sur Google **et** apparaître dans AI Overviews (Gemini, ChatGPT Search, Perplexity), il ne suffit plus d'avoir un site multilingue : il faut piloter l'**E-E-A-T** (Experience, Expertise, Authoritativeness, Trust) **par langue**. Ce guide détaille la stratégie qui marche en 2026 pour les PME romandes, alémaniques et tessinoises.
+La Suisse est un cas SEO unique : 4 langues officielles, 26 cantons, un domaine `.ch` en concurrence avec `.fr`, `.de`, `.it`. Pour une PME suisse qui veut ranker sur Google **et** apparaître dans les réponses générées (Gemini, ChatGPT Search, Perplexity), il ne suffit plus d'avoir un site multilingue : il faut piloter l'**E-E-A-T** (Experience, Expertise, Authoritativeness, Trust) **par langue**. Ce guide détaille la stratégie qui marche en 2026 pour les PME romandes, alémaniques et tessinoises.
 
 ## Pourquoi E-E-A-T décide tout en 2026
 
-Depuis le déploiement complet d'AI Overviews en Europe (mars 2025) et la mise à jour Quality Raters Guidelines de novembre 2025, Google ne classe plus seulement les pages : il classe les **entités** derrière les pages. Si votre PME n'a pas une signature d'auteur identifiable, des références extérieures, et un schéma cohérent, vos articles passent inaperçus malgré un contenu correct.
+Depuis le déploiement complet des réponses générées de Google en Europe (mars 2025) et la mise à jour Quality Raters Guidelines de novembre 2025, Google ne classe plus seulement les pages : il classe les **entités** derrière les pages. Si votre PME n'a pas une signature d'auteur identifiable, des références extérieures, et un schéma cohérent, vos articles passent inaperçus malgré un contenu correct.
 
-Pour AI Overviews et les LLM Search, c'est encore plus critique : **les modèles citent les sources qu'ils peuvent vérifier**. Une PME suisse anonyme avec un blog isolé n'apparaîtra jamais dans les réponses générées, peu importe la qualité du contenu.
+Pour les réponses générées et les recherches LLM, c'est encore plus critique : **les modèles citent les sources qu'ils peuvent vérifier**. Une PME suisse anonyme avec un blog isolé n'apparaîtra jamais dans les réponses générées, peu importe la qualité du contenu.
 
 ## Les 4 piliers E-E-A-T appliqués au contexte suisse
 
@@ -77,7 +77,7 @@ Le `JSON-LD Organization` doit avoir un `inLanguage: ["fr","de","en","it"]` et i
 
 À répéter sur chaque version, en adaptant `canonical` à la langue courante. Le `x-default` pointe vers la langue la plus utilisée (FR pour Suisse romande, DE pour PME alémaniques).
 
-## Optimisation pour AI Overviews et LLM Search
+## Optimisation pour les réponses générées et la recherche LLM
 
 Les LLM Search (Gemini, ChatGPT Search, Perplexity, Claude with web) privilégient les pages avec :
 
@@ -137,7 +137,7 @@ Pour une PME 5-25 personnes, prévoir 100-250 CHF/mois d'outils SEO. Voir notre 
 - Soumission GSC + IndexNow ping
 - Newsletter mensuelle (capture leads + signal d'engagement)
 
-Résultat typique : passage de la position 30+ à 8-15 sur 5-8 mots-clés cibles, avec 1-3 apparitions en AI Overviews.
+Résultat typique : passage de la position 30+ à 8-15 sur 5-8 mots-clés cibles, avec 1-3 apparitions dans les réponses générées.
 
 ## FAQ
 
@@ -153,7 +153,7 @@ Non. Démarrer en FR + DE (ou DE + FR pour Zurich). EN pour international, IT po
 ### IA générative pour la traduction : OK ou pas ?
 OK avec relecture humaine. Pas en mode 100% automatique : Google détecte. Outils acceptables : DeepL Pro, Mammouth IA, Claude Sonnet 4.6 + relecture native.
 
-### Quel est le facteur le plus important pour AI Overviews ?
+### Quel est le facteur le plus important pour les réponses générées ?
 La structure (réponse en chapeau, FAQ schema, listes, tableaux) **et** l'autorité de l'auteur identifié (Person schema avec sameAs).
 
 ---

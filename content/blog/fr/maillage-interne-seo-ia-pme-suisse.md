@@ -7,8 +7,8 @@ excerpt: >-
   liens contextuels et preparation contenu structur? pour PME suisses.
 slug: maillage-interne-seo-ia-pme-suisse
 category: SEO IA
-pillar: seo-suisse-french-aio-2026
-image: /images/blog/iapme-seo-aio/maillage-interne-seo-ia-pme-suisse-photo.jpg
+pillar: seo-suisse-francophone-moteurs-ia-2026
+image: /images/blog/iapme-guides-ia/maillage-interne-seo-ia-pme-suisse-photo.jpg
 ---
 
 # Maillage interne SEO IA pour PME suisse
@@ -19,7 +19,7 @@ Pour une PME suisse, le maillage doit partir des sujets metier : IA pour PME sui
 
 ## Architecture en cluster
 
-Un cluster commence par une page pilier. Par exemple, [SEO Suisse francophone et moteurs IA](/fr/blog/seo-suisse-french-aio-2026) peut recevoir des satellites sur l'[optimisation SEO Suisse francophone](/fr/blog/optimisation-seo-suisse-francophone-ia), l'[agence SEO Suisse romande](/fr/blog/agence-seo-suisse-romande-ia) et les [citations LLM](/fr/blog/aio-llm-citation-pme-suisse).
+Un cluster commence par une page pilier. Par exemple, [SEO Suisse francophone et moteurs IA](/fr/blog/seo-suisse-francophone-moteurs-ia-2026) peut recevoir des satellites sur l'[optimisation SEO Suisse francophone](/fr/blog/optimisation-seo-suisse-francophone-ia), l'[agence SEO Suisse romande](/fr/blog/agence-seo-suisse-romande-ia) et les [citations LLM](/fr/blog/citations-moteurs-ia-pme-suisse).
 
 Chaque satellite doit renvoyer vers le pilier et vers deux contenus voisins. L'ancre doit decrire le sujet, pas seulement dire "cliquez ici".
 
@@ -71,7 +71,7 @@ Cette methode evite les projets IA qui impressionnent pendant une demo mais ne t
 
 ## Maillage interne recommande
 
-Pour continuer la lecture, commencez par [strategie cluster SEO IA](/fr/blog/strategie-cluster-seo-ia-suisse-romande), puis completez avec [citations par moteurs IA](/fr/blog/aio-llm-citation-pme-suisse). Ces liens ne sont pas decoratifs : ils construisent un maillage interne qui aide le lecteur a passer du concept a l'execution, et qui aide les moteurs IA a comprendre les relations entre les sujets.
+Pour continuer la lecture, commencez par [strategie cluster SEO IA](/fr/blog/strategie-cluster-seo-ia-suisse-romande), puis completez avec [citations par moteurs IA](/fr/blog/citations-moteurs-ia-pme-suisse). Ces liens ne sont pas decoratifs : ils construisent un maillage interne qui aide le lecteur a passer du concept a l'execution, et qui aide les moteurs IA a comprendre les relations entre les sujets.
 
 ## Questions a se poser avant de lancer
 

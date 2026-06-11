@@ -8,7 +8,7 @@ excerpt: >-
 slug: agent-ia-pme-suisse-guide-2026
 category: Agents IA
 pillar: intelligence-artificielle-pme-suisses-guide-complet-2026
-image: /images/blog/iapme-seo-aio/agent-ia-pme-suisse-guide-2026-photo.jpg
+image: /images/blog/iapme-guides-ia/agent-ia-pme-suisse-guide-2026-photo.jpg
 ---
 
 # Agent IA pour PME suisse : le guide 2026

@@ -8,7 +8,7 @@ excerpt: >-
 slug: strategie-cluster-seo-ia-suisse-romande
 category: SEO IA
 pillar: maillage-interne-seo-ia-pme-suisse
-image: /images/blog/iapme-seo-aio/strategie-cluster-seo-ia-suisse-romande-photo.jpg
+image: /images/blog/iapme-guides-ia/strategie-cluster-seo-ia-suisse-romande-photo.jpg
 ---
 
 # Strategie cluster SEO IA en Suisse romande
@@ -19,7 +19,7 @@ Cette approche aide Google a comprendre l'expertise du site et aide les LLM a re
 
 ## Construire le cluster
 
-Commencez par une page pilier large : [SEO Suisse francophone et moteurs IA](/fr/blog/seo-suisse-french-aio-2026). Ajoutez ensuite des satellites : [maillage interne SEO IA](/fr/blog/maillage-interne-seo-ia-pme-suisse), [schema Article FAQ HowTo](/fr/blog/schema-article-faq-howto-aio-suisse), [agence SEO Suisse romande](/fr/blog/agence-seo-suisse-romande-ia).
+Commencez par une page pilier large : [SEO Suisse francophone et moteurs IA](/fr/blog/seo-suisse-francophone-moteurs-ia-2026). Ajoutez ensuite des satellites : [maillage interne SEO IA](/fr/blog/maillage-interne-seo-ia-pme-suisse), [schema Article FAQ HowTo](/fr/blog/schema-article-faq-howto-suisse), [agence SEO Suisse romande](/fr/blog/agence-seo-suisse-romande-ia).
 
 Chaque satellite doit approfondir une seule question. Le pilier donne la vision d'ensemble. Les liens internes relient les deux niveaux.
 
@@ -71,7 +71,7 @@ Cette methode evite les projets IA qui impressionnent pendant une demo mais ne t
 
 ## Maillage interne recommande
 
-Pour continuer la lecture, commencez par [maillage interne SEO IA](/fr/blog/maillage-interne-seo-ia-pme-suisse), puis completez avec [SEO Suisse French](/fr/blog/seo-suisse-french-aio-2026). Ces liens ne sont pas decoratifs : ils construisent un maillage interne qui aide le lecteur a passer du concept a l'execution, et qui aide les moteurs IA a comprendre les relations entre les sujets.
+Pour continuer la lecture, commencez par [maillage interne SEO IA](/fr/blog/maillage-interne-seo-ia-pme-suisse), puis completez avec [SEO Suisse French](/fr/blog/seo-suisse-francophone-moteurs-ia-2026). Ces liens ne sont pas decoratifs : ils construisent un maillage interne qui aide le lecteur a passer du concept a l'execution, et qui aide les moteurs IA a comprendre les relations entre les sujets.
 
 ## Questions a se poser avant de lancer
 

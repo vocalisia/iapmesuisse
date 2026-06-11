@@ -8,7 +8,7 @@ excerpt: >-
 slug: automatisation-ia-b2b-suisse
 category: Automatisation IA
 pillar: generation-leads-b2b-suisse-ia
-image: /images/blog/iapme-seo-aio/automatisation-ia-b2b-suisse-photo.jpg
+image: /images/blog/iapme-guides-ia/automatisation-ia-b2b-suisse-photo.jpg
 ---
 
 # Automatisation IA B2B en Suisse

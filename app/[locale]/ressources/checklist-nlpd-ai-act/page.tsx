@@ -188,7 +188,7 @@ export default async function ChecklistPage({ params }: Props) {
   const tNav = await getTranslations({ locale, namespace: 'nav' });
   const t = T[locale] ?? T.fr;
 
-  // FAQPage schema for AI Overviews
+  // FAQPage schema for generated answers
   const faqSchema = {
     '@context': 'https://schema.org',
     '@type': 'HowTo',
