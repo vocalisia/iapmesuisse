@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "eslint",
     "generate-blog": "tsx scripts/generate-blog.ts",
-    "prebuild": "node scripts/seo-tag-guard.cjs"
+    "prebuild": "node scripts/check-ga4.mjs && node scripts/seo-tag-guard.cjs"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",

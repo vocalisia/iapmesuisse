@@ -12,6 +12,7 @@ import SchemaMarkup from '@/components/SchemaMarkup';
 import { notFound } from 'next/navigation';
 
 const inter = Inter({ subsets: ['latin'] });
+const GA4_ID = process.env.NEXT_PUBLIC_GA4_ID || 'G-7HQQDGHRT2';
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -86,14 +87,12 @@ export default async function LocaleLayout({
     <html lang={locale} className={inter.className}>
       <head>
         {/* Hreflang gérés par Next.js Metadata API via getAlternates() — pas de hardcode ici */}
-        {/* Consent Mode v2 + dynamic GA4 */}
-        {process.env.NEXT_PUBLIC_GA4_ID && (
-          <script
-            dangerouslySetInnerHTML={{
-              __html: `(function(){var id='${process.env.NEXT_PUBLIC_GA4_ID}';window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}window.gtag=gtag;var c=typeof localStorage!=='undefined'?localStorage.getItem('cookie-consent'):null;gtag('consent','default',{analytics_storage:c==='rejected'?'denied':'granted',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',wait_for_update:500});gtag('js',new Date());gtag('config',id);var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id='+id;document.head.appendChild(s);})();`,
-            }}
-          />
-        )}
+        {/* Consent Mode v2 + GA4. Do not remove or change without explicit owner approval. */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(){var id='${GA4_ID}';window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}window.gtag=gtag;var c=typeof localStorage!=='undefined'?localStorage.getItem('cookie-consent'):null;gtag('consent','default',{analytics_storage:c==='rejected'?'denied':'granted',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',wait_for_update:500});gtag('js',new Date());gtag('config',id);var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id='+id;document.head.appendChild(s);})();`,
+          }}
+        />
         <SchemaMarkup locale={locale} />
       </head>
       <body className="min-h-screen flex flex-col bg-white">
