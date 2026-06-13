@@ -14,7 +14,7 @@ export async function POST(request: NextRequest) {
 
     await resend.emails.send({
       from: 'IAPME Suisse <noreply@iapmesuisse.ch>',
-      to: process.env.CONTACT_EMAIL || 'contact@iapmesuisse.ch',
+      to: 'contact@vocalis.pro',
       replyTo: email,
       subject: `Nouveau contact de ${name}${company ? ` (${company})` : ''}`,
       html: `
