@@ -22,12 +22,12 @@ const questionsFR: QuizQuestion[] = [
   },
   {
     id: 2,
-    question: "Quel est votre budget annuel dédié à l'innovation technologique ?",
+    question: "Quel niveau d'investissement IA souhaitez-vous structurer ?",
     options: [
       { label: 'Aucun', value: 'q2_0', points: 0 },
-      { label: "< 5'000 CHF", value: 'q2_1', points: 1 },
-      { label: "5-20'000 CHF", value: 'q2_2', points: 2 },
-      { label: "> 20'000 CHF", value: 'q2_3', points: 3 },
+      { label: "Exploration limitée", value: 'q2_1', points: 1 },
+      { label: "Programme structuré", value: 'q2_2', points: 2 },
+      { label: "Investissement stratégique", value: 'q2_3', points: 3 },
     ],
   },
   {
@@ -125,12 +125,12 @@ const questionsDE: QuizQuestion[] = [
   },
   {
     id: 2,
-    question: 'Wie hoch ist Ihr jährliches Budget für technologische Innovation?',
+    question: 'Welches KI-Investitionsniveau möchten Sie strukturieren?',
     options: [
       { label: 'Keins', value: 'q2_0', points: 0 },
-      { label: "< 5'000 CHF", value: 'q2_1', points: 1 },
-      { label: "5-20'000 CHF", value: 'q2_2', points: 2 },
-      { label: "> 20'000 CHF", value: 'q2_3', points: 3 },
+      { label: "Exploration limitée", value: 'q2_1', points: 1 },
+      { label: "Programme structuré", value: 'q2_2', points: 2 },
+      { label: "Investissement stratégique", value: 'q2_3', points: 3 },
     ],
   },
   {
@@ -228,12 +228,12 @@ const questionsEN: QuizQuestion[] = [
   },
   {
     id: 2,
-    question: 'What is your annual budget for technological innovation?',
+    question: 'What level of AI investment do you want to structure?',
     options: [
       { label: 'None', value: 'q2_0', points: 0 },
-      { label: '< CHF 5,000', value: 'q2_1', points: 1 },
-      { label: 'CHF 5,000-20,000', value: 'q2_2', points: 2 },
-      { label: '> CHF 20,000', value: 'q2_3', points: 3 },
+      { label: 'Limited exploration', value: 'q2_1', points: 1 },
+      { label: 'Structured programme', value: 'q2_2', points: 2 },
+      { label: 'Strategic investment', value: 'q2_3', points: 3 },
     ],
   },
   {
@@ -331,12 +331,12 @@ const questionsIT: QuizQuestion[] = [
   },
   {
     id: 2,
-    question: "Qual è il vostro budget annuale dedicato all'innovazione tecnologica?",
+    question: "Quale livello di investimento IA volete strutturare?",
     options: [
       { label: 'Nessuno', value: 'q2_0', points: 0 },
-      { label: "< 5'000 CHF", value: 'q2_1', points: 1 },
-      { label: "5-20'000 CHF", value: 'q2_2', points: 2 },
-      { label: "> 20'000 CHF", value: 'q2_3', points: 3 },
+      { label: "Exploration limitée", value: 'q2_1', points: 1 },
+      { label: "Programme structuré", value: 'q2_2', points: 2 },
+      { label: "Investissement stratégique", value: 'q2_3', points: 3 },
     ],
   },
   {

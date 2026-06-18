@@ -35,7 +35,7 @@ export async function generateMetadata({ params }: Props) {
   };
   const descs: Record<string, string> = {
     fr: `Agence IA pour PME à ${name} (canton de ${cantonName}) : audit gratuit 30 min, formation ChatGPT/Copilot, intégration outils. nLPD + AI Act. Devis en 24h.`,
-    de: `KI-Agentur für KMU in ${name} (Kanton ${cantonName}): kostenloses 30-Min-Audit, ChatGPT/Copilot-Schulung, Tool-Integration. nDSG + AI Act. Offerte in 24h.`,
+    de: `KI-Agentur für KMU in ${name} (Kanton ${cantonName}): kostenloses 30-Min-Audit, ChatGPT/Copilot-Schulung, Tool-Integration. nDSG + AI Act.`,
     en: `AI agency for SMEs in ${name} (canton ${cantonName}): free 30-min audit, ChatGPT/Copilot training, tool integration. nFADP + AI Act. Quote in 24h.`,
     it: `Agenzia IA per PMI a ${name} (cantone ${cantonName}): audit gratuito 30 min, formazione ChatGPT/Copilot, integrazione strumenti. nLPD + AI Act. Preventivo in 24h.`,
   };

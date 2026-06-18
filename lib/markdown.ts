@@ -4,6 +4,7 @@ import matter from 'gray-matter';
 import { remark } from 'remark';
 import html from 'remark-html';
 import { isPublicPricingSlug, sanitizePublicPricingText } from './structured-data';
+import { sanitizePublicHtml } from './public-text';
 
 const contentDirectory = path.join(process.cwd(), 'content', 'blog');
 
@@ -35,9 +36,9 @@ export function getBlogPosts(locale: string): BlogPost[] {
 
     return {
       slug,
-      title: sanitizePublicPricingText(data.title || ''),
+      title: sanitizePublicPricingText(data.title || '', locale),
       date: data.date || '',
-      excerpt: sanitizePublicPricingText(data.excerpt || ''),
+      excerpt: sanitizePublicPricingText(data.excerpt || '', locale),
       author: data.author || 'IAPME Suisse',
       image: data.image || '/images/blog-default.jpg',
       content,
@@ -73,12 +74,12 @@ export async function getBlogPost(
 
       return {
         slug: postSlug,
-        title: sanitizePublicPricingText(data.title || ''),
+        title: sanitizePublicPricingText(data.title || '', locale),
         date: data.date || '',
-        excerpt: sanitizePublicPricingText(data.excerpt || ''),
+        excerpt: sanitizePublicPricingText(data.excerpt || '', locale),
         author: data.author || 'IAPME Suisse',
         image: data.image || '/images/blog-default.jpg',
-        content: sanitizePublicPricingText(processedContent.toString()),
+        content: sanitizePublicHtml(processedContent.toString(), locale),
       };
     }
   }

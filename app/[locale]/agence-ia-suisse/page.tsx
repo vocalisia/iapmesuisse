@@ -52,7 +52,7 @@ const T = {
       {
         num: '01',
         title: 'Références vérifiables dans votre secteur',
-        desc: "Demandez des études de cas avec résultats chiffrés (CHF économisés, heures gagnées, leads générés). Une agence IA sérieuse n'hésite pas à vous mettre en contact avec ses clients actuels. Méfiez-vous des portfolios avec uniquement des logos sans résultats.",
+        desc: "Demandez des études de cas avec résultats chiffrés (économies réalisées, heures gagnées, leads générés). Une agence IA sérieuse n'hésite pas à vous mettre en contact avec ses clients actuels. Méfiez-vous des portfolios avec uniquement des logos sans résultats.",
         icon: '📋',
       },
       {
@@ -75,8 +75,8 @@ const T = {
       },
       {
         num: '05',
-        title: 'Modèle tarifaire aligné avec vos résultats',
-        desc: "Forfait mensuel, régie horaire ou success fee sur les résultats ? Les trois modèles coexistent. Pour une PME, un forfait mensuel fixe sur 6–12 mois avec des livrables définis est généralement le plus sécurisant. Évitez les engagements annuels sans clause de sortie.",
+        title: "Mode d'engagement aligné avec vos résultats",
+        desc: "Audit, accompagnement ou déploiement progressif : le bon format dépend de vos objectifs, de vos données et de vos équipes. Exigez toujours des livrables définis, des jalons mesurables et une clause de sortie claire.",
         icon: '📊',
       },
     ],
@@ -165,8 +165,8 @@ const T = {
         a: "Une agence de marketing digital classique utilise des outils standardisés (Google Ads, SEO, social media). Une agence IA intègre l'intelligence artificielle dans ses processus : automatisation des campagnes, génération de contenu par LLM, analyse prédictive des audiences, personnalisation en temps réel. La frontière tend à s'estomper — mais vérifiez toujours que l'IA est native dans la prestation, pas juste un argument marketing.",
       },
       {
-        q: 'Une agence IA suisse est-elle obligatoirement plus chère qu\'une agence étrangère ?',
-        a: "Pas nécessairement. Les tarifs suisses sont plus élevés en régie horaire, mais les agences locales livrent des résultats plus rapides sur le marché suisse (multilinguisme natif, réseau local, conformité nLPD intégrée). Le coût total de possession sur 12 mois est souvent inférieur avec une agence suisse qu'avec une agence étrangère qui doit \"apprendre\" le marché. Pour un devis précis, demandez notre audit gratuit.",
+        q: 'Une agence IA suisse est-elle toujours plus pertinente qu\'une agence étrangère ?',
+        a: "Pas nécessairement. Les agences locales livrent souvent plus vite sur le marché suisse grâce au multilinguisme natif, au réseau local et à la conformité nLPD intégrée. Pour cadrer votre situation, demandez notre audit gratuit.",
       },
       {
         q: 'Combien de temps dure un mandat d\'agence IA pour une PME suisse ?',
@@ -207,7 +207,7 @@ const T = {
       {
         num: '01',
         title: 'Verifizierbare Referenzen in Ihrer Branche',
-        desc: 'Verlangen Sie Fallstudien mit konkreten Ergebnissen (eingesparte CHF, gewonnene Stunden, generierte Leads). Eine seriöse KI-Agentur zögert nicht, Sie mit aktuellen Kunden in Kontakt zu bringen. Misstrauen Sie Portfolios mit nur Logos ohne Ergebnisse.',
+        desc: 'Verlangen Sie Fallstudien mit konkreten Ergebnissen (realisierte Einsparungen, gewonnene Stunden, generierte Leads). Eine seriöse KI-Agentur zögert nicht, Sie mit aktuellen Kunden in Kontakt zu bringen. Misstrauen Sie Portfolios mit nur Logos ohne Ergebnisse.',
         icon: '📋',
       },
       {
@@ -362,7 +362,7 @@ const T = {
       {
         num: '01',
         title: 'Verifiable references in your sector',
-        desc: 'Ask for case studies with quantified results (CHF saved, hours gained, leads generated). A serious AI agency has no hesitation in putting you in touch with its current clients. Beware of portfolios with only logos and no results.',
+        desc: 'Ask for case studies with quantified results (savings achieved, hours gained, leads generated). A serious AI agency has no hesitation in putting you in touch with its current clients. Beware of portfolios with only logos and no results.',
         icon: '📋',
       },
       {
@@ -385,7 +385,7 @@ const T = {
       },
       {
         num: '05',
-        title: 'Pricing model aligned with your results',
+        title: 'Engagement model aligned with your results',
         desc: 'Monthly retainer, hourly rate, or success fee on results? All three models coexist. For an SME, a fixed monthly retainer over 6–12 months with defined deliverables is generally the safest. Avoid annual commitments without an exit clause.',
         icon: '📊',
       },
@@ -476,7 +476,7 @@ const T = {
       },
       {
         q: 'Is a Swiss AI agency necessarily more expensive than a foreign one?',
-        a: 'Not necessarily. Swiss hourly rates are higher, but local agencies deliver results faster on the Swiss market (native multilingualism, local network, integrated nFADP compliance). The total cost of ownership over 12 months is often lower with a Swiss agency. For a precise quote, request our free audit.',
+        a: 'Not necessarily. local agencies deliver results faster on the Swiss market (native multilingualism, local network, integrated nFADP compliance). The total cost of ownership over 12 months is often lower with a Swiss agency. To scope your situation, request our free audit.',
       },
       {
         q: 'How long does an AI agency mandate last for a Swiss SME?',
@@ -517,7 +517,7 @@ const T = {
       {
         num: '01',
         title: 'Referenze verificabili nel vostro settore',
-        desc: "Richiedete studi di caso con risultati quantificati (CHF risparmiati, ore guadagnate, lead generati). Un'agenzia IA seria non esita a mettervi in contatto con i suoi clienti attuali. Diffidate dei portfolio con soli loghi senza risultati.",
+        desc: "Richiedete studi di caso con risultati quantificati (risparmi realizzati, ore guadagnate, lead generati). Un'agenzia IA seria non esita a mettervi in contatto con i suoi clienti attuali. Diffidate dei portfolio con soli loghi senza risultati.",
         icon: '📋',
       },
       {
@@ -631,7 +631,7 @@ const T = {
       },
       {
         q: "Un'agenzia IA svizzera è necessariamente più cara di una straniera?",
-        a: "Non necessariamente. Le tariffe orarie svizzere sono più elevate, ma le agenzie locali forniscono risultati più rapidi sul mercato svizzero (multilinguismo nativo, rete locale, conformità nLPD integrata). Per un preventivo preciso, richiedete il nostro audit gratuito.",
+        a: "Non necessariamente. Le tariffe orarie svizzere sono più elevate, ma le agenzie locali forniscono risultati più rapidi sul mercato svizzero (multilinguismo nativo, rete locale, conformità nLPD integrata). Per definire il vostro caso, richiedete il nostro audit gratuito.",
       },
       {
         q: "Quanto dura un mandato di agenzia IA per una PMI svizzera?",

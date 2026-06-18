@@ -4,6 +4,7 @@ import { getBlogPosts } from '@/lib/markdown';
 import BlogCard from '@/components/BlogCard';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import { Link } from '@/i18n/routing';
+import { sanitizePublicText } from '@/lib/public-text';
 
 const POSTS_PER_PAGE = 12;
 
@@ -19,9 +20,9 @@ export async function generateMetadata({
   const page = Math.max(1, parseInt(sp.page || '1', 10) || 1);
   const t = await getTranslations({ locale, namespace: 'metadata.blog' });
 
-  const baseTitle = t('title');
-  const baseDesc = t('description');
-  const title = page > 1 ? `${baseTitle} — Page ${page}` : baseTitle;
+  const baseTitle = sanitizePublicText(t('title'), locale);
+  const baseDesc = sanitizePublicText(t('description'), locale);
+  const title = page > 1 ? `${baseTitle} - Page ${page}` : baseTitle;
 
   return {
     title,
@@ -53,27 +54,24 @@ export default async function BlogPage({
 
   return (
     <section className="bg-gray-light min-h-screen">
-      {/* Breadcrumbs */}
       <div className="mx-auto max-w-7xl px-4 pt-6 sm:px-6 lg:px-8">
         <Breadcrumbs
           items={[
-            { label: tNav('home'), href: '/' },
-            { label: tNav('blog') },
+            { label: sanitizePublicText(tNav('home'), locale), href: '/' },
+            { label: sanitizePublicText(tNav('blog'), locale) },
           ]}
         />
       </div>
 
-      {/* Header */}
       <div className="mx-auto max-w-7xl px-4 pb-8 pt-4 sm:px-6 lg:px-8">
         <h1 className="text-3xl font-extrabold tracking-tight text-primary sm:text-4xl lg:text-5xl">
-          {t('title')}
+          {sanitizePublicText(t('title'), locale)}
         </h1>
         <p className="mt-3 max-w-2xl text-lg leading-relaxed text-gray-600">
-          {t('subtitle')}
+          {sanitizePublicText(t('subtitle'), locale)}
         </p>
       </div>
 
-      {/* Blog Grid */}
       <div className="mx-auto max-w-7xl px-4 pb-12 sm:px-6 lg:px-8">
         {posts.length > 0 ? (
           <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
@@ -87,17 +85,16 @@ export default async function BlogPage({
                 locale={locale}
                 image={post.image}
                 author={post.author}
-                readMoreText={t('read_more')}
-                byText={t('by')}
+                readMoreText={sanitizePublicText(t('read_more'), locale)}
+                byText={sanitizePublicText(t('by'), locale)}
               />
             ))}
           </div>
         ) : (
-          <p className="text-center text-gray-500">—</p>
+          <p className="text-center text-gray-500">-</p>
         )}
       </div>
 
-      {/* Pagination */}
       {totalPages > 1 && (
         <nav
           aria-label="Pagination"

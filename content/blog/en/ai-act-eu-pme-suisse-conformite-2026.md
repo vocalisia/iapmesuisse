@@ -1,11 +1,13 @@
 ﻿---
-title: "EU AI Act & Swiss SMEs: 2026 Compliance Guide"
+title: "EU AI Act for Swiss SMEs: Compliance Guide"
 date: "2026-05-01"
-excerpt: "The EU AI Act applies to Swiss SMEs with EU clients. 2025-2027 deadlines, classification, obligations, sanctions, 7-step checklist."
+excerpt: "What Swiss SMEs with EU clients need to know about the EU AI Act: risk classification, governance, documentation and practical checklist."
 slug: "ai-act-eu-pme-suisse-conformite-2026"
 category: "AI for Swiss SMEs"
 author: "Laurent Duplat"
 locale: "en"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
+
 ---
 
 # EU AI Act & Swiss SMEs: 2026 Compliance Guide

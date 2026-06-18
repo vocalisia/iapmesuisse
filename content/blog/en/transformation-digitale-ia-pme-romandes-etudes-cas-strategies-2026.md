@@ -1,9 +1,12 @@
 ---
-title: "AI Digital Transformation of Swiss SMEs: Case Studies and Strategies 2026"
+title: "AI Digital Transformation for Swiss SMEs"
 date: "2026-03-26"
-excerpt: "AI digital transformation for Swiss SMEs in 2026: 6 case studies, Innosuisse grants, concrete strategies, and measured ROI in French-speaking Switzerland."
+excerpt: "Case-study-led guide to AI digital transformation for Swiss SMEs: process automation, data readiness, team adoption and governance."
 slug: "transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026"
 image: "/images/generated/iapmesuisse-ai-consulting.png"
+author: "Laurent Duplat"
+locale: "en"
+
 ---
 
 # Digital Transformation and AI in Swiss SMEs: Case Studies and Strategies 2026

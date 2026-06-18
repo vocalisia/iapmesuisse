@@ -1,12 +1,13 @@
 ---
-title: "Startup Accelerator Switzerland 2026: Complete Guide to Programs & Funding"
+title: "Startup Accelerator Switzerland: Programs 2026"
 date: "2026-05-26"
-excerpt: "Switzerland's top startup accelerators in 2026: Venture Kick, MassChallenge, Kickstart, DayOne, Dart Labs. Eligibility, application process, funding amounts, and how AI gives your startup an edge."
+excerpt: "Switzerland startup accelerator guide: Venture Kick, MassChallenge, Kickstart, DayOne, selection criteria and AI readiness."
 slug: "startup-accelerator-switzerland-guide"
 category: "Innovation & Funding"
 author: "Laurent Duplat"
 locale: "en"
 image: "/images/generated/iapmesuisse-ai-consulting.png"
+
 ---
 
 # Startup Accelerator Switzerland 2026: Complete Guide

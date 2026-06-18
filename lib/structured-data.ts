@@ -1,3 +1,5 @@
+import { sanitizePublicText } from './public-text';
+
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://iapmesuisse.ch';
 
 const localeMap: Record<string, string> = {
@@ -28,35 +30,20 @@ export function stripHtml(value: string) {
     .trim();
 }
 
-export function sanitizePublicPricingText(value: string) {
-  return value
-    .replace(/montant\s+variable/gi, 'condition personnalisee')
-    .replace(/tendue\s+variable/gi, 'condition personnalisee')
-    .replace(/Sur demande/gi, 'sur demande')
-    .replace(/\b(?:CHF|EUR|USD|GBP)\b/gi, 'condition personnalisee')
-    .replace(/[€$£]/g, '')
-    .replace(/\b\d+\s*(?:CHF|EUR|USD|GBP)\b/gi, 'condition personnalisee')
-    .replace(/\b(?:CHF|EUR|USD|GBP)\s*\d+\b/gi, 'condition personnalisee')
-    .replace(/\b(?:à partir de|a partir de|from|starts at|ab|da)\s+[^.,;\n)]+/gi, 'sur demande')
-    .replace(/\b(?:0\s*(?:à|a|to|-)\s*)?\d+\s*(?:condition personnalisee|francs?|chf)\b/gi, 'sur demande')
-    .replace(/\bplusieurs\s+milliers\s+de\s+francs?\b/gi, 'un cadrage personnalise')
-    .replace(/\bquelques\s+francs?\b/gi, 'un cadrage personnalise')
-    .replace(/\bseveral\s+thousand\s+francs?\b/gi, 'a personalized scope')
-    .replace(/\bfew\s+francs?\b/gi, 'a personalized scope')
-    .replace(/\s{2,}/g, ' ')
-    .trim();
+export function sanitizePublicPricingText(value: string, locale?: string) {
+  return sanitizePublicText(value, locale);
 }
 
-export function buildFaqSchema(items: { question: string; answer: string }[]) {
+export function buildFaqSchema(items: { question: string; answer: string }[], locale = 'fr') {
   return {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
     mainEntity: items.map((item) => ({
       '@type': 'Question',
-      name: item.question,
+      name: sanitizePublicPricingText(item.question, locale),
       acceptedAnswer: {
         '@type': 'Answer',
-        text: sanitizePublicPricingText(stripHtml(item.answer)),
+        text: sanitizePublicPricingText(stripHtml(item.answer), locale),
       },
     })),
   };
@@ -72,16 +59,16 @@ export function buildHowToSchema(params: {
   return {
     '@context': 'https://schema.org',
     '@type': 'HowTo',
-    name: params.name,
-    description: sanitizePublicPricingText(stripHtml(params.description)),
+    name: sanitizePublicPricingText(params.name, params.locale),
+    description: sanitizePublicPricingText(stripHtml(params.description), params.locale),
     inLanguage: getSchemaLanguage(params.locale),
     url: params.url,
     publisher: { '@id': `${SITE_URL}/#organization` },
     step: params.steps.map((step, index) => ({
       '@type': 'HowToStep',
       position: index + 1,
-      name: stripHtml(step.name),
-      text: sanitizePublicPricingText(stripHtml(step.text)),
+      name: sanitizePublicPricingText(stripHtml(step.name), params.locale),
+      text: sanitizePublicPricingText(stripHtml(step.text), params.locale),
     })),
   };
 }
@@ -109,8 +96,8 @@ export function buildHowToFromHtml(params: {
       const firstParagraph =
         sectionHtml.match(/<p[^>]*>([\s\S]*?)<\/p>/i)?.[1] || sectionHtml;
       return {
-        name: stripHtml(match[1]),
-        text: sanitizePublicPricingText(stripHtml(firstParagraph)).slice(0, 500),
+        name: sanitizePublicPricingText(stripHtml(match[1]), params.locale),
+        text: sanitizePublicPricingText(stripHtml(firstParagraph), params.locale).slice(0, 500),
       };
     })
     .filter((step) => step.name.length > 0 && step.text.length > 20)
@@ -133,34 +120,34 @@ export function buildHomeFaqSchema(locale: string) {
       {
         question: "Que fait IAPME Suisse pour les PME ?",
         answer:
-          "IAPME Suisse accompagne les PME dans l'audit IA, la formation des equipes, l'automatisation de processus et l'integration d'outils comme ChatGPT, Copilot, Claude, Make ou n8n.",
+          "IAPME Suisse accompagne les PME dans l'audit IA, la formation des équipes, l'automatisation de processus et l'intégration d'outils comme ChatGPT, Copilot, Claude, Make ou n8n.",
       },
       {
-        question: "Comment demarrer un projet IA sans risque ?",
+        question: "Comment démarrer un projet IA sans risque ?",
         answer:
-          "Le point de depart recommande est un audit de maturite IA. Il identifie les processus prioritaires, les contraintes nLPD et AI Act, les donnees sensibles et les premiers cas d'usage mesurables.",
+          "Le point de départ recommandé est un audit de maturité IA. Il identifie les processus prioritaires, les contraintes nLPD et AI Act, les données sensibles et les premiers cas d'usage mesurables.",
       },
       {
         question: "IAPME Suisse intervient-il dans toute la Suisse ?",
         answer:
-          "Oui. L'accompagnement couvre la Suisse romande, la Suisse alemanique et le Tessin, avec des services en francais, allemand, italien et anglais.",
+          "Oui. L'accompagnement couvre la Suisse romande, la Suisse alémanique et le Tessin, avec des services en français, allemand, italien et anglais.",
       },
     ],
     de: [
       {
-        question: "Was macht IAPME Suisse fur Schweizer KMU ?",
+        question: "Was macht IAPME Suisse für Schweizer KMU ?",
         answer:
           "IAPME Suisse begleitet KMU bei KI-Audit, Team-Schulung, Prozessautomatisierung und Integration von Tools wie ChatGPT, Copilot, Claude, Make oder n8n.",
       },
       {
-        question: "Wie startet ein KI-Projekt ohne unnotiges Risiko ?",
+        question: "Wie startet ein KI-Projekt ohne unnötiges Risiko ?",
         answer:
-          "Empfohlen ist ein KI-Reifegrad-Audit. Es klärt priorisierte Prozesse, nDSG- und AI-Act-Anforderungen, sensible Daten und die ersten messbaren Anwendungsfalle.",
+          "Empfohlen ist ein KI-Reifegrad-Audit. Es klärt priorisierte Prozesse, nDSG- und AI-Act-Anforderungen, sensible Daten und die ersten messbaren Anwendungsfälle.",
       },
       {
         question: "Arbeitet IAPME Suisse in der ganzen Schweiz ?",
         answer:
-          "Ja. Die Begleitung deckt die Romandie, die Deutschschweiz und das Tessin ab, mit Services auf Franzosisch, Deutsch, Italienisch und Englisch.",
+          "Ja. Die Begleitung deckt die Romandie, die Deutschschweiz und das Tessin ab, mit Services auf Französisch, Deutsch, Italienisch und Englisch.",
       },
     ],
     en: [
@@ -189,17 +176,17 @@ export function buildHomeFaqSchema(locale: string) {
       {
         question: "Come iniziare un progetto IA senza rischi inutili?",
         answer:
-          "Il punto di partenza consigliato e un audit di maturita IA. Identifica processi prioritari, vincoli nLPD e AI Act, dati sensibili e primi casi d'uso misurabili.",
+          "Il punto di partenza consigliato è un audit di maturità IA. Identifica processi prioritari, vincoli nLPD e AI Act, dati sensibili e primi casi d'uso misurabili.",
       },
       {
         question: "IAPME Suisse lavora in tutta la Svizzera?",
         answer:
-          "Si. L'accompagnamento copre Svizzera romanda, Svizzera tedesca e Ticino, con servizi in francese, tedesco, italiano e inglese.",
+          "Sì. L'accompagnamento copre Svizzera romanda, Svizzera tedesca e Ticino, con servizi in francese, tedesco, italiano e inglese.",
       },
     ],
   };
 
-  return buildFaqSchema(faqsByLocale[locale] ?? faqsByLocale.fr);
+  return buildFaqSchema(faqsByLocale[locale] ?? faqsByLocale.fr, locale);
 }
 
 export function isPublicPricingSlug(slug: string) {

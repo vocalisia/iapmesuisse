@@ -1,10 +1,14 @@
 ﻿---
-title: "AI Agency Switzerland: How SMEs Should Choose"
+title: "Best AI Consulting Agencies in Switzerland for SMEs"
 date: "2026-04-22"
-excerpt: "How Swiss SMEs should choose an AI agency in 2026: FADP compliance, sector focus, data hosting, references, training and deployment quality."
+excerpt: "How to compare Swiss AI consulting agencies for SMEs: FADP, data hosting, sector proof, training quality and deployment support."
 slug: "agence-ia-pme-suisse-comparatif"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+author: "Laurent Duplat"
+locale: "en"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
+
 ---
 
 # AI Agency Switzerland: How SMEs Should Choose in 2026

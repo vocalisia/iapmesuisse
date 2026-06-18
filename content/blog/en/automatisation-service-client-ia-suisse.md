@@ -1,9 +1,12 @@
 ﻿---
-title: "AI Customer Service in Switzerland 2026 Guide"
+title: "AI Customer Service Switzerland: SME Guide"
 date: "2026-03-25"
-excerpt: "Deploy AI customer service in Switzerland: contact-center automation, voice AI, 3 case studies from medical, real estate and retail sectors. FADP-compliant. Free audit."
+excerpt: "How Swiss SMEs deploy AI customer service: chat, voice support, routing, escalation, FADP-safe data handling and rollout steps."
 slug: "automatisation-service-client-ia-suisse"
 image: "/images/generated/iapmesuisse-ai-consulting.png"
+author: "Laurent Duplat"
+locale: "en"
+
 ---
 
 # Automating Customer Service with AI in Switzerland: Case Studies

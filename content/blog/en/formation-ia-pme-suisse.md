@@ -1,10 +1,14 @@
 ---
-title: "AI Training Programs for Swiss SMEs in 2026"
+title: "AI Training Switzerland: Upskilling for SMEs"
 date: "2026-04-10"
-excerpt: "How Swiss SMEs train teams on AI in 2026: top 8 programs, federal subsidies, 90-day rollout plan and certification options. Free 30-min consultation."
+excerpt: "How Swiss SMEs train teams on AI: workshops, governance, Copilot and ChatGPT adoption, FADP-safe workflows and rollout plan."
 slug: "formation-ia-pme-suisse"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+author: "Laurent Duplat"
+locale: "en"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
+
 ---
 
 # AI Training for Swiss SMEs: Complete Guide 2026

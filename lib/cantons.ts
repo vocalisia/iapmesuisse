@@ -1,18 +1,18 @@
 /**
  * Swiss cantons data for /cantons/<slug> SEO pages.
- * Covers French-speaking, German-speaking & Italian-speaking Switzerland.
+ * Covers French-speaking, German-speaking and Italian-speaking Switzerland.
  */
 
 export type Canton = {
   slug: string;
   code: string;
   cities: string[];
-  /** ~Number of SMEs in canton (rounded for SEO/social proof). */
+  /** Approximate number of SMEs in canton, rounded for SEO/social proof. */
   smeCount: string;
   language: 'fr' | 'de' | 'it';
-  /** Sectors with strong AI ROI in this canton. */
+  /** Sectors with strong AI use cases in this canton. */
   topSectors: string[];
-  /** Cantonal funding shorthand. */
+  /** Cantonal funding shorthand without public amounts. */
   funding: string;
   names: { fr: string; de: string; en: string; it: string };
 };
@@ -24,8 +24,8 @@ export const CANTONS: Canton[] = [
     cities: ['Lausanne', 'Yverdon-les-Bains', 'Montreux', 'Vevey', 'Nyon'],
     smeCount: '40 000+',
     language: 'fr',
-    topSectors: ['EPFL & startups deep tech', 'Industrie de précision', 'Hôtellerie Riviera', 'Viticulture', 'Services aux entreprises'],
-    funding: 'FORJAD, OFP, Fondation pour l\'innovation Vaud',
+    topSectors: ['EPFL et startups deep tech', 'Industrie de précision', 'Hôtellerie Riviera', 'Viticulture', 'Services aux entreprises'],
+    funding: "FORJAD, OFP et Fondation pour l'innovation Vaud, conditions selon dossier",
     names: { fr: 'Vaud', de: 'Waadt', en: 'Vaud', it: 'Vaud' },
   },
   {
@@ -34,8 +34,8 @@ export const CANTONS: Canton[] = [
     cities: ['Genève', 'Carouge', 'Meyrin', 'Vernier', 'Lancy'],
     smeCount: '35 000+',
     language: 'fr',
-    topSectors: ['Banque privée & finance', 'Organisations internationales', 'Horlogerie', 'Trading & négoce', 'Cabinets d\'avocats'],
-    funding: 'Chèque annuel formation (CAF) 750-2 250 CHF',
+    topSectors: ['Banque privée et finance', 'Organisations internationales', 'Horlogerie', 'Trading et négoce', "Cabinets d'avocats"],
+    funding: 'Chèque annuel formation, conditions selon dossier',
     names: { fr: 'Genève', de: 'Genf', en: 'Geneva', it: 'Ginevra' },
   },
   {
@@ -44,8 +44,8 @@ export const CANTONS: Canton[] = [
     cities: ['Fribourg', 'Bulle', 'Villars-sur-Glâne', 'Marly'],
     smeCount: '18 000+',
     language: 'fr',
-    topSectors: ['Industrie agroalimentaire', 'Énergie & cleantech', 'Construction', 'Services aux entreprises'],
-    funding: 'Bons de formation cantonal Fribourg',
+    topSectors: ['Industrie agroalimentaire', 'Énergie et cleantech', 'Construction', 'Services aux entreprises'],
+    funding: 'Bons de formation cantonaux, conditions selon dossier',
     names: { fr: 'Fribourg', de: 'Freiburg', en: 'Fribourg', it: 'Friburgo' },
   },
   {
@@ -54,8 +54,8 @@ export const CANTONS: Canton[] = [
     cities: ['Sion', 'Martigny', 'Sierre', 'Monthey', 'Brig'],
     smeCount: '20 000+',
     language: 'fr',
-    topSectors: ['Tourisme & hôtellerie alpine', 'Viticulture', 'Énergie hydraulique', 'Industrie chimique', 'Construction de montagne'],
-    funding: 'Service Formation Pro VS, subvention 30-50%',
+    topSectors: ['Tourisme et hôtellerie alpine', 'Viticulture', 'Énergie hydraulique', 'Industrie chimique', 'Construction de montagne'],
+    funding: 'Service Formation Pro VS, accompagnement selon dossier',
     names: { fr: 'Valais', de: 'Wallis', en: 'Valais', it: 'Vallese' },
   },
   {
@@ -64,8 +64,8 @@ export const CANTONS: Canton[] = [
     cities: ['Neuchâtel', 'La Chaux-de-Fonds', 'Le Locle'],
     smeCount: '12 000+',
     language: 'fr',
-    topSectors: ['Microtechnique & horlogerie', 'Microélectronique', 'Recherche appliquée', 'Industrie de précision'],
-    funding: 'RHNE — Aides à la mobilité formation',
+    topSectors: ['Microtechnique et horlogerie', 'Microélectronique', 'Recherche appliquée', 'Industrie de précision'],
+    funding: 'RHNE, aides à la mobilité formation selon dossier',
     names: { fr: 'Neuchâtel', de: 'Neuenburg', en: 'Neuchâtel', it: 'Neuchâtel' },
   },
   {
@@ -75,7 +75,7 @@ export const CANTONS: Canton[] = [
     smeCount: '6 000+',
     language: 'fr',
     topSectors: ['Microtechnique', 'Horlogerie', 'Industrie automobile sous-traitance', 'Agriculture'],
-    funding: 'Bourses formation continue Jura jusqu\'à 1 200 CHF',
+    funding: 'Bourses formation continue Jura, conditions selon dossier',
     names: { fr: 'Jura', de: 'Jura', en: 'Jura', it: 'Giura' },
   },
   {
@@ -85,7 +85,7 @@ export const CANTONS: Canton[] = [
     smeCount: '50 000+',
     language: 'de',
     topSectors: ['Administration fédérale', 'Industrie de précision Bienne', 'Énergie', 'Tourisme alpin', 'Communication'],
-    funding: 'Bildungsgutschein Bern',
+    funding: 'Bildungsgutschein Bern, Bedingungen nach Dossier',
     names: { fr: 'Berne', de: 'Bern', en: 'Bern', it: 'Berna' },
   },
   {
@@ -94,8 +94,8 @@ export const CANTONS: Canton[] = [
     cities: ['Zurich', 'Winterthur', 'Uster', 'Zug (proche)'],
     smeCount: '90 000+',
     language: 'de',
-    topSectors: ['Banque & assurance', 'Tech & startups (ETH)', 'Industrie pharmaceutique', 'Logistique', 'Services B2B'],
-    funding: 'Diverses Förderprogramme Kanton ZH',
+    topSectors: ['Banque et assurance', 'Tech et startups ETH', 'Industrie pharmaceutique', 'Logistique', 'Services B2B'],
+    funding: 'Diverses Förderprogramme Kanton ZH, Bedingungen nach Dossier',
     names: { fr: 'Zurich', de: 'Zürich', en: 'Zurich', it: 'Zurigo' },
   },
   {
@@ -104,8 +104,8 @@ export const CANTONS: Canton[] = [
     cities: ['Lugano', 'Bellinzona', 'Locarno', 'Mendrisio'],
     smeCount: '14 000+',
     language: 'it',
-    topSectors: ['Finance Lugano', 'Tourisme & hôtellerie', 'Mode & design', 'Industrie pharmaceutique Mendrisio', 'Logistique alpine'],
-    funding: 'Aiuti cantonali formazione TI',
+    topSectors: ['Finance Lugano', 'Tourisme et hôtellerie', 'Mode et design', 'Industrie pharmaceutique Mendrisio', 'Logistique alpine'],
+    funding: 'Aiuti cantonali formazione TI, condizioni secondo dossier',
     names: { fr: 'Tessin', de: 'Tessin', en: 'Ticino', it: 'Ticino' },
   },
 ];

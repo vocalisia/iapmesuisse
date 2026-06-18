@@ -4,20 +4,20 @@
   },
   "metadata": {
     "home": {
-      "title": "Agence IA PME Suisse | Audit IA gratuit — IAPME",
-      "description": "Automatisation IA pour PME suisses : audit gratuit, formation ChatGPT/Copilot, conformité nLPD & AI Act. Sion, Genève, Lausanne, Zurich."
+      "title": "Agence IA PME Suisse | Audit IA gratuit",
+      "description": "Automatisation IA pour PME suisses: audit IA, formation ChatGPT et Copilot, conformité nLPD et accompagnement à Sion, Genève, Lausanne et Zurich."
     },
     "services": {
       "title": "Services IA pour PME suisses",
-      "description": "Agence IA pour PME suisses : automatisation, audit, formation & intégration ChatGPT/Copilot. Présence Sion, Valais, Genève, Lausanne. Devis gratuit 24h."
+      "description": "Audit IA, formation, automatisation et intégration ChatGPT/Copilot pour PME suisses. Sion, Valais, Genève, Lausanne et Zurich."
     },
     "about": {
       "title": "À propos d'IAPME Suisse – Notre mission",
-      "description": "Découvrez l'équipe IAPME Suisse et notre mission : rendre l'IA accessible à toutes les PME suisses."
+      "description": "Découvrez l'équipe IAPME Suisse et notre mission: rendre l'IA accessible à toutes les PME suisses."
     },
     "blog": {
       "title": "Blog IA PME Suisse | Guides nLPD, Copilot & Automatisation",
-      "description": "Guides pratiques IA pour PME suisses : ChatGPT, Copilot, nLPD, AI Act, automatisation, marketing IA et cas d'usage par canton."
+      "description": "Guides pratiques IA pour PME suisses: ChatGPT, Copilot, nLPD, AI Act, automatisation, marketing IA et cas d'usage par canton."
     },
     "contact": {
       "title": "Contactez IAPME Suisse – Audit IA gratuit",
@@ -41,11 +41,11 @@
     },
     "formation": {
       "title": "Formation IA PME Suisse | ChatGPT, Copilot, Claude — IAPME",
-      "description": "Formation IA pour PME suisses : ateliers ChatGPT, Copilot et Claude, conformité AI Act, sessions FR/DE/IT à Sion, Genève, Lausanne."
+      "description": "Formation IA pour PME suisses: ateliers ChatGPT, Copilot et Claude, conformité AI Act, sessions FR/DE/IT à Sion, Genève, Lausanne."
     },
     "consulting": {
       "title": "Consulting IA PME Suisse | Stratégie, nLPD & AI Act — IAPME",
-      "description": "Consulting IA pour PME suisses : audit, stratégie, automatisation, gouvernance données, conformité nLPD + AI Act. Genève, Lausanne, Valais."
+      "description": "Consulting IA pour PME suisses: audit, stratégie, automatisation, gouvernance données, conformité nLPD + AI Act. Genève, Lausanne, Valais."
     },
     "events": {
       "title": "Événements IA Suisse – IAPME",
@@ -68,7 +68,7 @@
       "description": "15 questions pour tester vos connaissances en intelligence artificielle."
     },
     "quiz_tool": {
-      "title": "Quel outil IA pour vous ? – Quiz personnalité",
+      "title": "Quel outil IA pour vous? – Quiz personnalité",
       "description": "Découvrez l'outil IA qui correspond le mieux à votre profil professionnel."
     },
     "games": {
@@ -77,7 +77,7 @@
     },
     "guess_ai": {
       "title": "Devine l'IA – Jeu interactif",
-      "description": "Saurez-vous distinguer un texte écrit par l'IA d'un texte humain ?"
+      "description": "Saurez-vous distinguer un texte écrit par l'IA d'un texte humain?"
     },
     "prompt_master": {
       "title": "Prompt Master – Défi IA",
@@ -89,7 +89,7 @@
     },
     "marketingIa": {
       "title": "Marketing automatise IA pour PME - IAPME Suisse",
-      "description": "Automatisez votre marketing avec l'IA : contenu, emails, reseaux sociaux, SEO et publicites. Augmentez votre ROI marketing."
+      "description": "Automatisez votre marketing avec l'IA: contenu, emails, reseaux sociaux, SEO et publicites. Augmentez votre ROI marketing."
     },
     "priseDeRdv": {
       "title": "Prise de RDV automatique IA 24/7 - IAPME Suisse",
@@ -126,7 +126,7 @@
     "secondary_cta": "Découvrir nos services"
   },
   "home": {
-    "why_title": "Pourquoi l'IA pour les PME suisses ?",
+    "why_title": "Pourquoi l'IA pour les PME suisses?",
     "why_description": "L'intelligence artificielle n'est plus réservée aux grandes entreprises. Les PME suisses peuvent dès aujourd'hui tirer parti de l'IA pour gagner en efficacité, réduire leurs coûts et innover.",
     "why_items": [
       {
@@ -164,7 +164,7 @@
         }
       ]
     },
-    "cta_title": "Prêt à transformer votre PME ?",
+    "cta_title": "Prêt à transformer votre PME?",
     "cta_description": "Contactez-nous pour un audit gratuit et découvrez comment l'IA peut booster votre entreprise.",
     "cta_button": "Nous contacter"
   },
@@ -274,7 +274,7 @@
     "founder": {
       "name": "Laurent Duplat",
       "role": "Directeur de la publication & Formateur IA",
-      "bio": "Plus de 10 ans d'expérience en stratégie digitale et automatisation. Laurent accompagne les PME romandes et alémaniques dans l'adoption concrète d'outils IA : audit de maturité, formation des équipes, intégration de ChatGPT, Copilot, Claude et workflows sur mesure. Approche pragmatique, conformité nLPD et AI Act, retours sur investissement mesurés sous 4 à 12 semaines."
+      "bio": "Plus de 10 ans d'expérience en stratégie digitale et automatisation. Laurent accompagne les PME romandes et alémaniques dans l'adoption concrète d'outils IA: audit de maturité, formation des équipes, intégration de ChatGPT, Copilot, Claude et workflows sur mesure. Approche pragmatique, conformité nLPD et AI Act, retours sur investissement mesurés sous 4 à 12 semaines."
     }
   },
   "blog": {
@@ -287,14 +287,14 @@
   },
   "contact": {
     "title": "Contactez-nous",
-    "subtitle": "Prêt à franchir le pas ? Parlons de votre projet.",
+    "subtitle": "Prêt à franchir le pas? Parlons de votre projet.",
     "form": {
       "name": "Nom complet",
       "email": "Email",
       "company": "Entreprise",
       "message": "Votre message",
       "submit": "Envoyer",
-      "success": "Message envoyé avec succès ! Nous vous répondrons rapidement.",
+      "success": "Message envoyé avec succès! Nous vous répondrons rapidement.",
       "name_placeholder": "Jean Dupont",
       "email_placeholder": "jean@entreprise.ch",
       "company_placeholder": "Ma PME SA",
@@ -307,7 +307,7 @@
       "phone": "+41 27 525 00 00",
       "whatsapp_label": "WhatsApp",
       "whatsapp": "WhatsApp",
-      "hours": "Lun - Ven : 9h - 18h"
+      "hours": "Lun - Ven: 9h - 18h"
     }
   },
   "resources": {
@@ -324,7 +324,7 @@
         "description": "Les étapes essentielles pour intégrer ChatGPT dans votre workflow."
       },
       {
-        "title": "ROI de l'IA : méthode de calcul",
+        "title": "ROI de l'IA: méthode de calcul",
         "description": "Comment mesurer le retour sur investissement de vos projets IA."
       }
     ],
@@ -350,23 +350,23 @@
     "faq_title": "Questions fréquentes",
     "faq": [
       {
-        "question": "L'IA est-elle adaptée aux petites entreprises ?",
+        "question": "L'IA est-elle adaptée aux petites entreprises?",
         "answer": "Absolument. De nombreux outils IA sont accessibles et abordables, même pour les micro-entreprises. L'important est d'identifier les bons cas d'usage."
       },
       {
-        "question": "Combien coûte l'intégration de l'IA ?",
+        "question": "comment cadrer l'intégration de l'IA?",
         "answer": "Les coûts varient selon la complexité du projet. Un audit initial permet d'évaluer les investissements nécessaires et le ROI attendu."
       },
       {
-        "question": "Faut-il des compétences techniques ?",
+        "question": "Faut-il des compétences techniques?",
         "answer": "Non. Nos formations sont adaptées à tous les niveaux. Nous accompagnons vos équipes pas à pas."
       },
       {
-        "question": "Combien de temps dure une intégration ?",
+        "question": "Combien de temps dure une intégration?",
         "answer": "Un projet simple peut être opérationnel en quelques semaines. Les projets plus complexes s'étalent sur 2-3 mois."
       },
       {
-        "question": "Mes données restent-elles en Suisse ?",
+        "question": "Mes données restent-elles en Suisse?",
         "answer": "Nous privilégions les solutions respectueuses de la protection des données. Nous vous conseillons sur les meilleures pratiques en matière de confidentialité."
       }
     ]
@@ -391,7 +391,7 @@
       "meta_description": "Mentions légales et informations sur l'éditeur du site iapmesuisse.ch",
       "title": "Mentions légales",
       "editor_title": "Éditeur du site",
-      "editor_text": "IAPME Suisse – un service de VAULT 369 LTD\nChem. Saint-Hubert 2, 1950 Sion, Suisse\nSiège social : 128 City Road, EC1V 2NX, London, United Kingdom\nEmail : contact@iapmesuisse.ch",
+      "editor_text": "IAPME Suisse – un service de VAULT 369 LTD\nChem. Saint-Hubert 2, 1950 Sion, Suisse\nSiège social: 128 City Road, EC1V 2NX, London, United Kingdom\nEmail: contact@iapmesuisse.ch",
       "hosting_title": "Hébergement",
       "hosting_text": "Le site iapmesuisse.ch est hébergé par Vercel Inc., 340 S Lemon Ave #4133, Walnut, CA 91789, États-Unis.",
       "intellectual_title": "Propriété intellectuelle",
@@ -407,15 +407,15 @@
       "title": "Politique de confidentialité",
       "intro": "IAPME Suisse s'engage à protéger vos données personnelles conformément à la nouvelle Loi fédérale sur la Protection des Données (nLPD) entrée en vigueur le 1er septembre 2023.",
       "responsible_title": "Responsable du traitement",
-      "responsible_text": "IAPME Suisse\nEmail : contact@iapmesuisse.ch",
+      "responsible_text": "IAPME Suisse\nEmail: contact@iapmesuisse.ch",
       "data_collected_title": "Données collectées",
-      "data_collected_text": "Nous collectons les données suivantes via notre formulaire de contact : nom complet, adresse email, nom de l'entreprise et message. Ces données sont collectées uniquement dans le but de répondre à votre demande.",
+      "data_collected_text": "Nous collectons les données suivantes via notre formulaire de contact: nom complet, adresse email, nom de l'entreprise et message. Ces données sont collectées uniquement dans le but de répondre à votre demande.",
       "purpose_title": "Finalité du traitement",
       "purpose_text": "Vos données personnelles sont utilisées exclusivement pour répondre à vos demandes de contact, vous fournir des informations sur nos services et améliorer nos prestations.",
       "retention_title": "Durée de conservation",
       "retention_text": "Vos données sont conservées pendant la durée nécessaire au traitement de votre demande et au maximum 2 ans après le dernier contact.",
       "rights_title": "Vos droits",
-      "rights_text": "Conformément à la nLPD, vous disposez d'un droit d'accès, de rectification, de suppression, de portabilité et d'opposition. Pour exercer ces droits : contact@iapmesuisse.ch",
+      "rights_text": "Conformément à la nLPD, vous disposez d'un droit d'accès, de rectification, de suppression, de portabilité et d'opposition. Pour exercer ces droits: contact@iapmesuisse.ch",
       "cookies_title": "Cookies",
       "cookies_text": "Ce site utilise uniquement des cookies techniques nécessaires au bon fonctionnement. Aucun cookie de tracking ou publicitaire n'est utilisé.",
       "transfer_title": "Transfert de données",
@@ -431,8 +431,8 @@
       "scope_text": "Les présentes conditions s'appliquent à l'ensemble des prestations proposées par IAPME Suisse.",
       "services_title": "Description des services",
       "services_text": "IAPME Suisse propose des services de conseil, formation et intégration en intelligence artificielle destinés aux PME suisses. Le périmètre exact est défini dans un devis ou contrat spécifique.",
-      "pricing_title": "Tarifs et paiement",
-      "pricing_text": "Les tarifs sont communiqués sur devis. Les prix s'entendent en CHF hors TVA. Paiement dû sous 30 jours.",
+      "pricing_title": "Cadrage et conditions",
+      "pricing_text": "Chaque mission est cadrée en échange privé selon vos processus, vos données et vos priorités.",
       "cancellation_title": "Annulation",
       "cancellation_text": "Toute annulation doit être communiquée par écrit au minimum 5 jours ouvrables avant la date prévue.",
       "confidentiality_title": "Confidentialité",
@@ -448,7 +448,7 @@
     "subtitle": "Développez les compétences IA de votre équipe avec nos formations adaptées",
     "free": {
       "name": "Découverte",
-      "price": "Acces decouverte",
+      "price": "À cadrer",
       "description": "Premiers pas dans l'IA",
       "features": [
         "Mini-cours email 5 jours",
@@ -460,7 +460,7 @@
     },
     "starter": {
       "name": "Starter",
-      "price": "97 CHF",
+      "price": "À cadrer",
       "description": "Les bases de l'IA pour votre PME",
       "features": [
         "3h de vidéo",
@@ -473,7 +473,7 @@
     },
     "pro": {
       "name": "Pro",
-      "price": "297 CHF",
+      "price": "À cadrer",
       "description": "Maîtrisez l'IA pour votre entreprise",
       "features": [
         "10h de vidéo",
@@ -491,7 +491,7 @@
     },
     "premium": {
       "name": "Premium",
-      "price": "997 CHF",
+      "price": "À cadrer",
       "description": "Transformation complète avec accompagnement",
       "features": [
         "Tout le programme Pro",
@@ -504,10 +504,10 @@
       "badge": "VIP"
     },
     "guarantee": "Satisfait ou remboursé 30 jours",
-    "vat_note": "Prix en CHF, hors TVA",
+    "vat_note": "Conditions précisées en échange privé.",
     "equipe": {
       "name": "Formation Équipe",
-      "price": "2500 CHF",
+      "price": "À cadrer",
       "description": "Formation IA en visio sur mesure avec vos équipes — 4h d'atelier pratique sur les outils IA adaptés à votre métier",
       "features": [
         "Session visio 4h avec votre équipe",
@@ -530,7 +530,7 @@
     },
     "claude_code": {
       "name": "Formation Claude Code",
-      "price": "3500 CHF",
+      "price": "À cadrer",
       "description": "Atelier visio 4h dédié à Claude Code pour votre équipe dev",
       "badge": "Dev & Tech",
       "cta": "Réserver ma session",
@@ -547,7 +547,7 @@
     },
     "ia_marketing": {
       "name": "Formation IA Marketing",
-      "price": "2500 CHF",
+      "price": "À cadrer",
       "description": "Atelier visio 4h IA Marketing pour votre équipe",
       "badge": "Marketing",
       "cta": "Réserver ma session",
@@ -557,7 +557,7 @@
         "SEO & GEO avec l'IA",
         "Automatisation campagnes email & LinkedIn",
         "Génération de leads & copywriting IA",
-        "Outils : Midjourney, Canva IA, Make.com",
+        "Outils: Midjourney, Canva IA, Make.com",
         "Workflows marketing automatisés",
         "Support 30 jours post-formation"
       ]
@@ -592,7 +592,7 @@
         "company": "Meier Industrie AG, Zürich"
       }
     ],
-    "case_study_title": "Étude de cas : Cabinet conseil, Genève",
+    "case_study_title": "Étude de cas: Cabinet conseil, Genève",
     "case_study_subtitle": "Formation IA sur 3 mois — résultats mesurés",
     "case_study_before": "Avant",
     "case_study_after": "Après",
@@ -623,7 +623,7 @@
     "subtitle": "Un accompagnement personnalisé pour votre transformation digitale",
     "audit": {
       "name": "Audit IA Express",
-      "price": "297 CHF",
+      "price": "À cadrer",
       "description": "Identifiez vos opportunités IA",
       "features": [
         "Appel diagnostic 1h",
@@ -635,7 +635,7 @@
     },
     "accompagnement": {
       "name": "Accompagnement",
-      "price": "1'497 CHF",
+      "price": "À cadrer",
       "description": "Implémentation guidée",
       "features": [
         "Audit complet (2h)",
@@ -649,7 +649,7 @@
     },
     "custom": {
       "name": "Sur mesure",
-      "price": "Sur devis",
+      "price": "À cadrer",
       "description": "Projets complexes et formations équipe",
       "features": [
         "Formation équipe sur site",
@@ -676,7 +676,7 @@
     "subtitle": "Des offres adaptées à chaque besoin",
     "starter": {
       "name": "Découverte",
-      "price": "Gratuit",
+      "price": "À cadrer",
       "description": "Premier pas vers l'IA",
       "features": [
         "Audit IA initial (1h)",
@@ -686,7 +686,7 @@
     },
     "pro": {
       "name": "Professionnel",
-      "price": "Sur devis",
+      "price": "À cadrer",
       "description": "Intégration et formation",
       "features": [
         "Audit IA approfondi",
@@ -698,7 +698,7 @@
     },
     "enterprise": {
       "name": "Entreprise",
-      "price": "Sur devis",
+      "price": "À cadrer",
       "description": "Transformation complète",
       "features": [
         "Stratégie IA complète",
@@ -721,7 +721,7 @@
     "add_calendar": "Ajouter à mon agenda",
     "no_events": "Aucun événement à venir pour le moment",
     "submit_title": "Proposer un événement",
-    "submit_text": "Vous organisez un événement IA en Suisse ? Faites-le nous savoir !",
+    "submit_text": "Vous organisez un événement IA en Suisse? Faites-le nous savoir!",
     "submit_cta": "Soumettre un événement",
     "items": [
       {
@@ -729,7 +729,7 @@
         "date": "2026-03-26",
         "location": "EPFL, Lausanne",
         "type": "Conférence",
-        "price": "Payant",
+        "price": "À cadrer",
         "url": "https://appliedmldays.org",
         "description": "La plus grande conférence suisse sur le machine learning, organisée par l'EPFL."
       },
@@ -738,7 +738,7 @@
         "date": "2026-11-01",
         "location": "Suisse entière",
         "type": "Journée nationale",
-        "price": "Gratuit",
+        "price": "À cadrer",
         "url": "https://digitaltag.swiss",
         "description": "Journée nationale de la digitalisation organisée par digitalswitzerland."
       },
@@ -747,18 +747,18 @@
         "date": "2026-06-15",
         "location": "Zurich",
         "type": "Sommet",
-        "price": "Payant",
+        "price": "À cadrer",
         "url": "#",
         "description": "Sommet dédié à l'IA et l'automatisation pour les entreprises suisses."
       },
       {
-        "name": "Webinaire IAPME : IA pour PME",
+        "name": "Webinaire IAPME: IA pour PME",
         "date": "2026-04-15",
         "location": "En ligne",
         "type": "Webinaire",
-        "price": "Gratuit",
+        "price": "À cadrer",
         "url": "#",
-        "description": "Webinaire mensuel gratuit : découvrez comment l'IA peut transformer votre PME."
+        "description": "Webinaire mensuel gratuit: découvrez comment l'IA peut transformer votre PME."
       }
     ],
     "submit_button": "Soumettre"
@@ -784,7 +784,7 @@
         "name": "ChatGPT",
         "category": "content",
         "rating": 5,
-        "price": "Freemium",
+        "price": "À cadrer",
         "description": "L'assistant IA le plus polyvalent pour rédaction, analyse et brainstorming.",
         "url": "https://chat.openai.com"
       },
@@ -792,7 +792,7 @@
         "name": "Claude",
         "category": "content",
         "rating": 5,
-        "price": "Freemium",
+        "price": "À cadrer",
         "description": "IA d'Anthropic, excellente pour l'analyse de documents et la rédaction longue.",
         "url": "https://claude.ai"
       },
@@ -800,7 +800,7 @@
         "name": "DeepL",
         "category": "translation",
         "rating": 5,
-        "price": "Freemium",
+        "price": "À cadrer",
         "description": "Le meilleur outil de traduction automatique, idéal pour les PME multilingues suisses.",
         "url": "https://www.deepl.com"
       },
@@ -808,7 +808,7 @@
         "name": "Zapier",
         "category": "automation",
         "rating": 4,
-        "price": "Freemium",
+        "price": "À cadrer",
         "description": "Connectez vos applications et automatisez vos workflows sans coder.",
         "url": "https://zapier.com"
       },
@@ -816,7 +816,7 @@
         "name": "Make",
         "category": "automation",
         "rating": 4,
-        "price": "Freemium",
+        "price": "À cadrer",
         "description": "Automatisation avancée avec une interface visuelle puissante.",
         "url": "https://www.make.com"
       },
@@ -824,7 +824,7 @@
         "name": "Notion AI",
         "category": "productivity",
         "rating": 4,
-        "price": "Payant",
+        "price": "À cadrer",
         "description": "Organisation et productivité boostées par l'IA intégrée.",
         "url": "https://notion.so"
       },
@@ -832,7 +832,7 @@
         "name": "Infomaniak",
         "category": "hosting",
         "rating": 5,
-        "price": "Payant",
+        "price": "À cadrer",
         "description": "Hébergement web suisse, écologique et souverain. Idéal pour les PME.",
         "url": "https://www.infomaniak.com"
       },
@@ -840,7 +840,7 @@
         "name": "Canva",
         "category": "content",
         "rating": 4,
-        "price": "Freemium",
+        "price": "À cadrer",
         "description": "Création graphique simplifiée avec fonctions IA intégrées.",
         "url": "https://www.canva.com"
       },
@@ -848,8 +848,8 @@
         "name": "SEO True",
         "category": "seo",
         "rating": 5,
-        "price": "Freemium",
-        "description": "Outil SEO automatisé par IA : audit de contenu, optimisation de mots-clés et génération de recommandations SEO adaptées aux PME suisses.",
+        "price": "À cadrer",
+        "description": "Outil SEO automatisé par IA: audit de contenu, optimisation de mots-clés et génération de recommandations SEO adaptées aux PME suisses.",
         "url": "https://seo-true.com"
       }
     ]
@@ -891,58 +891,58 @@
       "general": "Général",
       "technical": "Technique",
       "legal": "Légal & Conformité",
-      "pricing": "Tarifs"
+      "pricing": "cadrage personnalisé"
     },
     "items": [
       {
-        "question": "L'IA est-elle adaptée aux petites entreprises ?",
-        "answer": "Absolument. Des outils comme ChatGPT, DeepL ou Zapier sont accessibles dès quelques francs par mois et peuvent automatiser des tâches répétitives, améliorer le service client ou accélérer la création de contenu.",
+        "question": "L'IA est-elle adaptée aux petites entreprises?",
+        "answer": "Absolument. Des outils comme ChatGPT, DeepL ou Zapier sont accessibles dès cadrage personnalisé par mois et peuvent automatiser des tâches répétitives, améliorer le service client ou accélérer la création de contenu.",
         "category": "general"
       },
       {
-        "question": "Par où commencer avec l'IA dans ma PME ?",
-        "answer": "Commencez par un audit de vos processus : identifiez les tâches répétitives, chronophages ou à faible valeur ajoutée. Notre audit gratuit vous aide à prioriser les opportunités.",
+        "question": "Par où commencer avec l'IA dans ma PME?",
+        "answer": "Commencez par un audit de vos processus: identifiez les tâches répétitives, chronophages ou à faible valeur ajoutée. Notre audit gratuit vous aide à prioriser les opportunités.",
         "category": "general"
       },
       {
-        "question": "Faut-il des compétences techniques ?",
+        "question": "Faut-il des compétences techniques?",
         "answer": "Non. La plupart des outils IA modernes sont conçus pour être utilisés sans compétences en programmation. Nos formations vous accompagnent pas à pas.",
         "category": "technical"
       },
       {
-        "question": "L'IA va-t-elle remplacer mes employés ?",
+        "question": "L'IA va-t-elle remplacer mes employés?",
         "answer": "L'IA est un outil d'augmentation, pas de remplacement. Elle libère vos collaborateurs des tâches répétitives pour qu'ils se concentrent sur la valeur ajoutée.",
         "category": "general"
       },
       {
-        "question": "Mes données sont-elles protégées ?",
+        "question": "Mes données sont-elles protégées?",
         "answer": "Nous privilégions les solutions conformes à la nLPD (loi suisse sur la protection des données). Nous vous conseillons sur le choix d'outils respectueux de la confidentialité.",
         "category": "legal"
       },
       {
-        "question": "Qu'est-ce que la nLPD ?",
+        "question": "Qu'est-ce que la nLPD?",
         "answer": "La nouvelle Loi fédérale sur la Protection des Données (nLPD), en vigueur depuis le 1er septembre 2023, renforce les droits des individus et les obligations des entreprises en matière de données personnelles.",
         "category": "legal"
       },
       {
-        "question": "Combien coûte un projet IA pour PME ?",
-        "answer": "Les coûts varient : de gratuit (outils de base) à quelques milliers de francs (intégration sur mesure). Notre audit express à 297 CHF vous donne une estimation précise du ROI.",
-        "category": "pricing"
+        "question": "comment cadrer un projet IA pour PME?",
+        "answer": "Les coûts varient: de gratuit (outils de base) à quelques milliers de francs (intégration sur mesure). Notre audit express à cadrage personnalisé vous donne une estimation précise du ROI.",
+        "category": "cadrage"
       },
       {
-        "question": "Quelle est la durée d'un projet d'intégration ?",
+        "question": "Quelle est la durée d'un projet d'intégration?",
         "answer": "Un projet simple (ex: chatbot, automatisation email) peut être opérationnel en 2-4 semaines. Les projets plus complexes s'étalent sur 2-3 mois.",
         "category": "technical"
       },
       {
-        "question": "Proposez-vous des formations en allemand et en italien ?",
+        "question": "Proposez-vous des formations en allemand et en italien?",
         "answer": "Oui, nos services sont disponibles en français, allemand, italien et anglais. Nous couvrons toutes les régions linguistiques de la Suisse.",
         "category": "general"
       },
       {
-        "question": "Comment financer mon projet IA ?",
+        "question": "Comment financer mon projet IA?",
         "answer": "Plusieurs cantons proposent des subventions pour la digitalisation des PME (VD, GE, VS, ZH, etc.). Nous vous aidons à identifier les aides disponibles dans votre région.",
-        "category": "pricing"
+        "category": "cadrage"
       }
     ]
   },
@@ -950,7 +950,7 @@
     "title": "Nos partenaires",
     "subtitle": "Un écosystème de confiance pour accompagner votre transformation",
     "become_partner": "Devenir partenaire",
-    "become_text": "Vous souhaitez collaborer avec IAPME Suisse ? Contactez-nous.",
+    "become_text": "Vous souhaitez collaborer avec IAPME Suisse? Contactez-nous.",
     "categories": {
       "tech": "Technologie",
       "institution": "Institutions",
@@ -983,7 +983,7 @@
       }
     ],
     "become_partner_title": "Devenir partenaire",
-    "become_partner_description": "Vous souhaitez collaborer avec IAPME Suisse ?",
+    "become_partner_description": "Vous souhaitez collaborer avec IAPME Suisse?",
     "become_partner_cta": "Nous contacter",
     "visit_website": "Visiter le site"
   },
@@ -1001,7 +1001,7 @@
       "email_placeholder": "jean@entreprise.ch",
       "submit": "S'abonner gratuitement",
       "consent": "En vous inscrivant, vous acceptez notre politique de confidentialité. Désabonnement possible à tout moment.",
-      "success": "Bienvenue ! Vérifiez votre boîte mail pour confirmer votre inscription."
+      "success": "Bienvenue! Vérifiez votre boîte mail pour confirmer votre inscription."
     },
     "count": "Rejoignez notre communauté de PME innovantes",
     "banner_text": "Recevez nos astuces IA chaque semaine",
@@ -1022,12 +1022,12 @@
       "instant": "Résultats immédiats",
       "email_label": "Recevez votre rapport détaillé par email",
       "email_button": "Recevoir mon rapport",
-      "share_text": "J'ai obtenu {score}/30 au Score de Maturité IA ! Et vous ?",
+      "share_text": "J'ai obtenu {score}/30 au Score de Maturité IA! Et vous?",
       "cta": "Réservez votre audit gratuit",
       "levels": {
         "beginner": {
           "name": "Débutant IA",
-          "description": "Votre PME en est au tout début de son parcours IA. C'est le moment idéal pour commencer !"
+          "description": "Votre PME en est au tout début de son parcours IA. C'est le moment idéal pour commencer!"
         },
         "explorer": {
           "name": "Explorateur IA",
@@ -1035,11 +1035,11 @@
         },
         "adopter": {
           "name": "Adopteur IA",
-          "description": "Votre PME utilise déjà l'IA de manière significative. Passez à la vitesse supérieure !"
+          "description": "Votre PME utilise déjà l'IA de manière significative. Passez à la vitesse supérieure!"
         },
         "leader": {
           "name": "Leader IA",
-          "description": "Bravo ! Votre PME est en avance. Continuez à innover !"
+          "description": "Bravo! Votre PME est en avance. Continuez à innover!"
         }
       }
     },
@@ -1047,34 +1047,34 @@
       "title": "Testez vos connaissances IA",
       "subtitle": "15 questions pour évaluer votre culture IA",
       "start": "Commencer le quiz",
-      "correct": "Bonne réponse !",
+      "correct": "Bonne réponse!",
       "wrong": "Mauvaise réponse",
-      "explanation": "Explication :",
-      "share_text": "J'ai obtenu {score}/15 au Quiz Connaissances IA !",
+      "explanation": "Explication:",
+      "share_text": "J'ai obtenu {score}/15 au Quiz Connaissances IA!",
       "levels": {
         "novice": {
           "name": "Novice IA",
-          "description": "Vous débutez en IA, c'est le moment d'apprendre !"
+          "description": "Vous débutez en IA, c'est le moment d'apprendre!"
         },
         "connoisseur": {
           "name": "Connaisseur IA",
-          "description": "Bonnes bases ! Approfondissez avec nos formations."
+          "description": "Bonnes bases! Approfondissez avec nos formations."
         },
         "expert": {
           "name": "Expert IA",
-          "description": "Impressionnant ! Vous maîtrisez le sujet."
+          "description": "Impressionnant! Vous maîtrisez le sujet."
         },
         "genius": {
           "name": "Génie IA",
-          "description": "Parfait ou presque ! Vous êtes un vrai expert."
+          "description": "Parfait ou presque! Vous êtes un vrai expert."
         }
       }
     },
     "tool": {
-      "title": "Quel outil IA est fait pour vous ?",
+      "title": "Quel outil IA est fait pour vous?",
       "subtitle": "8 questions pour découvrir l'outil IA qui vous correspond",
       "start": "Découvrir mon outil",
-      "share_text": "Je suis fait pour {tool} ! Et vous, quel outil IA vous correspond ?",
+      "share_text": "Je suis fait pour {tool}! Et vous, quel outil IA vous correspond?",
       "cta": "Découvrir tous les outils"
     }
   },
@@ -1083,17 +1083,17 @@
     "hub_subtitle": "Apprenez l'IA en vous amusant",
     "guess": {
       "title": "Devine l'IA",
-      "subtitle": "Saurez-vous distinguer un texte IA d'un texte humain ?",
+      "subtitle": "Saurez-vous distinguer un texte IA d'un texte humain?",
       "ai_button": "Écrit par l'IA",
       "human_button": "Écrit par un humain",
-      "correct": "Bien vu !",
-      "wrong": "Raté !",
+      "correct": "Bien vu!",
+      "wrong": "Raté!",
       "was_ai": "C'était écrit par une IA",
       "was_human": "C'était écrit par un humain",
       "score": "Score",
       "round": "Tour",
       "next": "Suivant",
-      "share_text": "J'ai deviné {score}/10 textes IA/humain ! Saurez-vous faire mieux ?"
+      "share_text": "J'ai deviné {score}/10 textes IA/humain! Saurez-vous faire mieux?"
     },
     "prompt": {
       "title": "Prompt Master",
@@ -1108,8 +1108,8 @@
         "format": "Instructions de format",
         "constraints": "Contraintes précisées"
       },
-      "tip": "Conseil :",
-      "share_text": "J'ai obtenu {score}/25 au Prompt Master !"
+      "tip": "Conseil:",
+      "share_text": "J'ai obtenu {score}/25 au Prompt Master!"
     }
   },
   "generationLeads": {
@@ -1119,7 +1119,7 @@
     "subtitle": "Automatisez votre prospection commerciale et remplissez votre pipeline avec des prospects reellement interesses par vos offres.",
     "schema": {
       "name": "Generation de leads IA pour PME suisses",
-      "description": "Solution IA de generation de leads B2B : scoring automatique, nurturing personnalise, integration CRM et reporting."
+      "description": "Solution IA de generation de leads B2B: scoring automatique, nurturing personnalise, integration CRM et reporting."
     },
     "hero": {
       "point1": "Identification automatique des prospects a fort potentiel",
@@ -1151,7 +1151,7 @@
       "subtitle": "Un processus structure en 4 etapes pour une prospection IA efficace des le premier mois",
       "analyse": {
         "title": "Analyse de votre ICP",
-        "desc": "Identification precise de votre client ideal : secteur, taille entreprise, poste decisionnel, signaux achat."
+        "desc": "Identification precise de votre client ideal: secteur, taille entreprise, poste decisionnel, signaux achat."
       },
       "ciblage": {
         "title": "Ciblage IA",
@@ -1182,7 +1182,7 @@
       },
       "reporting": {
         "title": "Reporting temps reel",
-        "desc": "Tableau de bord complet : cout par lead, taux de conversion, pipeline revenue."
+        "desc": "Tableau de bord complet: cout par lead, taux de conversion, pipeline revenue."
       },
       "multichannel": {
         "title": "Multi-canal",
@@ -1194,7 +1194,7 @@
       }
     },
     "cta": {
-      "title": "Pret a remplir votre pipeline ?",
+      "title": "Pret a remplir votre pipeline?",
       "description": "Obtenez un audit gratuit de votre strategie de prospection actuelle et decouvrez votre potentiel de croissance.",
       "button": "Demander mon audit gratuit"
     }
@@ -1206,7 +1206,7 @@
     "subtitle": "Creez, publiez et optimisez l'ensemble de votre marketing en automatique. Votre equipe se concentre sur la strategie, l'IA execute.",
     "schema": {
       "name": "Marketing automatise IA pour PME suisses",
-      "description": "Automatisation marketing complete par IA : contenu, email, reseaux sociaux, SEO et publicites pour PME suisses."
+      "description": "Automatisation marketing complete par IA: contenu, email, reseaux sociaux, SEO et publicites pour PME suisses."
     },
     "hero": {
       "cta": "Demarrer maintenant",
@@ -1295,10 +1295,10 @@
     "breadcrumb": "Prise de RDV automatique",
     "badge": "Agent IA de prise de RDV",
     "title": "Remplissez votre agenda automatiquement, 24h/24",
-    "subtitle": "Un agent IA prend en charge toute votre prise de rendez-vous : qualification, creneaux, confirmation et rappels. Sans secretaire.",
+    "subtitle": "Un agent IA prend en charge toute votre prise de rendez-vous: qualification, creneaux, confirmation et rappels. Sans secretaire.",
     "schema": {
       "name": "Prise de RDV automatique IA pour PME suisses",
-      "description": "Agent IA de prise de rendez-vous disponible 24/7 : qualification, planification, confirmation et suivi pour PME suisses."
+      "description": "Agent IA de prise de rendez-vous disponible 24/7: qualification, planification, confirmation et suivi pour PME suisses."
     },
     "hero": {
       "point1": "Disponible 24h/24, 7j/7, meme les jours feries suisses",
@@ -1320,7 +1320,7 @@
       },
       "schedule": {
         "title": "Planification",
-        "desc": "Propose automatiquement des creneaux disponibles selon vos regles : duree, buffer, jours travailles."
+        "desc": "Propose automatiquement des creneaux disponibles selon vos regles: duree, buffer, jours travailles."
       },
       "remind": {
         "title": "Rappels automatiques",
@@ -1332,7 +1332,7 @@
       }
     },
     "benefits": {
-      "title": "Pourquoi automatiser votre prise de RDV ?",
+      "title": "Pourquoi automatiser votre prise de RDV?",
       "available": {
         "title": "Disponible 24/7",
         "desc": "Captez les prospects la nuit, le week-end et les jours feries. Ne ratez plus aucune opportunite."
@@ -1355,7 +1355,7 @@
       },
       "reporting": {
         "title": "Reporting complet",
-        "desc": "Taux de conversion, motifs d'annulation, pics de demande : visualisez tout en un coup d'oeil."
+        "desc": "Taux de conversion, motifs d'annulation, pics de demande: visualisez tout en un coup d'oeil."
       }
     },
     "stats": {

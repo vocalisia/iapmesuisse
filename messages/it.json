@@ -8,8 +8,8 @@
       "description": "Integra l'IA nella tua PMI svizzera: audit gratuito 30 min, formazione e supporto su misura. Conforme nLPD/AI Act. Sion · Ginevra · Zurigo."
     },
     "services": {
-      "title": "I nostri servizi IA per PMI",
-      "description": "Audit IA, formazione, integrazione di strumenti e consulenza strategica per le PMI svizzere."
+      "title": "Servizi IA per PMI svizzere",
+      "description": "Audit IA, formazione, automazione e integrazione ChatGPT/Copilot per PMI svizzere in Ticino, Romandia e Svizzera tedesca."
     },
     "about": {
       "title": "Chi siamo",
@@ -77,7 +77,7 @@
     },
     "guess_ai": {
       "title": "Indovina l'IA – Gioco interattivo",
-      "description": "Saprete distinguere un testo scritto dall'IA da un testo umano?"
+      "description": "Saprete distinguere un testo scritto dall'IA perimetro personalizzato"
     },
     "prompt_master": {
       "title": "Prompt Master – Sfida IA",
@@ -85,7 +85,7 @@
     },
     "generationLeads": {
       "title": "Generazione lead IA per PMI svizzere - IAPME",
-      "description": "Automatizzate la prospezione B2B con l'IA. Piu lead qualificati, meno costi di acquisizione. Audit gratuito."
+      "description": "Automatizzate la prospezione B2B con l'IA. Piu lead qualificati, meno perimetro personalizzato di acquisizione. Audit gratuito."
     },
     "marketingIa": {
       "title": "Marketing automatizzato IA per PMI - IAPME Svizzera",
@@ -127,7 +127,7 @@
   },
   "home": {
     "why_title": "Perché l'IA per le PMI svizzere?",
-    "why_description": "L'intelligenza artificiale non è più riservata alle grandi imprese. Le PMI svizzere possono già oggi sfruttare l'IA per aumentare l'efficienza, ridurre i costi e promuovere l'innovazione.",
+    "why_description": "L'intelligenza artificiale non è più riservata alle grandi imprese. Le PMI svizzere possono già oggi sfruttare l'IA per aumentare l'efficienza, ridurre i perimetro personalizzato e promuovere l'innovazione.",
     "why_items": [
       {
         "title": "Produttività",
@@ -203,7 +203,7 @@
     },
     "strategy": {
       "title": "Consulenza strategica",
-      "description": "Definite la vostra strategia IA a lungo termine con un accompagnamento personalizzato da parte dei nostri esperti.",
+      "description": "Definite la vostra strategia IA a lungo termine con un accompagnamento personalizzato perimetro personalizzato.",
       "features": [
         "Strategia digitale IA",
         "Trasformazione digitale",
@@ -354,8 +354,8 @@
         "answer": "Assolutamente sì. Molti strumenti IA sono accessibili e convenienti, anche per le microimprese. L'importante è identificare i casi d'uso più adatti."
       },
       {
-        "question": "Quanto costa l'integrazione dell'IA?",
-        "answer": "I costi variano in base alla complessità del progetto. Un audit iniziale permette di valutare gli investimenti necessari e il ROI atteso."
+        "question": "comment cadrer l'integrazione dell'IA?",
+        "answer": "I perimetro personalizzato variano in base alla complessità del progetto. Un audit iniziale permette di valutare gli investimenti necessari e il ROI atteso."
       },
       {
         "question": "Servono competenze tecniche?",
@@ -393,7 +393,7 @@
       "editor_title": "Editore del sito",
       "editor_text": "IAPME Suisse – un servizio di VAULT 369 LTD\nChem. Saint-Hubert 2, 1950 Sion, Svizzera\nSede legale: 128 City Road, EC1V 2NX, London, United Kingdom\nE-mail: contact@iapmesuisse.ch",
       "hosting_title": "Hosting",
-      "hosting_text": "iapmesuisse.ch è ospitato da Vercel Inc., 340 S Lemon Ave #4133, Walnut, CA 91789, USA.",
+      "hosting_text": "iapmesuisse.ch è ospitato perimetro personalizzato., 340 S Lemon Ave #4133, Walnut, CA 91789, USA.",
       "intellectual_title": "Proprietà intellettuale",
       "intellectual_text": "Tutti i contenuti del sito (testi, immagini, loghi, icone) sono proprietà di IAPME Suisse o dei suoi partner. È vietata qualsiasi riproduzione, anche parziale, senza autorizzazione scritta.",
       "liability_title": "Limitazione di responsabilità",
@@ -419,7 +419,7 @@
       "cookies_title": "Cookie",
       "cookies_text": "Questo sito utilizza esclusivamente cookie tecnici necessari al funzionamento. Non vengono utilizzati cookie di tracciamento o pubblicitari.",
       "transfer_title": "Trasferimento dei dati",
-      "transfer_text": "Il sito è ospitato da Vercel Inc. (USA). Sono in atto misure di protezione adeguate conformi alla nLPD.",
+      "transfer_text": "Il sito è ospitato perimetro personalizzato. (USA). Sono in atto misure di protezione adeguate conformi alla nLPD.",
       "update_title": "Modifiche",
       "update_text": "IAPME Suisse si riserva il diritto di modificare la presente informativa in qualsiasi momento."
     },
@@ -428,11 +428,11 @@
       "meta_description": "Condizioni generali di vendita e utilizzo dei servizi IAPME Suisse.",
       "title": "Condizioni generali",
       "scope_title": "Campo di applicazione",
-      "scope_text": "Le presenti condizioni si applicano a tutte le prestazioni offerte da IAPME Suisse.",
+      "scope_text": "Le presenti condizioni si applicano a tutte le prestazioni offerte perimetro personalizzato.",
       "services_title": "Descrizione dei servizi",
       "services_text": "IAPME Suisse offre servizi di consulenza, formazione e integrazione nel campo dell'intelligenza artificiale per le PMI svizzere. L'ambito esatto è definito in un preventivo o contratto specifico.",
-      "pricing_title": "Tariffe e pagamento",
-      "pricing_text": "Le tariffe sono comunicate su richiesta. I prezzi si intendono in CHF IVA esclusa. Pagamento entro 30 giorni.",
+      "pricing_title": "Perimetro e condizioni",
+      "pricing_text": "Ogni missione viene definita in uno scambio privato secondo processi, dati e priorità.",
       "cancellation_title": "Annullamento",
       "cancellation_text": "Ogni annullamento deve essere comunicato per iscritto almeno 5 giorni lavorativi prima della data prevista.",
       "confidentiality_title": "Riservatezza",
@@ -448,7 +448,7 @@
     "subtitle": "Sviluppate le competenze IA del vostro team con le nostre formazioni personalizzate",
     "free": {
       "name": "Scoperta",
-      "price": "Accesso introduttivo",
+      "price": "Da definire",
       "description": "Primi passi nell'IA",
       "features": [
         "Mini-corso email di 5 giorni",
@@ -460,7 +460,7 @@
     },
     "starter": {
       "name": "Starter",
-      "price": "97 CHF",
+      "price": "Da definire",
       "description": "Le basi dell'IA per la vostra PMI",
       "features": [
         "3 ore di video",
@@ -473,7 +473,7 @@
     },
     "pro": {
       "name": "Pro",
-      "price": "297 CHF",
+      "price": "Da definire",
       "description": "Padroneggiate l'IA per la vostra impresa",
       "features": [
         "10 ore di video",
@@ -491,7 +491,7 @@
     },
     "premium": {
       "name": "Premium",
-      "price": "997 CHF",
+      "price": "Da definire",
       "description": "Trasformazione completa con accompagnamento",
       "features": [
         "Intero programma Pro",
@@ -504,10 +504,10 @@
       "badge": "VIP"
     },
     "guarantee": "Soddisfatti o rimborsati entro 30 giorni",
-    "vat_note": "Prezzi in CHF, IVA esclusa",
+    "vat_note": "Condizioni chiarite in uno scambio privato.",
     "equipe": {
       "name": "Formazione Team",
-      "price": "2500 CHF",
+      "price": "Da definire",
       "description": "Formazione IA personalizzata in videoconferenza con il tuo team — 4h di workshop pratico sugli strumenti IA adatti al tuo settore",
       "features": [
         "Sessione video 4h con il tuo team",
@@ -530,7 +530,7 @@
     },
     "claude_code": {
       "name": "Formation Claude Code",
-      "price": "3500 CHF",
+      "price": "Da definire",
       "description": "Atelier visio 4h dédié à Claude Code pour votre équipe dev",
       "badge": "Dev & Tech",
       "cta": "Réserver ma session",
@@ -547,7 +547,7 @@
     },
     "ia_marketing": {
       "name": "Formation IA Marketing",
-      "price": "2500 CHF",
+      "price": "Da definire",
       "description": "Atelier visio 4h IA Marketing pour votre équipe",
       "badge": "Marketing",
       "cta": "Réserver ma session",
@@ -557,7 +557,7 @@
         "SEO & GEO avec l'IA",
         "Automatisation campagnes email & LinkedIn",
         "Génération de leads & copywriting IA",
-        "Outils : Midjourney, Canva IA, Make.com",
+        "Outils: Midjourney, Canva IA, Make.com",
         "Workflows marketing automatisés",
         "Support 30 jours post-formation"
       ]
@@ -623,7 +623,7 @@
     "subtitle": "Un accompagnamento personalizzato per la vostra trasformazione digitale",
     "audit": {
       "name": "Audit IA Express",
-      "price": "297 CHF",
+      "price": "Da definire",
       "description": "Identificate le vostre opportunità IA",
       "features": [
         "Chiamata diagnostica di 1 ora",
@@ -635,7 +635,7 @@
     },
     "accompagnement": {
       "name": "Accompagnamento",
-      "price": "1'497 CHF",
+      "price": "Da definire",
       "description": "Implementazione guidata",
       "features": [
         "Audit completo (2 ore)",
@@ -649,7 +649,7 @@
     },
     "custom": {
       "name": "Su misura",
-      "price": "Su preventivo",
+      "price": "Da definire",
       "description": "Progetti complessi e formazione del team",
       "features": [
         "Formazione del team in loco",
@@ -676,7 +676,7 @@
     "subtitle": "Offerte adatte a ogni esigenza",
     "starter": {
       "name": "Scoperta",
-      "price": "Gratuito",
+      "price": "Da definire",
       "description": "Primo passo verso l'IA",
       "features": [
         "Audit IA iniziale (1 ora)",
@@ -686,7 +686,7 @@
     },
     "pro": {
       "name": "Professionale",
-      "price": "Su preventivo",
+      "price": "Da definire",
       "description": "Integrazione e formazione",
       "features": [
         "Audit IA approfondito",
@@ -698,7 +698,7 @@
     },
     "enterprise": {
       "name": "Impresa",
-      "price": "Su preventivo",
+      "price": "Da definire",
       "description": "Trasformazione completa",
       "features": [
         "Strategia IA completa",
@@ -752,7 +752,7 @@
         "date": "2026-03-26",
         "location": "EPFL, Losanna",
         "type": "Conferenza",
-        "price": "A pagamento",
+        "price": "Da definire",
         "url": "https://appliedmldays.org",
         "description": "La più grande conferenza svizzera sul machine learning, organizzata dall'EPFL."
       },
@@ -761,16 +761,16 @@
         "date": "2026-11-01",
         "location": "Tutta la Svizzera",
         "type": "Giornata nazionale",
-        "price": "Gratuito",
+        "price": "Da definire",
         "url": "https://digitaltag.swiss",
-        "description": "Giornata nazionale della digitalizzazione organizzata da digitalswitzerland."
+        "description": "Giornata nazionale della digitalizzazione organizzata perimetro personalizzato."
       },
       {
         "name": "AI & Automation Summit Zurich",
         "date": "2026-06-15",
         "location": "Zurigo",
         "type": "Summit",
-        "price": "A pagamento",
+        "price": "Da definire",
         "url": "#",
         "description": "Summit dedicato all'IA e all'automazione per le imprese svizzere."
       },
@@ -779,7 +779,7 @@
         "date": "2026-04-15",
         "location": "Online",
         "type": "Webinar",
-        "price": "Gratuito",
+        "price": "Da definire",
         "url": "#",
         "description": "Webinar mensile gratuito: scoprite come l'IA può trasformare la vostra PMI."
       }
@@ -807,7 +807,7 @@
         "name": "ChatGPT",
         "category": "content",
         "rating": 5,
-        "price": "Freemium",
+        "price": "Da definire",
         "description": "L'assistente IA più versatile per redazione, analisi e brainstorming.",
         "url": "https://chat.openai.com"
       },
@@ -815,7 +815,7 @@
         "name": "Claude",
         "category": "content",
         "rating": 5,
-        "price": "Freemium",
+        "price": "Da definire",
         "description": "IA di Anthropic, eccellente per l'analisi di documenti e la redazione lunga.",
         "url": "https://claude.ai"
       },
@@ -823,7 +823,7 @@
         "name": "DeepL",
         "category": "translation",
         "rating": 5,
-        "price": "Freemium",
+        "price": "Da definire",
         "description": "Il miglior strumento di traduzione automatica, ideale per le PMI svizzere multilingue.",
         "url": "https://www.deepl.com"
       },
@@ -831,7 +831,7 @@
         "name": "Zapier",
         "category": "automation",
         "rating": 4,
-        "price": "Freemium",
+        "price": "Da definire",
         "description": "Collegate le vostre applicazioni e automatizzate i workflow senza programmare.",
         "url": "https://zapier.com"
       },
@@ -839,7 +839,7 @@
         "name": "Make",
         "category": "automation",
         "rating": 4,
-        "price": "Freemium",
+        "price": "Da definire",
         "description": "Automazione avanzata con un'interfaccia visuale potente.",
         "url": "https://www.make.com"
       },
@@ -847,7 +847,7 @@
         "name": "Notion AI",
         "category": "productivity",
         "rating": 4,
-        "price": "A pagamento",
+        "price": "Da definire",
         "description": "Organizzazione e produttività potenziate dall'IA integrata.",
         "url": "https://notion.so"
       },
@@ -855,7 +855,7 @@
         "name": "Infomaniak",
         "category": "hosting",
         "rating": 5,
-        "price": "A pagamento",
+        "price": "Da definire",
         "description": "Hosting web svizzero, ecologico e sovrano. Ideale per le PMI.",
         "url": "https://www.infomaniak.com"
       },
@@ -863,7 +863,7 @@
         "name": "Canva",
         "category": "content",
         "rating": 4,
-        "price": "Freemium",
+        "price": "Da definire",
         "description": "Creazione grafica semplificata con funzioni IA integrate.",
         "url": "https://www.canva.com"
       }
@@ -880,7 +880,7 @@
         "name": "Marc Keller",
         "company": "Keller Treuhand AG",
         "location": "Zurigo",
-        "text": "L'audit IA di IAPME ci ha permesso di identificare guadagni di produttività che non avremmo mai trovato da soli. In 3 mesi abbiamo automatizzato il 40% delle nostre attività amministrative.",
+        "text": "L'audit IA di IAPME ci ha permesso di identificare guadagni di produttività che non avremmo mai trovato perimetro personalizzato. In 3 mesi abbiamo automatizzato il 40% delle nostre attività amministrative.",
         "rating": 5
       },
       {
@@ -906,16 +906,16 @@
       "general": "Generale",
       "technical": "Tecnico",
       "legal": "Legale & Conformità",
-      "pricing": "Tariffe"
+      "pricing": "perimetro personalizzato"
     },
     "items": [
       {
         "question": "L'IA è adatta alle piccole imprese?",
-        "answer": "Assolutamente. Strumenti come ChatGPT, DeepL o Zapier sono accessibili a partire da pochi franchi al mese e possono automatizzare attività ripetitive, migliorare il servizio clienti o accelerare la creazione di contenuti.",
+        "answer": "Assolutamente. Strumenti come ChatGPT, DeepL o Zapier sono accessibili a partire perimetro personalizzato, migliorare il servizio clienti o accelerare la creazione di contenuti.",
         "category": "general"
       },
       {
-        "question": "Da dove iniziare con l'IA nella mia PMI?",
+        "question": "perimetro personalizzato",
         "answer": "Iniziate con un audit dei vostri processi: identificate le attività ripetitive, dispendiose in termini di tempo o a basso valore aggiunto. Il nostro audit gratuito vi aiuta a dare priorità alle opportunità.",
         "category": "general"
       },
@@ -940,9 +940,9 @@
         "category": "legal"
       },
       {
-        "question": "Quanto costa un progetto IA per PMI?",
-        "answer": "I costi variano: da gratuito (strumenti base) a qualche migliaio di franchi (integrazione su misura). Il nostro audit express a 297 CHF vi fornisce una stima precisa del ROI.",
-        "category": "pricing"
+        "question": "comment cadrer un progetto IA per PMI?",
+        "answer": "I perimetro personalizzato variano: perimetro personalizzato) a qualche migliaio di franchi (integrazione su misura). Il nostro audit express a perimetro personalizzato vi fornisce una stima precisa del ROI.",
+        "category": "perimetro"
       },
       {
         "question": "Quanto dura un progetto di integrazione?",
@@ -957,7 +957,7 @@
       {
         "question": "Come finanziare il mio progetto IA?",
         "answer": "Diversi cantoni offrono sovvenzioni per la digitalizzazione delle PMI (VD, GE, VS, ZH, ecc.). Vi aiutiamo a identificare gli aiuti disponibili nella vostra regione.",
-        "category": "pricing"
+        "category": "perimetro"
       }
     ]
   },
@@ -1075,13 +1075,13 @@
     "hub_subtitle": "Imparate l'IA divertendovi",
     "guess": {
       "title": "Indovina l'IA",
-      "subtitle": "Saprete distinguere un testo IA da un testo umano?",
+      "subtitle": "Saprete distinguere un testo IA perimetro personalizzato",
       "ai_button": "Scritto dall'IA",
-      "human_button": "Scritto da un umano",
+      "human_button": "Scritto perimetro personalizzato",
       "correct": "Bravi!",
       "wrong": "Sbagliato!",
-      "was_ai": "Era scritto da un'IA",
-      "was_human": "Era scritto da un umano",
+      "was_ai": "Era scritto perimetro personalizzato",
+      "was_human": "Era scritto perimetro personalizzato",
       "score": "Punteggio",
       "round": "Turno",
       "next": "Avanti",

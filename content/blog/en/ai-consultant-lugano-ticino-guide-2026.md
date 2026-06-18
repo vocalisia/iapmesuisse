@@ -1,10 +1,12 @@
 ﻿---
-title: "AI Consultant in Lugano and Ticino: The Complete Guide for SMEs in 2026"
+title: "AI Consultant Lugano: Ticino Guide for SMEs"
 date: "2026-05-27"
-excerpt: "AI market in Lugano and Ticino 2026: trilingual market specifics, local players, digital transformation for Swiss-Italian SMEs. Expert guide for southern Switzerland businesses."
+excerpt: "Find an AI consultant in Lugano or Ticino: trilingual market, Swiss data rules, local use cases and deployment checklist for SMEs."
 author: "Laurent Duplat"
 slug: "ai-consultant-lugano-ticino-guide-2026"
 image: "/images/generated/iapmesuisse-ai-consulting.png"
+locale: "en"
+
 ---
 
 # AI Consultant in Lugano and Ticino: The Complete Guide for SMEs in 2026

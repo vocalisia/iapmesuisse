@@ -50,10 +50,10 @@ export async function generateMetadata({ params }: Props) {
     it: `Audit IA gratuito & formazione PMI ${name} · IAPME Suisse`,
   };
   const descs: Record<string, string> = {
-    fr: `Accompagnement IA pour les PME du canton de ${name}: audit gratuit, formation, intégration ChatGPT/Copilot/Claude. Conformité nLPD + AI Act. Devis 24h.`,
-    de: `KI-Begleitung für KMU im Kanton ${name}: kostenloses Audit, Schulung, Integration von ChatGPT/Copilot/Claude. nDSG- und AI-Act-konform. Offerte in 24h.`,
-    en: `AI support for SMEs in canton ${name}: free audit, training, ChatGPT/Copilot/Claude integration. nFADP + AI Act compliant. 24h quote.`,
-    it: `Supporto IA per le PMI del cantone ${name}: audit gratuito, formazione, integrazione ChatGPT/Copilot/Claude. Conforme nLPD + AI Act. Preventivo in 24h.`,
+    fr: `Accompagnement IA pour les PME du canton de ${name}: audit gratuit, formation, intégration ChatGPT/Copilot/Claude. Conformité nLPD + AI Act.`,
+    de: `KI-Begleitung für KMU im Kanton ${name}: kostenloses Audit, Schulung, Integration von ChatGPT/Copilot/Claude. nDSG- und AI-Act-konform.`,
+    en: `AI support for SMEs in canton ${name}: free audit, training, ChatGPT/Copilot/Claude integration. nFADP + AI Act compliant.`,
+    it: `Supporto IA per le PMI del cantone ${name}: audit gratuito, formazione, integrazione ChatGPT/Copilot/Claude. Conforme nLPD + AI Act.`,
   };
 
   return {
@@ -68,14 +68,14 @@ const T = {
     breadcrumbCantons: 'Cantons',
     h1: (n: string) => `Audit IA gratuit & formation pour PME du canton de ${n}`,
     intro: (n: string, count: string) =>
-      `Vous dirigez une PME parmi les ${count} entreprises du canton de ${n} ? IAPME Suisse vous accompagne dans l'adoption concrète de l'intelligence artificielle : audit gratuit, formation des équipes, intégration d'outils. Conformité nLPD et AI Act garantie, ROI mesuré sous 4 à 12 semaines.`,
+      `Vous dirigez une PME parmi les ${count} entreprises du canton de ${n} ? IAPME Suisse vous accompagne dans l'adoption concrète de l'intelligence artificielle : audit gratuit, formation des équipes, intégration d'outils. Conformité nLPD et AI Act garantie, priorités mesurables dès les premières semaines.`,
     citiesTitle: 'Villes principales desservies',
     sectorsTitle: 'Secteurs prioritaires en',
     fundingTitle: 'Aides cantonales mobilisables',
     servicesTitle: 'Nos services pour les PME du canton',
     services: [
       { title: 'Audit IA gratuit', desc: '30 à 60 min en visio + rapport sous 48h. Cartographie processus, 5 quick-wins, score maturité IA, roadmap 90 jours.', href: '/contact' },
-      { title: 'Formation IA équipe', desc: 'Sur mesure, FR/DE/IT, 800 à 3 500 CHF/jour. Conforme art. 4 AI Act.', href: '/formation-ia-pme' },
+      { title: 'Formation IA équipe', desc: 'Sur mesure, FR/DE/IT, adapt? ? vos Équipes. Conforme art. 4 AI Act.', href: '/formation-ia-pme' },
       { title: 'Intégration outils', desc: 'ChatGPT Team, Microsoft Copilot, Claude Pro, Make/Zapier. Hébergement Suisse ou UE adéquate.', href: '/services' },
       { title: 'Consulting IA', desc: 'Audit Express, accompagnement 90 jours, mise en conformité nLPD + AI Act.', href: '/consulting' },
     ],
@@ -85,14 +85,14 @@ const T = {
       'Multilingue FR · DE · IT · EN',
       'Conformité nLPD + AI Act intégrée à chaque mission',
       'Audit gratuit sans engagement, rapport PDF en 48h',
-      'Tarifs CHF transparents, devis sous 24h',
+      'Cadrage clair en échange privé',
       'Présence Suisse romande, alémanique et Tessin',
     ],
     relatedTitle: 'Ressources utiles',
     related: [
       { title: 'Audit IA gratuit · checklist nLPD + AI Act', href: '/blog/audit-ia-gratuit-pme-suisse-checklist-nlpd' },
       { title: 'AI Act EU & PME suisses : conformité 2026', href: '/blog/ai-act-eu-pme-suisse-conformite-2026' },
-      { title: 'Prix formation IA · comparatif cantons CHF', href: '/blog/prix-formation-ia-pme-suisse-comparatif-cantons-chf' },
+      { title: 'Formats de formation IA pour PME', href: '/formation-ia-pme' },
       { title: 'Études de cas PME romandes', href: '/blog/etudes-cas-pme-romandes-ia' },
     ],
     ctaTitle: (n: string) => `Démarrons votre projet IA dans le canton de ${n}`,
@@ -103,14 +103,14 @@ const T = {
     breadcrumbCantons: 'Kantone',
     h1: (n: string) => `Kostenloses KI-Audit & Schulung für KMU im Kanton ${n}`,
     intro: (n: string, count: string) =>
-      `Sie führen ein KMU unter den ${count} Unternehmen im Kanton ${n}? IAPME Suisse begleitet Sie bei der konkreten Einführung von KI: kostenloses Audit, Teamschulung, Tool-Integration. nDSG- und AI-Act-konform, messbarer ROI in 4 bis 12 Wochen.`,
+      `Sie führen ein KMU unter den ${count} Unternehmen im Kanton ${n}? IAPME Suisse begleitet Sie bei der konkreten Einführung von KI: kostenloses Audit, Teamschulung, Tool-Integration. nDSG- und AI-Act-konform, messbare Prioritäten ab den ersten Wochen.`,
     citiesTitle: 'Bediente Hauptstädte',
     sectorsTitle: 'Priorisierte Branchen in',
     fundingTitle: 'Mobilisierbare kantonale Hilfen',
     servicesTitle: 'Unsere Leistungen für KMU im Kanton',
     services: [
       { title: 'Kostenloses KI-Audit', desc: '30-60 Min Videocall + Bericht in 48h. Prozesskartierung, 5 Quick Wins, Reifegrad-Score, 90-Tage-Roadmap.', href: '/contact' },
-      { title: 'KI-Teamschulung', desc: 'Massgeschneidert, FR/DE/IT, 800-3 500 CHF/Tag. Konform Art. 4 AI Act.', href: '/formation-ia-pme' },
+      { title: 'KI-Teamschulung', desc: 'Massgeschneidert, FR/DE/IT, passend für Ihre Teams. Konform Art. 4 AI Act.', href: '/formation-ia-pme' },
       { title: 'Tool-Integration', desc: 'ChatGPT Team, Microsoft Copilot, Claude Pro, Make/Zapier. Hosting Schweiz oder EU.', href: '/services' },
       { title: 'KI-Beratung', desc: 'Express-Audit, 90-Tage-Begleitung, Konformität nDSG + AI Act.', href: '/consulting' },
     ],
@@ -120,14 +120,14 @@ const T = {
       'Mehrsprachig FR · DE · IT · EN',
       'nDSG + AI Act in jeder Mission integriert',
       'Kostenloses Audit ohne Verpflichtung, PDF-Bericht in 48h',
-      'Transparente CHF-Tarife, Offerte in 24h',
+      'Klarer Projektumfang im privaten Austausch',
       'Präsenz Romandie, Deutschschweiz und Tessin',
     ],
     relatedTitle: 'Nützliche Ressourcen',
     related: [
       { title: 'Kostenloses KI-Audit · Checkliste nDSG + AI Act', href: '/blog/audit-ia-gratuit-pme-suisse-checklist-nlpd' },
       { title: 'EU AI Act & Schweizer KMU 2026', href: '/blog/ai-act-eu-pme-suisse-conformite-2026' },
-      { title: 'KI-Schulungspreise · Kantonsvergleich', href: '/blog/prix-formation-ia-pme-suisse-comparatif-cantons-chf' },
+      { title: 'KI-Schulungsformate für KMU', href: '/formation-ia-pme' },
       { title: 'Fallstudien KMU Romandie', href: '/blog/etudes-cas-pme-romandes-ia' },
     ],
     ctaTitle: (n: string) => `Starten wir Ihr KI-Projekt im Kanton ${n}`,
@@ -138,14 +138,14 @@ const T = {
     breadcrumbCantons: 'Cantons',
     h1: (n: string) => `Free AI audit & training for SMEs in canton ${n}`,
     intro: (n: string, count: string) =>
-      `You run an SME among the ${count} businesses in canton ${n}? IAPME Suisse supports concrete AI adoption: free audit, team training, tool integration. nFADP + AI Act compliant, measurable ROI in 4 to 12 weeks.`,
+      `You run an SME among the ${count} businesses in canton ${n}? IAPME Suisse supports concrete AI adoption: free audit, team training, tool integration. nFADP + AI Act compliant, measurable priorities from the first weeks.`,
     citiesTitle: 'Main cities served',
     sectorsTitle: 'Priority sectors in',
     fundingTitle: 'Cantonal funding available',
     servicesTitle: 'Our services for SMEs in the canton',
     services: [
       { title: 'Free AI audit', desc: '30-60 min video call + report within 48h. Process mapping, 5 quick wins, AI maturity score, 90-day roadmap.', href: '/contact' },
-      { title: 'Team AI training', desc: 'Custom, FR/DE/IT, 800-3,500 CHF/day. Compliant with Art. 4 AI Act.', href: '/formation-ia-pme' },
+      { title: 'Team AI training', desc: 'Custom, FR/DE/IT, adapted to your teams. Compliant with Art. 4 AI Act.', href: '/formation-ia-pme' },
       { title: 'Tool integration', desc: 'ChatGPT Team, Microsoft Copilot, Claude Pro, Make/Zapier. Hosted in Switzerland or adequate EU.', href: '/services' },
       { title: 'AI consulting', desc: 'Express audit, 90-day support, nFADP + AI Act compliance.', href: '/consulting' },
     ],
@@ -155,14 +155,14 @@ const T = {
       'Multilingual FR · DE · IT · EN',
       'nFADP + AI Act baked into every mission',
       'Free no-commitment audit, PDF report within 48h',
-      'Transparent CHF rates, 24h quote',
+      'Clear scope in a private exchange',
       'Presence French, German & Italian Switzerland',
     ],
     relatedTitle: 'Useful resources',
     related: [
       { title: 'Free AI audit · nFADP + AI Act checklist', href: '/blog/audit-ia-gratuit-pme-suisse-checklist-nlpd' },
       { title: 'EU AI Act & Swiss SMEs 2026', href: '/blog/ai-act-eu-pme-suisse-conformite-2026' },
-      { title: 'AI training prices · canton comparison', href: '/blog/prix-formation-ia-pme-suisse-comparatif-cantons-chf' },
+      { title: 'AI training formats for SMEs', href: '/formation-ia-pme' },
       { title: 'Swiss SME case studies', href: '/blog/etudes-cas-pme-romandes-ia' },
     ],
     ctaTitle: (n: string) => `Let's start your AI project in canton ${n}`,
@@ -173,14 +173,14 @@ const T = {
     breadcrumbCantons: 'Cantoni',
     h1: (n: string) => `Audit IA gratuito & formazione per PMI del cantone ${n}`,
     intro: (n: string, count: string) =>
-      `Lei dirige una PMI tra le ${count} aziende del cantone ${n}? IAPME Suisse l'accompagna nell'adozione concreta dell'IA: audit gratuito, formazione del team, integrazione strumenti. Conforme nLPD + AI Act, ROI misurato in 4-12 settimane.`,
+      `Lei dirige una PMI tra le ${count} aziende del cantone ${n}? IAPME Suisse l'accompagna nell'adozione concreta dell'IA: audit gratuito, formazione del team, integrazione strumenti. Conforme nLPD + AI Act, priorità misurabili dalle prime settimane.`,
     citiesTitle: 'Città principali servite',
     sectorsTitle: 'Settori prioritari in',
     fundingTitle: 'Aiuti cantonali mobilizzabili',
     servicesTitle: 'I nostri servizi per le PMI del cantone',
     services: [
       { title: 'Audit IA gratuito', desc: '30-60 min in videochiamata + rapporto entro 48h. Cartografia processi, 5 quick win, punteggio maturità, roadmap 90 giorni.', href: '/contact' },
-      { title: 'Formazione team IA', desc: 'Su misura, FR/DE/IT, 800-3.500 CHF/giorno. Conforme art. 4 AI Act.', href: '/formation-ia-pme' },
+      { title: 'Formazione team IA', desc: 'Su misura, FR/DE/IT, adattata ai vostri team. Conforme art. 4 AI Act.', href: '/formation-ia-pme' },
       { title: 'Integrazione strumenti', desc: 'ChatGPT Team, Microsoft Copilot, Claude Pro, Make/Zapier. Hosting Svizzera o UE.', href: '/services' },
       { title: 'Consulting IA', desc: 'Audit Express, accompagnamento 90 giorni, conformità nLPD + AI Act.', href: '/consulting' },
     ],
@@ -190,14 +190,14 @@ const T = {
       'Multilingue FR · DE · IT · EN',
       'nLPD + AI Act integrati in ogni missione',
       'Audit gratuito senza impegno, rapporto PDF in 48h',
-      'Tariffe CHF trasparenti, preventivo in 24h',
+      'Perimetro chiaro in uno scambio privato',
       'Presenza Svizzera romanda, tedesca e Ticino',
     ],
     relatedTitle: 'Risorse utili',
     related: [
       { title: 'Audit IA gratuito · checklist nLPD + AI Act', href: '/blog/audit-ia-gratuit-pme-suisse-checklist-nlpd' },
       { title: 'AI Act UE & PMI svizzere 2026', href: '/blog/ai-act-eu-pme-suisse-conformite-2026' },
-      { title: 'Prezzi formazione IA · confronto cantonale', href: '/blog/prix-formation-ia-pme-suisse-comparatif-cantons-chf' },
+      { title: 'Formati di formazione IA per PMI', href: '/formation-ia-pme' },
       { title: 'Studi di caso PMI svizzere', href: '/blog/etudes-cas-pme-romandes-ia' },
     ],
     ctaTitle: (n: string) => `Avviamo il suo progetto IA nel cantone ${n}`,
@@ -251,11 +251,11 @@ export default async function CantonPage({ params }: Props) {
       },
       {
         q: `Quelles aides cantonales pour un projet IA dans le canton de ${name} ?`,
-        a: `${canton.funding}. À cela s'ajoutent InnoSuisse (jusqu'à 75 000 CHF), le chèque innovation (15 000 CHF) et les déductions fiscales formation continue.`,
+        a: `${canton.funding}. Orientation possible vers InnoSuisse, les dispositifs d'innovation et les déductions liées à la formation continue.`,
       },
       {
-        q: `Combien coûte un audit IA pour une PME de ${name} ?`,
-        a: `L'audit initial est gratuit (30-60 min en visio + rapport sous 48h). Les missions d'accompagnement démarrent à partir d'un quick-win 4-8 semaines, devis personnalisé sous 24h.`,
+        q: `Comment cadrer un audit IA pour une PME de ${name} ?`,
+        a: `L'audit initial est gratuit (30-60 min en visio + rapport sous 48h). Les prochaines étapes sont cadrées en échange privé selon les processus, les données et les priorités de la PME.`,
       },
     ],
     de: [
@@ -269,11 +269,11 @@ export default async function CantonPage({ params }: Props) {
       },
       {
         q: `Welche kantonalen Förderungen für ein KI-Projekt im Kanton ${name}?`,
-        a: `${canton.funding}. Zusätzlich: InnoSuisse (bis 75 000 CHF), Innovations-Cheque (15 000 CHF) und steuerliche Abzüge für Weiterbildung.`,
+        a: `${canton.funding}. Zusätzlich prüfen wir InnoSuisse, Innovationsinstrumente und steuerliche Abzüge für Weiterbildung.`,
       },
       {
-        q: `Was kostet ein KI-Audit für ein KMU in ${name}?`,
-        a: `Das Erst-Audit ist kostenlos (30-60 Min Videocall + Bericht in 48h). Begleitmissionen starten mit einem Quick-Win in 4-8 Wochen. Offerte in 24h.`,
+        q: `Wie wird ein KI-Audit für ein KMU in ${name} definiert?`,
+        a: `Das Erst-Audit ist kostenlos (30-60 Min Videocall + Bericht in 48h). Die nächsten Schritte werden im privaten Austausch nach Prozessen, Datenlage und Prioritäten definiert.`,
       },
     ],
     en: [
@@ -287,11 +287,11 @@ export default async function CantonPage({ params }: Props) {
       },
       {
         q: `What cantonal funding is available for an AI project in canton ${name}?`,
-        a: `${canton.funding}. Plus: InnoSuisse (up to 75,000 CHF), innovation cheque (15,000 CHF) and continuing-education tax deductions.`,
+        a: `${canton.funding}. We also review InnoSuisse, innovation instruments and continuing-education tax deductions.`,
       },
       {
-        q: `How much does an AI audit cost for an SME in ${name}?`,
-        a: `Initial audit is free (30-60 min video call + 48h report). Engagements start with a 4-8 week quick-win, custom quote within 24h.`,
+        q: `How is an AI audit scoped for an SME in ${name}?`,
+        a: `Initial audit is free (30-60 min video call + 48h report). Next steps are scoped privately according to workflows, data and priorities.`,
       },
     ],
     it: [
@@ -305,11 +305,11 @@ export default async function CantonPage({ params }: Props) {
       },
       {
         q: `Quali aiuti cantonali per un progetto IA nel cantone ${name}?`,
-        a: `${canton.funding}. In aggiunta: InnoSuisse (fino a 75 000 CHF), assegno innovazione (15 000 CHF) e deduzioni fiscali per la formazione continua.`,
+        a: `${canton.funding}. Valutiamo anche InnoSuisse, gli strumenti di innovazione e le deduzioni legate alla formazione continua.`,
       },
       {
-        q: `Quanto costa un audit IA per una PMI di ${name}?`,
-        a: `L'audit iniziale è gratuito (30-60 min in videochiamata + rapporto entro 48h). Le missioni di accompagnamento partono da un quick-win in 4-8 settimane. Preventivo in 24h.`,
+        q: `Come si definisce un audit IA per una PMI di ${name}?`,
+        a: `L'audit iniziale è gratuito (30-60 min in videochiamata + rapporto entro 48h). Le tappe successive sono definite in uno scambio privato secondo processi, dati e priorità.`,
       },
     ],
   };
@@ -406,7 +406,7 @@ export default async function CantonPage({ params }: Props) {
             <h2 className="text-xl font-bold text-primary">{t.fundingTitle}</h2>
             <p className="mt-4 text-sm leading-relaxed text-gray-700">{canton.funding}</p>
             <p className="mt-3 text-xs text-gray-500">
-              + InnoSuisse jusqu&apos;à 75 000 CHF, chèque innovation 15 000 CHF.
+              + Orientation vers les dispositifs InnoSuisse et innovation selon votre dossier.
             </p>
           </div>
         </div>

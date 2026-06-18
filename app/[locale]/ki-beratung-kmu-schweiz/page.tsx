@@ -92,7 +92,7 @@ const T = {
       "Hébergement souverain : privilégier Infomaniak, Exoscale ou un datacenter suisse/UE pour tous les outils d'automatisation",
       "Documentation : tenir un registre actualisé des activités de traitement IA (obligatoire si PME >250 employés ou traitement de données sensibles)",
     ],
-    s5_penalite: "Amendes nDSG jusqu'à CHF 250 000 pour les personnes responsables (Verantwortliche). Les violations les plus courantes dans les PME : pas d'information sur les chatbots IA, hébergement aux USA sans garanties adéquates, absence de registre des traitements.",
+    s5_penalite: "Sanctions nDSG possibles pour les personnes responsables (Verantwortliche). Les violations les plus courantes dans les PME : pas d'information sur les chatbots IA, hébergement aux USA sans garanties adéquates, absence de registre des traitements.",
     s6_title: 'ROI du conseil IA pour PME suisses : benchmarks réels',
     s6_desc: "Voici les résultats mesurés sur des mandats de conseil IA réalisés auprès de PME suisses entre 2024 et 2026 :",
     s6_stats: [
@@ -104,8 +104,8 @@ const T = {
     faq_title: 'Questions fréquentes — Conseil IA pour PME suisses',
     faqs: [
       {
-        q: 'Combien coûte un conseil IA pour PME en Suisse ?',
-        a: "Le coût d'un mandat de conseil IA dépend de l'envergure du projet et du profil du prestataire. Pour obtenir une estimation précise adaptée à votre PME, nous proposons un audit gratuit de 30 minutes qui vous permettra d'évaluer le potentiel et les coûts réels. Prenez rendez-vous via notre formulaire de contact.",
+        q: 'Comment cadrer un conseil IA pour PME en Suisse ?',
+        a: "Le périmètre d'un mandat de conseil IA dépend de l'envergure du projet et du profil du prestataire. Pour obtenir une estimation précise adaptée à votre PME, nous proposons un audit gratuit de 30 minutes qui vous permettra d'évaluer le potentiel et les priorités réelles. Prenez rendez-vous via notre formulaire de contact.",
       },
       {
         q: 'Quelle différence entre un consultant IA et un développeur IA ?',
@@ -132,7 +132,7 @@ const T = {
       { href: '/outils-ia', label: 'Les meilleurs outils IA pour PME suisses' },
       { href: '/blog/audit-ia-gratuit-pme-suisse-checklist-nlpd', label: 'Audit IA gratuit PME suisse : checklist nLPD complète' },
       { href: '/blog/strategie-ia-pme-suisse-2026', label: 'Stratégie IA pour PME suisses : guide 2026' },
-      { href: '/blog/budget-ia-pme-suisse', label: 'Budget IA PME suisse : combien prévoir en 2026 ?' },
+      { href: '/automatisation-ia-pme-suisse', label: 'Cadrer une roadmap IA PME suisse en 2026' },
       { href: '/cantons', label: 'IA par canton : Genève, Vaud, Valais, Zurich, Berne, Bâle' },
       { href: '/contact', label: 'Audit IA gratuit (30 min) — prendre rendez-vous' },
     ],
@@ -167,7 +167,7 @@ const T = {
       },
       {
         title: '5. Verpflichtung zu messbaren Ergebnissen',
-        desc: 'Seriöse KI-Beratung wird in KPI gemessen: eingesparte Zeit, reduzierte Kosten, zusätzlich qualifizierte Leads. Bestehen Sie auf einem Plan mit definierten Meilensteinen und Metriken vor der Unterzeichnung.',
+        desc: 'Seriöse KI-Beratung wird in KPI gemessen: eingesparte Zeit, reduzierte Fehler, zusätzlich qualifizierte Leads. Bestehen Sie auf einem Plan mit definierten Meilensteinen und Metriken vor der Unterzeichnung.',
       },
     ],
     s3_title: 'KI-Beratung vs. KI-Agentur: Unterschied für Ihr KMU',
@@ -176,7 +176,7 @@ const T = {
       { aspect: 'Typische KMU-Größe', consultant: 'KMU 5–50 Mitarbeitende', agence: 'KMU 20–200+ Mitarbeitende' },
       { aspect: 'Interventionstiefe', consultant: 'Strategie + Deployment-Steuerung', agence: 'Strategie + Individualentwicklung' },
       { aspect: 'Reaktionsfähigkeit', consultant: 'Hoch (ein Ansprechpartner)', agence: 'Variabel (mehrere Beteiligte)' },
-      { aspect: 'Relativer Kostenfaktor', consultant: 'Zugänglicher', agence: 'Höher, schwerere Projekte' },
+      { aspect: 'Relativer Aufwandfaktor', consultant: 'Zugänglicher', agence: 'Höher, schwerere Projekte' },
       { aspect: 'nDSG-Konformität integriert', consultant: 'Je nach Profil', agence: 'In der Regel ja (dediziertes Team)' },
       { aspect: 'Mehrsprachigkeit FR/DE/IT', consultant: 'Je nach Profil', agence: 'Oft nativ' },
     ],
@@ -193,7 +193,7 @@ const T = {
       'Souveränes Hosting: Infomaniak, Exoscale oder Schweizer/EU-Rechenzentrum für alle Automatisierungs-Tools bevorzugen',
       'Dokumentation: Aktuelles Verarbeitungsverzeichnis für KI-Aktivitäten führen (Pflicht bei >250 MA oder sensiblen Daten)',
     ],
-    s5_penalite: 'nDSG-Bußen bis CHF 250 000 für Verantwortliche. Häufigste Verstöße in KMU: keine Information über KI-Chatbots, Hosting in den USA ohne angemessene Garantien, fehlendes Verarbeitungsverzeichnis.',
+    s5_penalite: 'nDSG-Bußen für Verantwortliche sind möglich. Häufigste Verstöße in KMU: keine Information über KI-Chatbots, Hosting in den USA ohne angemessene Garantien, fehlendes Verarbeitungsverzeichnis.',
     s6_title: 'ROI der KI-Beratung für Schweizer KMU: echte Benchmarks',
     s6_desc: 'Ergebnisse aus KI-Beratungsmandaten bei Schweizer KMU zwischen 2024 und 2026:',
     s6_stats: [
@@ -205,8 +205,8 @@ const T = {
     faq_title: 'Häufige Fragen — KI-Beratung für Schweizer KMU',
     faqs: [
       {
-        q: 'Was kostet KI-Beratung für ein KMU in der Schweiz?',
-        a: 'Die Kosten eines KI-Beratungsmandats hängen vom Projektumfang und dem Profil des Anbieters ab. Für eine genaue, auf Ihr KMU zugeschnittene Schätzung bieten wir ein kostenloses 30-minütiges Audit an, das Ihnen ermöglicht, das Potenzial und die echten Kosten zu bewerten.',
+        q: 'Wie wird KI-Beratung für ein KMU in der Schweiz definiert?',
+        a: 'Der Umfang eines KI-Beratungsmandats hängt vom Projektumfang und dem Profil des Anbieters ab. Für eine genaue, auf Ihr KMU zugeschnittene Einschätzung bieten wir ein kostenloses 30-min?tiges Audit an, das Ihnen ermöglicht, das Potenzial und die echten Prioritäten zu bewerten.',
       },
       {
         q: 'Was unterscheidet einen KI-Berater von einem KI-Entwickler?',
@@ -294,7 +294,7 @@ const T = {
       'Sovereign hosting: prefer Infomaniak, Exoscale or a Swiss/EU data centre for all automation tools',
       'Documentation: maintain an up-to-date register of AI processing activities (mandatory for >250 employees or sensitive data)',
     ],
-    s5_penalite: 'nFADP fines up to CHF 250,000 for responsible persons. Most common violations in SMEs: no information about AI chatbots, hosting in the USA without adequate safeguards, missing processing register.',
+    s5_penalite: 'nFADP fines for responsible persons are possible. Most common violations in SMEs: no information about AI chatbots, hosting in the USA without adequate safeguards, missing processing register.',
     s6_title: 'ROI of AI consulting for Swiss SMEs: real benchmarks',
     s6_desc: 'Results measured on AI consulting mandates carried out with Swiss SMEs between 2024 and 2026:',
     s6_stats: [
@@ -306,8 +306,8 @@ const T = {
     faq_title: 'Frequently asked questions — AI consulting for Swiss SMEs',
     faqs: [
       {
-        q: 'How much does AI consulting cost for an SME in Switzerland?',
-        a: 'The cost of an AI consulting mandate depends on the scope of the project and the profile of the provider. For an accurate estimate tailored to your SME, we offer a free 30-minute audit that will help you evaluate the potential and real costs.',
+        q: 'How should AI consulting be scoped for an SME in Switzerland?',
+        a: 'The scope of an AI consulting mandate depends on the project, data context and provider profile. A free 30-minute audit helps evaluate the potential and the real priorities for your SME.',
       },
       {
         q: 'What is the difference between an AI consultant and an AI developer?',
@@ -334,7 +334,7 @@ const T = {
       { href: '/outils-ia', label: 'Best AI tools for Swiss SMEs' },
       { href: '/blog/audit-ia-gratuit-pme-suisse-checklist-nlpd', label: 'Free AI audit Swiss SME: nFADP checklist' },
       { href: '/blog/strategie-ia-pme-suisse-2026', label: 'AI strategy for Swiss SMEs: guide 2026' },
-      { href: '/blog/budget-ia-pme-suisse', label: 'AI budget Swiss SME: what to plan for in 2026?' },
+      { href: '/automatisation-ia-pme-suisse', label: 'Scope an AI roadmap for Swiss SMEs in 2026' },
       { href: '/cantons', label: 'AI by canton: Geneva, Vaud, Valais, Zurich, Bern, Basel' },
       { href: '/contact', label: 'Free AI audit (30 min) — book now' },
     ],
@@ -369,7 +369,7 @@ const T = {
       },
       {
         title: '5. Impegno su risultati misurabili',
-        desc: "La consulenza IA seria si misura in KPI: tempo risparmiato, costi ridotti, lead qualificati aggiuntivi. Esigete un piano con tappe e metriche definite prima della firma.",
+        desc: "La consulenza IA seria si misura in KPI: tempo risparmiato, errori ridotti, lead qualificati aggiuntivi. Esigete un piano con tappe e metriche definite prima della firma.",
       },
     ],
     s3_title: 'Consulenza IA vs agenzia IA: quale differenza per la vostra PMI?',
@@ -395,7 +395,7 @@ const T = {
       "Hosting sovrano: preferire Infomaniak, Exoscale o un datacenter svizzero/UE per tutti gli strumenti di automazione",
       "Documentazione: tenere un registro aggiornato delle attività di trattamento IA (obbligatorio per >250 dipendenti o dati sensibili)",
     ],
-    s5_penalite: "Sanzioni nLPD fino a CHF 250 000 per le persone responsabili. Violazioni più frequenti nelle PMI: nessuna informazione sui chatbot IA, hosting negli USA senza garanzie adeguate, assenza del registro dei trattamenti.",
+    s5_penalite: "Sono possibili sanzioni nLPD per le persone responsabili. Violazioni più frequenti nelle PMI: nessuna informazione sui chatbot IA, hosting negli USA senza garanzie adeguate, assenza del registro dei trattamenti.",
     s6_title: 'ROI della consulenza IA per PMI svizzere: benchmark reali',
     s6_desc: 'Risultati misurati su mandati di consulenza IA realizzati presso PMI svizzere tra il 2024 e il 2026:',
     s6_stats: [
@@ -407,8 +407,8 @@ const T = {
     faq_title: 'Domande frequenti — Consulenza IA per PMI svizzere',
     faqs: [
       {
-        q: "Quanto costa una consulenza IA per una PMI in Svizzera?",
-        a: "Il costo di un mandato di consulenza IA dipende dall'ampiezza del progetto e dal profilo del fornitore. Per una stima precisa adattata alla vostra PMI, offriamo un audit gratuito di 30 minuti che vi permetterà di valutare il potenziale e i costi reali.",
+        q: "Come definire una consulenza IA per una PMI in Svizzera?",
+        a: "Il perimetro di un mandato di consulenza IA dipende dall'ampiezza del progetto, dai dati e dal profilo del fornitore. Un audit gratuito di 30 minuti permette di valutare il potenziale e le priorità reali.",
       },
       {
         q: "Qual è la differenza tra un consulente IA e uno sviluppatore IA?",
@@ -435,7 +435,7 @@ const T = {
       { href: '/outils-ia', label: 'I migliori strumenti IA per PMI svizzere' },
       { href: '/blog/audit-ia-gratuit-pme-suisse-checklist-nlpd', label: 'Audit IA gratuito PMI svizzera: checklist nLPD' },
       { href: '/blog/strategie-ia-pme-suisse-2026', label: 'Strategia IA per PMI svizzere: guida 2026' },
-      { href: '/blog/budget-ia-pme-suisse', label: 'Budget IA PMI svizzera: cosa prevedere nel 2026?' },
+      { href: '/automatisation-ia-pme-suisse', label: 'Definire una roadmap IA per PMI svizzere nel 2026' },
       { href: '/cantons', label: 'IA per cantone: Ginevra, Vaud, Vallese, Zurigo, Berna, Basilea' },
       { href: '/contact', label: 'Audit IA gratuito (30 min) — prendere appuntamento' },
     ],

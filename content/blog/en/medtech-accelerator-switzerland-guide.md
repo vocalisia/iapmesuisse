@@ -7,6 +7,7 @@ category: "Innovation & Funding"
 author: "Laurent Duplat"
 locale: "en"
 image: "/images/generated/iapmesuisse-ai-consulting.png"
+
 ---
 
 # Medtech Accelerator Switzerland: Programs & Criteria

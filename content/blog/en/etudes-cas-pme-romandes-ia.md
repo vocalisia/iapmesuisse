@@ -1,10 +1,14 @@
 ---
-title: "AI Case Studies: Swiss SMEs in Romandie 2026"
+title: "AI Case Studies: Swiss SMEs in Romandie"
 date: "2026-03-26"
-excerpt: "6 in-depth AI case studies from Swiss SMEs in Romandie: sectors, deployed solutions, measured ROI and lessons learned. FADP-compliant. Free 30-min audit."
+excerpt: "AI case studies from Swiss SMEs in Romandie: deployed workflows, team adoption, compliance lessons and measurable operational outcomes."
 slug: "etudes-cas-pme-romandes-ia"
 category: "Transformation Digitale"
 pillar: "transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026"
+author: "Laurent Duplat"
+locale: "en"
+image: "/images/generated/iapmesuisse-ai-consulting.png"
+
 ---
 
 # Case Studies: Swiss SMEs Transformed by AI

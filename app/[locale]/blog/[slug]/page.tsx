@@ -15,8 +15,10 @@ import {
   isPublicPricingSlug,
   stripHtml,
 } from '@/lib/structured-data';
+import { sanitizePublicHtml, sanitizePublicText } from '@/lib/public-text';
 
 type BlogSummary = ReturnType<typeof getBlogPosts>[number];
+type PillarLink = { href: string; label: string; tokens: string[] };
 
 const STOP_WORDS = new Set([
   'avec',
@@ -64,6 +66,67 @@ function getRelatedPosts(post: BlogSummary, locale: string) {
     .sort((a, b) => b.score - a.score || (a.post.date > b.post.date ? -1 : 1))
     .slice(0, 5)
     .map((item) => item.post);
+}
+
+const PILLAR_LINKS: Record<string, PillarLink[]> = {
+  fr: [
+    { href: '/agence-ia-suisse', label: 'Agence IA Suisse pour PME', tokens: ['agence', 'consultant', 'conseil', 'strategie'] },
+    { href: '/automatisation-ia-pme-suisse', label: 'Automatisation IA pour PME suisses', tokens: ['automatisation', 'processus', 'workflow', 'outil'] },
+    { href: '/formation-ia-pme', label: 'Formation IA pour equipes PME', tokens: ['formation', 'atelier', 'equipes', 'chatgpt'] },
+    { href: '/ki-beratung-kmu-schweiz', label: 'KI Beratung KMU Schweiz', tokens: ['ki', 'beratung', 'kmu', 'deutschschweiz'] },
+    { href: '/chatbot-ia-entreprise-suisse', label: 'Chatbot IA entreprise Suisse', tokens: ['chatbot', 'service', 'client', 'support'] },
+  ],
+  de: [
+    { href: '/ki-beratung-kmu-schweiz', label: 'KI Beratung fur Schweizer KMU', tokens: ['ki', 'beratung', 'kmu', 'berater'] },
+    { href: '/automatisation-ia-pme-suisse', label: 'Prozessautomatisierung fur KMU', tokens: ['automatisierung', 'prozess', 'workflow', 'tools'] },
+    { href: '/formation-ia-pme', label: 'KI Schulung fur Teams', tokens: ['schulung', 'workshop', 'training', 'teams'] },
+    { href: '/agence-ia-suisse', label: 'KI Agentur Schweiz fur KMU', tokens: ['agentur', 'consulting', 'partner', 'strategie'] },
+    { href: '/chatbot-ia-entreprise-suisse', label: 'KI Chatbot fur Unternehmen', tokens: ['chatbot', 'kundenservice', 'support', 'service'] },
+  ],
+  en: [
+    { href: '/agence-ia-suisse', label: 'AI consulting agency in Switzerland', tokens: ['agency', 'consulting', 'consultant', 'strategy'] },
+    { href: '/automatisation-ia-pme-suisse', label: 'AI process automation for Swiss SMEs', tokens: ['automation', 'process', 'workflow', 'tools'] },
+    { href: '/formation-ia-pme', label: 'AI training for Swiss SME teams', tokens: ['training', 'upskilling', 'workshop', 'teams'] },
+    { href: '/ki-beratung-kmu-schweiz', label: 'AI consulting for German-speaking SMEs', tokens: ['berater', 'beratung', 'kmu', 'german'] },
+    { href: '/chatbot-ia-entreprise-suisse', label: 'AI chatbot for Swiss companies', tokens: ['chatbot', 'customer', 'service', 'support'] },
+  ],
+  it: [
+    { href: '/agence-ia-suisse', label: 'Agenzia IA in Svizzera per PMI', tokens: ['agenzia', 'consulenza', 'consulente', 'strategia'] },
+    { href: '/automatisation-ia-pme-suisse', label: 'Automazione IA per PMI svizzere', tokens: ['automazione', 'processi', 'workflow', 'strumenti'] },
+    { href: '/formation-ia-pme', label: 'Formazione IA per team PMI', tokens: ['formazione', 'workshop', 'team', 'chatgpt'] },
+    { href: '/ki-beratung-kmu-schweiz', label: 'Consulenza IA per PMI svizzere', tokens: ['consulenza', 'pmi', 'ticino', 'lugano'] },
+    { href: '/chatbot-ia-entreprise-suisse', label: 'Chatbot IA per aziende svizzere', tokens: ['chatbot', 'servizio', 'clienti', 'supporto'] },
+  ],
+};
+
+const LEGACY_BLOG_REDIRECTS: Record<string, Record<string, string>> = {
+  de: {
+    'formation-ia-pme-suisse': '/formation-ia-pme',
+    'ia-pme-valais-sion': '/villes/sion',
+  },
+  en: {
+    'formation-ia-pme-suisse': '/formation-ia-pme',
+    'ia-pme-valais-sion': '/villes/sion',
+  },
+  it: {
+    'formation-ia-pme-suisse': '/formation-ia-pme',
+    'ia-pme-valais-sion': '/villes/sion',
+  },
+};
+
+function getPillarLinks(post: BlogSummary, locale: string) {
+  const links = PILLAR_LINKS[locale] ?? PILLAR_LINKS.fr;
+  const source = `${post.title} ${post.excerpt} ${post.slug.replace(/-/g, ' ')}`.toLowerCase();
+
+  return links
+    .map((link, index) => ({
+      link,
+      score: link.tokens.reduce((sum, token) => sum + (source.includes(token) ? 1 : 0), 0),
+      index,
+    }))
+    .sort((a, b) => b.score - a.score || a.index - b.index)
+    .slice(0, 4)
+    .map((item) => item.link);
 }
 
 function normalizeContentHeadings(html: string) {
@@ -123,6 +186,11 @@ export default async function BlogPostPage({
   params: Promise<{ locale: string; slug: string }>;
 }) {
   const { locale, slug } = await params;
+  const legacyRedirect = LEGACY_BLOG_REDIRECTS[locale]?.[slug];
+  if (legacyRedirect) {
+    permanentRedirect(`/${locale}${legacyRedirect}`);
+  }
+
   const t = await getTranslations({ locale, namespace: 'blog' });
   const tNav = await getTranslations({ locale, namespace: 'nav' });
   if (isPublicPricingSlug(slug)) {
@@ -148,7 +216,11 @@ export default async function BlogPostPage({
     en: { sectionTitle: 'Find our AI agency in your city', ctaText: 'See services →' },
     it: { sectionTitle: 'Trova la nostra agenzia IA nella tua città', ctaText: 'Vedi i servizi →' },
   };
-  const villeLabel = villeLabels[locale] ?? villeLabels.fr;
+  const villeLabelRaw = villeLabels[locale] ?? villeLabels.fr;
+  const villeLabel = {
+    sectionTitle: sanitizePublicText(villeLabelRaw.sectionTitle, locale),
+    ctaText: sanitizePublicText(villeLabelRaw.ctaText, locale),
+  };
   const contactLabels: Record<string, { eyebrow: string; title: string; description: string }> = {
     fr: {
       eyebrow: 'Contact',
@@ -183,6 +255,13 @@ export default async function BlogPostPage({
     it: 'Per approfondire',
   };
   const relatedLabel = relatedLabels[locale] ?? relatedLabels.fr;
+  const pillarSectionLabels: Record<string, string> = {
+    fr: 'Pages piliers utiles',
+    de: 'Wichtige KI-Guides',
+    en: 'Useful pillar guides',
+    it: 'Guide pilastro utili',
+  };
+  const pillarSectionLabel = pillarSectionLabels[locale] ?? pillarSectionLabels.fr;
 
   const localeMap: Record<string, string> = {
     fr: 'fr-CH',
@@ -203,9 +282,10 @@ export default async function BlogPostPage({
   const baseUrl = getSiteUrl();
   const articleUrl = `${baseUrl}/${locale}/blog/${slug}`;
   const imageUrl = post.image.startsWith('http') ? post.image : `${baseUrl}${post.image}`;
-  const contentHtml = normalizeContentHeadings(post.content);
+  const contentHtml = sanitizePublicHtml(normalizeContentHeadings(post.content), locale);
   const articleText = stripHtml(contentHtml);
   const relatedPosts = getRelatedPosts(post, locale);
+  const pillarLinks = getPillarLinks(post, locale);
 
   const blogPostingSchema = {
     '@context': 'https://schema.org',
@@ -332,6 +412,26 @@ export default async function BlogPostPage({
             }),
           }}
         />
+
+        {pillarLinks.length > 0 && (
+          <nav className="mt-14 border-t border-gray-200 pt-10" aria-labelledby="pillar-links-title">
+            <h2 id="pillar-links-title" className="mb-5 text-xl font-bold text-primary">
+              {pillarSectionLabel}
+            </h2>
+            <ul className="grid gap-3 sm:grid-cols-2">
+              {pillarLinks.map((link) => (
+                <li key={link.href}>
+                  <Link
+                    href={link.href as '/services'}
+                    className="block rounded-xl border border-gray-200 bg-white p-4 text-sm font-semibold text-accent underline-offset-4 transition-colors hover:border-accent hover:text-primary hover:underline"
+                  >
+                    {sanitizePublicText(link.label, locale)}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </nav>
+        )}
 
         {relatedPosts.length > 0 && (
           <nav className="mt-14 border-t border-gray-200 pt-10" aria-labelledby="related-posts-title">

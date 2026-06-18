@@ -2,6 +2,7 @@ import type { MetadataRoute } from 'next';
 import { getBlogPosts } from '@/lib/markdown';
 import { CANTONS } from '@/lib/cantons';
 import { VILLES } from '@/lib/villes';
+import { isPublicPricingSlug } from '@/lib/structured-data';
 
 const locales = ['fr', 'de', 'en', 'it'];
 const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://iapmesuisse.ch';
@@ -29,6 +30,9 @@ const pages = [
   '/cgv',
   '/formation-ia-pme',
   '/automatisation-ia-pme-suisse',
+  '/agence-ia-suisse',
+  '/ki-beratung-kmu-schweiz',
+  '/chatbot-ia-entreprise-suisse',
   '/consulting',
   '/newsletter',
   '/evenements-ia',
@@ -70,6 +74,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       getBlogPosts(locale)
         .map((p) => p.slug)
         .filter((slug) => !excludedBlogSlugsByLocale[locale]?.has(slug))
+        .filter((slug) => !isPublicPricingSlug(slug))
     );
   }
 

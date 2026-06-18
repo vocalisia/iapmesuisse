@@ -48,12 +48,12 @@ const T = {
     s1_p2: "En Suisse, 42 % des PME ont déjà intégré au moins un outil d'automatisation (OFS, 2025). Celles qui n'ont pas encore franchi le pas risquent de perdre en compétitivité face à des concurrents qui traitent deux fois plus de demandes clients avec le même effectif.",
     s2_title: 'Les outils d\'automatisation IA adaptés aux PME suisses',
     s2_tools: [
-      { name: 'Make (ex-Integromat)', use: 'Orchestration de workflows multi-étapes', price: 'Dès CHF 9/mois', star: false },
-      { name: 'n8n (auto-hébergé)', use: 'Souveraineté des données, hébergement Infomaniak/Exoscale', price: 'Gratuit (self-hosted)', star: true },
-      { name: 'ChatGPT / Claude', use: 'Rédaction, analyse, réponse client, synthèse', price: 'Dès CHF 20/mois', star: false },
-      { name: 'Bexio + IA', use: 'Comptabilité automatisée, facturation, rappels', price: 'Dès CHF 49/mois', star: false },
-      { name: 'HubSpot CRM', use: 'Qualification de leads, nurturing automatisé', price: 'Gratuit → payant', star: false },
-      { name: 'Vocalis', use: 'Accueil téléphonique IA 24h/24 en FR/DE/IT', price: 'Dès CHF 150/mois', star: true },
+      { name: 'Make (ex-Integromat)', use: 'Orchestration de workflows multi-étapes', price: 'À cadrer', star: false },
+      { name: 'n8n (auto-hébergé)', use: 'Souveraineté des données, hébergement Infomaniak/Exoscale', price: 'Auto-hébergeable', star: true },
+      { name: 'ChatGPT / Claude', use: 'Rédaction, analyse, réponse client, synthèse', price: 'À cadrer', star: false },
+      { name: 'Bexio + IA', use: 'Comptabilité automatisée, facturation, rappels', price: 'À cadrer', star: false },
+      { name: 'HubSpot CRM', use: 'Qualification de leads, nurturing automatisé', price: 'Selon usage', star: false },
+      { name: 'Vocalis', use: 'Accueil téléphonique IA 24h/24 en FR/DE/IT', price: 'À cadrer', star: true },
     ],
     s2_star: 'Recommandé pour conformité nLPD',
     s3_title: 'ROI de l\'automatisation IA : chiffres concrets pour PME suisses',
@@ -68,7 +68,7 @@ const T = {
     s3_calc_desc: 'Estimez votre retour sur investissement IA en quelques secondes :',
     s4_title: 'Spécificités suisses : nLPD, multilinguisme et hébergement local',
     s4_nlpd_title: 'Conformité nLPD (loi fédérale sur la protection des données)',
-    s4_nlpd: "La nLPD, en vigueur depuis septembre 2023, impose aux PME suisses qui automatisent le traitement de données personnelles de respecter quatre principes : transparence envers les personnes concernées, minimisation des données, sécurité technique et documentation des traitements. Non-conformité : amendes jusqu'à CHF 250 000 pour les responsables.",
+    s4_nlpd: "La nLPD, en vigueur depuis septembre 2023, impose aux PME suisses qui automatisent le traitement de données personnelles de respecter quatre principes : transparence envers les personnes concernées, minimisation des données, sécurité technique et documentation des traitements. Non-conformité : sanctions personnelles possibles pour les responsables.",
     s4_nlpd_tips: [
       "Privilégier l'hébergement Suisse (Infomaniak, Exoscale) ou UE pour tous outils d'automatisation",
       'Tenir un registre des activités de traitement automatisé',
@@ -155,8 +155,8 @@ const T = {
     faq_title: 'Questions fréquentes sur l\'automatisation IA pour PME suisses',
     faqs: [
       {
-        q: 'Combien coûte l\'automatisation IA pour une PME suisse ?',
-        a: 'Un projet pilote démarre entre CHF 500 et CHF 2 000/mois (outils SaaS + intégration). Le retour sur investissement moyen se situe entre 8 et 14 mois pour les PME de services. Les économies générées (CHF 5 000 à CHF 12 000/mois pour une PME de 25 employés) dépassent largement le coût.',
+        q: 'Comment cadrer l\'automatisation IA pour une PME suisse ?',
+        a: 'Un projet pilote se cadre selon vos outils, vos données et le niveau d\'intégration attendu. L\'audit initial sert à définir un quick-win mesurable, les risques nLPD et les étapes de déploiement adaptées à votre PME.',
       },
       {
         q: 'Faut-il des compétences techniques pour automatiser les processus ?',
@@ -376,7 +376,7 @@ export default async function AutomatisationPillarPage({ params }: Props) {
             <p className="mt-2 text-sm text-gray-300">{tData.s3_calc_desc}</p>
             <div className="mt-6 grid gap-4 sm:grid-cols-3">
               <div className="rounded-lg bg-white/10 p-4">
-                <p className="text-sm font-semibold text-gray-200">Salaire moyen CHF/mois</p>
+                <p className="text-sm font-semibold text-gray-200">Base mensuelle de calcul</p>
                 <p className="mt-1 text-2xl font-bold">7 500</p>
                 <p className="text-xs text-gray-400">Médiane PME romande</p>
               </div>
@@ -387,12 +387,12 @@ export default async function AutomatisationPillarPage({ params }: Props) {
               </div>
               <div className="rounded-lg bg-[#FF0000]/80 p-4">
                 <p className="text-sm font-semibold text-white">Gain annuel estimé</p>
-                <p className="mt-1 text-2xl font-bold">CHF 22 500</p>
+                <p className="mt-1 text-2xl font-bold">Gain estim?</p>
                 <p className="text-xs text-red-200">Par collaborateur concerné</p>
               </div>
             </div>
             <p className="mt-4 text-xs text-gray-400">
-              Estimation basée sur 1 collaborateur à CHF 7 500/mois, 25 % de tâches automatisées, 11 mois travaillés.{' '}
+              Estimation basée sur un collaborateur type, 25 % de tâches automatisées, 11 mois travaillés.{' '}
               <Link href="/blog/roi-intelligence-artificielle-pme-suisse" className="underline hover:text-white">
                 Voir la méthode complète de calcul ROI
               </Link>

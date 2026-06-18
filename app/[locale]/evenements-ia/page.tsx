@@ -22,7 +22,8 @@ interface EventItem {
   date: string;
   location: string;
   type: string;
-  price: string;
+  access?: string;
+  price?: string;
   url: string;
   description: string;
 }
@@ -34,8 +35,13 @@ function formatEventDate(dateStr: string) {
   return { day, month };
 }
 
-function isFree(price: string) {
-  return price.toLowerCase() === 'gratuit' || price.toLowerCase() === 'free' || price === '0 CHF';
+function getEventAccess(event: EventItem) {
+  return event.access ?? event.price ?? '';
+}
+
+function isOpenAccess(access: string) {
+  const value = access.toLowerCase();
+  return value === 'gratuit' || value === 'free' || value.includes('open');
 }
 
 export default async function EventsPage({
@@ -84,7 +90,8 @@ export default async function EventsPage({
         <div className="mx-auto max-w-4xl space-y-6">
           {sortedEvents.map((event, index) => {
             const { day, month } = formatEventDate(event.date);
-            const free = isFree(event.price);
+            const access = getEventAccess(event);
+            const free = isOpenAccess(access);
 
             return (
               <article
@@ -113,7 +120,7 @@ export default async function EventsPage({
                           : 'bg-gray-100 text-gray-700'
                       }`}
                     >
-                      {event.price}
+                      {access}
                     </span>
                   </div>
 

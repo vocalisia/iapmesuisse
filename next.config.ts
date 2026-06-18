@@ -23,19 +23,44 @@ const nextConfig: NextConfig = {
       },
       // Cannibalisation: consolide Valais/Sion vers slug canonique
       {
-        source: '/:locale(fr|de|en|it)/blog/ia-pme-valais-sion',
-        destination: '/:locale/blog/ia-pme-valais-sion-2026',
+        source: '/fr/blog/ia-pme-valais-sion',
+        destination: '/fr/blog/ia-pme-valais-sion-2026',
         permanent: true,
       },
       {
-        source: '/:locale(fr|de|en|it)/blog/ia-pme-valais-sion-2026-04-14',
-        destination: '/:locale/blog/ia-pme-valais-sion-2026',
+        source: '/fr/blog/ia-pme-valais-sion-2026-04-14',
+        destination: '/fr/blog/ia-pme-valais-sion-2026',
+        permanent: true,
+      },
+      {
+        source: '/:locale(de|en|it)/blog/ia-pme-valais-sion',
+        destination: '/:locale/villes/sion',
+        permanent: true,
+      },
+      {
+        source: '/:locale(de|en|it)/blog/ia-pme-valais-sion-2026',
+        destination: '/:locale/villes/sion',
+        permanent: true,
+      },
+      {
+        source: '/:locale(de|en|it)/blog/ia-pme-valais-sion-2026-04-14',
+        destination: '/:locale/villes/sion',
         permanent: true,
       },
       // Cannibalisation: consolide formation IA PME
       {
-        source: '/:locale(fr|de|en|it)/blog/formation-ia-pme-suisse',
-        destination: '/:locale/blog/formation-ia-pme-suisse-2026',
+        source: '/fr/blog/formation-ia-pme-suisse',
+        destination: '/fr/blog/formation-ia-pme-suisse-2026',
+        permanent: true,
+      },
+      {
+        source: '/:locale(de|en|it)/blog/formation-ia-pme-suisse',
+        destination: '/:locale/formation-ia-pme',
+        permanent: true,
+      },
+      {
+        source: '/:locale(de|en|it)/blog/formation-ia-pme-suisse-2026',
+        destination: '/:locale/formation-ia-pme',
         permanent: true,
       },
       // Cannibalisation: consolide ROI IA PME

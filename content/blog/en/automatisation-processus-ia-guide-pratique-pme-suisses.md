@@ -1,9 +1,12 @@
 ﻿---
-title: "Automating Processes with AI: Guide for Swiss SMEs"
+title: "AI Process Automation for Swiss SMEs"
 date: "2026-03-26"
-excerpt: "Practical guide to automating your processes with AI in Swiss SMEs: tools, CHF budget, nLPD compliance, ROI, and 90-day roadmap. Real-world examples from Romandy."
+excerpt: "Practical guide to process automation with AI for Swiss SMEs: workflow selection, tool stack, FADP checks and 90-day rollout."
 slug: "automatisation-processus-ia-guide-pratique-pme-suisses"
 image: "/images/generated/iapmesuisse-ai-consulting.png"
+author: "Laurent Duplat"
+locale: "en"
+
 ---
 
 # Automating Processes with AI: Practical Guide for Swiss SMEs
