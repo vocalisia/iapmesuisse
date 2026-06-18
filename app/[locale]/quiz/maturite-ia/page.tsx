@@ -448,7 +448,7 @@ const levelsFR: LevelDef[] = [
     description:
       "Votre PME en est au tout début de son parcours IA. C'est le moment idéal pour commencer !",
     recommendations: [
-      "Commencez par explorer ChatGPT et d'autres outils IA gratuits",
+      "Commencez par explorer ChatGPT et d'autres outils IA accessibles",
       'Identifiez 2-3 tâches répétitives qui pourraient être automatisées',
       "Participez à notre formation d'introduction à l'IA pour PME",
       "Sensibilisez votre équipe aux opportunités de l'IA",
@@ -507,7 +507,7 @@ const levelsDE: LevelDef[] = [
     description:
       'Ihr KMU steht am Anfang seiner KI-Reise. Jetzt ist der ideale Zeitpunkt, um zu starten!',
     recommendations: [
-      'Erkunden Sie ChatGPT und andere kostenlose KI-Tools',
+      'Erkunden Sie ChatGPT und andere zugängliche KI-Tools',
       'Identifizieren Sie 2-3 repetitive Aufgaben, die automatisiert werden könnten',
       'Nehmen Sie an unserer KI-Einführungsschulung für KMU teil',
       'Sensibilisieren Sie Ihr Team für KI-Chancen',
@@ -566,7 +566,7 @@ const levelsEN: LevelDef[] = [
     description:
       'Your SME is at the very beginning of its AI journey. Now is the perfect time to start!',
     recommendations: [
-      'Start exploring ChatGPT and other free AI tools',
+      'Start exploring ChatGPT and other accessible AI tools',
       'Identify 2-3 repetitive tasks that could be automated',
       'Join our AI introduction training for SMEs',
       "Raise your team's awareness of AI opportunities",
@@ -625,7 +625,7 @@ const levelsIT: LevelDef[] = [
     description:
       "La vostra PMI è all'inizio del suo percorso IA. È il momento ideale per iniziare!",
     recommendations: [
-      'Iniziate esplorando ChatGPT e altri strumenti IA gratuiti',
+      'Iniziate esplorando ChatGPT e altri strumenti IA accessibili',
       'Identificate 2-3 compiti ripetitivi che potrebbero essere automatizzati',
       "Partecipate alla nostra formazione introduttiva sull'IA per PMI",
       "Sensibilizzate il vostro team sulle opportunità dell'IA",
@@ -710,7 +710,7 @@ const uiTextMap: Record<string, UIText> = {
       '10 questions pour découvrir votre score et recevoir des recommandations personnalisées',
     quizTitle: 'Score de Maturité IA',
     startButton: 'Commencer',
-    infoBadge: 'Gratuit \u2022 3 minutes \u2022 Résultats immédiats',
+    infoBadge: 'Interactif \u2022 3 minutes \u2022 Résultats immédiats',
     resultTitle: 'Votre Score de Maturité IA',
     ctaButton: 'Réservez votre audit gratuit',
     sharePrefix: "J'ai obtenu {score}/30 au Score de Maturité IA ! Et vous ?",
@@ -726,7 +726,7 @@ const uiTextMap: Record<string, UIText> = {
       '10 Fragen, um Ihren Score zu entdecken und personalisierte Empfehlungen zu erhalten',
     quizTitle: 'KI-Reifegrad-Score',
     startButton: 'Starten',
-    infoBadge: 'Kostenlos \u2022 3 Minuten \u2022 Sofortige Ergebnisse',
+    infoBadge: 'Interaktiv \u2022 3 Minuten \u2022 Sofortige Ergebnisse',
     resultTitle: 'Ihr KI-Reifegrad-Score',
     ctaButton: 'Kostenloses Audit buchen',
     sharePrefix: 'Ich habe {score}/30 beim KI-Reifegrad-Score erreicht! Und Sie?',
@@ -742,7 +742,7 @@ const uiTextMap: Record<string, UIText> = {
       '10 questions to discover your score and receive personalised recommendations',
     quizTitle: 'AI Maturity Score',
     startButton: 'Start',
-    infoBadge: 'Free \u2022 3 minutes \u2022 Instant results',
+    infoBadge: 'Interactive \u2022 3 minutes \u2022 Instant results',
     resultTitle: 'Your AI Maturity Score',
     ctaButton: 'Book your free audit',
     sharePrefix: 'I scored {score}/30 on the AI Maturity Score! How about you?',
@@ -758,7 +758,7 @@ const uiTextMap: Record<string, UIText> = {
       '10 domande per scoprire il vostro punteggio e ricevere raccomandazioni personalizzate',
     quizTitle: 'Score di Maturità IA',
     startButton: 'Iniziare',
-    infoBadge: 'Gratuito \u2022 3 minuti \u2022 Risultati immediati',
+    infoBadge: 'Interattivo \u2022 3 minuti \u2022 Risultati immediati',
     resultTitle: 'Il vostro Score di Maturità IA',
     ctaButton: 'Prenotate il vostro audit gratuito',
     sharePrefix: 'Ho ottenuto {score}/30 allo Score di Maturità IA! E voi?',

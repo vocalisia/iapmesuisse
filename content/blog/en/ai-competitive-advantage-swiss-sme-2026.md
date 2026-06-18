@@ -41,7 +41,7 @@ Available studies on the Swiss market converge on consistent findings:
 - **+31% customer satisfaction** in SMEs deploying an AI first-line chatbot
 - **Average time to measurable results**: 4 to 6 months post-implementation
 
-These figures are particularly significant in the Swiss context: Swiss labour costs, among the highest in Europe, make the ROI of automation especially compelling. An employee on CHF 90,000/year who spends 30% of their time on automatable tasks represents CHF 27,000 in savings or redeployment potential — per employee, per year.
+These figures are particularly significant in the Swiss context: high labour expectations and scarce qualified talent make the ROI of automation especially compelling. When a skilled employee spends a meaningful share of time on automatable tasks, the redeployment potential becomes strategic.
 
 ## Swiss Sectors Where the AI Advantage Is Strongest
 
@@ -114,9 +114,9 @@ Key competencies to develop in your middle managers:
 
 2. **Delegating entirely to IT**: AI adoption is a strategic project, not an IT project. The executive must be an active sponsor.
 
-3. **Copying large enterprise solutions**: SAP AI, Salesforce Einstein are often oversized and underperforming for SMEs. Targeted, lower-cost tools deliver better results.
+3. **Copying large enterprise solutions**: SAP AI, Salesforce Einstein are often oversized and underperforming for SMEs. Targeted, well-scoped tools deliver better results.
 
-4. **Neglecting training**: an AI tool that isn't mastered is useless. Budget 20-30% of implementation cost for training.
+4. **Neglecting training**: an AI tool that isn't mastered is useless. Plan training as a core part of implementation, not as an afterthought.
 
 5. **Ignoring the nFADP**: sending client or confidential data to AI tools without prior legal analysis exposes the company to sanctions and significant reputational risks.
 

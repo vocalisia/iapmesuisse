@@ -60,7 +60,7 @@
       "description": "Top KI-Tools für Schweizer KMU 2026: ChatGPT, Copilot, Claude, Make und n8n im Vergleich mit nDSG-Kompatibilität."
     },
     "quiz_maturity": {
-      "title": "KI-Reifegrad-Score – Kostenloses Quiz",
+      "title": "KI-Reifegrad-Score – Interaktives Quiz",
       "description": "Bewerten Sie den KI-Reifegrad Ihres KMU in 10 Fragen. Personalisierter Score und Empfehlungen."
     },
     "quiz_knowledge": {
@@ -85,7 +85,7 @@
     },
     "generationLeads": {
       "title": "Lead-Generierung KI fuer KMU Schweiz - IAPME",
-      "description": "B2B-Akquise automatisieren mit KI. Mehr qualifizierte Leads, geringere individueller Projektumfang. Kostenlose Beratung."
+      "description": "B2B-Akquise automatisieren mit KI. Mehr qualifizierte Leads und klarere nächste Schritte. Kostenloses Audit."
     },
     "marketingIa": {
       "title": "KI-Marketing-Automatisierung fuer KMU - IAPME",
@@ -127,7 +127,7 @@
   },
   "home": {
     "why_title": "Warum KI für Schweizer KMU?",
-    "why_description": "Künstliche Intelligenz ist längst nicht mehr nur Grossunternehmen vorbehalten. Schweizer KMU können bereits heute KI nutzen, um effizienter zu arbeiten, individueller Projektumfang zu senken und Innovationen voranzutreiben.",
+    "why_description": "Künstliche Intelligenz ist längst nicht mehr nur Grossunternehmen vorbehalten. Schweizer KMU können bereits heute KI nutzen, um effizienter zu arbeiten, Prozesse zu vereinfachen und Innovationen voranzutreiben.",
     "why_items": [
       {
         "title": "Produktivität",
@@ -355,7 +355,7 @@
       },
       {
         "question": "comment cadrer die Integration von KI?",
-        "answer": "Die individueller Projektumfang variieren je nach Komplexität des Projekts. Ein erstes Audit ermöglicht es, die notwendigen Investitionen und den erwarteten ROI zu bewerten."
+        "answer": "Der passende Umfang hängt von der Komplexität des Projekts, den verfügbaren Daten und den erwarteten Ergebnissen ab. Ein erstes Audit hilft, die nächsten sinnvollen Schritte zu priorisieren."
       },
       {
         "question": "Braucht man technische Vorkenntnisse?",
@@ -661,7 +661,7 @@
       "badge": "Massgeschneidert"
     },
     "book_title": "Buchen Sie ein Kennenlerngespräch",
-    "book_subtitle": "30 kostenlose Minuten, um über Ihr Projekt zu sprechen",
+    "book_subtitle": "30 Minuten, um über Ihr Projekt zu sprechen",
     "book_cta": "Termin buchen",
     "cta": "Mehr erfahren",
     "booking_title": "Buchen Sie ein Kennenlerngespräch",
@@ -721,7 +721,7 @@
     "form": {
       "email": "Ihre geschäftliche E-Mail",
       "email_placeholder": "hans@unternehmen.ch",
-      "submit": "Kostenlos abonnieren",
+      "submit": "Abonnieren",
       "consent": "Mit Ihrer Anmeldung akzeptieren Sie unsere Datenschutzrichtlinie. Abmeldung jederzeit möglich.",
       "success": "Willkommen! Überprüfen Sie Ihren Posteingang, um Ihre Anmeldung zu bestätigen."
     },
@@ -738,8 +738,8 @@
     "upcoming": "Kommende Veranstaltungen",
     "past": "Vergangene Veranstaltungen",
     "all": "Alle",
-    "free": "Kostenlos",
-    "paid": "Kostenpflichtig",
+    "open_access": "Offener Zugang",
+    "registration": "Anmeldung erforderlich",
     "online": "Online",
     "add_calendar": "Zum Kalender hinzufügen",
     "no_events": "Derzeit keine bevorstehenden Veranstaltungen",
@@ -781,7 +781,7 @@
         "type": "Webinar",
         "price": "Zu prüfen",
         "url": "#",
-        "description": "Kostenloses monatliches Webinar: Erfahren Sie, wie KI Ihr KMU transformieren kann."
+        "description": "Monatliches Webinar: Erfahren Sie, wie KI Ihr KMU transformieren kann."
       }
     ],
     "submit_button": "Einreichen"
@@ -798,9 +798,9 @@
       "hosting": "Hosting",
       "translation": "Übersetzung"
     },
-    "free": "Kostenlos",
-    "freemium": "Freemium",
-    "paid": "Kostenpflichtig",
+    "quick_test": "Schnelltest",
+    "mixed_access": "Gemischter Zugang",
+    "validation": "Zu prüfen",
     "visit": "Besuchen",
     "items": [
       {
@@ -906,12 +906,12 @@
       "general": "Allgemein",
       "technical": "Technisch",
       "legal": "Recht & Compliance",
-      "pricing": "individueller Projektumfang"
+      "pricing": "Projektumfang"
     },
     "items": [
       {
         "question": "Ist KI auch für kleine Unternehmen geeignet?",
-        "answer": "Absolut. Tools wie ChatGPT, DeepL oder Zapier sind bereits individueller Projektumfang, den Kundenservice verbessern oder die Content-Erstellung beschleunigen.",
+        "answer": "Absolut. Tools wie ChatGPT, DeepL oder Zapier lassen sich in KMU einsetzen und können repetitive Aufgaben automatisieren, den Kundenservice verbessern oder die Content-Erstellung beschleunigen.",
         "category": "general"
       },
       {
@@ -940,8 +940,8 @@
         "category": "legal"
       },
       {
-        "question": "comment cadrer ein KI-Projekt für KMU?",
-        "answer": "Die individueller Projektumfang variieren: von kostenlos (Basistools) bis zu einigen tausend Franken (massgeschneiderte Integration). Unser Express-Audit für individueller Projektumfang liefert Ihnen eine präzise ROI-Schätzung.",
+        "question": "Wie wird ein KI-Projekt für ein KMU sinnvoll definiert?",
+        "answer": "Der passende Umfang hängt von Ihren Prozessen, Daten, nDSG-Risiken und Geschäftszielen ab. Unser Express-Audit identifiziert prioritäre Anwendungsfälle, den Aufwand und die erwarteten Ergebnisse.",
         "category": "umfang"
       },
       {
@@ -1010,7 +1010,7 @@
       "subtitle": "Bewerten Sie den KI-Reifegrad Ihres KMU in 10 Fragen",
       "start": "Test starten",
       "time": "3 Minuten",
-      "free": "Kostenlos",
+      "free": "Schnell",
       "instant": "Sofortige Ergebnisse",
       "email_label": "Erhalten Sie Ihren detaillierten Bericht per E-Mail",
       "email_button": "Meinen Bericht erhalten",
@@ -1280,7 +1280,7 @@
     "cta": {
       "title": "Ihr Marketing auf Autopilot",
       "description": "Entdecken Sie, wie Sie 80% Ihrer Marketingaufgaben automatisieren.",
-      "button": "Kostenlose Demo anfordern"
+      "button": "Demo anfordern"
     }
   },
   "priseDeRdv": {

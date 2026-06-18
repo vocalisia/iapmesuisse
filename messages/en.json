@@ -60,7 +60,7 @@
       "description": "Our selection of AI tools for SMEs"
     },
     "quiz_maturity": {
-      "title": "AI Maturity Score – Free Quiz",
+      "title": "AI Maturity Score – Interactive Quiz",
       "description": "Assess your SME's AI maturity in 10 questions. Personalised score and recommendations."
     },
     "quiz_knowledge": {
@@ -85,7 +85,7 @@
     },
     "generationLeads": {
       "title": "AI Lead Generation for Swiss SMEs - IAPME",
-      "description": "Automate your B2B prospecting with AI. Generate more qualified leads, reduce acquisition costs. Free audit."
+      "description": "Automate your B2B prospecting with AI. Generate more qualified leads and improve sales pipeline quality. Free audit."
     },
     "marketingIa": {
       "title": "AI Marketing Automation for SMEs - IAPME Switzerland",
@@ -661,11 +661,11 @@
       "badge": "Custom"
     },
     "book_title": "Book a discovery call",
-    "book_subtitle": "30 free minutes to discuss your project",
+    "book_subtitle": "30 minutes to discuss your project",
     "book_cta": "Book a slot",
     "cta": "Learn more",
     "booking_title": "Book a discovery call",
-    "booking_description": "30 free minutes to discuss your project",
+    "booking_description": "30 minutes to discuss your project",
     "links": {
       "audit": "https://buy.stripe.com/4gM6oGcvo5AQdxa6hwco00L",
       "accompagnement": "https://buy.stripe.com/dRm3cugLEaVa64I6hwco00M"
@@ -721,7 +721,7 @@
     "form": {
       "email": "Your professional email",
       "email_placeholder": "john@company.ch",
-      "submit": "Subscribe for free",
+      "submit": "Subscribe",
       "consent": "By subscribing, you accept our privacy policy. You may unsubscribe at any time.",
       "success": "Welcome! Please check your inbox to confirm your subscription."
     },
@@ -738,8 +738,8 @@
     "upcoming": "Upcoming events",
     "past": "Past events",
     "all": "All",
-    "free": "Free",
-    "paid": "Paid",
+    "open_access": "Open access",
+    "registration": "Registration required",
     "online": "Online",
     "add_calendar": "Add to calendar",
     "no_events": "No upcoming events at the moment",
@@ -781,7 +781,7 @@
         "type": "Webinar",
         "price": "To scope",
         "url": "#",
-        "description": "Free monthly webinar: discover how AI can transform your SME."
+        "description": "Monthly webinar: discover how AI can transform your SME."
       }
     ],
     "submit_button": "Submit"
@@ -798,9 +798,9 @@
       "hosting": "Hosting",
       "translation": "Translation"
     },
-    "free": "Free",
-    "freemium": "Freemium",
-    "paid": "Paid",
+    "quick_test": "Quick test",
+    "mixed_access": "Mixed access",
+    "validation": "To validate",
     "visit": "Visit",
     "items": [
       {
@@ -911,7 +911,7 @@
     "items": [
       {
         "question": "Is AI suitable for small businesses?",
-        "answer": "Absolutely. Tools such as ChatGPT, DeepL and Zapier are available custom project scope, improve customer service or accelerate content creation.",
+        "answer": "Absolutely. Tools such as ChatGPT, DeepL and Zapier are accessible to SMEs and can automate repetitive tasks, improve customer service or accelerate content creation.",
         "category": "general"
       },
       {
@@ -926,7 +926,7 @@
       },
       {
         "question": "Will AI replace my employees?",
-        "answer": "AI is an augmentation tool, not a replacement. It frees your staff custom project scope.",
+        "answer": "AI is an augmentation tool, not a replacement. It frees your staff from repetitive tasks so they can focus on higher-value work.",
         "category": "general"
       },
       {
@@ -940,8 +940,8 @@
         "category": "legal"
       },
       {
-        "question": "comment cadrer an AI project for an SME cost?",
-        "answer": "Costs range custom project scope) to custom project scope (bespoke integration). Our express audit at custom project scope provides a precise ROI estimate.",
+        "question": "How should an SME scope an AI project?",
+        "answer": "The right scope depends on your workflows, data, compliance risks and business goals. Our express audit identifies priority use cases, effort level and expected outcomes.",
         "category": "scope"
       },
       {
@@ -1010,7 +1010,7 @@
       "subtitle": "Assess your SME's AI maturity in 10 questions",
       "start": "Start the test",
       "time": "3 minutes",
-      "free": "Free",
+      "free": "Quick",
       "instant": "Instant results",
       "email_label": "Receive your detailed report by email",
       "email_button": "Get my report",
@@ -1280,7 +1280,7 @@
     "cta": {
       "title": "Your marketing on autopilot",
       "description": "Discover how to automate 80% of your marketing tasks and focus your energy on growth.",
-      "button": "Get a free demo"
+      "button": "Get a demo"
     }
   },
   "priseDeRdv": {
@@ -1365,7 +1365,7 @@
       }
     },
     "cta": {
-      "title": "Free yourself custom project scope",
+      "title": "Free up your schedule",
       "description": "Let AI manage your calendar and focus on your appointments. Demo in 15 minutes.",
       "button": "See the live demo"
     }

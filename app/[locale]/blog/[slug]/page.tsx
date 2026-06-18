@@ -286,6 +286,9 @@ export default async function BlogPostPage({
   const articleText = stripHtml(contentHtml);
   const relatedPosts = getRelatedPosts(post, locale);
   const pillarLinks = getPillarLinks(post, locale);
+  const articleKeywords = Array.from(
+    keywords(`${post.title} ${post.excerpt} ${post.slug.replace(/-/g, ' ')}`)
+  ).slice(0, 14);
 
   const blogPostingSchema = {
     '@context': 'https://schema.org',
@@ -321,6 +324,19 @@ export default async function BlogPostPage({
     },
     inLanguage: getSchemaLanguage(locale),
     url: articleUrl,
+    isPartOf: { '@id': `${baseUrl}/${locale}/blog#blog` },
+    keywords: articleKeywords,
+    about: pillarLinks.map((link) => ({
+      '@type': 'Thing',
+      name: sanitizePublicText(link.label, locale),
+      url: `${baseUrl}/${locale}${link.href}`,
+    })),
+    mentions: relatedPosts.slice(0, 3).map((related) => ({
+      '@type': 'Article',
+      '@id': `${baseUrl}/${locale}/blog/${related.slug}#article`,
+      headline: related.title,
+      url: `${baseUrl}/${locale}/blog/${related.slug}`,
+    })),
     isAccessibleForFree: true,
     wordCount: articleText ? articleText.split(/\s+/).length : undefined,
   };
@@ -331,7 +347,6 @@ export default async function BlogPostPage({
     url: articleUrl,
     locale,
   });
-
   return (
     <section className="min-h-screen bg-gray-light">
       <script

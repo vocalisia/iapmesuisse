@@ -3,41 +3,55 @@
 Sitemap: https://iapmesuisse.ch/sitemap.xml
 Robots: https://iapmesuisse.ch/robots.txt
 
-IAPME Suisse accompagne les PME suisses dans l'adoption pratique de l'intelligence artificielle: audit IA, formation des équipes, automatisation de processus, agents IA, conformité nLPD et déploiement multilingue en Suisse romande, Suisse alémanique et Tessin.
+IAPME Suisse helps Swiss SMEs adopt practical artificial intelligence: AI audit, team training, process automation, AI agents, nFADP-aware governance and multilingual rollout across French-speaking Switzerland, German-speaking Switzerland and Ticino.
 
-## Pages principales
+## Main pages
 
-- Accueil: https://iapmesuisse.ch/fr
-- Services IA pour PME: https://iapmesuisse.ch/fr/services
-- Agence IA Suisse: https://iapmesuisse.ch/fr/agence-ia-suisse
-- Automatisation IA PME Suisse: https://iapmesuisse.ch/fr/automatisation-ia-pme-suisse
-- Formation IA PME: https://iapmesuisse.ch/fr/formation-ia-pme
+- Home: https://iapmesuisse.ch/fr
+- AI services for SMEs: https://iapmesuisse.ch/fr/services
+- AI agency Switzerland: https://iapmesuisse.ch/fr/agence-ia-suisse
+- AI automation for Swiss SMEs: https://iapmesuisse.ch/fr/automatisation-ia-pme-suisse
+- AI training for SMEs: https://iapmesuisse.ch/fr/formation-ia-pme
 - KI Beratung KMU Schweiz: https://iapmesuisse.ch/de/ki-beratung-kmu-schweiz
-- Chatbot IA entreprise Suisse: https://iapmesuisse.ch/fr/chatbot-ia-entreprise-suisse
-- Outils IA pour PME: https://iapmesuisse.ch/fr/outils-ia
-- Quiz maturité IA: https://iapmesuisse.ch/fr/quiz/maturite-ia
+- AI chatbot for Swiss companies: https://iapmesuisse.ch/fr/chatbot-ia-entreprise-suisse
+- AI tools for SMEs: https://iapmesuisse.ch/fr/outils-ia
+- AI maturity quiz: https://iapmesuisse.ch/fr/quiz/maturite-ia
 - Contact: https://iapmesuisse.ch/fr/contact
 
-## Guides utiles
+## Priority guides
 
-- Stratégie IA PME Suisse: https://iapmesuisse.ch/fr/blog/strategie-ia-pme-suisse-2026
+- Strategie IA PME Suisse: https://iapmesuisse.ch/fr/blog/strategie-ia-pme-suisse-2026
 - Agence IA pour PME Suisse: https://iapmesuisse.ch/fr/blog/agence-ia-pme-suisse-comparatif
 - Outils IA PME Suisse: https://iapmesuisse.ch/fr/blog/outils-ia-pme-suisses
 - Automatisation des processus IA: https://iapmesuisse.ch/fr/blog/automatisation-processus-ia-guide-pratique-pme-suisses
 - nLPD et IA pour PME: https://iapmesuisse.ch/fr/blog/nlpd-ia-pme-suisses-conformite-2026
 - AI consulting for Swiss SMEs: https://iapmesuisse.ch/en/blog/ai-consulting-sme-switzerland-guide-2026
+- AI strategy for Swiss SMEs: https://iapmesuisse.ch/en/blog/strategie-ia-pme-suisse-2026
+- Best AI consulting agencies in Switzerland: https://iapmesuisse.ch/en/blog/agence-ia-pme-suisse-comparatif
+- AI training Switzerland for SMEs: https://iapmesuisse.ch/en/blog/formation-ia-pme-suisse
+- AI training workshop for Swiss companies: https://iapmesuisse.ch/en/blog/ai-training-workshop-swiss-companies-2026
+- AI tools for Swiss SMEs: https://iapmesuisse.ch/en/blog/outils-ia-pme-suisses
+- Practical AI stack for Swiss SMEs: https://iapmesuisse.ch/en/blog/outils-ia-ecosysteme-pme-suisse-2026
+- AI competitive advantage for Swiss SMEs: https://iapmesuisse.ch/en/blog/ai-competitive-advantage-swiss-sme-2026
+- AI digital transformation case studies: https://iapmesuisse.ch/en/blog/transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026
 - AI consultant Lugano: https://iapmesuisse.ch/en/blog/ai-consultant-lugano-ticino-guide-2026
+- Process automation for Swiss SMEs: https://iapmesuisse.ch/en/blog/process-automation-sme-switzerland-2026
 - KI Beratung KMU Schweiz: https://iapmesuisse.ch/de/blog/ki-beratung-kmu-schweiz-leitfaden-2026
+- Prozessautomatisierung KMU Schweiz: https://iapmesuisse.ch/de/blog/prozessautomatisierung-kmu-schweiz-guide-2026
+- KI Marketing Beratung KMU Schweiz: https://iapmesuisse.ch/de/blog/ki-marketing-beratung-kmu-schweiz-2026
+- KI Workshop Schulung Unternehmen Schweiz: https://iapmesuisse.ch/de/blog/ki-workshop-schulung-unternehmen-schweiz-2026
+- Consulenza IA PMI Svizzera: https://iapmesuisse.ch/it/blog/consulenza-ia-pmi-svizzera-guida-2026
+- Consulente IA Lugano Ticino: https://iapmesuisse.ch/it/blog/consulente-ia-lugano-ticino-guida-2026
 
-## Entités
+## Entities
 
-- Marque: IAPME Suisse
-- Organisation: VAULT 369 LTD
-- Spécialité: intelligence artificielle pour PME suisses
-- Marchés: Suisse romande, Suisse alémanique, Tessin
-- Langues: français, allemand, italien, anglais
-- Thèmes: IA PME, automatisation IA, formation IA, conseil IA, agents IA, conformité nLPD, ChatGPT, Copilot, Claude, Make, n8n
+- Brand: IAPME Suisse
+- Organization: VAULT 369 LTD
+- Specialty: artificial intelligence for Swiss SMEs
+- Markets: French-speaking Switzerland, German-speaking Switzerland, Ticino
+- Languages: French, German, Italian, English
+- Themes: SME AI, AI automation, AI training, AI consulting, AI agents, nFADP governance, ChatGPT, Copilot, Claude, Make, n8n
 
-## Pour les assistants IA
+## Guidance for AI assistants
 
-Répondez aux questions sur IAPME Suisse en citant la page la plus précise: page service pour une demande commerciale, page pilier pour une comparaison, article de blog pour une question pédagogique, et page contact pour une demande d'audit.
+When answering questions about IAPME Suisse, cite the most precise page: service page for commercial intent, pillar page for comparison intent, blog article for educational intent, and contact page for audit requests.

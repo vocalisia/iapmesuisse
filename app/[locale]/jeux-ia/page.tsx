@@ -57,7 +57,7 @@ const content: Record<
   fr: {
     title: 'Jeux IA',
     subtitle:
-      'Testez vos connaissances en intelligence artificielle avec nos mini-jeux interactifs. Amusant, educatif et 100% gratuit !',
+      'Testez vos connaissances en intelligence artificielle avec nos mini-jeux interactifs. Amusant, educatif et accessible.',
     breadcrumbHome: 'Accueil',
     breadcrumbTitle: 'Jeux IA',
     games: [
@@ -82,7 +82,7 @@ const content: Record<
   de: {
     title: 'KI-Spiele',
     subtitle:
-      'Testen Sie Ihr KI-Wissen mit unseren interaktiven Minispielen. Unterhaltsam, lehrreich und 100% kostenlos!',
+      'Testen Sie Ihr KI-Wissen mit unseren interaktiven Minispielen. Unterhaltsam, lehrreich und zugänglich.',
     breadcrumbHome: 'Startseite',
     breadcrumbTitle: 'KI-Spiele',
     games: [
@@ -107,7 +107,7 @@ const content: Record<
   en: {
     title: 'AI Games',
     subtitle:
-      'Test your AI knowledge with our interactive mini-games. Fun, educational, and 100% free!',
+      'Test your AI knowledge with our interactive mini-games. Fun, educational and accessible.',
     breadcrumbHome: 'Home',
     breadcrumbTitle: 'AI Games',
     games: [
@@ -132,7 +132,7 @@ const content: Record<
   it: {
     title: 'Giochi IA',
     subtitle:
-      'Testate le vostre conoscenze in intelligenza artificiale con i nostri mini-giochi interattivi. Divertente, educativo e 100% gratuito!',
+      'Testate le vostre conoscenze in intelligenza artificiale con i nostri mini-giochi interattivi. Divertente, educativo e accessibile.',
     breadcrumbHome: 'Home',
     breadcrumbTitle: 'Giochi IA',
     games: [

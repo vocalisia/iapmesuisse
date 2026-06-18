@@ -20,7 +20,7 @@ interface ToolItem {
   name: string;
   category: string;
   rating: number;
-  price: string;
+  price?: string;
   description: string;
   url: string;
 }
@@ -42,12 +42,26 @@ function StarRating({ rating }: { rating: number }) {
   );
 }
 
-function getPriceBadgeStyle(price: string) {
-  const lower = price.toLowerCase();
-  if (lower === 'gratuit' || lower === 'free') {
+function getToolMode(tool: ToolItem) {
+  const source = `${tool.price ?? ''} ${tool.category}`.toLowerCase();
+  if (source.includes('open') || source.includes('self') || source.includes('auto')) {
+    return 'Auto-hebergeable';
+  }
+  if (source.includes('enterprise')) {
+    return 'Enterprise';
+  }
+  if (source.includes('gratuit') || source.includes('free') || source.includes('test')) {
+    return 'Test rapide';
+  }
+  return 'A valider';
+}
+
+function getModeBadgeStyle(mode: string) {
+  const lower = mode.toLowerCase();
+  if (lower.includes('test')) {
     return 'bg-green-100 text-green-700';
   }
-  if (lower === 'freemium') {
+  if (lower.includes('enterprise')) {
     return 'bg-blue-100 text-blue-700';
   }
   return 'bg-gray-100 text-gray-700';
@@ -93,62 +107,66 @@ export default async function ToolsPage({
       <section className="bg-[#F5F5F5] px-4 py-16 sm:px-6 sm:py-20 lg:px-8">
         <div className="mx-auto max-w-7xl">
           <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-            {tools.map((tool, index) => (
-              <article
-                key={index}
-                className="flex flex-col rounded-2xl border border-gray-200 bg-white p-6 shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-lg"
-              >
-                {/* Tool Name */}
-                <h3 className="text-lg font-bold text-[#1B2A4A]">{tool.name}</h3>
+            {tools.map((tool, index) => {
+              const mode = getToolMode(tool);
 
-                {/* Star Rating */}
-                <div className="mt-2">
-                  <StarRating rating={tool.rating} />
-                </div>
+              return (
+                <article
+                  key={index}
+                  className="flex flex-col rounded-2xl border border-gray-200 bg-white p-6 shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-lg"
+                >
+                  {/* Tool Name */}
+                  <h3 className="text-lg font-bold text-[#1B2A4A]">{tool.name}</h3>
 
-                {/* Badges */}
-                <div className="mt-3 flex flex-wrap gap-2">
-                  <span className="inline-flex items-center rounded-full bg-[#1B2A4A]/10 px-2.5 py-0.5 text-xs font-medium text-[#1B2A4A]">
-                    {tool.category}
-                  </span>
-                  <span
-                    className={`inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ${getPriceBadgeStyle(tool.price)}`}
-                  >
-                    {tool.price}
-                  </span>
-                </div>
+                  {/* Star Rating */}
+                  <div className="mt-2">
+                    <StarRating rating={tool.rating} />
+                  </div>
 
-                {/* Description */}
-                <p className="mt-3 flex-1 text-sm leading-relaxed text-gray-600">
-                  {tool.description}
-                </p>
-
-                {/* Visit Button */}
-                <div className="mt-4">
-                  <a
-                    href={tool.url}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="inline-flex w-full items-center justify-center rounded-lg bg-[#1B2A4A] px-4 py-2.5 text-sm font-semibold text-white transition-all duration-200 hover:bg-[#1B2A4A]/90"
-                  >
-                    {t('visit')}
-                    <svg
-                      className="ml-2 h-4 w-4"
-                      fill="none"
-                      viewBox="0 0 24 24"
-                      stroke="currentColor"
-                      strokeWidth={2}
+                  {/* Badges */}
+                  <div className="mt-3 flex flex-wrap gap-2">
+                    <span className="inline-flex items-center rounded-full bg-[#1B2A4A]/10 px-2.5 py-0.5 text-xs font-medium text-[#1B2A4A]">
+                      {tool.category}
+                    </span>
+                    <span
+                      className={`inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ${getModeBadgeStyle(mode)}`}
                     >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25"
-                      />
-                    </svg>
-                  </a>
-                </div>
-              </article>
-            ))}
+                      {mode}
+                    </span>
+                  </div>
+
+                  {/* Description */}
+                  <p className="mt-3 flex-1 text-sm leading-relaxed text-gray-600">
+                    {tool.description}
+                  </p>
+
+                  {/* Visit Button */}
+                  <div className="mt-4">
+                    <a
+                      href={tool.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex w-full items-center justify-center rounded-lg bg-[#1B2A4A] px-4 py-2.5 text-sm font-semibold text-white transition-all duration-200 hover:bg-[#1B2A4A]/90"
+                    >
+                      {t('visit')}
+                      <svg
+                        className="ml-2 h-4 w-4"
+                        fill="none"
+                        viewBox="0 0 24 24"
+                        stroke="currentColor"
+                        strokeWidth={2}
+                      >
+                        <path
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
+                          d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25"
+                        />
+                      </svg>
+                    </a>
+                  </div>
+                </article>
+              );
+            })}
           </div>
         </div>
       </section>

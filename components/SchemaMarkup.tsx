@@ -6,10 +6,18 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
     "@type": "WebSite",
     "@id": `${baseUrl}/#website`,
     "name": "IAPME Suisse",
+    "alternateName": ["IA PME Suisse", "IAPME", "IAPME.ch"],
     "url": baseUrl,
     "description": "Formation IA et accompagnement stratégique pour PME suisses",
     "publisher": { "@id": `${baseUrl}/#organization` },
     "inLanguage": ["fr", "de", "en", "it"],
+    "about": [
+      { "@type": "Thing", "name": "Intelligence artificielle pour PME suisses" },
+      { "@type": "Thing", "name": "Automatisation IA" },
+      { "@type": "Thing", "name": "Formation IA" },
+      { "@type": "Thing", "name": "Conformite nLPD" },
+      { "@type": "Thing", "name": "Conseil IA Suisse" },
+    ],
   };
 
   const personSchema = {
@@ -48,9 +56,10 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
 
   const organizationSchema = {
     "@context": "https://schema.org",
-    "@type": ["ProfessionalService", "LocalBusiness"],
+    "@type": ["ProfessionalService", "LocalBusiness", "EducationalOrganization"],
     "@id": `${baseUrl}/#organization`,
     "name": "IAPME Suisse",
+    "legalName": "VAULT 369 LTD",
     "url": baseUrl,
     "logo": {
       "@type": "ImageObject",
@@ -73,6 +82,8 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
             ? 'Strategic support, training and AI tool integration for Swiss SMEs'
             : 'Accompagnement strategique, formation et integration d\'outils d\'intelligence artificielle pour les PME suisses',
     "foundingDate": "2024",
+    "slogan": "IA pratique pour PME suisses",
+    "founder": { "@id": `${baseUrl}/#founder` },
     "email": "contact@iapmesuisse.ch",
     "contactPoint": {
       "@type": "ContactPoint",
@@ -113,6 +124,13 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
       "Coaching IA dirigeants",
     ],
     "knowsLanguage": ["fr", "de", "en", "it"],
+    "serviceType": [
+      "AI consulting",
+      "AI training",
+      "Business process automation",
+      "AI governance",
+      "Customer service automation",
+    ],
     "openingHoursSpecification": {
       "@type": "OpeningHoursSpecification",
       "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],

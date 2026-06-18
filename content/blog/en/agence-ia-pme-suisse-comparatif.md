@@ -19,7 +19,7 @@ The Swiss market for artificial intelligence in SMEs has undergone profound tran
 
 The main reason? A poor choice of partner at the outset.
 
-Whether you are an SME leader in Geneva, Lausanne, Bern, or Zurich, the question is no longer *if* you should adopt AI, but *with whom* and *how*. This guide helps you compare specialized agencies, independent consultants and SaaS platforms using concrete criteria, without reducing the decision to a public price grid.
+Whether you are an SME leader in Geneva, Lausanne, Bern, or Zurich, the question is no longer *if* you should adopt AI, but *with whom* and *how*. This guide helps you compare specialized agencies, independent consultants and SaaS platforms using concrete criteria, without reducing the decision to a superficial checklist.
 
 ---
 
@@ -52,7 +52,7 @@ An AI agency offers a multidisciplinary team: project manager, data scientists, 
 - Verifiable references in similar sectors
 
 **Disadvantages:**
-- Higher cost (see pricing below)
+- More governance and coordination to manage
 - Risk of over-sizing for simple needs
 - Possible turnover within the assigned team
 - Dependence on the agency for future developments
@@ -100,7 +100,7 @@ AI SaaS platforms (software accessible via subscription) represent the most fina
 
 **Disadvantages:**
 - Limited customization
-- Dependence on the publisher (risk of closure, price increases)
+- Dependence on the publisher (risk of closure, roadmap changes or contract changes)
 - Sometimes hosted outside Switzerland or the EU (check LPD compliance)
 - Does not cover complex or specific business use cases
 
@@ -178,9 +178,9 @@ Before any AI project, plan a phase of **data audit and cleaning**: allow 4 to 1
 
 Deploying an AI tool changes work habits. Without change management, you risk zero adoption even if the tool is technically perfect. Involve your employees from the design phase.
 
-### Mistake 4: Choosing Solely Based on Price
+### Mistake 4: Choosing Solely Based on Vendor Presentation
 
-The cheapest option isn’t always the most economical. A half-delivered project or a solution non-compliant with the LPD will cost far more to fix than a properly dimensioned initial investment.
+The most polished proposal is not always the safest one. A half-delivered project or a solution non-compliant with the LPD will create more friction than a properly dimensioned initial engagement.
 
 ### Mistake 5: Ignoring Scalability
 
@@ -219,7 +219,7 @@ Before signing with an agency or consultant, check out the resources available o
 Identify 2 to 3 internal processes where you lose the most time or money. Quantify them: how many hours per week, estimated cost, impact on your clients.
 
 **Step 2 — Launch a Targeted Call for Tenders (3 weeks)**  
-Write a one-page specification (no more) and contact 3 to 5 providers. Beware of agencies that respond within 24 hours with a priced quote: they haven’t taken the time to understand your needs.
+Write a one-page specification (no more) and contact 3 to 5 providers. Beware of agencies that respond immediately with a fixed proposal: they usually have not taken the time to understand your needs.
 
 **Step 3 — Evaluate Proposals (2 weeks)**  
 Use the criteria and questions listed above. Demand a presentation in person or via video call with the team that will work on your project.

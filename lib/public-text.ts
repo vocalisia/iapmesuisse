@@ -7,6 +7,13 @@ const scopeByLocale: Record<string, string> = {
   it: 'perimetro personalizzato',
 };
 
+const mixedAccessByLocale: Record<string, string> = {
+  fr: 'mode mixte',
+  de: 'gemischter Zugang',
+  en: 'mixed access',
+  it: 'accesso misto',
+};
+
 const mojibakeFixes: Array<[RegExp, string]> = [
   [/â|â€™/g, "'"],
   [/â|â€˜/g, "'"],
@@ -63,6 +70,10 @@ function scope(locale?: Locale) {
   return scopeByLocale[String(locale || 'fr')] || scopeByLocale.fr;
 }
 
+function mixedAccess(locale?: Locale) {
+  return mixedAccessByLocale[String(locale || 'fr')] || mixedAccessByLocale.fr;
+}
+
 export function normalizeMojibake(value: string) {
   return mojibakeFixes.reduce((text, [pattern, replacement]) => text.replace(pattern, replacement), value);
 }
@@ -81,6 +92,7 @@ export function sanitizePublicText(value: string, locale?: Locale) {
     .replace(/[€$£]/g, '')
     .replace(/\b(?:à partir de|a partir de|from|starts at|ab|da)\s+[^.,;\n)]+/gi, scoped)
     .replace(/\b(?:tarifs?|prix|pricing|prices?|preise|kosten|costi|tariffe)\b/gi, scoped)
+    .replace(/\bfreemium\b/gi, mixedAccess(locale))
     .replace(/\b(?:combien coûte|combien coute|how much does|what does .* cost|was kostet|quanto costa)\b/gi, 'comment cadrer')
     .replace(/\b(?:sur devis|quote within 24h|custom quote|offerte in 24h|preventivo in 24h)\b/gi, scoped)
     .replace(/\bplusieurs\s+milliers\s+de\s+francs?\b/gi, scoped)

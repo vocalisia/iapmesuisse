@@ -230,8 +230,8 @@ const T = {
       },
       {
         num: '05',
-        title: 'Ergebnisgebundenes Preismodell',
-        desc: 'Monatliche Pauschale, Stundensatz oder Success Fee auf Ergebnisse? Alle drei Modelle koexistieren. Für ein KMU ist eine feste monatliche Pauschale über 6–12 Monate mit definierten Liefergegenständen generell am sichersten. Vermeiden Sie Jahresverträge ohne Ausstiegsklausel.',
+        title: 'Ergebnisgebundener Projektumfang',
+        desc: 'Klären Sie vor dem Start messbare Ergebnisse, Liefergegenstände, Verantwortlichkeiten und Ausstiegsklauseln. Ein KMU sollte keine KI-Mission starten, ohne klare Meilensteine, Governance und Erfolgskriterien.',
         icon: '📊',
       },
     ],
@@ -320,8 +320,8 @@ const T = {
         a: 'Eine klassische Digitalmarketing-Agentur nutzt standardisierte Tools (Google Ads, SEO, Social Media). Eine KI-Agentur integriert künstliche Intelligenz nativ in ihre Prozesse: Kampagnenautomatisierung, LLM-Inhaltsgenerierung, prädiktive Zielgruppenanalyse, Echtzeit-Personalisierung.',
       },
       {
-        q: 'Ist eine Schweizer KI-Agentur zwangsläufig teurer als eine ausländische?',
-        a: 'Nicht zwangsläufig. Die Stundensätze sind in der Schweiz höher, aber lokale Agenturen liefern auf dem Schweizer Markt schneller Ergebnisse (natives Mehrsprachigkeit, lokales Netzwerk, integrierte nDSG-Konformität). Für ein präzises Angebot fordern Sie unser kostenloses Audit an.',
+        q: 'Warum mit einer Schweizer KI-Agentur statt mit einem ausländischen Anbieter arbeiten?',
+        a: 'Lokale Agenturen liefern auf dem Schweizer Markt schneller belastbare Ergebnisse: native Mehrsprachigkeit, lokales Netzwerk, integrierte nDSG-Konformität und bessere Abstimmung mit internen KMU-Prozessen. Für eine klare Einschätzung fordern Sie unser kostenloses Audit an.',
       },
       {
         q: 'Wie lange dauert ein KI-Agentur-Mandat für ein Schweizer KMU?',
@@ -475,8 +475,8 @@ const T = {
         a: 'A traditional digital marketing agency uses standardised tools (Google Ads, SEO, social media). An AI agency natively integrates artificial intelligence into its processes: campaign automation, LLM content generation, predictive audience analysis, real-time personalisation.',
       },
       {
-        q: 'Is a Swiss AI agency necessarily more expensive than a foreign one?',
-        a: 'Not necessarily. local agencies deliver results faster on the Swiss market (native multilingualism, local network, integrated nFADP compliance). The total cost of ownership over 12 months is often lower with a Swiss agency. To scope your situation, request our free audit.',
+        q: 'Why work with a Swiss AI agency instead of an offshore provider?',
+        a: 'Local agencies deliver more reliable results on the Swiss market: native multilingual execution, local business context, integrated nFADP compliance and tighter alignment with SME processes. To scope your situation, request our free audit.',
       },
       {
         q: 'How long does an AI agency mandate last for a Swiss SME?',
@@ -540,8 +540,8 @@ const T = {
       },
       {
         num: '05',
-        title: 'Modello tariffario allineato ai vostri risultati',
-        desc: "Forfait mensile, tariffa oraria o success fee sui risultati? I tre modelli coesistono. Per una PMI, un forfait mensile fisso su 6–12 mesi con deliverable definiti è generalmente il più sicuro. Evitate impegni annuali senza clausola di uscita.",
+        title: 'Perimetro di progetto allineato ai risultati',
+        desc: "Prima di iniziare, chiarite risultati misurabili, deliverable, responsabilità e clausole di uscita. Una PMI non dovrebbe avviare una missione IA senza milestone, governance e criteri di successo chiari.",
         icon: '📊',
       },
     ],
@@ -631,7 +631,7 @@ const T = {
       },
       {
         q: "Un'agenzia IA svizzera è necessariamente più cara di una straniera?",
-        a: "Non necessariamente. Le tariffe orarie svizzere sono più elevate, ma le agenzie locali forniscono risultati più rapidi sul mercato svizzero (multilinguismo nativo, rete locale, conformità nLPD integrata). Per definire il vostro caso, richiedete il nostro audit gratuito.",
+        a: "Non necessariamente. Le agenzie locali forniscono spesso risultati più rapidi sul mercato svizzero: multilinguismo nativo, rete locale e conformità nLPD integrata. Per definire il vostro caso, richiedete il nostro audit gratuito.",
       },
       {
         q: "Quanto dura un mandato di agenzia IA per una PMI svizzera?",

@@ -15,7 +15,7 @@ image: "/images/generated/iapmesuisse-ai-consulting.png"
 
 The demand for **AI training for Swiss SMEs** skyrocketed in 2025. According to Digitalswitzerland, 78% of Swiss SME leaders consider AI skill development a strategic priority for the next two years — yet only 23% have formalized a concrete training plan.
 
-This guide reviews the available options, actual costs in CHF, accessible subsidies, and a method to select the program best suited to your context.
+This guide reviews the available options, accessible support mechanisms, governance requirements, and a method to select the program best suited to your context.
 
 ## Why Train Your Teams in AI Now
 
@@ -23,7 +23,7 @@ This guide reviews the available options, actual costs in CHF, accessible subsid
 
 Switzerland has unique advantages for AI adoption: top-tier digital infrastructure, a culture of innovation, proximity to EPFL and ETH Zurich. However, Swiss SMEs — which make up 99.7% of the national economic fabric — face specific challenges.
 
-The AI talent shortage is severe. The cost of a data scientist or ML engineer exceeds CHF 120,000 to CHF 160,000 annually in major cities. For an SME with 10 to 50 employees, recruiting in-house AI expertise is not viable.
+The AI talent shortage is severe. For an SME with 10 to 50 employees, recruiting in-house AI expertise is rarely the first viable step.
 
 The solution: train existing employees to use AI as a productive tool without requiring deep technical expertise. This "augmented AI" approach delivers the best return on investment for SMEs.
 
@@ -51,8 +51,6 @@ AI training is not monolithic. It is divided into three distinct levels based on
 - Basic prompt engineering
 - Identifying automatable tasks in one's role
 
-**Indicative cost:** CHF 300 to 600 per person
-
 **Expected outcome:** Each employee saves 1 to 3 hours per week through autonomous use of AI tools.
 
 ### Level 2: Function-Specific Specialization
@@ -70,8 +68,6 @@ AI training is not monolithic. It is divided into three distinct levels based on
 | HR | Workday AI, Eightfold, screening tools | Recruitment, onboarding, continuous training |
 | Finance | Datarails, Pigment, Excel Copilot | Reporting, forecasting, anomaly detection |
 
-**Indicative cost:** CHF 1,200 to 3,500 per person
-
 ### Level 3: Implementation and Governance
 
 **For whom:** Executives, CIOs, digital transformation leaders.
@@ -85,21 +81,19 @@ AI training is not monolithic. It is divided into three distinct levels based on
 - Change management and AI project execution
 - Measuring ROI of AI initiatives
 
-**Indicative cost:** CHF 3,000 to 8,000 per person
-
 ## Available Training Programs in French-Speaking Switzerland
 
 ### Continuing Education at Universities
 
-**EPFL Extension School**: Online programs in English (Machine Learning, Data Science). Recognized, rigorous, but technical. More suited to IT profiles than operational staff. Cost: CHF 2,000 to 5,000 per program.
+**EPFL Extension School**: Online programs in English (Machine Learning, Data Science). Recognized, rigorous, but technical. More suited to IT profiles than operational staff.
 
-**HEC Lausanne**: Executive programs on digital transformation and AI for leaders. Intensive residential format. Cost: CHF 5,000 to 12,000. Particularly relevant for CEOs and general managers.
+**HEC Lausanne**: Executive programs on digital transformation and AI for leaders. Intensive residential format. Particularly relevant for CEOs and general managers.
 
 **University of Neuchâtel / HES-SO**: More accessible continuing education programs, often co-funded by cantons. Ideal for non-technical employees.
 
 ### Professional Training Organizations
 
-**SAWI** (Olten and Zurich): Certified training in digital marketing and AI. Market-recognized, hybrid formats. Cost: CHF 2,500 to 6,000.
+**SAWI** (Olten and Zurich): Certified training in digital marketing and AI. Market-recognized, hybrid formats.
 
 **GS1 Switzerland**: AI training for supply chain, logistics, and industrial sectors. Specific to Swiss industrial SMEs.
 
@@ -107,15 +101,15 @@ AI training is not monolithic. It is divided into three distinct levels based on
 
 ### International Online Training (Recognized in Switzerland)
 
-- **Coursera** (DeepLearning.AI, Google, IBM): International certifications, CHF 50 to 300
-- **LinkedIn Learning**: Unlimited access to 16,000 courses, including many on AI, CHF 30-40/month
-- **Udemy for Business**: Practical operational training, CHF 25-50/course
+- **Coursera** (DeepLearning.AI, Google, IBM): International certifications and structured learning paths
+- **LinkedIn Learning**: Large catalogue of AI courses for business teams
+- **Udemy for Business**: Practical operational training for specific tools and roles
 
 ## Available Subsidies and Support
 
 ### Cantonal Funds for Continuing Education
 
-Most Swiss cantons have funds to support professional continuing education. In Valais, Vaud, and Geneva, subsidies cover 30 to 50% of training costs for SMEs with fewer than 250 employees. Contact your cantonal employment office for details.
+Most Swiss cantons have funds to support professional continuing education. In Valais, Vaud, and Geneva, support programs can help SMEs structure skills development. Contact your cantonal employment office for details.
 
 ### Innosuisse
 
@@ -127,7 +121,7 @@ Certain professional sectors (construction, hospitality, industry) have joint fu
 
 ### Tax Deduction
 
-Professional training expenses are tax-deductible in Switzerland. For an SME, a CHF 3,000 training can represent a real tax saving of CHF 750 to 1,200 depending on the canton and situation.
+Professional training expenses may be tax-deductible in Switzerland depending on the canton and situation. Check the treatment with your fiduciary before committing.
 
 ## How to Choose the Right Training for Your SME
 
@@ -136,7 +130,7 @@ Professional training expenses are tax-deductible in Switzerland. For an SME, a 
 Before choosing, answer these three questions:
 1. What are the most time-consuming processes in your company?
 2. What profiles (functions, technical levels) do your teams have?
-3. What is your annual training budget, and what portion can you allocate to AI?
+3. What internal capacity can you allocate to AI training and follow-up?
 
 ### Step 2: Prioritize by Return on Investment
 
@@ -150,7 +144,7 @@ Start with functions where productivity gains are most visible and measurable.
 |------------|---------------------|
 | Limited time availability | Micro-learning online (30-60 min/week) |
 | Large team | In-house training, trainer on-site |
-| Limited budget | Certified online programs (Coursera, Udemy) |
+| Limited internal availability | Certified online programs (Coursera, Udemy) |
 | Need for practical application | Hands-on workshops with real use cases |
 | Executive or senior manager | Residential executive program |
 
@@ -158,7 +152,7 @@ Start with functions where productivity gains are most visible and measurable.
 
 For a French-speaking Swiss SME with 15 to 50 employees, here is the optimal AI training plan over 12 months:
 
-**Months 1-2:** Awareness training for the entire team (1-day collective session). Budget: CHF 50-80 per person.
+**Months 1-2:** Awareness training for the entire team through a short collective session and role-based exercises.
 
 **Months 3-4:** In-depth training for key profiles (marketing, sales, management). 2-3 days per profile.
 
@@ -166,7 +160,7 @@ For a French-speaking Swiss SME with 15 to 50 employees, here is the optimal AI 
 
 **Months 7-12:** Measure results, adjustments, ongoing training for new hires.
 
-Indicative total budget: CHF 15,000 to 40,000 for 15 people — often amortized within 6 to 9 months thanks to productivity gains.
+The plan is often amortized within 6 to 9 months thanks to productivity gains, provided that managers track adoption and workflow changes.
 
 ---
 

@@ -20,7 +20,7 @@ In 2026, **42% of French-speaking SMEs** report having integrated at least one a
 | Indicator | 2023 | 2026 | Evolution |
 | --- | --- | --- | --- |
 | French-speaking SMEs using AI | 18% | 42% | +24 pts |
-| Average AI budget per SME | CHF 12,000 | CHF 38,000 | +217% |
+| AI planning maturity | Emerging | Structured | Stronger |
 | AI-related jobs in French-speaking Switzerland | 4,200 | 11,800 | +181% |
 | Average ROI observed at 12 months | Not measured | +23% | - |
 | SMEs seeking support from Innosuisse | 680 | 2,150 | +216% |
@@ -42,7 +42,7 @@ The six cases below illustrate the diversity of possible approaches. Each compan
 
 **AI Solution Implemented:** Comptabilis adopted a two-phase approach. First, it automated accounting data entry using an optical character recognition (OCR) system paired with an AI classification model capable of automatically categorizing 94% of supporting documents. Second, it deployed an internal AI assistant for regulatory monitoring, capable of analyzing circulars from the Federal Tax Administration and summarizing their impacts for each client type.
 
-**Investment:** CHF 45,000 over 18 months (including CHF 12,000 covered by an Innosuisse innovation voucher).
+**Implementation scope:** phased automation, data preparation, internal AI assistant and team training.
 
 **12-Month Results:** Data entry time reduced by 62%, processing capacity increased by 40% without additional hires, accounting error rate dropped from 3.2% to 0.8%, and client satisfaction rose by 18 points (NPS survey). Two employees were trained to supervise AI models and transitioned to higher-value advisory roles.
 
@@ -54,7 +54,7 @@ The six cases below illustrate the diversity of possible approaches. Each compan
 
 **AI Solution Implemented:** The hotel chose [Vocalis](https://vocalis.pro) for its AI-powered reception. The intelligent voice agent system, deployed in six weeks, now handles booking requests, frequently asked questions (pool hours, ski shuttles, restaurant menus), and routes complex calls to human staff. Vocalis AI communicates naturally in four languages with appropriate regional intonations and integrates directly with the hotel’s Property Management System (PMS).
 
-**Investment:** CHF 22,000 for installation and customization, plus CHF 890/month subscription.
+**Implementation scope:** installation, customization, knowledge base setup and multilingual routing.
 
 **8-Month Results:** Call response rate increased from 60% to 97%, recovering an estimated CHF 135,000 in previously lost bookings. International client satisfaction rose by 22 points. Reception staff, freed from repetitive calls, now dedicate more time to in-person hospitality and personalized advice, significantly enhancing the on-site experience.
 
@@ -66,7 +66,7 @@ The six cases below illustrate the diversity of possible approaches. Each compan
 
 **AI Solution Implemented:** The Vaud-based garage boosted its visibility with [SEO-True](https://seo-true.com), combining an AI-driven local SEO strategy with a website overhaul and an intelligent appointment booking system. The AI analyzes local search intents (“garage Morges,” “car repair Lausanne,” “winter tires Vaud”) and generates optimized technical content. Additionally, a predictive diagnostic AI tool, connected to manufacturer data, anticipates breakdowns and proactively suggests interventions to clients.
 
-**Investment:** CHF 35,000 for the SEO strategy and website, CHF 18,000 for the predictive diagnostic module.
+**Implementation scope:** SEO strategy, website improvement and predictive diagnostic module.
 
 **10-Month Results:** Organic website traffic increased 3.4 times, online appointment bookings rose by 185%, and workshop revenue grew by 28%. Predictive diagnostics generated CHF 120,000 in additional revenue from preventive interventions, with a 72% client acceptance rate. The garage now ranks on Google’s first page for 34 strategic local keywords.
 
@@ -78,7 +78,7 @@ The six cases below illustrate the diversity of possible approaches. Each compan
 
 **AI Solution Implemented:** The center deployed three complementary AI tools: an automatic medical transcription system converting voice dictations into structured reports compliant with TARMED standards, a pre-triage chatbot on the practice’s website to guide patients before visits, and a module assisting with correspondence to health insurers. All solutions strictly comply with nLPD requirements and medical confidentiality, with certified Swiss hosting (data center in Guin, FR).
 
-**Investment:** CHF 62,000 over 14 months, including CHF 20,000 in cantonal subsidies from Fribourg for medical practice digitization.
+**Implementation scope:** digital patient intake, workflow redesign, privacy review and team support.
 
 **12-Month Results:** Administrative time reduced by 42%, effective consultation time increased by 8 minutes on average, 28% of unnecessary appointments avoided through AI pre-triage, and insurance request processing time reduced from 14 to 3 days. The four doctors reported significant improvements in professional quality of life and reduced burnout.
 
@@ -90,7 +90,7 @@ The six cases below illustrate the diversity of possible approaches. Each compan
 
 **AI Solution Implemented:** MicroPrécision implemented a computer vision system on its production lines, capable of detecting microscopic defects (up to 5 microns) invisible to the naked eye. Additionally, a predictive maintenance algorithm analyzes real-time data on vibrations, temperatures, and performance from 12 CNC machines to anticipate breakdowns 48 to 72 hours in advance. Production data feeds into an AI dashboard that automatically optimizes machining parameters.
 
-**Investment:** CHF 185,000 over 24 months, co-financed at 40% by an Innosuisse project in partnership with HE-Arc Neuchâtel.
+**Implementation scope:** industrial AI project with traceability, quality control and a research partner.
 
 **18-Month Results:** Scrap rate reduced from 4.7% to 1.2%, unplanned machine downtimes cut by 78%, and annual savings estimated at CHF 340,000. Complete traceability of each part, ensured by AI, secured two new watchmaking contracts worth CHF 1.8 million in additional revenue. Three operators were trained to oversee AI systems and analyze production data.
 
@@ -102,7 +102,7 @@ The six cases below illustrate the diversity of possible approaches. Each compan
 
 **AI Solution Implemented:** The Biel-based retailer uses [Trustly-AI](https://trustly-ai.com) for personalized marketing. The platform analyzes each visitor’s browsing and purchasing behavior to offer relevant product recommendations, personalized offers, and tailored email sequences. The AI also generates bilingual marketing content (French-German), essential for Biel’s unique positioning at the linguistic border. A food-wine pairing chatbot complements the e-commerce site.
 
-**Investment:** CHF 28,000 for integration and customization, plus CHF 650/month.
+**Implementation scope:** integration, customization, segmentation and team training.
 
 **9-Month Results:** E-commerce conversion rate increased from 1.2% to 4.1%, average basket size grew by 34% (from CHF 67 to CHF 90), and online revenue tripled. The active customer base doubled, with notable growth in Geneva and Lausanne markets. Personalized newsletter open rates reached 38%, compared to 12% for previous generic campaigns.
 ## 3. Lessons Learned: What These Six SMEs Teach Us
@@ -135,23 +135,23 @@ Our experience supporting dozens of Swiss SMEs has allowed us to identify the mo
 
 ### Mistake #1: Trying to Automate Everything at Once
 
-Average cost observed: CHF 40,000 to CHF 120,000 in wasted budget. SMEs launching five or six simultaneous AI initiatives without prioritization often fail to complete any of them. The dispersion of human and financial resources leads to unfinished projects and a loss of team trust in the technology.
+Typical consequence observed: wasted effort, unfinished projects and loss of team trust in the technology. SMEs launching five or six simultaneous AI initiatives without prioritization often fail to complete any of them.
 
 ### Mistake #2: Neglecting Data Quality
 
-Average cost observed: 3 to 6 months of project delay. AI is only as effective as the data it is fed. A fiduciary feeding its model with poorly categorized accounting entries from the past decade will achieve disappointing results. Cleaning up existing data must precede the deployment of any AI tool.
+Typical consequence observed: several months of project delay. AI is only as effective as the data it is fed. A fiduciary feeding its model with poorly categorized accounting entries from the past decade will achieve disappointing results. Cleaning up existing data must precede the deployment of any AI tool.
 
 ### Mistake #3: Choosing a Provider Without Swiss Expertise
 
-Average cost observed: CHF 25,000 to CHF 60,000 in corrections and migrations. Solutions developed by providers unfamiliar with the Swiss market (taxation, multilingualism, nLPD, collective labor agreements) invariably require costly adaptations. A chatbot designed for the French market won't understand the specifics of the Swiss healthcare system or the nuances of Swiss Romand vocabulary.
+Typical consequence observed: corrections, migrations and adoption friction. Solutions developed by providers unfamiliar with the Swiss market (taxation, multilingualism, nLPD, collective labor agreements) invariably require costly adaptations. A chatbot designed for the French market won't understand the specifics of the Swiss healthcare system or the nuances of Swiss Romand vocabulary.
 
 ### Mistake #4: Ignoring Team Training
 
-Average cost observed: 50% of the tool's potential left untapped. An AI software without trained users is a dormant investment. SMEs allocating less than 10% of the project budget to training report adoption rates below 30% after six months. Plan at least two days of training per affected employee, with follow-ups at 3 and 6 months.
+Typical consequence observed: tool potential left untapped. An AI software without trained users is a dormant investment. SMEs that neglect training report poor adoption after six months. Plan practical training per affected employee, with follow-ups after rollout.
 
 ### Mistake #5: Failing to Define KPIs Before Deployment
 
-Average cost observed: inability to justify ROI to management or investors. Without predefined key indicators (time saved, errors avoided, additional revenue, customer satisfaction), it's impossible to demonstrate the value created by AI. Every project should include 3 to 5 measurable KPIs from the first month.
+Typical consequence observed: inability to justify ROI to management or investors. Without predefined key indicators (time saved, errors avoided, additional revenue, customer satisfaction), it's impossible to demonstrate the value created by AI. Every project should include 3 to 5 measurable KPIs from the first month.
 
 ## 5. Subsidies and Financing: The Swiss Romand Landscape
 
@@ -159,27 +159,27 @@ Switzerland offers a structured financing ecosystem to support SME digital trans
 
 #### Innosuisse—Swiss Agency for Innovation Promotion
 
-**Innovation Vouchers:** Up to CHF 15,000 for an initial diagnostic conducted by an accredited research partner. Ideal for a first AI audit. Processing time: 4–6 weeks.
+**Innovation Vouchers:** Support for an initial diagnostic conducted by an accredited research partner. Ideal for a first AI audit.
 
-**Innovation Projects:** Co-financing up to 50% of research budgets for projects conducted in collaboration with a Swiss university (EPFL, HES-SO, HE-Arc). Average SME project budgets: CHF 150,000 to CHF 500,000.
+**Innovation Projects:** Co-financing mechanisms for projects conducted in collaboration with a Swiss university (EPFL, HES-SO, HE-Arc).
 
 **Innovation Coaching:** Free personalized support from Innosuisse-certified coaches to structure AI innovation strategies.
 
 #### Canton of Vaud—SPECo (Economic and Innovation Promotion Service)
 
-"PME digitales VD" program: subsidies ranging from CHF 10,000 to CHF 50,000 for digital transformation projects. Criteria: headquarters in Vaud, fewer than 250 employees, project demonstrating impact on competitiveness and employment. Annual budget for 2026: CHF 4.5 million.
+"PME digitales VD" program: support for digital transformation projects. Criteria include headquarters in Vaud, SME size and a project demonstrating impact on competitiveness and employment.
 
 #### Canton of Geneva—DG DERI (General Directorate for Economic Development, Research, and Innovation)
 
-Cantonal Digitalization Aid Fund: preferential loans (0.5%) and bank guarantees for Geneva SMEs undertaking digital transformation projects. Maximum amount: CHF 100,000. Additional support through the Geneva Foundation for Technological Innovation (Fongit) for AI-intensive projects.
+Cantonal Digitalization Aid Fund: preferential support and bank guarantees for Geneva SMEs undertaking digital transformation projects. Additional support may be available through the Geneva Foundation for Technological Innovation (Fongit) for AI-intensive projects.
 
 #### Canton of Valais—Economic, Tourism, and Innovation Service
 
-"Valais Digital" program: non-repayable aid covering up to 30% of project costs, capped at CHF 40,000. Priority given to tourism, agri-food, and industrial sectors. The program includes a training component for employees. Partnership with the Idiap Research Institute in Martigny for advanced AI projects.
+"Valais Digital" program: non-repayable support for selected projects. Priority is given to tourism, agri-food, and industrial sectors. The program includes a training component for employees. Partnership with the Idiap Research Institute in Martigny for advanced AI projects.
 
 #### Canton of Fribourg—Economic Promotion of the Canton of Fribourg
 
-Innovation aid for Fribourg SMEs: financial support ranging from CHF 5,000 to CHF 30,000 for feasibility studies or AI pilot projects. The canton also offers a digital mentorship program in collaboration with the University of Fribourg and HES-SO Fribourg, with privileged access to the Smart Living Lab in Fribourg.
+Innovation aid for Fribourg SMEs: financial support for feasibility studies or AI pilot projects. The canton also offers a digital mentorship program in collaboration with the University of Fribourg and HES-SO Fribourg, with privileged access to the Smart Living Lab in Fribourg.
 
 **Practical Tip:** Processing times vary from 4 weeks (Innosuisse voucher) to 4 months (complex cantonal projects). We recommend submitting subsidy applications in parallel with project initiation, not beforehand, to avoid delays. Most grants can be retroactively applied to the first three months of the project.
 
@@ -192,7 +192,7 @@ Choosing the right technology partner is a key success factor. In Swiss Romandie
 - **Swiss Expertise:** Knowledge of Swiss law (nLPD, CO, sector-specific regulations), multilingualism, and Swiss Romand cultural nuances.
 - **Data Hosting:** Certified data centers in Switzerland, ISO 27001 and SOC 2 compliance.
 - **Verifiable References:** At least three documented client cases in the same sector or for a comparable company size.
-- **Transparent Pricing:** Clear pricing models without hidden costs. Favor fixed-price models for the initial phase.
+- **Transparent scope:** Clear deliverables, governance and success indicators for the initial phase.
 - **Post-Deployment Support:** Training, French-language support, regular model updates.
 
 ### Recommended Ecosystem Partners
@@ -250,13 +250,13 @@ AI-assisted energy optimization, waste reduction, and eco-design will become key
 
 ## 9. Frequently Asked Questions
 
-### What Budget Should Be Planned for the AI Digital Transformation of an SME in Romandy?
+### What Resources Should Be Planned for the AI Digital Transformation of an SME in Romandy?
 
-The budget varies depending on size and sector. For an SME with 10 to 50 employees, expect to spend between CHF 15,000 and CHF 80,000 for a first structured AI project. Innosuisse subsidies and cantonal grants can cover up to 50% of the initial investment, significantly reducing the financial burden. The six case studies presented in this article illustrate this range, from a Bernese retailer (CHF 28,000) to an industrial SME in Neuchâtel (CHF 185,000).
+The required effort varies depending on size and sector. For an SME with 10 to 50 employees, a first structured AI project should be scoped around one priority workflow, one accountable owner and a measurable pilot. Innosuisse and cantonal programs may reduce the initial burden when eligibility conditions are met.
 
 ### What Swiss Subsidies Are Available to Finance an AI Project for SMEs?
 
-Several programs are accessible: Innosuisse (innovation vouchers up to CHF 15,000, collaborative innovation projects co-financed at 50%), cantonal grants (SPECo Vaud up to CHF 50,000, DG DERI Geneva up to CHF 100,000, Valais Economic Service up to CHF 40,000, Fribourg Economic Promotion up to CHF 30,000), as well as Interreg Franco-Swiss programs for cross-border projects.
+Several programs are accessible: Innosuisse innovation support, collaborative innovation projects, cantonal grants, economic promotion offices, and Interreg Franco-Swiss programs for cross-border projects.
 
 ### How Long Does an AI Digital Transformation Project Take for an SME?
 
@@ -268,4 +268,4 @@ Yes, provided the principles of the new Federal Act on Data Protection (nLPD), e
 
 ### Where Should I Start with the AI Digital Transformation of My SME in Romandy?
 
-Start with a digital audit of your existing processes to identify repetitive tasks with high automation potential. Prioritize a concrete use case (customer service, invoicing, inventory management, marketing), launch a measurable pilot project over 3 months, and iterate based on the results. Partner with a local expert who understands the economic fabric of Romandy. Take advantage of Innosuisse innovation vouchers (CHF 15,000) to fund this initial audit. [Contact us](/fr/contact) for a first discussion without obligation.
+Start with a digital audit of your existing processes to identify repetitive tasks with high automation potential. Prioritize a concrete use case (customer service, invoicing, inventory management, marketing), launch a measurable pilot project over 3 months, and iterate based on the results. Partner with a local expert who understands the economic fabric of Romandy. [Contact us](/fr/contact) for a first discussion without obligation.

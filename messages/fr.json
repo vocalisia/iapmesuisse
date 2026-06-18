@@ -60,7 +60,7 @@
       "description": "Ce que nos clients disent de nous"
     },
     "quiz_maturity": {
-      "title": "Score de Maturité IA – Quiz gratuit",
+      "title": "Score de Maturité IA – Quiz interactif",
       "description": "Évaluez la maturité IA de votre PME en 10 questions. Score personnalisé et recommandations."
     },
     "quiz_knowledge": {
@@ -85,7 +85,7 @@
     },
     "generationLeads": {
       "title": "Generation de leads IA pour PME suisses - IAPME",
-      "description": "Automatisez votre prospection B2B avec l'IA. Generez plus de leads qualifies et boostez votre pipeline commercial. Devis gratuit."
+      "description": "Automatisez votre prospection B2B avec l'IA. Generez plus de leads qualifies et boostez votre pipeline commercial. Audit gratuit."
     },
     "marketingIa": {
       "title": "Marketing automatise IA pour PME - IAPME Suisse",
@@ -355,7 +355,7 @@
       },
       {
         "question": "comment cadrer l'intégration de l'IA?",
-        "answer": "Les coûts varient selon la complexité du projet. Un audit initial permet d'évaluer les investissements nécessaires et le ROI attendu."
+        "answer": "Le périmètre dépend de la complexité du projet, des données disponibles et des résultats attendus. Un audit initial permet de prioriser les actions utiles."
       },
       {
         "question": "Faut-il des compétences techniques?",
@@ -430,7 +430,7 @@
       "scope_title": "Champ d'application",
       "scope_text": "Les présentes conditions s'appliquent à l'ensemble des prestations proposées par IAPME Suisse.",
       "services_title": "Description des services",
-      "services_text": "IAPME Suisse propose des services de conseil, formation et intégration en intelligence artificielle destinés aux PME suisses. Le périmètre exact est défini dans un devis ou contrat spécifique.",
+      "services_text": "IAPME Suisse propose des services de conseil, formation et intégration en intelligence artificielle destinés aux PME suisses. Le périmètre exact est défini en échange privé selon vos processus, vos données et vos priorités.",
       "pricing_title": "Cadrage et conditions",
       "pricing_text": "Chaque mission est cadrée en échange privé selon vos processus, vos données et vos priorités.",
       "cancellation_title": "Annulation",
@@ -661,11 +661,11 @@
       "badge": "Sur mesure"
     },
     "book_title": "Réservez un appel découverte",
-    "book_subtitle": "30 minutes gratuites pour discuter de votre projet",
+    "book_subtitle": "30 minutes pour discuter de votre projet",
     "book_cta": "Réserver un créneau",
     "cta": "En savoir plus",
     "booking_title": "Réservez un appel découverte",
-    "booking_description": "30 minutes gratuites pour discuter de votre projet",
+    "booking_description": "30 minutes pour discuter de votre projet",
     "links": {
       "audit": "https://buy.stripe.com/4gM6oGcvo5AQdxa6hwco00L",
       "accompagnement": "https://buy.stripe.com/dRm3cugLEaVa64I6hwco00M"
@@ -715,8 +715,8 @@
     "upcoming": "Événements à venir",
     "past": "Événements passés",
     "all": "Tous",
-    "free": "Gratuit",
-    "paid": "Payant",
+    "open_access": "Accès ouvert",
+    "registration": "Sur inscription",
     "online": "En ligne",
     "add_calendar": "Ajouter à mon agenda",
     "no_events": "Aucun événement à venir pour le moment",
@@ -758,7 +758,7 @@
         "type": "Webinaire",
         "price": "À cadrer",
         "url": "#",
-        "description": "Webinaire mensuel gratuit: découvrez comment l'IA peut transformer votre PME."
+        "description": "Webinaire mensuel: découvrez comment l'IA peut transformer votre PME."
       }
     ],
     "submit_button": "Soumettre"
@@ -775,9 +775,9 @@
       "hosting": "Hébergement",
       "translation": "Traduction"
     },
-    "free": "Gratuit",
-    "freemium": "Freemium",
-    "paid": "Payant",
+    "quick_test": "Test rapide",
+    "mixed_access": "Mode mixte",
+    "validation": "À valider",
     "visit": "Visiter",
     "items": [
       {
@@ -896,7 +896,7 @@
     "items": [
       {
         "question": "L'IA est-elle adaptée aux petites entreprises?",
-        "answer": "Absolument. Des outils comme ChatGPT, DeepL ou Zapier sont accessibles dès cadrage personnalisé par mois et peuvent automatiser des tâches répétitives, améliorer le service client ou accélérer la création de contenu.",
+        "answer": "Absolument. Des outils comme ChatGPT, DeepL ou Zapier sont accessibles aux PME et peuvent automatiser des tâches répétitives, améliorer le service client ou accélérer la création de contenu.",
         "category": "general"
       },
       {
@@ -925,8 +925,8 @@
         "category": "legal"
       },
       {
-        "question": "comment cadrer un projet IA pour PME?",
-        "answer": "Les coûts varient: de gratuit (outils de base) à quelques milliers de francs (intégration sur mesure). Notre audit express à cadrage personnalisé vous donne une estimation précise du ROI.",
+        "question": "Comment cadrer un projet IA pour PME?",
+        "answer": "Le bon périmètre dépend de vos processus, de vos données, des risques nLPD et de vos objectifs métier. Notre audit express identifie les cas d'usage prioritaires, le niveau d'effort et les résultats attendus.",
         "category": "cadrage"
       },
       {
@@ -999,7 +999,7 @@
     "form": {
       "email": "Votre email professionnel",
       "email_placeholder": "jean@entreprise.ch",
-      "submit": "S'abonner gratuitement",
+      "submit": "S'abonner",
       "consent": "En vous inscrivant, vous acceptez notre politique de confidentialité. Désabonnement possible à tout moment.",
       "success": "Bienvenue! Vérifiez votre boîte mail pour confirmer votre inscription."
     },
@@ -1018,7 +1018,7 @@
       "subtitle": "Évaluez la maturité IA de votre PME en 10 questions",
       "start": "Commencer le test",
       "time": "3 minutes",
-      "free": "Gratuit",
+      "free": "Rapide",
       "instant": "Résultats immédiats",
       "email_label": "Recevez votre rapport détaillé par email",
       "email_button": "Recevoir mon rapport",
@@ -1288,7 +1288,7 @@
     "cta": {
       "title": "Votre marketing, en pilote automatique",
       "description": "Decouvrez comment automatiser 80% de vos taches marketing et concentrer votre energie sur la croissance.",
-      "button": "Obtenir une demo gratuite"
+      "button": "Obtenir une demo"
     }
   },
   "priseDeRdv": {

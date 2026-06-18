@@ -5,6 +5,7 @@ import BlogCard from '@/components/BlogCard';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import { Link } from '@/i18n/routing';
 import { sanitizePublicText } from '@/lib/public-text';
+import { getSchemaLanguage, getSiteUrl } from '@/lib/structured-data';
 
 const POSTS_PER_PAGE = 12;
 
@@ -51,9 +52,49 @@ export default async function BlogPage({
   const safePage = Math.min(page, totalPages);
   const startIdx = (safePage - 1) * POSTS_PER_PAGE;
   const posts = allPosts.slice(startIdx, startIdx + POSTS_PER_PAGE);
+  const title = sanitizePublicText(t('title'), locale);
+  const subtitle = sanitizePublicText(t('subtitle'), locale);
+  const baseUrl = getSiteUrl();
+  const blogUrl = `${baseUrl}/${locale}/blog${safePage > 1 ? `?page=${safePage}` : ''}`;
+  const collectionSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    '@id': `${blogUrl}#collection`,
+    url: blogUrl,
+    name: title,
+    description: subtitle,
+    inLanguage: getSchemaLanguage(locale),
+    isPartOf: { '@id': `${baseUrl}/#website` },
+    publisher: { '@id': `${baseUrl}/#organization` },
+    mainEntity: {
+      '@type': 'ItemList',
+      '@id': `${blogUrl}#posts`,
+      name: title,
+      itemListOrder: 'https://schema.org/ItemListOrderDescending',
+      numberOfItems: posts.length,
+      itemListElement: posts.map((post, index) => ({
+        '@type': 'ListItem',
+        position: startIdx + index + 1,
+        url: `${baseUrl}/${locale}/blog/${post.slug}`,
+        item: {
+          '@type': 'BlogPosting',
+          '@id': `${baseUrl}/${locale}/blog/${post.slug}#article`,
+          headline: sanitizePublicText(post.title, locale),
+          description: sanitizePublicText(post.excerpt, locale),
+          datePublished: post.date,
+          author: { '@id': `${baseUrl}/#founder` },
+          publisher: { '@id': `${baseUrl}/#organization` },
+        },
+      })),
+    },
+  };
 
   return (
     <section className="bg-gray-light min-h-screen">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionSchema) }}
+      />
       <div className="mx-auto max-w-7xl px-4 pt-6 sm:px-6 lg:px-8">
         <Breadcrumbs
           items={[
@@ -65,10 +106,10 @@ export default async function BlogPage({
 
       <div className="mx-auto max-w-7xl px-4 pb-8 pt-4 sm:px-6 lg:px-8">
         <h1 className="text-3xl font-extrabold tracking-tight text-primary sm:text-4xl lg:text-5xl">
-          {sanitizePublicText(t('title'), locale)}
+          {title}
         </h1>
         <p className="mt-3 max-w-2xl text-lg leading-relaxed text-gray-600">
-          {sanitizePublicText(t('subtitle'), locale)}
+          {subtitle}
         </p>
       </div>
 

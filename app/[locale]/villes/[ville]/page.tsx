@@ -34,10 +34,10 @@ export async function generateMetadata({ params }: Props) {
     it: `Agenzia IA PMI ${name} · Audit gratuito + Formazione — IAPME Suisse`,
   };
   const descs: Record<string, string> = {
-    fr: `Agence IA pour PME à ${name} (canton de ${cantonName}) : audit gratuit 30 min, formation ChatGPT/Copilot, intégration outils. nLPD + AI Act. Devis en 24h.`,
+    fr: `Agence IA pour PME à ${name} (canton de ${cantonName}) : audit gratuit 30 min, formation ChatGPT/Copilot, intégration outils. nLPD + AI Act. Prochaine étape claire.`,
     de: `KI-Agentur für KMU in ${name} (Kanton ${cantonName}): kostenloses 30-Min-Audit, ChatGPT/Copilot-Schulung, Tool-Integration. nDSG + AI Act.`,
-    en: `AI agency for SMEs in ${name} (canton ${cantonName}): free 30-min audit, ChatGPT/Copilot training, tool integration. nFADP + AI Act. Quote in 24h.`,
-    it: `Agenzia IA per PMI a ${name} (cantone ${cantonName}): audit gratuito 30 min, formazione ChatGPT/Copilot, integrazione strumenti. nLPD + AI Act. Preventivo in 24h.`,
+    en: `AI agency for SMEs in ${name} (canton ${cantonName}): free 30-min audit, ChatGPT/Copilot training, tool integration. nFADP + AI Act. Clear next step.`,
+    it: `Agenzia IA per PMI a ${name} (cantone ${cantonName}): audit gratuito 30 min, formazione ChatGPT/Copilot, integrazione strumenti. nLPD + AI Act. Prossimo passo chiaro.`,
   };
 
   return {
@@ -92,7 +92,7 @@ const COPY: Record<string, LocaleCopy> = {
     breadcrumbVilles: 'Villes',
     useCases: [
       { title: 'Chatbot IA service client 24/7', desc: 'Déploiement sur site web + WhatsApp Business avec base de connaissances métier. ROI typique : -40% volume tickets niveau 1 en 8 semaines.' },
-      { title: 'Automatisation devis & relances', desc: 'ChatGPT + Make/Zapier pour générer devis, suivre paiements, relances automatisées multi-canaux. Gain : 6-12 h/sem par commercial.' },
+      { title: 'Automatisation documents & relances', desc: 'ChatGPT + Make/Zapier pour générer des documents commerciaux, suivre les dossiers, relances automatisées multi-canaux. Gain : 6-12 h/sem par commercial.' },
       { title: 'Assistant virtuel administratif', desc: 'Copilot Microsoft 365 + agents personnalisés pour rapports, comptes-rendus, recherche documentaire. Conformité nLPD.' },
       { title: 'IA pour génération de leads B2B', desc: 'Prospection automatisée Apollo + ChatGPT + LinkedIn Sales Navigator. Personnalisation à grande échelle, audit nLPD inclus.' },
     ],
@@ -117,7 +117,7 @@ const COPY: Record<string, LocaleCopy> = {
       { title: 'Études de cas PME romandes', href: '/blog/etudes-cas-pme-romandes-ia' },
     ],
     ctaTitle: (name) => `Démarrons votre projet IA à ${name}`,
-    ctaDesc: 'Réservez 30 minutes gratuites pour cartographier vos processus et identifier vos quick-wins IA.',
+    ctaDesc: 'Réservez 30 minutes pour cartographier vos processus et identifier vos quick-wins IA.',
     faqMaker: (name, cantonName, ecosystem) => [
       {
         q: `Quels services IA proposez-vous aux PME de ${name} ?`,
@@ -183,7 +183,7 @@ const COPY: Record<string, LocaleCopy> = {
       { title: 'Integration von KI in CRM', href: '/blog/integration-ia-crm-opportunites-pme-suisses' },
     ],
     ctaTitle: (name) => `Starten wir Ihr KI-Projekt in ${name}`,
-    ctaDesc: 'Buchen Sie 30 kostenlose Minuten, um Ihre Prozesse zu kartieren und Quick Wins zu identifizieren.',
+    ctaDesc: 'Buchen Sie 30 Minuten, um Ihre Prozesse zu kartieren und Quick Wins zu identifizieren.',
     faqMaker: (name, cantonName, ecosystem) => [
       {
         q: `Welche KI-Leistungen bieten Sie KMU in ${name}?`,
@@ -249,7 +249,7 @@ const COPY: Record<string, LocaleCopy> = {
       { title: 'Swiss SME case studies', href: '/blog/etudes-cas-pme-romandes-ia' },
     ],
     ctaTitle: (name) => `Let's start your AI project in ${name}`,
-    ctaDesc: 'Book 30 free minutes to map your processes and identify your AI quick wins.',
+    ctaDesc: 'Book 30 minutes to map your processes and identify your AI quick wins.',
     faqMaker: (name, cantonName, ecosystem) => [
       {
         q: `What AI services do you offer SMEs in ${name}?`,
@@ -315,7 +315,7 @@ const COPY: Record<string, LocaleCopy> = {
       { title: 'Studi di caso PMI svizzere', href: '/blog/etudes-cas-pme-romandes-ia' },
     ],
     ctaTitle: (name) => `Avviamo il suo progetto IA a ${name}`,
-    ctaDesc: 'Prenoti 30 minuti gratuiti per cartografare i suoi processi e identificare i suoi quick win.',
+    ctaDesc: 'Prenoti 30 minuti per cartografare i suoi processi e identificare i suoi quick win.',
     faqMaker: (name, cantonName, ecosystem) => [
       {
         q: `Quali servizi IA offrite alle PMI di ${name}?`,

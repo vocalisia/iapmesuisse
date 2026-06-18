@@ -96,7 +96,7 @@ const T = {
       { title: 'Études de cas PME romandes', href: '/blog/etudes-cas-pme-romandes-ia' },
     ],
     ctaTitle: (n: string) => `Démarrons votre projet IA dans le canton de ${n}`,
-    ctaDesc: 'Réservez 30 minutes gratuites pour cartographier vos processus et identifier vos quick-wins IA.',
+    ctaDesc: 'Réservez 30 minutes pour cartographier vos processus et identifier vos quick-wins IA.',
     ctaButton: 'Réserver mon audit gratuit',
   },
   de: {
@@ -131,7 +131,7 @@ const T = {
       { title: 'Fallstudien KMU Romandie', href: '/blog/etudes-cas-pme-romandes-ia' },
     ],
     ctaTitle: (n: string) => `Starten wir Ihr KI-Projekt im Kanton ${n}`,
-    ctaDesc: 'Buchen Sie 30 kostenlose Minuten, um Ihre Prozesse zu kartieren und Quick Wins zu identifizieren.',
+    ctaDesc: 'Buchen Sie 30 Minuten, um Ihre Prozesse zu kartieren und Quick Wins zu identifizieren.',
     ctaButton: 'Kostenloses Audit buchen',
   },
   en: {
@@ -166,7 +166,7 @@ const T = {
       { title: 'Swiss SME case studies', href: '/blog/etudes-cas-pme-romandes-ia' },
     ],
     ctaTitle: (n: string) => `Let's start your AI project in canton ${n}`,
-    ctaDesc: 'Book 30 free minutes to map your processes and identify your AI quick wins.',
+    ctaDesc: 'Book 30 minutes to map your processes and identify your AI quick wins.',
     ctaButton: 'Book my free audit',
   },
   it: {
@@ -201,7 +201,7 @@ const T = {
       { title: 'Studi di caso PMI svizzere', href: '/blog/etudes-cas-pme-romandes-ia' },
     ],
     ctaTitle: (n: string) => `Avviamo il suo progetto IA nel cantone ${n}`,
-    ctaDesc: 'Prenoti 30 minuti gratuiti per cartografare i suoi processi e identificare i suoi quick win.',
+    ctaDesc: 'Prenoti 30 minuti per cartografare i suoi processi e identificare i suoi quick win.',
     ctaButton: 'Prenoto l\'audit gratuito',
   },
 };

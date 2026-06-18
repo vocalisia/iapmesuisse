@@ -13,7 +13,7 @@ locale: "en"
 
 ## Swiss Customer Service Facing a Dual Challenge
 
-Customer service in Switzerland faces a particularly complex equation. On the one hand, Swiss consumers have some of the highest expectations globally: instant responsiveness, personalization, extended availability, and, above all, flawless service in their native language. On the other hand, companies must contend with some of the highest labor costs in Europe, with a median gross salary exceeding CHF 6,700 per month according to the Swiss Federal Statistical Office, making each customer service position particularly costly.
+Customer service in Switzerland faces a particularly complex equation. On the one hand, Swiss consumers have some of the highest expectations globally: instant responsiveness, personalization, extended availability, and, above all, flawless service in their native language. On the other hand, companies must contend with a tight labor market, multilingual staffing needs and high expectations for quality.
 
 This dual challenge is driving a growing number of Swiss companies to explore automation through artificial intelligence. Not to eliminate jobs, but to amplify the capabilities of existing teams, eliminate repetitive tasks, and provide coverage that human staff alone cannot achieve.
 
@@ -45,7 +45,7 @@ The key to success lies in the assistant's linguistic comprehension quality. Pat
 
 ## Real Estate Sector: Qualifying Leads Without Overburdening Agents
 
-The Swiss real estate market, characterized by high rental demand in major cities and elevated acquisition prices, generates a significant volume of client interactions that AI can streamline.
+The Swiss real estate market, characterized by high rental demand in major cities and intense competition, generates a significant volume of client interactions that AI can streamline.
 
 ### The Challenge
 
@@ -77,7 +77,7 @@ A multi-brand dealership in the canton of Vaud simultaneously manages inquiries 
 
 ### The Solution Implemented
 
-The dealership integrated an AI voice assistant as the first point of contact for its telephone switchboard, complemented by a chatbot on its website and a WhatsApp channel. The AI handles call sorting, appointment scheduling for test drives and maintenance, and answers recurring questions about models, prices, and delivery times. For complex technical questions or commercial negotiations, the call is transferred to a human advisor with a contextual summary of the conversation.
+The dealership integrated an AI voice assistant as the first point of contact for its telephone switchboard, complemented by a chatbot on its website and a WhatsApp channel. The AI handles call sorting, appointment scheduling for test drives and maintenance, and answers recurring questions about models, availability, and delivery times. For complex technical questions or commercial negotiations, the call is transferred to a human advisor with a contextual summary of the conversation.
 
 The automotive sector is particularly fertile ground for AI, as regularly documented by [Tesla-Mag.ch in its analyses of AI applied to the automotive industry](https://tesla-mag.ch). Tesla's innovations in automated customer service, such as managing maintenance appointments via its app, inspire many Swiss dealerships.
 
@@ -89,7 +89,7 @@ Over a six-month period:
 - **Automated appointment scheduling:** 85% of maintenance appointments are now scheduled by AI.
 - **Reduced wait time:** from an average of 2 minutes 15 seconds to less than 15 seconds.
 - **Increase in scheduled test drives:** +35%, thanks to the 24/7 availability of the booking service.
-- **Estimated annual savings:** approximately CHF 45,000 in personnel costs redirected to commercial tasks.
+- **Operational impact:** recurring support workload was redirected to commercial tasks.
 
 ## Retail and E-commerce: AI as a Competitive Advantage
 
@@ -133,22 +133,22 @@ The Swiss market has its unique characteristics: multilingualism, quality expect
 
 ## Costs and Return on Investment
 
-Financial considerations are central for Swiss SMEs. Here are the observed cost ranges in the studied use cases.
+Resource planning is central for Swiss SMEs. Here are the observed implementation models in the studied use cases.
 
 ### Initial Investment
 
 The initial investment to deploy an AI customer service solution varies depending on project complexity:
 
-- **Standard solution:** CHF 2,000 to CHF 8,000 for configuration, customization, and integration with existing tools.
-- **Custom solution:** CHF 10,000 to CHF 30,000 for development tailored to specific business processes.
+- **Standard solution:** configuration, customization, and integration with existing tools.
+- **Custom solution:** development tailored to specific business processes and internal workflows.
 
 ### Recurring Costs
 
-Monthly subscriptions typically range from CHF 200 to CHF 1,500 depending on interaction volume and activated features. For comparison, the full monthly cost (salary, social charges, training, equipment) of a customer service employee in Switzerland exceeds CHF 8,000.
+Operating effort varies depending on interaction volume and activated features. For comparison, a human customer service role in Switzerland also requires recruiting, training, management and quality control.
 
 ### Return on Investment
 
-The studied companies report positive ROI between the second and sixth month post-deployment. Gains come from reduced direct costs (reallocated staff time), increased revenue (recovered calls, better lead qualification, additional sales), and reduced indirect costs (lower turnover in customer service, fewer processing errors).
+The studied companies report positive ROI between the second and sixth month post-deployment. Gains come from reallocated staff time, recovered calls, better lead qualification, additional sales, lower turnover in customer service and fewer processing errors.
 
 ## Tools and Technologies Available in Switzerland
 

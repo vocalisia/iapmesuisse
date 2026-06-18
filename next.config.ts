@@ -63,6 +63,22 @@ const nextConfig: NextConfig = {
         destination: '/:locale/formation-ia-pme',
         permanent: true,
       },
+      // Nettoyage crawl: anciens contenus de cadrage commercial vont directement vers contact
+      {
+        source: '/:locale(fr|de|en|it)/blog/budget-ia-pme-suisse',
+        destination: '/:locale/contact',
+        permanent: true,
+      },
+      {
+        source: '/:locale(fr|de|en|it)/blog/prix-formation-ia-pme-suisse-comparatif-cantons-chf',
+        destination: '/:locale/contact',
+        permanent: true,
+      },
+      {
+        source: '/:locale(fr|de|en|it)/blog/agents-ia-sur-mesure-pme-romandes-chf',
+        destination: '/:locale/contact',
+        permanent: true,
+      },
       // Cannibalisation: consolide ROI IA PME
       {
         source: '/:locale(fr|de|en|it)/blog/roi-intelligence-artificielle-pme-transformation-digitale',

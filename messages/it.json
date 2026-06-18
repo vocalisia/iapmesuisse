@@ -60,7 +60,7 @@
       "description": "La nostra selezione di strumenti IA per PMI"
     },
     "quiz_maturity": {
-      "title": "Score di Maturità IA – Quiz gratuito",
+      "title": "Score di Maturità IA – Quiz interattivo",
       "description": "Valutate la maturità IA della vostra PMI in 10 domande. Punteggio personalizzato e raccomandazioni."
     },
     "quiz_knowledge": {
@@ -77,7 +77,7 @@
     },
     "guess_ai": {
       "title": "Indovina l'IA – Gioco interattivo",
-      "description": "Saprete distinguere un testo scritto dall'IA perimetro personalizzato"
+      "description": "Saprete distinguere un testo scritto dall'IA da un testo umano?"
     },
     "prompt_master": {
       "title": "Prompt Master – Sfida IA",
@@ -85,7 +85,7 @@
     },
     "generationLeads": {
       "title": "Generazione lead IA per PMI svizzere - IAPME",
-      "description": "Automatizzate la prospezione B2B con l'IA. Piu lead qualificati, meno perimetro personalizzato di acquisizione. Audit gratuito."
+      "description": "Automatizzate la prospezione B2B con l'IA. Piu lead qualificati e prossimi passi piu chiari. Audit gratuito."
     },
     "marketingIa": {
       "title": "Marketing automatizzato IA per PMI - IAPME Svizzera",
@@ -127,7 +127,7 @@
   },
   "home": {
     "why_title": "Perché l'IA per le PMI svizzere?",
-    "why_description": "L'intelligenza artificiale non è più riservata alle grandi imprese. Le PMI svizzere possono già oggi sfruttare l'IA per aumentare l'efficienza, ridurre i perimetro personalizzato e promuovere l'innovazione.",
+    "why_description": "L'intelligenza artificiale non è più riservata alle grandi imprese. Le PMI svizzere possono già oggi sfruttare l'IA per aumentare l'efficienza, semplificare i processi e promuovere l'innovazione.",
     "why_items": [
       {
         "title": "Produttività",
@@ -203,7 +203,7 @@
     },
     "strategy": {
       "title": "Consulenza strategica",
-      "description": "Definite la vostra strategia IA a lungo termine con un accompagnamento personalizzato perimetro personalizzato.",
+      "description": "Definite la vostra strategia IA a lungo termine con un accompagnamento personalizzato.",
       "features": [
         "Strategia digitale IA",
         "Trasformazione digitale",
@@ -354,8 +354,8 @@
         "answer": "Assolutamente sì. Molti strumenti IA sono accessibili e convenienti, anche per le microimprese. L'importante è identificare i casi d'uso più adatti."
       },
       {
-        "question": "comment cadrer l'integrazione dell'IA?",
-        "answer": "I perimetro personalizzato variano in base alla complessità del progetto. Un audit iniziale permette di valutare gli investimenti necessari e il ROI atteso."
+        "question": "Come definire l'integrazione dell'IA?",
+        "answer": "Il perimetro dipende dalla complessità del progetto, dai dati disponibili e dai risultati attesi. Un audit iniziale permette di dare priorità alle azioni utili."
       },
       {
         "question": "Servono competenze tecniche?",
@@ -393,7 +393,7 @@
       "editor_title": "Editore del sito",
       "editor_text": "IAPME Suisse – un servizio di VAULT 369 LTD\nChem. Saint-Hubert 2, 1950 Sion, Svizzera\nSede legale: 128 City Road, EC1V 2NX, London, United Kingdom\nE-mail: contact@iapmesuisse.ch",
       "hosting_title": "Hosting",
-      "hosting_text": "iapmesuisse.ch è ospitato perimetro personalizzato., 340 S Lemon Ave #4133, Walnut, CA 91789, USA.",
+      "hosting_text": "iapmesuisse.ch è ospitato da Vercel Inc., 340 S Lemon Ave #4133, Walnut, CA 91789, USA.",
       "intellectual_title": "Proprietà intellettuale",
       "intellectual_text": "Tutti i contenuti del sito (testi, immagini, loghi, icone) sono proprietà di IAPME Suisse o dei suoi partner. È vietata qualsiasi riproduzione, anche parziale, senza autorizzazione scritta.",
       "liability_title": "Limitazione di responsabilità",
@@ -419,7 +419,7 @@
       "cookies_title": "Cookie",
       "cookies_text": "Questo sito utilizza esclusivamente cookie tecnici necessari al funzionamento. Non vengono utilizzati cookie di tracciamento o pubblicitari.",
       "transfer_title": "Trasferimento dei dati",
-      "transfer_text": "Il sito è ospitato perimetro personalizzato. (USA). Sono in atto misure di protezione adeguate conformi alla nLPD.",
+      "transfer_text": "Il sito è ospitato da Vercel (USA). Sono in atto misure di protezione adeguate conformi alla nLPD.",
       "update_title": "Modifiche",
       "update_text": "IAPME Suisse si riserva il diritto di modificare la presente informativa in qualsiasi momento."
     },
@@ -428,7 +428,7 @@
       "meta_description": "Condizioni generali di vendita e utilizzo dei servizi IAPME Suisse.",
       "title": "Condizioni generali",
       "scope_title": "Campo di applicazione",
-      "scope_text": "Le presenti condizioni si applicano a tutte le prestazioni offerte perimetro personalizzato.",
+      "scope_text": "Le presenti condizioni si applicano a tutte le prestazioni offerte da IAPME Suisse.",
       "services_title": "Descrizione dei servizi",
       "services_text": "IAPME Suisse offre servizi di consulenza, formazione e integrazione nel campo dell'intelligenza artificiale per le PMI svizzere. L'ambito esatto è definito in un preventivo o contratto specifico.",
       "pricing_title": "Perimetro e condizioni",
@@ -661,11 +661,11 @@
       "badge": "Su misura"
     },
     "book_title": "Prenotate una chiamata conoscitiva",
-    "book_subtitle": "30 minuti gratuiti per discutere del vostro progetto",
+    "book_subtitle": "30 minuti per discutere del vostro progetto",
     "book_cta": "Prenotare un appuntamento",
     "cta": "Scopri di più",
     "booking_title": "Prenotate una chiamata conoscitiva",
-    "booking_description": "30 minuti gratuiti per discutere del vostro progetto",
+    "booking_description": "30 minuti per discutere del vostro progetto",
     "links": {
       "audit": "https://buy.stripe.com/4gM6oGcvo5AQdxa6hwco00L",
       "accompagnement": "https://buy.stripe.com/dRm3cugLEaVa64I6hwco00M"
@@ -721,7 +721,7 @@
     "form": {
       "email": "La vostra email professionale",
       "email_placeholder": "mario@impresa.ch",
-      "submit": "Iscriversi gratuitamente",
+      "submit": "Iscriversi",
       "consent": "Iscrivendovi, accettate la nostra politica sulla privacy. Cancellazione possibile in qualsiasi momento.",
       "success": "Benvenuti! Controllate la vostra casella email per confermare l'iscrizione."
     },
@@ -738,8 +738,8 @@
     "upcoming": "Prossimi eventi",
     "past": "Eventi passati",
     "all": "Tutti",
-    "free": "Gratuito",
-    "paid": "A pagamento",
+    "open_access": "Accesso aperto",
+    "registration": "Su iscrizione",
     "online": "Online",
     "add_calendar": "Aggiungere al calendario",
     "no_events": "Nessun evento in programma al momento",
@@ -763,7 +763,7 @@
         "type": "Giornata nazionale",
         "price": "Da definire",
         "url": "https://digitaltag.swiss",
-        "description": "Giornata nazionale della digitalizzazione organizzata perimetro personalizzato."
+        "description": "Giornata nazionale della digitalizzazione organizzata da digitalswitzerland."
       },
       {
         "name": "AI & Automation Summit Zurich",
@@ -781,7 +781,7 @@
         "type": "Webinar",
         "price": "Da definire",
         "url": "#",
-        "description": "Webinar mensile gratuito: scoprite come l'IA può trasformare la vostra PMI."
+        "description": "Webinar mensile: scoprite come l'IA può trasformare la vostra PMI."
       }
     ],
     "submit_button": "Inviare"
@@ -798,9 +798,9 @@
       "hosting": "Hosting",
       "translation": "Traduzione"
     },
-    "free": "Gratuito",
-    "freemium": "Freemium",
-    "paid": "A pagamento",
+    "quick_test": "Test rapido",
+    "mixed_access": "Accesso misto",
+    "validation": "Da valutare",
     "visit": "Visitare",
     "items": [
       {
@@ -880,7 +880,7 @@
         "name": "Marc Keller",
         "company": "Keller Treuhand AG",
         "location": "Zurigo",
-        "text": "L'audit IA di IAPME ci ha permesso di identificare guadagni di produttività che non avremmo mai trovato perimetro personalizzato. In 3 mesi abbiamo automatizzato il 40% delle nostre attività amministrative.",
+        "text": "L'audit IA di IAPME ci ha permesso di identificare guadagni di produttività che non avevamo individuato internamente. In 3 mesi abbiamo automatizzato il 40% delle nostre attività amministrative.",
         "rating": 5
       },
       {
@@ -906,16 +906,16 @@
       "general": "Generale",
       "technical": "Tecnico",
       "legal": "Legale & Conformità",
-      "pricing": "perimetro personalizzato"
+      "pricing": "Perimetro"
     },
     "items": [
       {
         "question": "L'IA è adatta alle piccole imprese?",
-        "answer": "Assolutamente. Strumenti come ChatGPT, DeepL o Zapier sono accessibili a partire perimetro personalizzato, migliorare il servizio clienti o accelerare la creazione di contenuti.",
+        "answer": "Assolutamente. Strumenti come ChatGPT, DeepL o Zapier sono accessibili alle PMI e possono automatizzare attività ripetitive, migliorare il servizio clienti o accelerare la creazione di contenuti.",
         "category": "general"
       },
       {
-        "question": "perimetro personalizzato",
+        "question": "Da dove iniziare con l'IA nella mia PMI?",
         "answer": "Iniziate con un audit dei vostri processi: identificate le attività ripetitive, dispendiose in termini di tempo o a basso valore aggiunto. Il nostro audit gratuito vi aiuta a dare priorità alle opportunità.",
         "category": "general"
       },
@@ -940,8 +940,8 @@
         "category": "legal"
       },
       {
-        "question": "comment cadrer un progetto IA per PMI?",
-        "answer": "I perimetro personalizzato variano: perimetro personalizzato) a qualche migliaio di franchi (integrazione su misura). Il nostro audit express a perimetro personalizzato vi fornisce una stima precisa del ROI.",
+        "question": "Come definire un progetto IA per PMI?",
+        "answer": "Il perimetro giusto dipende dai vostri processi, dai dati, dai rischi nLPD e dagli obiettivi aziendali. Il nostro audit express identifica i casi d'uso prioritari, il livello di impegno e i risultati attesi.",
         "category": "perimetro"
       },
       {
@@ -1010,7 +1010,7 @@
       "subtitle": "Valutate la maturità IA della vostra PMI in 10 domande",
       "start": "Iniziare il test",
       "time": "3 minuti",
-      "free": "Gratuito",
+      "free": "Rapido",
       "instant": "Risultati immediati",
       "email_label": "Ricevete il vostro rapporto dettagliato via email",
       "email_button": "Ricevere il mio rapporto",
@@ -1075,13 +1075,13 @@
     "hub_subtitle": "Imparate l'IA divertendovi",
     "guess": {
       "title": "Indovina l'IA",
-      "subtitle": "Saprete distinguere un testo IA perimetro personalizzato",
+      "subtitle": "Saprete distinguere un testo IA da un testo umano?",
       "ai_button": "Scritto dall'IA",
-      "human_button": "Scritto perimetro personalizzato",
+      "human_button": "Scritto da un umano",
       "correct": "Bravi!",
       "wrong": "Sbagliato!",
-      "was_ai": "Era scritto perimetro personalizzato",
-      "was_human": "Era scritto perimetro personalizzato",
+      "was_ai": "Era scritto dall'IA",
+      "was_human": "Era scritto da un umano",
       "score": "Punteggio",
       "round": "Turno",
       "next": "Avanti",
@@ -1280,7 +1280,7 @@
     "cta": {
       "title": "Il vostro marketing in pilota automatico",
       "description": "Scoprite come automatizzare l'80% dei compiti di marketing.",
-      "button": "Richiedete una demo gratuita"
+      "button": "Richiedete una demo"
     }
   },
   "priseDeRdv": {

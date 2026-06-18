@@ -48,12 +48,12 @@ const T = {
     s1_p2: "En Suisse, 42 % des PME ont déjà intégré au moins un outil d'automatisation (OFS, 2025). Celles qui n'ont pas encore franchi le pas risquent de perdre en compétitivité face à des concurrents qui traitent deux fois plus de demandes clients avec le même effectif.",
     s2_title: 'Les outils d\'automatisation IA adaptés aux PME suisses',
     s2_tools: [
-      { name: 'Make (ex-Integromat)', use: 'Orchestration de workflows multi-étapes', price: 'À cadrer', star: false },
-      { name: 'n8n (auto-hébergé)', use: 'Souveraineté des données, hébergement Infomaniak/Exoscale', price: 'Auto-hébergeable', star: true },
-      { name: 'ChatGPT / Claude', use: 'Rédaction, analyse, réponse client, synthèse', price: 'À cadrer', star: false },
-      { name: 'Bexio + IA', use: 'Comptabilité automatisée, facturation, rappels', price: 'À cadrer', star: false },
-      { name: 'HubSpot CRM', use: 'Qualification de leads, nurturing automatisé', price: 'Selon usage', star: false },
-      { name: 'Vocalis', use: 'Accueil téléphonique IA 24h/24 en FR/DE/IT', price: 'À cadrer', star: true },
+      { name: 'Make (ex-Integromat)', use: 'Orchestration de workflows multi-étapes', deployment: 'SaaS européen possible', star: false },
+      { name: 'n8n (auto-hébergé)', use: 'Souveraineté des données, hébergement Infomaniak/Exoscale', deployment: 'Auto-hébergeable', star: true },
+      { name: 'ChatGPT / Claude', use: 'Rédaction, analyse, réponse client, synthèse', deployment: 'Politique données requise', star: false },
+      { name: 'Bexio + IA', use: 'Comptabilité automatisée, facturation, rappels', deployment: 'Écosystème suisse', star: false },
+      { name: 'HubSpot CRM', use: 'Qualification de leads, nurturing automatisé', deployment: 'Connecteurs CRM', star: false },
+      { name: 'Vocalis', use: 'Accueil téléphonique IA 24h/24 en FR/DE/IT', deployment: 'Routage multilingue', star: true },
     ],
     s2_star: 'Recommandé pour conformité nLPD',
     s3_title: 'ROI de l\'automatisation IA : chiffres concrets pour PME suisses',
@@ -326,7 +326,7 @@ export default async function AutomatisationPillarPage({ params }: Props) {
                 <tr className="border-b border-gray-200 bg-gray-50 text-left">
                   <th className="px-4 py-3 font-semibold text-[#1B2A4A]">Outil</th>
                   <th className="px-4 py-3 font-semibold text-[#1B2A4A]">Usage principal</th>
-                  <th className="px-4 py-3 font-semibold text-[#1B2A4A]">Tarif indicatif</th>
+                  <th className="px-4 py-3 font-semibold text-[#1B2A4A]">Déploiement</th>
                 </tr>
               </thead>
               <tbody>
@@ -341,7 +341,7 @@ export default async function AutomatisationPillarPage({ params }: Props) {
                       )}
                     </td>
                     <td className="px-4 py-3 text-gray-600">{tool.use}</td>
-                    <td className="px-4 py-3 text-gray-600">{tool.price}</td>
+                    <td className="px-4 py-3 text-gray-600">{tool.deployment}</td>
                   </tr>
                 ))}
               </tbody>

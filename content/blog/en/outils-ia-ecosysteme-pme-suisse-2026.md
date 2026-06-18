@@ -128,7 +128,7 @@ At [iapmesuisse.ch](https://iapmesuisse.ch), we offer these programs tailored sp
 ### Phase 1: Identification and Prioritization (Weeks 1–4)
 
 - Map your existing processes and identify the three major friction points.
-- Quantify the time and cost associated with each friction.
+- Quantify the time, operational effort and business impact associated with each friction.
 - Prioritize based on impact/effort ratio.
 - Define your success KPIs for each AI component considered.
 
@@ -148,16 +148,16 @@ At [iapmesuisse.ch](https://iapmesuisse.ch), we offer these programs tailored sp
 
 ---
 
-## Indicative Budget for a Swiss SME with 20–50 Employees
+## Resource Plan for a Swiss SME with 20-50 Employees
 
-Budgets vary by sector and use case, but here’s a realistic estimate for a complete stack:
+Resources vary by sector and use case, but a complete stack usually combines these operating blocks:
 
-| Component | Monthly Budget (CHF) | Remarks |
+| Component | Planning Focus | Remarks |
 |-----------|-----------------------|---------|
-| AI Lead Generation | 400–800 CHF | Depending on the volume of prospects processed |
-| AI SEO | 200–500 CHF | Depending on site size and publication frequency |
-| AI Voice | 150–400 CHF | Depending on usage (content, agents, call volume) |
-| Training | 2,000–5,000 CHF | One-time or annual cost depending on the program |
+| AI Lead Generation | ICP, data sources, CRM sync | Depends on the volume of prospects processed |
+| AI SEO | Pages, publication rhythm, internal links | Depends on site size and content governance |
+| AI Voice | Knowledge base, routing, escalation | Depends on usage, agents and call volume |
+| Training | Roles, habits, verification rules | Must be refreshed as tools evolve |
 
 **Expected ROI**: Swiss SMEs deploying a complete AI stack report a global return on investment between 150% and 300% over 12 months, primarily through productivity gains and increased qualified leads.
 
@@ -172,7 +172,7 @@ Switzerland has its own data protection regulation (nLPD, effective since Septem
 - **Individual rights**: How does the tool handle access, rectification, and deletion requests?
 - **Algorithmic transparency**: Can the tool explain its automated decisions?
 
-These questions are not optional—a data breach can result in fines of up to CHF 250,000 in Switzerland.
+These questions are not optional. A data breach can trigger remediation work, internal disruption and reputational damage in Switzerland.
 
 ---
 

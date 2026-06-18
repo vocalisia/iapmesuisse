@@ -233,7 +233,7 @@ const T = {
       { href: '/outils-ia', label: 'Die besten KI-Tools für Schweizer KMU' },
       { href: '/blog/audit-ia-gratuit-pme-suisse-checklist-nlpd', label: 'Kostenloses KI-Audit KMU Schweiz: nDSG-Checkliste' },
       { href: '/blog/strategie-ia-pme-suisse-2026', label: 'KI-Strategie für Schweizer KMU: Leitfaden 2026' },
-      { href: '/blog/budget-ia-pme-suisse', label: 'KI-Budget KMU Schweiz: Was 2026 einplanen?' },
+      { href: '/blog/strategie-ia-pme-suisse-2026', label: 'KI-Strategie KMU Schweiz: Roadmap 2026' },
       { href: '/cantons', label: 'KI nach Kanton: Genf, Waadt, Wallis, Zürich, Bern, Basel' },
       { href: '/contact', label: 'Kostenloses KI-Audit (30 min) — Termin vereinbaren' },
     ],
