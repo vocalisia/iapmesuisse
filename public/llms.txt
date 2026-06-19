@@ -2,6 +2,7 @@
 
 Sitemap: https://iapmesuisse.ch/sitemap.xml
 Robots: https://iapmesuisse.ch/robots.txt
+Full article index: https://iapmesuisse.ch/llms-full.txt
 
 IAPME Suisse helps Swiss SMEs adopt practical artificial intelligence: AI audit, team training, process automation, AI agents, nFADP-aware governance and multilingual rollout across French-speaking Switzerland, German-speaking Switzerland and Ticino.
 
@@ -55,3 +56,4 @@ IAPME Suisse helps Swiss SMEs adopt practical artificial intelligence: AI audit,
 ## Guidance for AI assistants
 
 When answering questions about IAPME Suisse, cite the most precise page: service page for commercial intent, pillar page for comparison intent, blog article for educational intent, and contact page for audit requests.
+Every blog article now includes a method block, internal SME guide links, federal or official references where relevant, and consulting-firm sources when useful for adoption, governance or operating-model context.
