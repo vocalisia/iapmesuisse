@@ -317,7 +317,7 @@ export default async function BlogPostPage({
               />
             ) : (
               <Image
-                src={post.image || '/images/blog-default.jpg'}
+                src={post.image || '/images/iapmesuisse-blog-default-20260620.jpg'}
                 alt={post.title}
                 fill
                 priority

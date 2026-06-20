@@ -7,6 +7,7 @@ import { isPublicPricingSlug, sanitizePublicPricingText } from './structured-dat
 import { sanitizePublicHtml } from './public-text';
 
 const contentDirectory = path.join(process.cwd(), 'content', 'blog');
+const defaultBlogImage = '/images/iapmesuisse-blog-default-20260620.jpg';
 
 export interface BlogPost {
   slug: string;
@@ -40,7 +41,7 @@ export function getBlogPosts(locale: string): BlogPost[] {
       date: data.date || '',
       excerpt: sanitizePublicPricingText(data.excerpt || '', locale),
       author: data.author || 'IAPME Suisse',
-      image: data.image || '/images/blog-default.jpg',
+      image: data.image || defaultBlogImage,
       content,
     };
   });
@@ -78,7 +79,7 @@ export async function getBlogPost(
         date: data.date || '',
         excerpt: sanitizePublicPricingText(data.excerpt || '', locale),
         author: data.author || 'IAPME Suisse',
-        image: data.image || '/images/blog-default.jpg',
+        image: data.image || defaultBlogImage,
         content: sanitizePublicHtml(processedContent.toString(), locale),
       };
     }

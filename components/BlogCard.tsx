@@ -38,7 +38,7 @@ export default function BlogCard({
           />
         ) : (
           <Image
-            src={image || '/images/blog-default.jpg'}
+            src={image || '/images/iapmesuisse-blog-default-20260620.jpg'}
             alt={title}
             fill
             className="object-cover transition-transform duration-300 group-hover:scale-105"

@@ -4,7 +4,7 @@
 
 ## Critical
 - [ ] **Sitemap vérifier couverture** — `app/sitemap.ts` importe getBlogPosts + CANTONS + VILLES. Vérifier que 439 articles + 22 cantons + villes apparaissent effectivement dans output sitemap
-- [ ] **5 images pour 439 articles** — OG image fallback = generic `blog-default.jpg`. Générer covers via Flux local pipeline
+- [ ] **Covers articles restantes** — ancien fallback generique interdit et supprime; continuer avec photos locales dediees au site.
 - [ ] **`sitemap.ts.bak` dans app/** — Next.js peut le servir comme route. Supprimer
 
 ## High
