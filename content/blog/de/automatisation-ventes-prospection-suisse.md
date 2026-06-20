@@ -5,6 +5,7 @@ excerpt: "Wie Schweizer KMU in der Westschweiz 2026 ihre B2B-Akquise und ihren V
 slug: "automatisation-ventes-prospection-suisse"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/de-automatisation-ventes-prospection-suisse.webp"
 ---
 
 # Automatisierung von Vertrieb und Akquise mit KI in der Westschweiz 2026

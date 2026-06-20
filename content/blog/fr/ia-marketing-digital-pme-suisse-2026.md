@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Transformer le marketing digital d'une PME suisse avec l'IA : création de contenu multilingue, SEO automatisé, Google Ads IA, social media, email marketing. ROI mesurable."
 author: "Laurent Duplat"
 slug: "ia-marketing-digital-pme-suisse-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/fr-ia-marketing-digital-pme-suisse-2026.webp"
 ---
 
 # IA pour le marketing digital des PME suisses : guide complet 2026

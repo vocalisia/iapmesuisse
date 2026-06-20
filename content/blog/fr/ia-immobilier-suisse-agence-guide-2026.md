@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Intelligence artificielle dans l'immobilier suisse : estimation automatique, matching bien-acheteur, visites virtuelles IA, automatisation des annonces. Cas d'usage Genève, Zurich, Valais."
 author: "Laurent Duplat"
 slug: "ia-immobilier-suisse-agence-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/fr-ia-immobilier-suisse-agence-guide-2026.webp"
 ---
 
 # IA pour l'immobilier suisse : guide agences et promoteurs 2026

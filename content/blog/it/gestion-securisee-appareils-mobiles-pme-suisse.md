@@ -6,6 +6,7 @@ slug: "gestion-securisee-appareils-mobiles-pme-suisse"
 author: "Laurent Duplat"
 source: "https://www.heise.de/news/iX-Workshop-MS-Intune-Mobile-Endgeraete-und-Apps-sicher-in-der-Cloud-verwalten-11264609.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/it-gestion-securisee-appareils-mobiles-pme-suisse.webp"
 ---
 
 ## La Gestione dei Dispositivi Mobili: Una Sfida per le PMI Svizzere

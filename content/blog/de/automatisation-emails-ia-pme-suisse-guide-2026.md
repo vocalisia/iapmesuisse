@@ -4,7 +4,7 @@ date: "2026-05-17"
 excerpt: "KI-gestützte Automatisierung von E-Mail-Eingang und -Ausgang im Schweizer KMU: intelligente Sortierung, automatische mehrsprachige Antworten FR/DE/IT, nDSG-Konformität."
 author: "Laurent Duplat"
 slug: "automatisation-emails-ia-pme-suisse-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-automatisation-emails-ia-pme-suisse-guide-2026.webp"
 ---
 
 # E-Mail-Automatisierung mit KI für Schweizer KMU: vollständiger Leitfaden 2026

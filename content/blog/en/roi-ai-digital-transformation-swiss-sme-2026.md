@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "How to calculate the ROI of AI-driven digital transformation for a Swiss SME: TCO method, sector benchmarks, accounting robotisation, and realistic payback periods with concrete formulas."
 author: "Laurent Duplat"
 slug: "roi-ai-digital-transformation-swiss-sme-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-roi-ai-digital-transformation-swiss-sme-2026.webp"
 ---
 
 # ROI of AI and Digital Transformation: A Calculation Guide for Swiss SMEs

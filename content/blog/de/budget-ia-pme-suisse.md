@@ -5,6 +5,7 @@ excerpt: "Wie viel sollte Ihre Schweizer KMU in KI investieren? Ein umfassender 
 slug: "budget-ia-pme-suisse"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/de-budget-ia-pme-suisse.webp"
 ---
 
 # Budget KI für Schweizer KMU: von 500 bis 50'000 CHF

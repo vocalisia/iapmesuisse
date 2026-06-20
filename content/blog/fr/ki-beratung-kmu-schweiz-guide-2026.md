@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Comment choisir un consultant KI/IA pour votre PME en Suisse ? Critères de sélection, villes (Zürich, Berne, Bâle, Genève, Lausanne), questions à poser, ROI attendu. Guide expert 2026."
 author: "Laurent Duplat"
 slug: "ki-beratung-kmu-schweiz-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/fr-ki-beratung-kmu-schweiz-guide-2026.webp"
 ---
 
 # KI-Beratung pour PME suisses : guide complet pour choisir votre consultant IA en 2026

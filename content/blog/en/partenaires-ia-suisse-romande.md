@@ -5,6 +5,7 @@ excerpt: "Directory of trusted AI partners in French-speaking Switzerland: agenc
 slug: "partenaires-ia-suisse-romande"
 category: "Transformation Digitale"
 pillar: "transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026"
+image: "/images/blog/iapme-autocontrol-20260620/en-partenaires-ia-suisse-romande.webp"
 ---
 
 # Trusted AI Partners in French-speaking Switzerland

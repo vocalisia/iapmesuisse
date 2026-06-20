@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Come gli elettricisti e le imprese idrauliche svizzere usano l'IA per automatizzare appuntamenti, preventivi, fatturazione e gestione cantiere. Assistenti vocali, chatbot WhatsApp e pianificazione IA."
 author: "Laurent Duplat"
 slug: "strumenti-ia-elettricisti-idraulici-svizzera-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/it-strumenti-ia-elettricisti-idraulici-svizzera-2026.webp"
 ---
 
 # Strumenti IA per elettricisti e idraulici in Svizzera

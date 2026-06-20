@@ -6,6 +6,7 @@ slug: "pme-suisses-adopter-ia-avec-discernement"
 author: "IAPME Suisse"
 source: "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/it-pme-suisses-adopter-ia-avec-discernement.webp"
 ---
 
 ## Comprendere i limiti degli strumenti di IA

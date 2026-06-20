@@ -4,7 +4,7 @@ date: "2026-05-17"
 excerpt: "Comparison of Make, n8n and Zapier for Swiss SMEs: CHF pricing, Swiss FADP compliance, sovereign hosting, Bexio integrations, real performance. The 2026 verdict."
 author: "Laurent Duplat"
 slug: "make-vs-n8n-vs-zapier-pme-suisse-comparatif-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-make-vs-n8n-vs-zapier-pme-suisse-comparatif-2026.webp"
 ---
 
 # Make vs n8n vs Zapier: which automation tool for Swiss SMEs in 2026?

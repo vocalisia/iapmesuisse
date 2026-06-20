@@ -7,7 +7,7 @@ category: "KI KMU"
 author: "Laurent Duplat"
 lang: "de"
 tags: ["KI KMU Schweiz", "Künstliche Intelligenz KMU", "KI Automatisierung Schweiz", "nDSG", "Digitalisierung KMU"]
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-ki-fuer-kmu-schweiz-leitfaden-2026.webp"
 ---
 
 # KI für KMU Schweiz: Der praktische Leitfaden 2026

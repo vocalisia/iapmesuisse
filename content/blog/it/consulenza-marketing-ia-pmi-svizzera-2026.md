@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Come un'agenzia IA marketing accompagna le PMI svizzere: contenuti multilingue, SEO locale, Google Ads IA, LinkedIn B2B, lead generation automatizzata. Differenze tra intervento one-shot e accompagnamento continuo."
 author: "Laurent Duplat"
 slug: "consulenza-marketing-ia-pmi-svizzera-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/it-consulenza-marketing-ia-pmi-svizzera-2026.webp"
 ---
 
 # Consulenza marketing IA per PMI svizzere: guida completa 2026

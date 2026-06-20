@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Intelligenza artificiale nel settore immobiliare svizzero: stima automatica, matching acquirente-immobile, annunci IA, analisi documentale. Casi d'uso Ginevra, Zurigo, Vallese."
 author: "Laurent Duplat"
 slug: "ia-immobilier-suisse-agence-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/it-ia-immobilier-suisse-agence-guide-2026.webp"
 ---
 
 # IA per il settore immobiliare svizzero: guida agenzie e promotori 2026

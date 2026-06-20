@@ -4,7 +4,7 @@ date: "2025-01-15"
 excerpt: "Scoprite come le piccole e medie imprese in Svizzera sfruttano ChatGPT per aumentare la produttività, migliorare la comunicazione e automatizzare le attività quotidiane."
 slug: "chatgpt-pme"
 author: "Laurent Duplat"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/it-chatgpt-pme.webp"
 ---
 
 L'intelligenza artificiale non è più appannaggio esclusivo delle grandi aziende. Con strumenti come ChatGPT, anche le piccole e medie imprese svizzere possono contare su un assistente in grado di supportarle in numerose attività quotidiane. Nel 2026, chi non ha ancora iniziato a integrare l'IA nel proprio flusso di lavoro rischia di trovarsi in svantaggio competitivo rispetto ai concorrenti più agili.

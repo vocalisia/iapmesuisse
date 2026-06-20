@@ -6,6 +6,7 @@ slug: "optimiser-documentation-logicielle-ia-pme-suisses"
 author: "Laurent Duplat"
 source: "https://www.heise.de/hintergrund/Softwarearchitektur-leserfreundlich-mit-LLMs-dokumentieren-11266519.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/fr-optimiser-documentation-logicielle-ia-pme-suisses.webp"
 ---
 
 ## L'IA au service de la documentation logicielle

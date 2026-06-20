@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Comment les PME suisses qui adoptent l'IA surpassent leurs concurrents : données OFS, cas réels, roadmap dirigeants. Développement des compétences IA pour managers et cadres."
 author: "Laurent Duplat"
 slug: "avantage-concurrentiel-ia-pme-suisse-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/fr-avantage-concurrentiel-ia-pme-suisse-2026.webp"
 ---
 
 # L'IA comme avantage concurrentiel durable pour les PME suisses : guide dirigeants 2026

@@ -5,6 +5,7 @@ excerpt: "Complete agenda of AI events, conferences, and training sessions in Sw
 slug: "evenements-ia-suisse-2026"
 category: "Transformation Digitale"
 pillar: "transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026"
+image: "/images/blog/iapme-autocontrol-20260620/en-evenements-ia-suisse-2026.webp"
 ---
 
 # AI Events in Switzerland: 2026 Agenda

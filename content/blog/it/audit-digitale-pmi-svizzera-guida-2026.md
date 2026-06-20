@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Come realizzare un audit digitale e IA completo per la vostra PMI svizzera: infrastruttura IT, maturità IA, conformità nLPD, cybersicurezza. Guida passo passo con focus su Ginevra e Berna."
 author: "Laurent Duplat"
 slug: "audit-digitale-pmi-svizzera-guida-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/it-audit-digitale-pmi-svizzera-guida-2026.webp"
 ---
 
 # Audit Digitale per PMI Svizzere: La Guida Completa 2026

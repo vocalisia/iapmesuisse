@@ -6,6 +6,7 @@ slug: "prix-formation-ia-pme-suisse-comparatif-cantons-chf"
 category: "IA per PMI svizzere"
 author: "Laurent Duplat"
 locale: "it"
+image: "/images/blog/iapme-autocontrol-20260620/it-prix-formation-ia-pme-suisse-comparatif-cantons-chf.webp"
 ---
 
 # Prezzi formazione IA PMI Svizzera 2026: confronto cantonale in CHF

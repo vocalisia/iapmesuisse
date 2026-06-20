@@ -1,10 +1,11 @@
-﻿---
+---
 title: "Claude Security: A New Era for Swiss SME Security"
 date: "2026-05-01"
 excerpt: "Discover how Claude Security can enhance the cybersecurity of Swiss SMEs through AI."
 slug: "claude-security-securite-pme-suisses"
 author: "Laurent Duplat"
 source: "https://www.heise.de/news/Claude-Security-Anthropic-bringt-KI-Schwachstellenscanner-fuer-Unternehmen-11279018.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+image: "/images/blog/iapme-autocontrol-20260620/en-claude-security-securite-pme-suisses.webp"
 auto_generated: true
 ---
 

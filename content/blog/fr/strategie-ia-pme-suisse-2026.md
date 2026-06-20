@@ -6,6 +6,7 @@ excerpt: "Plan d'action stratégie IA pour PME suisse 2026 : audit maturité, 5 
 slug: "strategie-ia-pme-suisse-2026"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/fr-strategie-ia-pme-suisse-2026.webp"
 ---
 
 # Stratégie IA pour PME suisse : le plan d'action complet 2026

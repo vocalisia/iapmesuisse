@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Artificial intelligence in Swiss hotels: multilingual chatbots, AI revenue management, stay personalisation, Swiss FADP compliance. Use cases in Valais, Graubünden, Vaud."
 author: "Laurent Duplat"
 slug: "ia-tourisme-hotellerie-suisse-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-ia-tourisme-hotellerie-suisse-guide-2026.webp"
 ---
 
 # AI for Swiss tourism and hospitality: complete guide 2026

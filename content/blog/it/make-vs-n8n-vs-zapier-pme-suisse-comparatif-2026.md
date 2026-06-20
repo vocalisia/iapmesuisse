@@ -4,7 +4,7 @@ date: "2026-05-17"
 excerpt: "Confronto Make, n8n e Zapier per PMI svizzere: tariffe in CHF, conformità nLPD, hosting sovrano, integrazioni Bexio, prestazioni reali. Il verdetto 2026."
 author: "Laurent Duplat"
 slug: "make-vs-n8n-vs-zapier-pme-suisse-comparatif-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/it-make-vs-n8n-vs-zapier-pme-suisse-comparatif-2026.webp"
 ---
 
 # Make vs n8n vs Zapier: quale strumento di automazione scegliere per una PMI svizzera nel 2026?

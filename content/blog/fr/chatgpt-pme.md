@@ -4,7 +4,7 @@ author: "Laurent Duplat"
 date: "2026-05-17"
 excerpt: "Comment utiliser ChatGPT dans votre PME suisse en 2026 : cas d'usage par métier, conformité nLPD, ChatGPT Team CHF, exemples Sion/Genève/Lausanne. Démarrage en 30 minutes."
 slug: "chatgpt-pme"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/fr-chatgpt-pme.webp"
 ---
 
 # Comment les PME suisses peuvent utiliser ChatGPT

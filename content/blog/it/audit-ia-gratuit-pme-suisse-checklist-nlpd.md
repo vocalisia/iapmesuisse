@@ -6,6 +6,7 @@ slug: "audit-ia-gratuit-pme-suisse-checklist-nlpd"
 category: "IA per PMI svizzere"
 author: "Laurent Duplat"
 locale: "it"
+image: "/images/blog/iapme-autocontrol-20260620/it-audit-ia-gratuit-pme-suisse-checklist-nlpd.webp"
 ---
 
 # Audit IA gratuito PMI svizzere · Checklist nLPD + AI Act 2026

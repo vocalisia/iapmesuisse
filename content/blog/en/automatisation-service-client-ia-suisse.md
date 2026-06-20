@@ -1,9 +1,9 @@
-﻿---
+---
 title: "AI Customer Service Switzerland: SME Guide"
 date: "2026-03-25"
 excerpt: "How Swiss SMEs deploy AI customer service: chat, voice support, routing, escalation, FADP-safe data handling and rollout steps."
 slug: "automatisation-service-client-ia-suisse"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-automatisation-service-client-ia-suisse.webp"
 author: "Laurent Duplat"
 locale: "en"
 

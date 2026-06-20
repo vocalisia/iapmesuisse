@@ -5,6 +5,7 @@ excerpt: "6 detaillierte Fallstudien von KMU aus der Romandie, die erfolgreich k
 slug: "etudes-cas-pme-romandes-ia"
 category: "Transformation Digitale"
 pillar: "transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026"
+image: "/images/blog/iapme-autocontrol-20260620/de-etudes-cas-pme-romandes-ia.webp"
 ---
 
 # Fallstudien: KMU aus der Romandie, die durch KI transformiert wurden

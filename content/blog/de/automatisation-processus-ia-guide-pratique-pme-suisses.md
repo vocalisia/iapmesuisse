@@ -3,7 +3,7 @@ title: "Automatisierung von Prozessen durch KI: Praxisleitfaden für Schweizer K
 date: "2026-03-26"
 excerpt: "Praxisleitfaden zur Automatisierung von Prozessen durch KI in Schweizer KMU: Tools, Budget in CHF, nLPD-Konformität, ROI und 90-Tage-Roadmap. Konkrete Beispiele aus der Romandie."
 slug: "automatisation-processus-ia-guide-pratique-pme-suisses"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-automatisation-processus-ia-guide-pratique-pme-suisses.webp"
 ---
 
 # Automatisierung von Prozessen durch KI: Praxisleitfaden für Schweizer KMU

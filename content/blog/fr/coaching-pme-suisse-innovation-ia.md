@@ -6,7 +6,7 @@ slug: "coaching-pme-suisse-innovation-ia"
 category: "Innovation & Financement"
 author: "Laurent Duplat"
 locale: "fr"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/fr-coaching-pme-suisse-innovation-ia.webp"
 ---
 
 # Coaching PME Suisse 2026 : guide complet

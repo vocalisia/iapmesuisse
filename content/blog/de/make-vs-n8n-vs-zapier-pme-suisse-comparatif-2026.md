@@ -1,10 +1,10 @@
-﻿---
+---
 title: "Make vs n8n vs Zapier: welches Automatisierungstool für Schweizer KMU 2026?"
 date: "2026-05-17"
 excerpt: "Vergleich Make, n8n und Zapier für Schweizer KMU: Preise in CHF, nDSG-Konformität, souveränes Hosting, Bexio-Integrationen, reale Performance. Das Fazit für 2026."
 author: "Laurent Duplat"
 slug: "make-vs-n8n-vs-zapier-pme-suisse-comparatif-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-make-vs-n8n-vs-zapier-pme-suisse-comparatif-2026.webp"
 ---
 
 # Make vs n8n vs Zapier: welches Automatisierungstool für Schweizer KMU 2026?

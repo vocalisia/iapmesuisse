@@ -5,6 +5,7 @@ excerpt: "Taux d'adoption de l'IA dans les PME suisses, secteurs leaders, barri√
 slug: "pme-suisse-intelligence-artificielle-adoption-2026"
 author: "Laurent Duplat"
 lang: "fr"
+image: "/images/blog/iapme-autocontrol-20260620/fr-pme-suisse-intelligence-artificielle-adoption-2026.webp"
 ---
 
 ## L'IA dans les PME suisses : √©tat des lieux 2026

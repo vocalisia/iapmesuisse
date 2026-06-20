@@ -6,6 +6,7 @@ slug: "optimiser-documentation-logicielle-ia-pme-suisses"
 author: "IAPME Suisse"
 source: "https://www.heise.de/hintergrund/Softwarearchitektur-leserfreundlich-mit-LLMs-dokumentieren-11266519.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/it-optimiser-documentation-logicielle-ia-pme-suisses.webp"
 ---
 
 ## L'IA al servizio della documentazione software

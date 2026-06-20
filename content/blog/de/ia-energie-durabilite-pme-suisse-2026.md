@@ -7,7 +7,7 @@ lang: "de"
 category: "Nachhaltigkeit"
 tags: ["KI Energie", "ESG Reporting", "Schweizer KMU", "Nachhaltigkeit", "Energieeffizienz"]
 slug: "ia-energie-durabilite-pme-suisse-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-ia-energie-durabilite-pme-suisse-2026.webp"
 ---
 
 Die Schweiz hat sich verpflichtet, bis **2050 klimaneutral** zu werden — das Klimaschutzgesetz von 2023 gibt den Rahmen vor. Für KMU bedeutet dies eine neue Realität: ESG-Berichtspflichten, Druck von Grossauftraggebern, die Nachhaltigkeitsdaten ihrer Lieferanten einfordern, und steigende Energiekosten, die direkt die Marge beeinflussen.

@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Prozessautomatisierung guide for Swiss SMEs: RPA, n8n, Make, priority sectors, nFADP compliance, ROI per process. Concrete workflows and tested methods from Swiss SME practice."
 author: "Laurent Duplat"
 slug: "process-automation-sme-switzerland-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-process-automation-sme-switzerland-2026.webp"
 ---
 
 # Process Automation for Swiss SMEs: The Practical Guide 2026

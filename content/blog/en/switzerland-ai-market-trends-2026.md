@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Switzerland AI market size 2026, GenAI adoption in Swiss SMEs, sovereign cloud, nFADP compliance, comparison with EU. Strategic guide for Swiss business owners navigating the AI transformation."
 author: "Laurent Duplat"
 slug: "switzerland-ai-market-trends-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-switzerland-ai-market-trends-2026.webp"
 ---
 
 # Switzerland AI Market Trends 2026: What SMEs Need to Know

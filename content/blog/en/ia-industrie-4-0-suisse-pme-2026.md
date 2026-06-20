@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "AI and Industry 4.0 in Switzerland: predictive maintenance, AI quality control, robotic automation, industrial IoT. Guide for industrial SMEs in French-speaking and German-speaking Switzerland 2026."
 author: "Laurent Duplat"
 slug: "ia-industrie-4-0-suisse-pme-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-ia-industrie-4-0-suisse-pme-2026.webp"
 ---
 
 # Industry 4.0 and AI for Swiss Industrial SMEs: Guide 2026

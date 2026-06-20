@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Tutti i sussidi disponibili per finanziare il vostro progetto IA in Svizzera nel 2026: Innosuisse, aiuti cantonali, credito d'imposta R&S, fondi europei Horizon. Guida completa."
 author: "Laurent Duplat"
 slug: "ia-subventions-aides-digitalisation-pme-suisse-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/it-ia-subventions-aides-digitalisation-pme-suisse-2026.webp"
 ---
 
 # Sussidi e aiuti alla digitalizzazione IA per le PMI svizzere: guida 2026

@@ -5,6 +5,7 @@ excerpt: "Wie künstliche Intelligenz die Buchhaltung von Schweizer KMU transfor
 slug: "automatiser-comptabilite-ia"
 category: "Automatisation"
 pillar: "automatisation-processus-ia-guide-pratique-pme-suisses"
+image: "/images/blog/iapme-autocontrol-20260620/de-automatiser-comptabilite-ia.webp"
 ---
 
 # Buchhaltung mit KI in der Schweiz automatisieren

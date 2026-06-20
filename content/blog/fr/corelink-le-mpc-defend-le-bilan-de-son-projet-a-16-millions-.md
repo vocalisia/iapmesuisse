@@ -6,6 +6,7 @@ slug: "corelink-le-mpc-defend-le-bilan-de-son-projet-a-16-millions-"
 author: "IAPME Suisse"
 source: "https://www.ictjournal.ch/news/2026-06-11/corelink-le-mpc-defend-le-bilan-de-son-projet-a-16-millions-update"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/fr-corelink-le-mpc-defend-le-bilan-de-son-projet-a-16-millions.webp"
 ---
 
 ## Pourquoi ce sujet concerne les PME suisses

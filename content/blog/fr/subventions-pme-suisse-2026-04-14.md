@@ -4,7 +4,7 @@ description: "Découvrez toutes les subventions PME suisse disponibles en 2026 :
 date: "2026-04-14"
 tags: ["subventions", "PME suisse", "Innosuisse", "aides publiques"]
 slug: "subventions-pme-suisse-2026-04-14"
-image: "https://oaidalleapiprodscus.blob.core.windows.net/private/org-SfBXURZ3NxADNhYFSlwKFMAx/user-TKeXlBxVEAlV77TDCfIuBkbe/img-MAQ2E7lX9EMYJpCCXB5f8e3l.png?st=2026-04-14T21%3A39%3A56Z&se=2026-04-14T23%3A39%3A56Z&sp=r&sv=2026-02-06&sr=b&rscd=inline&rsct=image/png&skoid=35890473-cca8-4a54-8305-05a39e0bc9c3&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-04-14T00%3A53%3A25Z&ske=2026-04-15T00%3A53%3A25Z&sks=b&skv=2026-02-06&sig=bMCcbjDh1nQ5XgJykpx3TvAQc5wql0zvQfLtGPqe6mQ%3D"
+image: "/images/blog/iapme-autocontrol-20260620/fr-subventions-pme-suisse-2026-04-14.webp"
 author: "Laurent Duplat"
 lang: "fr"
 ---

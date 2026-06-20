@@ -6,6 +6,7 @@ slug: "ipados-watchos-macos-tvos-diese-gerate-fallen-aus-den-27er-v"
 author: "IAPME Suisse"
 source: "https://www.heise.de/news/iPadOS-watchOS-macOS-tvOS-Diese-Geraete-fallen-aus-den-27er-Versionen-11332615.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/fr-ipados-watchos-macos-tvos-diese-gerate-fallen-aus-den-27er-v.webp"
 ---
 
 ## Pourquoi ce sujet concerne les PME suisses

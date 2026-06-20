@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "CRM mit KI in der Schweiz erweitern: Lead-Scoring, Vertriebsautomatisierung, Churn-Prognose, KI-Berichte. Leitfaden für HubSpot, Salesforce und Pipedrive für KMU 2026."
 author: "Laurent Duplat"
 slug: "ia-crm-hubspot-salesforce-pme-suisse-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-ia-crm-hubspot-salesforce-pme-suisse-2026.webp"
 lang: "de"
 category: "Vertrieb & CRM"
 tags: ["KI CRM", "HubSpot Schweiz", "Salesforce KMU", "Lead Scoring", "Vertriebsautomatisierung"]

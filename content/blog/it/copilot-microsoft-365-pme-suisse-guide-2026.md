@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Implementare Microsoft Copilot e Copilot per Microsoft 365 in una PMI svizzera: licenze, conformità nLPD, data center UE, casi d'uso concreti, ROI misurabile."
 author: "Laurent Duplat"
 slug: "copilot-microsoft-365-pme-suisse-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/it-copilot-microsoft-365-pme-suisse-guide-2026.webp"
 ---
 
 **Microsoft Copilot** è diventato nel 2026 il primo ingresso all'intelligenza artificiale per decine di migliaia di PMI svizzere già equipaggiate con Microsoft 365. La sua promessa è chiara: integrare l'IA in Word, Excel, Outlook, Teams e SharePoint senza cambiare strumenti né formare pesantemente i team.

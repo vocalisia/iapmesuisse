@@ -6,6 +6,7 @@ slug: "securite-pme-suisses-ia-identites"
 author: "IAPME Suisse"
 source: "https://www.heise.de/news/heise-security-Tour-KI-Identitaeten-und-Lieferkette-versus-Security-11271374.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/it-securite-pme-suisses-ia-identites.webp"
 ---
 
 ## Comprendere le sfide della sicurezza IT per le PMI svizzere

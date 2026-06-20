@@ -5,6 +5,7 @@ excerpt: "Tutto ciò che le PMI svizzere devono sapere sulla nuova legge sulla p
 slug: "nlpd-ia-obligations-pme"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/it-nlpd-ia-obligations-pme.webp"
 ---
 
 # nLPD e IA: obblighi delle PMI svizzere nel 2026

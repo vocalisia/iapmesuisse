@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best AI Consulting Agencies in Switzerland for SMEs"
 date: "2026-04-22"
 excerpt: "How to compare Swiss AI consulting agencies for SMEs: FADP, data hosting, sector proof, training quality and deployment support."
@@ -7,7 +7,7 @@ category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
 author: "Laurent Duplat"
 locale: "en"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-agence-ia-pme-suisse-comparatif.webp"
 
 ---
 

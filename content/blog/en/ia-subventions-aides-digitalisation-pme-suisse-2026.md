@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "All available grants to fund your AI project in Switzerland in 2026: Innosuisse, cantonal support, R&D tax credit, Horizon Europe funds. Complete guide."
 author: "Laurent Duplat"
 slug: "ia-subventions-aides-digitalisation-pme-suisse-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-ia-subventions-aides-digitalisation-pme-suisse-2026.webp"
 ---
 
 # Grants and AI Digitalisation Support for Swiss SMEs: 2026 Guide

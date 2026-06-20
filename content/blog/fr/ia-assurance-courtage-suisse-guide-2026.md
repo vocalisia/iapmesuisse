@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Intelligence artificielle dans l'assurance suisse : souscription IA, détection de fraude, service client chatbot, automation des sinistres. Guide courtiers et assureurs indépendants 2026."
 author: "Laurent Duplat"
 slug: "ia-assurance-courtage-suisse-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/fr-ia-assurance-courtage-suisse-guide-2026.webp"
 ---
 
 # IA pour le secteur de l'assurance et le courtage suisses : guide 2026

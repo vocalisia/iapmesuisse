@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Wie Schweizer Elektriker und Sanitätsbetriebe KI-Sprachassistenten, WhatsApp-Chatbots und automatisierte Offertstellung einsetzen, um Verwaltungsaufwand zu halbieren und keine Kundenanfragen mehr zu verpassen."
 author: "Laurent Duplat"
 slug: "ki-tools-elektriker-sanitaerunternehmen-schweiz-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-ki-tools-elektriker-sanitaerunternehmen-schweiz-2026.webp"
 ---
 
 # KI-Tools für Elektriker und Sanitärunternehmen in der Schweiz

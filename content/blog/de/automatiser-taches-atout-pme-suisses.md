@@ -6,7 +6,7 @@ slug: "automatiser-taches-atout-pme-suisses"
 author: "Laurent Duplat"
 lang: "de"
 category: "Automatisierung"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-automatiser-taches-atout-pme-suisses.webp"
 tags: ["Automatisierung", "Produktivität", "KMU Schweiz", "Digitalisierung", "KI-Tools"]
 auto_generated: false
 ---

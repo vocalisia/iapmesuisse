@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Déployer Microsoft Copilot et Copilot pour Microsoft 365 dans une PME suisse : licences, conformité nLPD, datacenter EU, cas d'usage concrets et ROI mesurable."
 author: "Laurent Duplat"
 slug: "copilot-microsoft-365-pme-suisse-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/fr-copilot-microsoft-365-pme-suisse-guide-2026.webp"
 ---
 
 # Microsoft Copilot pour PME suisses : guide complet et conformité nLPD (2026)

@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Dokumentenmanagement mit KI in einem Schweizer KMU automatisieren: intelligente OCR, automatische Archivierung, semantische Suche, nDSG-Konformität, elektronische Signatur."
 author: "Laurent Duplat"
 slug: "ia-gestion-documentaire-suisse-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-ia-gestion-documentaire-suisse-guide-2026.webp"
 ---
 
 # KI und Dokumentenmanagement für Schweizer KMU: papierlos in 2026

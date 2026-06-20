@@ -5,6 +5,7 @@ excerpt: "How to concretely calculate the return on investment of AI in your Swi
 slug: "roi-intelligence-artificielle-pme-suisse"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/en-roi-intelligence-artificielle-pme-suisse.webp"
 ---
 
 # ROI of AI for Swiss SMEs: Figures and Calculation Method 2026

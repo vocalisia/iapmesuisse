@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Supply Chain mit KI in der Schweiz optimieren: Nachfrageprognose, intelligentes Bestandsmanagement, automatische Lieferantenbestellungen, KI-Rückverfolgbarkeit. KMU-Leitfaden 2026."
 author: "Laurent Duplat"
 slug: "ia-logistique-supply-chain-suisse-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-ia-logistique-supply-chain-suisse-2026.webp"
 ---
 
 # KI für Logistik und Supply Chain in der Schweiz: KMU-Leitfaden 2026

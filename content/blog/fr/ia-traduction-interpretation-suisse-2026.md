@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "IA de traduction pour PME suisses : DeepL, Claude, traduction multilingue FR/DE/IT/EN, localisation culturelle, conformité pour contenus réglementés. Guide pratique 2026."
 author: "Laurent Duplat"
 slug: "ia-traduction-interpretation-suisse-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/fr-ia-traduction-interpretation-suisse-2026.webp"
 ---
 
 # IA et traduction automatique pour PME suisses : le multilinguisme accessible

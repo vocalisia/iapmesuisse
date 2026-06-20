@@ -6,6 +6,7 @@ slug: "google-reduziert-preis-fur-ai-plus-abo-und-verdoppelt-speich"
 author: "IAPME Suisse"
 source: "https://www.heise.de/news/Google-reduziert-Preis-fuer-AI-Plus-Abo-und-verdoppelt-Speicher-11322824.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/fr-google-reduziert-preis-fur-ai-plus-abo-und-verdoppelt-speich.webp"
 ---
 
 ## Pourquoi ce sujet concerne les PME suisses

@@ -6,6 +6,7 @@ slug: "comment-les-pme-suisses-peuvent-tirer-parti-de-ia-et-data-sc"
 author: "Laurent Duplat"
 source: "https://www.heise.de/news/KI-und-Data-Science-im-Unternehmen-von-Rohdaten-zu-verwertbaren-Erkenntnissen-11268069.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/it-comment-les-pme-suisses-peuvent-tirer-parti-de-ia-et-data-sc.webp"
 ---
 
 ## L'Intelligenza Artificiale e la Data Science: Un Futuro Promettente per le PMI

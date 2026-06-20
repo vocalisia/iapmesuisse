@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "AI applied to quality of working life (QWL) in Swiss SMEs: burnout detection, continuous feedback, balanced workload, smart remote work. 2026 guide."
 author: "Laurent Duplat"
 slug: "ia-bien-etre-qvt-pme-suisse-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-ia-bien-etre-qvt-pme-suisse-2026.webp"
 ---
 
 # AI and Workplace Well-Being in Swiss SMEs: QWL Guide 2026

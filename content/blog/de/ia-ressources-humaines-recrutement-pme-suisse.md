@@ -5,6 +5,7 @@ excerpt: "Fachkräftemangel, steigende HR-Kosten, nLPD-Konformität: Erfahren Si
 slug: "ia-ressources-humaines-recrutement-pme-suisse"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/de-ia-ressources-humaines-recrutement-pme-suisse.webp"
 ---
 
 # KI und HR in der Schweiz: Revolution des Rekrutierungsprozesses für KMU im Jahr 2026

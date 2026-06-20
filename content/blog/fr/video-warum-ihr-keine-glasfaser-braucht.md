@@ -6,6 +6,7 @@ slug: "video-warum-ihr-keine-glasfaser-braucht"
 author: "IAPME Suisse"
 source: "https://www.heise.de/news/Video-Warum-ihr-keine-Glasfaser-braucht-11319966.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/fr-video-warum-ihr-keine-glasfaser-braucht.webp"
 ---
 
 ## Pourquoi ce sujet concerne les PME suisses

@@ -6,6 +6,7 @@ excerpt: "Comment automatiser votre marketing avec l'intelligence artificielle :
 slug: "marketing-automatise-ia-pme"
 category: "Automatisation"
 pillar: "automatisation-processus-ia-guide-pratique-pme-suisses"
+image: "/images/blog/iapme-autocontrol-20260620/fr-marketing-automatise-ia-pme.webp"
 ---
 
 # Marketing automatisé par IA pour PME suisses

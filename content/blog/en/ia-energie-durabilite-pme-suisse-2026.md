@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "AI supporting the energy transition for Swiss SMEs: optimising energy consumption, automated ESG reporting, smart heat pumps, energy subsidies."
 author: "Laurent Duplat"
 slug: "ia-energie-durabilite-pme-suisse-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-ia-energie-durabilite-pme-suisse-2026.webp"
 ---
 
 # AI for Energy and Sustainability in Swiss SMEs: 2026 Guide

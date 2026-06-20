@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Projektmanagement in Schweizer KMU mit KI transformieren: prädiktive Planung, automatisiertes Tracking, KI-Reporting, Asana/Monday/Jira-Integration. Praxisleitfaden 2026."
 author: "Laurent Duplat"
 slug: "ia-gestion-projets-pme-suisse-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-ia-gestion-projets-pme-suisse-2026.webp"
 lang: "de"
 category: "Projektmanagement"
 tags: ["KI Projektmanagement", "KMU Schweiz", "Asana", "Automatisierung", "Effizienz"]

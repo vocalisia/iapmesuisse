@@ -1,10 +1,11 @@
-﻿---
+---
 title: "Sales Automation and AI Prospecting in Swiss Romandy 2026"
 date: "2026-04-22"
 excerpt: "How Swiss SMEs in Romandy automate their B2B prospecting and sales with AI in 2026: tools, nLPD compliance, legal LinkedIn automation, intelligent CRMs, metrics, and case studies."
 slug: "automatisation-ventes-prospection-suisse"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/en-automatisation-ventes-prospection-suisse.webp"
 ---
 
 # Sales Automation and AI Prospecting in Swiss Romandy 2026

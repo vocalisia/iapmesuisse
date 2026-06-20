@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "IA applicata alla qualità della vita lavorativa (QVL) nelle PMI svizzere: rilevamento del burnout, feedback continuo, carico di lavoro equilibrato, smart working intelligente. Guida 2026."
 author: "Laurent Duplat"
 slug: "ia-bien-etre-qvt-pme-suisse-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/it-ia-bien-etre-qvt-pme-suisse-2026.webp"
 ---
 
 ## Perché il benessere sul lavoro è una priorità strategica per le PMI svizzere

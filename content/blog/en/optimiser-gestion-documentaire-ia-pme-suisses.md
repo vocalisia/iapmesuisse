@@ -6,6 +6,7 @@ slug: "optimiser-gestion-documentaire-ia-pme-suisses"
 author: "IAPME Suisse"
 source: "https://www.heise.de/ratgeber/Wie-KI-gestuetzte-Dokumentengeneration-Cloud-Design-Prozesse-vereinfacht-11246552.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/en-optimiser-gestion-documentaire-ia-pme-suisses.webp"
 ---
 
 ## Understanding the Impact of AI on Document Management

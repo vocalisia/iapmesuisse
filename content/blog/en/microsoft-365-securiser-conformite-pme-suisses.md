@@ -6,6 +6,7 @@ slug: "microsoft-365-securiser-conformite-pme-suisses"
 author: "Laurent Duplat"
 source: "https://www.heise.de/news/iX-Workshop-Microsoft-365-sicher-einrichten-und-datenschutzkonform-betreiben-11255540.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/en-microsoft-365-securiser-conformite-pme-suisses.webp"
 ---
 
 ## Introduction to Microsoft 365 Security for Swiss SMEs

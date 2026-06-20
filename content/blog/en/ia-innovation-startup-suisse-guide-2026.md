@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "How innovative Swiss startups and SMEs use AI to accelerate their product development, go-to-market and fundraising. EPFL, ETH, Innosuisse ecosystem."
 author: "Laurent Duplat"
 slug: "ia-innovation-startup-suisse-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-ia-innovation-startup-suisse-guide-2026.webp"
 ---
 
 # AI and Innovation in Swiss Startups: Accelerating with Artificial Intelligence

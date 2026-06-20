@@ -5,6 +5,7 @@ excerpt: "Scoprite come costruire una strategia IA solida per la vostra PMI sviz
 slug: "strategie-ia-pme-suisse-2026"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/it-strategie-ia-pme-suisse-2026.webp"
 ---
 
 # Strategia IA per PMI svizzere: il piano d'azione completo 2026

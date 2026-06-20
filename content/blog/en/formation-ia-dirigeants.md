@@ -1,10 +1,11 @@
-﻿---
+---
 title: "AI Training for Executives: Where to Start"
 date: "2026-03-26"
 excerpt: "Comprehensive guide to AI training for Swiss SME executives: available programs, costs in CHF, formats, durations, and advice on choosing the right training for your needs."
 slug: "formation-ia-dirigeants"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/en-formation-ia-dirigeants.webp"
 ---
 
 # AI Training for Executives: Where to Start

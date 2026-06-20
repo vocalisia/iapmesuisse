@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "AI applied to Swiss human resources: automated CV screening, AI onboarding, absence management, personalised training. Swiss FADP and AI Act compliance for HR."
 author: "Laurent Duplat"
 slug: "ia-rh-recrutement-automatise-suisse-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-ia-rh-recrutement-automatise-suisse-2026.webp"
 ---
 
 # AI for HR and Automated Recruitment in Switzerland: Guide 2026

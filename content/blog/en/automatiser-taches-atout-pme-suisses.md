@@ -1,10 +1,11 @@
-﻿---
+---
 title: "Automating Tasks: A Boon for Swiss SMEs"
 date: "2026-03-28"
 excerpt: "Discover how task automation enhances the efficiency of Swiss SMEs."
 slug: "automatiser-taches-atout-pme-suisses"
 author: "Laurent Duplat"
 source: "https://www.heise.de/news/Super-Productivity-18-0-Aufgaben-automatisieren-Deadlines-filtern-11228048.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+image: "/images/blog/iapme-autocontrol-20260620/en-automatiser-taches-atout-pme-suisses.webp"
 auto_generated: true
 ---
 

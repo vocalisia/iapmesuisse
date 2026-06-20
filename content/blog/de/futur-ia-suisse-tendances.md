@@ -5,6 +5,7 @@ excerpt: "Die wichtigsten Trends der künstlichen Intelligenz in der Schweiz fü
 slug: "futur-ia-suisse-tendances"
 category: "Transformation Digitale"
 pillar: "transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026"
+image: "/images/blog/iapme-autocontrol-20260620/de-futur-ia-suisse-tendances.webp"
 ---
 
 # Die Zukunft der KI in der Schweiz: Trends 2026-2030

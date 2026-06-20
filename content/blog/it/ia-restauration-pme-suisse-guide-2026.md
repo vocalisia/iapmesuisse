@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "IA nella ristorazione svizzera: prenotazioni IA, gestione intelligente delle scorte, marketing digitale automatizzato, cassa IA. Guida pratica per ristoratori della Romandia e della Svizzera tedesca."
 author: "Laurent Duplat"
 slug: "ia-restauration-pme-suisse-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/it-ia-restauration-pme-suisse-guide-2026.webp"
 ---
 
 # IA per i ristoranti e i caffè svizzeri: guida pratica 2026

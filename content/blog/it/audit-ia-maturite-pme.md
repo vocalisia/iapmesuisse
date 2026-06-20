@@ -5,6 +5,7 @@ excerpt: "Come valutare la maturità IA della vostra PMI svizzera? Metodologia d
 slug: "audit-ia-maturite-pme"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/it-audit-ia-maturite-pme.webp"
 ---
 
 # Audit IA: valutare la maturità digitale della vostra PMI

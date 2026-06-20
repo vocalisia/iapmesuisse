@@ -6,6 +6,7 @@ excerpt: "nLPD conformité PME que faire avec l'IA : obligations, sanctions, bon
 slug: "nlpd-ia-obligations-pme"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/fr-nlpd-ia-obligations-pme.webp"
 ---
 
 # nLPD et IA : obligations des PME suisses en 2026

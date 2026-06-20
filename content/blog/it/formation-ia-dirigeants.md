@@ -5,6 +5,7 @@ excerpt: "Guida completa alle formazioni IA per dirigenti di PMI svizzere: progr
 slug: "formation-ia-dirigeants"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/it-formation-ia-dirigeants.webp"
 ---
 
 # Formazione IA per dirigenti: da dove iniziare

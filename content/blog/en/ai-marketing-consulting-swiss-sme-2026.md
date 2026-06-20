@@ -1,10 +1,10 @@
-﻿---
+---
 title: "AI Marketing Consulting for Swiss SMEs 2026: Complete Guide"
 date: "2026-05-27"
 excerpt: "How an AI marketing agency helps Swiss SMEs grow: multilingual content, local SEO, AI-powered Google Ads, LinkedIn B2B, automated lead generation. One-time project vs ongoing retainer — what works for your business."
 author: "Laurent Duplat"
 slug: "ai-marketing-consulting-swiss-sme-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-ai-marketing-consulting-swiss-sme-2026.webp"
 ---
 
 # AI Marketing Consulting for Swiss SMEs: A 2026 Guide

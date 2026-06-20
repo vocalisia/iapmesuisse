@@ -4,7 +4,7 @@ date: "2026-05-17"
 excerpt: "Guide complet n8n self-hosted en Suisse : déploiement Infomaniak/Exoscale, conformité nLPD, ROI, cas d'usage fiduciaire et médical. Souveraineté totale des données."
 author: "Laurent Duplat"
 slug: "n8n-auto-heberge-pme-suisse-nlpd"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/fr-n8n-auto-heberge-pme-suisse-nlpd.webp"
 ---
 
 # n8n auto-hébergé pour PME suisses : la voie de l'automatisation souveraine

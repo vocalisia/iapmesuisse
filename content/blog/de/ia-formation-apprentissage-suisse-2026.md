@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "KI in der Schweizer Berufsbildung: personalisiertes E-Learning, KI-gestützte Kurserstellung, Lernsimulationen, BBG-Konformität. Leitfaden für Berufsbildungszentren und Berufsschulen."
 author: "Laurent Duplat"
 slug: "ia-formation-apprentissage-suisse-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-ia-formation-apprentissage-suisse-2026.webp"
 ---
 
 # KI für die Berufsbildung und Lehre in der Schweiz: Leitfaden 2026

@@ -6,7 +6,7 @@ slug: "ecosysteme-innosuisse-epfl-heg-aides-pme"
 category: "IA PME Suisses"
 author: "Laurent Duplat"
 locale: "fr"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/fr-ecosysteme-innosuisse-epfl-heg-aides-pme.webp"
 ---
 
 # InnoSuisse pour PME suisses : guide complet 2026

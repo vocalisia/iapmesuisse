@@ -6,6 +6,7 @@ slug: "audit-ia-gratuit-pme-suisse-checklist-nlpd"
 category: "KI für KMU Schweiz"
 author: "Laurent Duplat"
 locale: "de"
+image: "/images/blog/iapme-autocontrol-20260620/de-audit-ia-gratuit-pme-suisse-checklist-nlpd.webp"
 ---
 
 # Kostenloses KI-Audit für Schweizer KMU · Checkliste nDSG + AI Act 2026

@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Guide complet de l'IA générative pour PME suisses : Claude, GPT-4, Mistral, Gemini, cas d'usage par processus métier, conformité nLPD et hébergement souverain. Différences IA générative vs IA classique."
 author: "Laurent Duplat"
 slug: "ia-generative-pme-suisses-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/fr-ia-generative-pme-suisses-guide-2026.webp"
 ---
 
 # IA générative pour PME suisses : guide pratique 2026

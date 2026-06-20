@@ -1,10 +1,11 @@
-﻿---
+---
 title: "How Swiss SMEs Can Leverage AI and Data Science"
 date: "2026-04-27"
 excerpt: "Discover how AI and data science are transforming Swiss SMEs by enhancing decision-making and optimising operations."
 slug: "comment-les-pme-suisses-peuvent-tirer-parti-de-ia-et-data-sc"
 author: "Laurent Duplat"
 source: "https://www.heise.de/news/KI-und-Data-Science-im-Unternehmen-von-Rohdaten-zu-verwertbaren-Erkenntnissen-11268069.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+image: "/images/blog/iapme-autocontrol-20260620/en-comment-les-pme-suisses-peuvent-tirer-parti-de-ia-et-data-sc.webp"
 auto_generated: true
 ---
 

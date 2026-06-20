@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "KI in der Schweizer Immobilienbranche: automatische Wertermittlung, Käufer-Immobilien-Matching, KI-Inserate, Dokumentenanalyse. Anwendungsfälle Genf, Zürich, Wallis."
 author: "Laurent Duplat"
 slug: "ia-immobilier-suisse-agence-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-ia-immobilier-suisse-agence-guide-2026.webp"
 lang: "de"
 category: "Immobilien"
 tags: ["KI Immobilien", "Schweizer Immobilienmarkt", "Automatisierung KMU", "AVM", "PropTech Schweiz"]

@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Deploy Microsoft Copilot and Copilot for Microsoft 365 in a Swiss SME: licences, Swiss FADP compliance, EU data centre, concrete use cases, measurable ROI."
 author: "Laurent Duplat"
 slug: "copilot-microsoft-365-pme-suisse-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-copilot-microsoft-365-pme-suisse-guide-2026.webp"
 ---
 
 # Microsoft Copilot for Swiss SMEs: complete guide and Swiss FADP compliance

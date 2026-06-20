@@ -6,6 +6,7 @@ slug: "adopter-authentification-sans-mot-de-passe-pme-suisse"
 author: "IAPME Suisse"
 source: "https://www.heise.de/news/Passwortlose-Authentifizierung-mit-Passkeys-FIDO-SSO-und-mehr-11219217.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/de-adopter-authentification-sans-mot-de-passe-pme-suisse.webp"
 ---
 
 ## Passwortlose Authentifizierung: Eine Revolution für Schweizer KMU

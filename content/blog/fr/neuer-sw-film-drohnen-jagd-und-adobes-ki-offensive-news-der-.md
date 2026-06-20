@@ -6,6 +6,7 @@ slug: "neuer-sw-film-drohnen-jagd-und-adobes-ki-offensive-news-der-"
 author: "IAPME Suisse"
 source: "https://www.heise.de/news/Neuer-S-W-Film-Drohnen-Jagd-und-Adobes-KI-Offensive-News-der-Woche-25-2026-11338624.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/fr-neuer-sw-film-drohnen-jagd-und-adobes-ki-offensive-news-der.webp"
 ---
 
 ## Pourquoi ce sujet concerne les PME suisses

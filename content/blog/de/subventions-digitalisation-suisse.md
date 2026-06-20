@@ -5,6 +5,7 @@ excerpt: "E umfassendi Üebersicht über Subventione, Unterstützig und Finanzie
 slug: "subventions-digitalisation-suisse"
 category: "Transformation Digitale"
 pillar: "transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026"
+image: "/images/blog/iapme-autocontrol-20260620/de-subventions-digitalisation-suisse.webp"
 ---
 
 # Subventione und Unterstützig für d'Digitalisierig in de Schwiiz

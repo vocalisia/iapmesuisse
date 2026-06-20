@@ -5,6 +5,7 @@ excerpt: "Quale formazione IA scegliere per una PMI svizzera? Programmi disponib
 slug: "formation-ia-pme-suisse"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/it-formation-ia-pme-suisse.webp"
 ---
 
 # Formazione IA per PMI svizzere: guida completa 2026

@@ -7,7 +7,7 @@ category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
 author: "Laurent Duplat"
 locale: "en"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-formation-ia-pme-suisse.webp"
 
 ---
 

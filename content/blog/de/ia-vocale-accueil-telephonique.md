@@ -5,6 +5,7 @@ excerpt: "Wie Sprach-IA die Telefonannahme von Schweizer KMU revolutioniert: Anr
 slug: "ia-vocale-accueil-telephonique"
 category: "Automatisation"
 pillar: "automatisation-processus-ia-guide-pratique-pme-suisses"
+image: "/images/blog/iapme-autocontrol-20260620/de-ia-vocale-accueil-telephonique.webp"
 ---
 
 # Sprach-IA für die Telefonannahme von KMU

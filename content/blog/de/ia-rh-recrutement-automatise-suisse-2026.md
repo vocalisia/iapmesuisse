@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "KI im Schweizer HR-Bereich: automatisiertes CV-Screening, KI-Onboarding, Abwesenheitsmanagement, personalisierte Weiterbildung. nDSG- und AI Act-Konformität für HR."
 author: "Laurent Duplat"
 slug: "ia-rh-recrutement-automatise-suisse-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-ia-rh-recrutement-automatise-suisse-2026.webp"
 ---
 
 # KI für HR und automatisiertes Recruiting in der Schweiz: Leitfaden 2026

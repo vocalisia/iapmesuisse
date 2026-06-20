@@ -4,7 +4,7 @@ date: "2026-05-19"
 excerpt: "Ce que tout gérant de PME suisse doit savoir avant d'investir dans l'IA en 2026 : structurer son budget, éviter les pièges, mesurer le retour sur investissement et prioriser les projets à impact réel."
 author: "Laurent Duplat"
 slug: "investissement-ia-gerant-pme-suisse-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/fr-investissement-ia-gerant-pme-suisse-2026.webp"
 ---
 
 # IA pour dirigeants suisses : budget, ROI et stratégie d'investissement 2026

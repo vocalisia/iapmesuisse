@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "So führen Sie ein vollständiges Digital- und KI-Audit für Ihr Schweizer KMU durch: IT-Infrastruktur, KI-Reifegrad, DSG-Konformität, Cybersicherheit. Schritt-für-Schritt mit Fokus auf Genf und Bern."
 author: "Laurent Duplat"
 slug: "digital-audit-kmu-schweiz-leitfaden-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-digital-audit-kmu-schweiz-leitfaden-2026.webp"
 ---
 
 # Digital Audit für KMU in der Schweiz: Der vollständige Leitfaden 2026

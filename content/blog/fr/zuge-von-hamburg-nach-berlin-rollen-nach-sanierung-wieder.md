@@ -6,6 +6,7 @@ slug: "zuge-von-hamburg-nach-berlin-rollen-nach-sanierung-wieder"
 author: "IAPME Suisse"
 source: "https://www.heise.de/news/Zuege-von-Hamburg-nach-Berlin-rollen-nach-Sanierung-wieder-11331509.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/fr-zuge-von-hamburg-nach-berlin-rollen-nach-sanierung-wieder.webp"
 ---
 
 ## Pourquoi ce sujet concerne les PME suisses

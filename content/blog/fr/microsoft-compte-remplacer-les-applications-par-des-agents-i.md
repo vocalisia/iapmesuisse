@@ -6,6 +6,7 @@ slug: "microsoft-compte-remplacer-les-applications-par-des-agents-i"
 author: "IAPME Suisse"
 source: "https://www.ictjournal.ch/news/2026-06-05/microsoft-compte-remplacer-les-applications-par-des-agents-ia"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/fr-microsoft-compte-remplacer-les-applications-par-des-agents-i.webp"
 ---
 
 ## Pourquoi ce sujet concerne les PME suisses

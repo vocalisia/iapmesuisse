@@ -6,6 +6,7 @@ slug: "ai-act-eu-pme-suisse-conformite-2026"
 category: "IA PME Suisses"
 author: "Laurent Duplat"
 locale: "fr"
+image: "/images/blog/iapme-autocontrol-20260620/fr-ai-act-eu-pme-suisse-conformite-2026.webp"
 ---
 
 # AI Act EU & PME suisses : guide de conformité 2026

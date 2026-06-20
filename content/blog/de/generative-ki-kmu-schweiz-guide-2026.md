@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Vollständiger Leitfaden zur generativen KI für Schweizer KMU: Claude, GPT-4, Mistral, Gemini, Anwendungsfälle nach Geschäftsprozess, DSG-Konformität und souveränes Hosting."
 author: "Laurent Duplat"
 slug: "generative-ki-kmu-schweiz-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-generative-ki-kmu-schweiz-guide-2026.webp"
 ---
 
 # Generative KI für Schweizer KMU: Praxisleitfaden 2026

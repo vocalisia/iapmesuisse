@@ -4,7 +4,7 @@ description: "Découvrez comment une agence ia pour pme peut transformer vos pro
 date: "2026-04-14"
 tags: ["agence", "intelligence artificielle", "PME", "automatisation"]
 slug: "agence-ia-pour-pme-2026-04-14"
-image: "https://oaidalleapiprodscus.blob.core.windows.net/private/org-SfBXURZ3NxADNhYFSlwKFMAx/user-TKeXlBxVEAlV77TDCfIuBkbe/img-VUKpVhQCp6jQZoEIWnxGysTE.png?st=2026-04-14T21%3A22%3A57Z&se=2026-04-14T23%3A22%3A57Z&sp=r&sv=2026-02-06&sr=b&rscd=inline&rsct=image/png&skoid=f1dafa11-a0c2-4092-91d4-10981fbda051&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-04-14T13%3A16%3A45Z&ske=2026-04-15T13%3A16%3A45Z&sks=b&skv=2026-02-06&sig=Y8wXl8MN9QPIpRUr5M2er73sN4tqfeOpwiVQcH0iQtM%3D"
+image: "/images/blog/iapme-autocontrol-20260620/fr-agence-ia-pour-pme-2026-04-14.webp"
 author: "Laurent Duplat"
 lang: "fr"
 ---

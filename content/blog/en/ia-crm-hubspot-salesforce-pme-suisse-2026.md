@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Boost your CRM with AI in Switzerland: lead scoring, sales automation, churn prediction, AI reports. HubSpot, Salesforce and Pipedrive guide for SMEs 2026."
 author: "Laurent Duplat"
 slug: "ia-crm-hubspot-salesforce-pme-suisse-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-ia-crm-hubspot-salesforce-pme-suisse-2026.webp"
 ---
 
 # AI for Swiss CRM (HubSpot, Salesforce, Pipedrive): SME Guide 2026

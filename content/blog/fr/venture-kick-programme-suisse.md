@@ -6,7 +6,7 @@ slug: "venture-kick-programme-suisse"
 category: "Innovation & Financement"
 author: "Laurent Duplat"
 locale: "fr"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/fr-venture-kick-programme-suisse.webp"
 ---
 
 # Venture Kick Suisse : guide complet 2026

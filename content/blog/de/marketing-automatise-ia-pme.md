@@ -5,6 +5,7 @@ excerpt: "Wie Sie Ihr Marketing mit künstlicher Intelligenz automatisieren: E-M
 slug: "marketing-automatise-ia-pme"
 category: "Automatisation"
 pillar: "automatisation-processus-ia-guide-pratique-pme-suisses"
+image: "/images/blog/iapme-autocontrol-20260620/de-marketing-automatise-ia-pme.webp"
 ---
 
 # Automatisiertes Marketing mit KI für Schweizer KMU

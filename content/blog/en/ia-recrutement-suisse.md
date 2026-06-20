@@ -5,6 +5,7 @@ excerpt: "How artificial intelligence is revolutionizing recruitment in Swiss SM
 slug: "ia-recrutement-suisse"
 category: "Automatisation"
 pillar: "automatisation-processus-ia-guide-pratique-pme-suisses"
+image: "/images/blog/iapme-autocontrol-20260620/en-ia-recrutement-suisse.webp"
 ---
 
 # AI for Recruitment in Switzerland

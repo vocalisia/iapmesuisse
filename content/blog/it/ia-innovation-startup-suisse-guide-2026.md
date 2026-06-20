@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Come le startup e le PMI innovative svizzere utilizzano l'IA per accelerare lo sviluppo del prodotto, il go-to-market e i round di finanziamento. Ecosistema EPFL, ETH, Innosuisse."
 author: "Laurent Duplat"
 slug: "ia-innovation-startup-suisse-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/it-ia-innovation-startup-suisse-guide-2026.webp"
 ---
 
 # IA e innovazione nelle startup svizzere: accelerare con l'intelligenza artificiale

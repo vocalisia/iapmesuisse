@@ -3,7 +3,7 @@ title: "Assistente vocale IA per PMI: la guida completa 2026"
 date: "2026-03-26"
 excerpt: "Guida completa sugli assistenti vocali IA per le PMI svizzere: tipi, casi d'uso, costi, implementazione e soluzioni consigliate per automatizzare l'accoglienza telefonica e il servizio clienti."
 slug: "assistant-vocal-ia-pme-guide-complet"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/it-assistant-vocal-ia-pme-guide-complet.webp"
 ---
 
 # Assistente vocale IA per PMI: la guida completa 2026

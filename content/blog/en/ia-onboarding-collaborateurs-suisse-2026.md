@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Improving new employee integration with AI: automated onboarding journey, HR chatbot, adaptive e-learning, Swiss FADP compliance. Swiss SME guide 2026."
 author: "Laurent Duplat"
 slug: "ia-onboarding-collaborateurs-suisse-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-ia-onboarding-collaborateurs-suisse-2026.webp"
 ---
 
 # AI for Employee Onboarding in Switzerland: Practical Guide 2026

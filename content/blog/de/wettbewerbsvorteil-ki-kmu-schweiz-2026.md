@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Wie Schweizer KMU, die KI einsetzen, ihre Konkurrenz übertreffen: BFS-Daten, Praxisbeispiele, Führungskräfte-Roadmap. KI-Kompetenzentwicklung für Manager und Kader."
 author: "Laurent Duplat"
 slug: "wettbewerbsvorteil-ki-kmu-schweiz-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-wettbewerbsvorteil-ki-kmu-schweiz-2026.webp"
 ---
 
 # KI als nachhaltiger Wettbewerbsvorteil für Schweizer KMU: Führungskräfteleitfaden 2026

@@ -5,6 +5,7 @@ excerpt: "How voice AI is revolutionizing telephone reception for Swiss SMEs: ca
 slug: "ia-vocale-accueil-telephonique"
 category: "Automatisation"
 pillar: "automatisation-processus-ia-guide-pratique-pme-suisses"
+image: "/images/blog/iapme-autocontrol-20260620/en-ia-vocale-accueil-telephonique.webp"
 ---
 
 # Voice AI for Telephone Reception in SMEs

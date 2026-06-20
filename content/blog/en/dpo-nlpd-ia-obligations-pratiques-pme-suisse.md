@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "The role of the Data Protection Officer (DPO) in AI projects in Swiss SMEs: Swiss FADP Art. 8, mandatory DPIA, register of automated processing, FDPIC audit."
 author: "Laurent Duplat"
 slug: "dpo-nlpd-ia-obligations-pratiques-pme-suisse"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-dpo-nlpd-ia-obligations-pratiques-pme-suisse.webp"
 ---
 
 # DPO and Swiss FADP in the face of AI: practical obligations for Swiss SMEs (2026)

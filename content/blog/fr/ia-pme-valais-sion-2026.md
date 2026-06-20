@@ -6,6 +6,7 @@ excerpt: "Comment les PME valaisannes et de Sion adoptent l'IA en 2026 ? Program
 slug: "ia-pme-valais-sion-2026"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/fr-ia-pme-valais-sion-2026.webp"
 ---
 
 # IA pour PME en Valais et à Sion : guide local 2026

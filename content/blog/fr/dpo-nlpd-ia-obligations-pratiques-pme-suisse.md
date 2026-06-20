@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Le rôle du Délégué à la protection des données (DPO) face aux projets d'IA en PME suisse : nLPD article 8, AIPD obligatoire, registre des traitements automatisés, audit PFPDT."
 author: "Laurent Duplat"
 slug: "dpo-nlpd-ia-obligations-pratiques-pme-suisse"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/fr-dpo-nlpd-ia-obligations-pratiques-pme-suisse.webp"
 ---
 
 # DPO et nLPD face à l'IA : obligations pratiques pour PME suisses (2026)

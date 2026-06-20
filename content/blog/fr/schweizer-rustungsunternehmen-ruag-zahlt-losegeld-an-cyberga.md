@@ -6,6 +6,7 @@ slug: "schweizer-rustungsunternehmen-ruag-zahlt-losegeld-an-cyberga"
 author: "IAPME Suisse"
 source: "https://www.heise.de/news/Schweizer-Ruestungsunternehmen-RUAG-zahlt-Loesegeld-an-Cybergang-11321552.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/fr-schweizer-rustungsunternehmen-ruag-zahlt-losegeld-an-cyberga.webp"
 ---
 
 ## Pourquoi ce sujet concerne les PME suisses

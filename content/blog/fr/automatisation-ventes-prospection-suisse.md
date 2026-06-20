@@ -6,6 +6,7 @@ excerpt: "Comment les PME romandes automatisent leur prospection B2B et leurs ve
 slug: "automatisation-ventes-prospection-suisse"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/fr-automatisation-ventes-prospection-suisse.webp"
 ---
 
 # Automatisation des ventes et prospection IA en Suisse romande 2026

@@ -6,6 +6,7 @@ slug: "pme-suisses-accelerer-developpement-logiciel-ia"
 author: "Laurent Duplat"
 source: "https://www.heise.de/news/iX-Workshop-Mehr-Tempo-beim-Coding-mit-KI-Assistenten-effizient-programmieren-11256747.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/en-pme-suisses-accelerer-developpement-logiciel-ia.webp"
 ---
 
 ## The Rise of AI Assistants in Software Development

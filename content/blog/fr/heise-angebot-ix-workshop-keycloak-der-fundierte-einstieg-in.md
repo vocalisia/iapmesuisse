@@ -6,6 +6,7 @@ slug: "heise-angebot-ix-workshop-keycloak-der-fundierte-einstieg-in"
 author: "IAPME Suisse"
 source: "https://www.heise.de/news/iX-Workshop-Keycloak-der-fundierte-Einstieg-in-IAM-und-SSO-11306994.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/fr-heise-angebot-ix-workshop-keycloak-der-fundierte-einstieg-in.webp"
 ---
 
 ## Pourquoi ce sujet concerne les PME suisses

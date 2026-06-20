@@ -5,6 +5,7 @@ excerpt: "Vollständige Agenda der KI-Events, Konferenzen und Schulungen in der 
 slug: "evenements-ia-suisse-2026"
 category: "Transformation Digitale"
 pillar: "transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026"
+image: "/images/blog/iapme-autocontrol-20260620/de-evenements-ia-suisse-2026.webp"
 ---
 
 # KI-Events in der Schweiz: Agenda 2026

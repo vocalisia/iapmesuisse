@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "KI und Industrie 4.0 in der Schweiz: Predictive Maintenance, KI-Qualitätskontrolle, Roboterautomatisierung, industrielles IoT. Leitfaden für Industrie-KMU in der Romandie und der Deutschschweiz 2026."
 author: "Laurent Duplat"
 slug: "ia-industrie-4-0-suisse-pme-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-ia-industrie-4-0-suisse-pme-2026.webp"
 ---
 
 # Industrie 4.0 und KI für Schweizer Industrie-KMU: Leitfaden 2026

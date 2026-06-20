@@ -6,6 +6,7 @@ slug: "ai-act-eu-pme-suisse-conformite-2026"
 category: "KI für KMU Schweiz"
 author: "Laurent Duplat"
 locale: "de"
+image: "/images/blog/iapme-autocontrol-20260620/de-ai-act-eu-pme-suisse-conformite-2026.webp"
 ---
 
 # EU AI Act & Schweizer KMU: Konformitätsleitfaden 2026

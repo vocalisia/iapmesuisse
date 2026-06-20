@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Wie ein Schweizer KMU KI einsetzt, um seine Daten zu analysieren: KI-Dashboards, Prognosen, Kundenanalyse, zugängliche Business Intelligence. Praxisleitfaden 2026."
 author: "Laurent Duplat"
 slug: "ia-analyse-donnees-pme-suisse-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-ia-analyse-donnees-pme-suisse-guide-2026.webp"
 ---
 
 # KI und Datenanalyse für Schweizer KMU: Ihre Zahlen in Entscheidungen verwandeln

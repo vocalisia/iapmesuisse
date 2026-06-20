@@ -5,6 +5,7 @@ excerpt: "Umfassender Leitfaden zu KI-Schulungen für Führungskräfte von Schwe
 slug: "formation-ia-dirigeants"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/de-formation-ia-dirigeants.webp"
 ---
 
 # KI-Schulungen für Führungskräfte: Wo anfangen?

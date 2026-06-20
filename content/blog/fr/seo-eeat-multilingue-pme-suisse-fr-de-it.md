@@ -6,6 +6,7 @@ slug: "seo-eeat-multilingue-pme-suisse-fr-de-it"
 category: "IA PME Suisses"
 author: "Laurent Duplat"
 locale: "fr"
+image: "/images/blog/iapme-autocontrol-20260620/fr-seo-eeat-multilingue-pme-suisse-fr-de-it.webp"
 ---
 
 # SEO E-E-A-T multilingue CH FR/DE/IT pour PME : guide 2026

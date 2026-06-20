@@ -7,7 +7,7 @@ slug: "copilot-microsoft-365-pme-suisse-guide-2026"
 lang: "de"
 category: "KI-Tools & Software"
 tags: ["Microsoft Copilot", "Microsoft 365", "KMU Schweiz", "nDSG", "Produktivität"]
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-copilot-microsoft-365-pme-suisse-guide-2026.webp"
 ---
 
 # Microsoft Copilot für Schweizer KMU: vollständiger Leitfaden und nDSG-Konformität (2026)

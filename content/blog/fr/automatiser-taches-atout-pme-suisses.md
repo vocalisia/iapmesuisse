@@ -6,6 +6,7 @@ slug: "automatiser-taches-atout-pme-suisses"
 author: "Laurent Duplat"
 source: "https://www.heise.de/news/Super-Productivity-18-0-Aufgaben-automatisieren-Deadlines-filtern-11228048.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/fr-automatiser-taches-atout-pme-suisses.webp"
 ---
 
 ## L'automatisation : une nécessité pour les PME suisses 

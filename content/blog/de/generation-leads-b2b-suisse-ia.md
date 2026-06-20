@@ -5,6 +5,7 @@ excerpt: "Wie Schweizer KMU KI nutzen, um qualifizierte B2B-Leads zu generieren:
 slug: "generation-leads-b2b-suisse-ia"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/de-generation-leads-b2b-suisse-ia.webp"
 ---
 
 # B2B-Leadgenerierung in der Schweiz mit KI: Umfassender Leitfaden 2026

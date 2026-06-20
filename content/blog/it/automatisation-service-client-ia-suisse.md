@@ -3,7 +3,7 @@ title: "Automatizzare il servizio clienti con l'IA in Svizzera: esperienze prati
 date: "2026-03-25"
 excerpt: "Esperienze pratiche sull'automatizzazione del servizio clienti con l'IA in Svizzera: settore medico, immobiliare, automobilistico e commercio. Risultati concreti e buone pratiche."
 slug: "automatisation-service-client-ia-suisse"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/it-automatisation-service-client-ia-suisse.webp"
 ---
 
 # Automatizzare il servizio clienti con l'IA in Svizzera: esperienze pratiche

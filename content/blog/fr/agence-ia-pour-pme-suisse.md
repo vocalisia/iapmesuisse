@@ -6,6 +6,7 @@ excerpt: "Comment s√©lectionner une agence IA pour PME en Suisse romande ? Crit√
 slug: "agence-ia-pour-pme-suisse"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/fr-agence-ia-pour-pme-suisse.webp"
 ---
 
 # Agence IA pour PME suisses : comment choisir le bon partenaire en 2026

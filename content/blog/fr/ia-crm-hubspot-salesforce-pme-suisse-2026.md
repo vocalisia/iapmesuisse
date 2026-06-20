@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Augmenter son CRM avec l'IA en Suisse : scoring des leads, automatisation commerciale, prédiction de churn, rapports IA. Guide HubSpot, Salesforce et Pipedrive pour PME 2026."
 author: "Laurent Duplat"
 slug: "ia-crm-hubspot-salesforce-pme-suisse-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/fr-ia-crm-hubspot-salesforce-pme-suisse-2026.webp"
 ---
 
 # IA pour le CRM suisse (HubSpot, Salesforce, Pipedrive) : guide PME 2026

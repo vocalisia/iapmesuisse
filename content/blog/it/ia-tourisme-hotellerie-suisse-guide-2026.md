@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Intelligenza artificiale negli hotel svizzeri: chatbot multilingue, revenue management IA, personalizzazione soggiorno, conformità nLPD. Casi d'uso Vallese, Grigioni, Vaud."
 author: "Laurent Duplat"
 slug: "ia-tourisme-hotellerie-suisse-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/it-ia-tourisme-hotellerie-suisse-guide-2026.webp"
 ---
 
 # IA per il turismo e l'hotellerie svizzeri: guida completa 2026

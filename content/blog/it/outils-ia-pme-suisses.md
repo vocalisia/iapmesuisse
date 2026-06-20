@@ -5,6 +5,7 @@ excerpt: "Selezione rigorosa dei migliori strumenti di intelligenza artificiale 
 slug: "outils-ia-pme-suisses"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/it-outils-ia-pme-suisses.webp"
 ---
 
 # Gli strumenti IA testati e approvati per le PMI svizzere

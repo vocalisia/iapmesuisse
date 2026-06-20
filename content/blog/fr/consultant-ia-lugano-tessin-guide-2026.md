@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Marché de l'IA à Lugano et au Tessin en 2026 : spécificités du marché tessinois trilingue, acteurs locaux, transformation digitale PMI svizzera italiana. Guide expert pour PME du sud de la Suisse."
 author: "Laurent Duplat"
 slug: "consultant-ia-lugano-tessin-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/fr-consultant-ia-lugano-tessin-guide-2026.webp"
 ---
 
 # Consultant IA à Lugano et au Tessin : guide complet pour les PME 2026

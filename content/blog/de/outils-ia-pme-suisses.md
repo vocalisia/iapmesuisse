@@ -5,6 +5,7 @@ excerpt: "Strenge Auswahl der besten Künstliche-Intelligenz-Tools für Schweize
 slug: "outils-ia-pme-suisses"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/de-outils-ia-pme-suisses.webp"
 ---
 
 # Die getesteten und bewährten KI-Tools für Schweizer KMU

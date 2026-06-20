@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Come le PMI svizzere che adottano l'IA superano i loro concorrenti: dati UST, casi reali, roadmap dirigenti. Sviluppo delle competenze IA per manager e quadri."
 author: "Laurent Duplat"
 slug: "vantaggio-competitivo-ia-pmi-svizzera-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/it-vantaggio-competitivo-ia-pmi-svizzera-2026.webp"
 ---
 
 # L'IA come vantaggio competitivo duraturo per le PMI svizzere: guida dirigenti 2026

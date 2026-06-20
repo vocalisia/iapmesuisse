@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "IA dans les études d'avocats suisses : recherche juridique automatisée, rédaction de contrats IA, due diligence, conformité Barreau. Cas d'usage études romandes et alémaniques."
 author: "Laurent Duplat"
 slug: "ia-juridique-avocats-suisse-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/fr-ia-juridique-avocats-suisse-guide-2026.webp"
 ---
 
 # IA pour les avocats et études juridiques suisses : guide 2026

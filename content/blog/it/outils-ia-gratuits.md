@@ -3,7 +3,7 @@ title: "5 strumenti IA gratuiti per le piccole imprese"
 date: "2025-02-01"
 excerpt: "Non serve un grande budget per sfruttare l'intelligenza artificiale. Ecco cinque strumenti gratuiti che ogni PMI svizzera può adottare fin da subito."
 slug: "outils-ia-gratuits"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/it-outils-ia-gratuits.webp"
 ---
 
 Uno dei pregiudizi più diffusi sull'intelligenza artificiale è che sia costosa. In realtà, esistono numerosi strumenti performanti disponibili gratuitamente o con versioni base più che sufficienti per le esigenze di una PMI. Ecco la nostra selezione di cinque soluzioni accessibili e immediatamente operative, scelte specificamente per il contesto delle piccole e medie imprese svizzere.

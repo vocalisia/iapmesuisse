@@ -5,6 +5,7 @@ excerpt: "Come le PMI del Vallese e di Sion adottano l'intelligenza artificiale?
 slug: "ia-pme-valais-sion"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/it-ia-pme-valais-sion.webp"
 ---
 
 # IA per le PMI del Vallese e Sion: guida locale 2026

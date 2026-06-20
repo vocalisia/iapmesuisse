@@ -1,10 +1,11 @@
-﻿---
+---
 title: "Automating Accounting with AI in Switzerland"
 date: "2026-03-26"
 excerpt: "How artificial intelligence is transforming accounting for Swiss SMEs: tools, invoice automation, VAT compliance, time savings, and costs in CHF."
 slug: "automatiser-comptabilite-ia"
 category: "Automatisation"
 pillar: "automatisation-processus-ia-guide-pratique-pme-suisses"
+image: "/images/blog/iapme-autocontrol-20260620/en-automatiser-comptabilite-ia.webp"
 ---
 
 # Automating Accounting with AI in Switzerland

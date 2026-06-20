@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Migration cloud souverain (Exoscale, Infomaniak, SWITCH) et marketing automation pour PME suisse. Conformité nLPD, HubSpot, Brevo, cas concret d'une PME romande. Guide pratique 2026."
 author: "Laurent Duplat"
 slug: "cloud-migration-pme-suisse-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/fr-cloud-migration-pme-suisse-guide-2026.webp"
 ---
 
 # Migration cloud et marketing automation pour PME suisse : guide complet 2026

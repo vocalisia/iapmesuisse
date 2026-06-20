@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Artificial intelligence in Swiss construction: AI plans, automated tenders, site monitoring, predictive safety. Use cases for Swiss construction SMEs 2026."
 author: "Laurent Duplat"
 slug: "ia-construction-btp-suisse-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-ia-construction-btp-suisse-guide-2026.webp"
 ---
 
 # AI for Swiss Construction: Practical Guide 2026

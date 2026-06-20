@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Augmenting your Swiss ERP with AI: SAP Business One AI, Abacus AI, predictive modules, ERP process automation. Guide for German-speaking and French-speaking Swiss SMEs."
 author: "Laurent Duplat"
 slug: "ia-sap-erp-pme-suisse-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-ia-sap-erp-pme-suisse-guide-2026.webp"
 ---
 
 # AI for Swiss ERP Systems (SAP, Abacus, ProConcept): SME Guide 2026

@@ -5,6 +5,7 @@ excerpt: "How are SMEs in Valais and Sion adopting artificial intelligence? Loca
 slug: "ia-pme-valais-sion"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/en-ia-pme-valais-sion.webp"
 ---
 
 # AI for SMEs in Valais and Sion: Local Guide 2026

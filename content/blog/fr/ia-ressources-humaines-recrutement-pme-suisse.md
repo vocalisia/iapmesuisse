@@ -6,6 +6,7 @@ excerpt: "Pénurie de talents, coûts RH en hausse, conformité LPD : découvrez
 slug: "ia-ressources-humaines-recrutement-pme-suisse"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/fr-ia-ressources-humaines-recrutement-pme-suisse.webp"
 ---
 
 # IA et RH en Suisse : révolutionner le recrutement des PME en 2026

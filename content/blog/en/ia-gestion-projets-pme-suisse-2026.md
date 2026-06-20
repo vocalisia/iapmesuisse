@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Transforming project management in Swiss SMEs with AI: predictive planning, automated tracking, AI reporting, Asana/Monday/Jira integration. Practical guide 2026."
 author: "Laurent Duplat"
 slug: "ia-gestion-projets-pme-suisse-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-ia-gestion-projets-pme-suisse-2026.webp"
 ---
 
 # AI and Project Management for Swiss SMEs: 2026 Guide

@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Künstliche Intelligenz in Schweizer Arztpraxen: KI-Terminbuchung, Patientenerinnerungen, Verwaltungsautomatisierung, nDSG- und MedBG-Konformität. Leitfaden 2026."
 author: "Laurent Duplat"
 slug: "ia-sante-cabinet-medical-suisse-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-ia-sante-cabinet-medical-suisse-2026.webp"
 ---
 
 # KI für Schweizer Arztpraxen: Praxisleitfaden 2026

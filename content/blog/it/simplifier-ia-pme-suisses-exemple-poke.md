@@ -1,10 +1,11 @@
-﻿---
+---
 title: "Semplificare l'IA per le PMI svizzere: l'esempio di Poke"
 date: "2026-04-09"
 excerpt: "L'IA accessibile via SMS: un'opportunità per le PMI svizzere di innovare."
 slug: "simplifier-ia-pme-suisses-exemple-poke"
 author: "Laurent Duplat"
 source: "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/"
+image: "/images/blog/iapme-autocontrol-20260620/it-simplifier-ia-pme-suisses-exemple-poke.webp"
 auto_generated: true
 ---
 

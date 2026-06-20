@@ -5,6 +5,7 @@ excerpt: "How to automate your marketing with artificial intelligence: email cam
 slug: "marketing-automatise-ia-pme"
 category: "Automatisation"
 pillar: "automatisation-processus-ia-guide-pratique-pme-suisses"
+image: "/images/blog/iapme-autocontrol-20260620/en-marketing-automatise-ia-pme.webp"
 ---
 
 # AI-Powered Marketing Automation for Swiss SMEs

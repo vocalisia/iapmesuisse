@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "AI in Swiss hospitality: AI reservation handling, intelligent stock management, automated digital marketing, AI POS. Practical guide for restaurant owners in French and German-speaking Switzerland."
 author: "Laurent Duplat"
 slug: "ia-restauration-pme-suisse-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-ia-restauration-pme-suisse-guide-2026.webp"
 ---
 
 # AI for Swiss Restaurants and Cafés: Practical Guide 2026

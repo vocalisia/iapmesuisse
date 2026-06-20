@@ -5,6 +5,7 @@ excerpt: "Come calcolare concretamente il ritorno sull'investimento dell'IA nell
 slug: "roi-intelligence-artificielle-pme-suisse"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/it-roi-intelligence-artificielle-pme-suisse.webp"
 ---
 
 # ROI dell'IA per le PMI svizzere: cifre e metodo di calcolo 2026

@@ -4,7 +4,7 @@ date: "2026-05-19"
 excerpt: "Comment déployer un chatbot IA dans une entreprise suisse en 2026 ? Technologies, cas d'usage, conformité nLPD, coûts réels et retour sur investissement pour PME et ETI romandes, alémaniques et tessinoises."
 author: "Laurent Duplat"
 slug: "chatbot-ia-entreprise-suisse-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/fr-chatbot-ia-entreprise-suisse-guide-2026.webp"
 ---
 
 # Chatbot IA pour entreprise suisse : guide complet 2026

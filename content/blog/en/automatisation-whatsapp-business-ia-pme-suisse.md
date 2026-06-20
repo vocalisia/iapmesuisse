@@ -1,10 +1,10 @@
-﻿---
+---
 title: "AI-powered WhatsApp Business automation for Swiss SMEs (FR/DE/IT)"
 date: "2026-05-17"
 excerpt: "Automate WhatsApp Business with AI for a Swiss SME: CHF pricing, native multilingual FR/DE/IT, Swiss FADP compliance, Bexio integration. Complete guide 2026."
 author: "Laurent Duplat"
 slug: "automatisation-whatsapp-business-ia-pme-suisse"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-automatisation-whatsapp-business-ia-pme-suisse.webp"
 ---
 
 ## AI-powered WhatsApp Business automation for Swiss SMEs (FR/DE/IT)

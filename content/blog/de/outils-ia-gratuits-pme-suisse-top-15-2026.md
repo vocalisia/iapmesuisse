@@ -4,7 +4,7 @@ date: "2026-05-17"
 excerpt: "Die 15 besten kostenlosen oder Freemium-KI-Tools für Deutschschweizer, Westschweizer und Tessiner KMU: ChatGPT, Claude, Mistral, n8n, NotebookLM. nDSG-Analyse für jedes Tool."
 author: "Laurent Duplat"
 slug: "outils-ia-gratuits-pme-suisse-top-15-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-outils-ia-gratuits-pme-suisse-top-15-2026.webp"
 ---
 
 # Kostenlose KI-Tools für Schweizer KMU: Top 15 (2026)

@@ -6,6 +6,7 @@ slug: "comment-les-pme-suisses-peuvent-tirer-parti-de-ia-et-data-sc"
 author: "IAPME Suisse"
 source: "https://www.heise.de/news/KI-und-Data-Science-im-Unternehmen-von-Rohdaten-zu-verwertbaren-Erkenntnissen-11268069.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/de-comment-les-pme-suisses-peuvent-tirer-parti-de-ia-et-data-sc.webp"
 ---
 
 ## Künstliche Intelligenz und Data Science: Eine vielversprechende Zukunft für KMU

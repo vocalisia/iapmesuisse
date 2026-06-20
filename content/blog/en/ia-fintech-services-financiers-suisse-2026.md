@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "AI in Swiss financial services: fraud detection, automated advisory, FINMA compliance, AI credit scoring. Guide for fintechs and independent wealth managers."
 author: "Laurent Duplat"
 slug: "ia-fintech-services-financiers-suisse-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-ia-fintech-services-financiers-suisse-2026.webp"
 ---
 
 # AI for Swiss Fintech and Financial Services: 2026 Guide

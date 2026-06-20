@@ -6,6 +6,7 @@ slug: "impact-innovation-puces-ai-pme-suisses"
 author: "Laurent Duplat"
 source: "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/en-impact-innovation-puces-ai-pme-suisses.webp"
 ---
 
 ## The AI Chip Revolution: A New Chapter for SMEs

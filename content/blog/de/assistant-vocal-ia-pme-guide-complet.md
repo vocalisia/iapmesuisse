@@ -3,7 +3,7 @@ title: "KI-Sprachassistent für KMU: Der umfassende Leitfaden 2026"
 date: "2026-03-26"
 excerpt: "Umfassender Leitfaden zu KI-Sprachassistenten für Schweizer KMU: Typen, Anwendungsfälle, Kosten, Implementierung und empfohlene Lösungen zur Automatisierung des Telefonempfangs und des Kundenservices."
 slug: "assistant-vocal-ia-pme-guide-complet"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-assistant-vocal-ia-pme-guide-complet.webp"
 ---
 
 # KI-Sprachassistent für KMU: Der umfassende Leitfaden 2026

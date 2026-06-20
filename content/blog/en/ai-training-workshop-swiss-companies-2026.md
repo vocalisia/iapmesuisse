@@ -1,10 +1,10 @@
-﻿---
+---
 title: "AI Training and Workshops for Swiss Companies 2026: Complete Guide"
 date: "2026-05-27"
 excerpt: "A practical guide to AI training options for Swiss businesses: HES-SO, EPFL, ZHAW programmes, in-person vs online formats, workshop content for executives and staff, certifications and measurable ROI."
 author: "Laurent Duplat"
 slug: "ai-training-workshop-swiss-companies-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-ai-training-workshop-swiss-companies-2026.webp"
 ---
 
 # AI Training and Workshops for Swiss Companies: A 2026 Guide

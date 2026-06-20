@@ -6,7 +6,7 @@ slug: "innovation-cheque-innosuisse-guide"
 category: "Innovation & Financement"
 author: "Laurent Duplat"
 locale: "fr"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/fr-innovation-cheque-innosuisse-guide.webp"
 ---
 
 # Chèque Innovation InnoSuisse 2026 : guide complet

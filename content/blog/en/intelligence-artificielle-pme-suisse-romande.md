@@ -5,6 +5,7 @@ excerpt: "How can SMEs in French-speaking Switzerland adopt artificial intellige
 slug: "intelligence-artificielle-pme-suisse-romande"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/en-intelligence-artificielle-pme-suisse-romande.webp"
 ---
 
 # Artificial Intelligence for SMEs in French-speaking Switzerland: Practical Guide 2026

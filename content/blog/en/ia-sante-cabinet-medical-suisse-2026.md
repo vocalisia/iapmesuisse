@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Artificial intelligence in Swiss medical practices: AI appointment booking, patient reminders, administrative management, Swiss FADP and MedPO compliance. 2026 guide."
 author: "Laurent Duplat"
 slug: "ia-sante-cabinet-medical-suisse-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-ia-sante-cabinet-medical-suisse-2026.webp"
 ---
 
 # AI for Swiss Medical Practices: Practical Guide 2026

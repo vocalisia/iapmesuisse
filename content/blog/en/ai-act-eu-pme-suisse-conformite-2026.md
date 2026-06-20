@@ -1,4 +1,4 @@
-﻿---
+---
 title: "EU AI Act for Swiss SMEs: Compliance Guide"
 date: "2026-05-01"
 excerpt: "What Swiss SMEs with EU clients need to know about the EU AI Act: risk classification, governance, documentation and practical checklist."
@@ -6,7 +6,7 @@ slug: "ai-act-eu-pme-suisse-conformite-2026"
 category: "AI for Swiss SMEs"
 author: "Laurent Duplat"
 locale: "en"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-ai-act-eu-pme-suisse-conformite-2026.webp"
 
 ---
 

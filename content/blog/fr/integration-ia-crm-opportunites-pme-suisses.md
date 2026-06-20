@@ -6,6 +6,7 @@ slug: "integration-ia-crm-opportunites-pme-suisses"
 author: "Laurent Duplat"
 source: "https://www.heise.de/news/Twenty-2-0-Das-Open-Source-CRM-legt-nach-11268160.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/fr-integration-ia-crm-opportunites-pme-suisses.webp"
 ---
 
 # Intégration de l'IA dans les CRM : Opportunités pour les PME suisses

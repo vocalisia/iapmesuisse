@@ -6,6 +6,7 @@ slug: "pme-suisses-fusions-ia"
 author: "Laurent Duplat"
 source: "https://www.heise.de/news/Eine-politische-Ehe-Aleph-Alpha-und-Cohere-verhandeln-ueber-Fusion-11253023.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/fr-pme-suisses-fusions-ia.webp"
 ---
 
 # Les PME suisses face aux fusions dans le secteur de l'IA

@@ -5,6 +5,7 @@ excerpt: "Alles, was Schweizer KMU über das neue Datenschutzgesetz (nLPD) und d
 slug: "nlpd-ia-obligations-pme"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/de-nlpd-ia-obligations-pme.webp"
 ---
 
 # nLPD und KI: Pflichten für Schweizer KMU im Jahr 2026

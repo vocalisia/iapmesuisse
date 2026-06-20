@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "AI in Swiss law firms: automated legal research, AI contract drafting, due diligence, Bar compliance. Use cases from French- and German-speaking Swiss practices."
 author: "Laurent Duplat"
 slug: "ia-juridique-avocats-suisse-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-ia-juridique-avocats-suisse-guide-2026.webp"
 ---
 
 # AI for Swiss Lawyers and Law Firms: 2026 Guide

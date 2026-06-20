@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "AI in Swiss fiduciary practices: accounting OCR, automated VAT, AI year-end, Bexio and ProffixPX augmented. Swiss FADP compliance, measurable ROI."
 author: "Laurent Duplat"
 slug: "ia-fiduciaire-comptable-suisse-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-ia-fiduciaire-comptable-suisse-guide-2026.webp"
 ---
 
 # AI for Swiss fiduciaries and accountants: practical guide 2026

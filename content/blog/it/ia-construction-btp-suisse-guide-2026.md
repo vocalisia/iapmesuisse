@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Intelligenza artificiale nell'edilizia svizzera: piani IA, gare d'appalto automatizzate, monitoraggio cantieri, sicurezza predittiva. Casi d'uso per PMI edili svizzere 2026."
 author: "Laurent Duplat"
 slug: "ia-construction-btp-suisse-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/it-ia-construction-btp-suisse-guide-2026.webp"
 ---
 
 # IA per l'edilizia svizzera: guida pratica 2026

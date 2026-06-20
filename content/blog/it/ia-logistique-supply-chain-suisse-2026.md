@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Ottimizzare la supply chain con l'IA in Svizzera: previsione della domanda, gestione intelligente delle scorte, automazione degli ordini ai fornitori, tracciabilità IA. Guida PMI 2026."
 author: "Laurent Duplat"
 slug: "ia-logistique-supply-chain-suisse-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/it-ia-logistique-supply-chain-suisse-2026.webp"
 ---
 
 # IA per la logistica e la supply chain svizzera: guida PMI 2026

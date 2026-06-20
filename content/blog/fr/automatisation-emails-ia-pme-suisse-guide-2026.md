@@ -4,7 +4,7 @@ date: "2026-05-17"
 excerpt: "Comment automatiser le traitement des e-mails entrants et sortants avec l'IA dans une PME suisse : tri intelligent, réponses automatiques multilingues FR/DE/IT, conformité nLPD."
 author: "Laurent Duplat"
 slug: "automatisation-emails-ia-pme-suisse-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/fr-automatisation-emails-ia-pme-suisse-guide-2026.webp"
 ---
 
 # Automatisation des e-mails par IA pour PME suisses : guide complet 2026

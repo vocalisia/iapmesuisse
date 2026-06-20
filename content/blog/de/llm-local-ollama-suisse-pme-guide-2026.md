@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "LLM lokal mit Ollama in einem Schweizer KMU betreiben: verfügbare Modelle, Anwendungsfälle, Performance, maximale Datensouveränität. Praxisleitfaden 2026."
 author: "Laurent Duplat"
 slug: "llm-local-ollama-suisse-pme-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-llm-local-ollama-suisse-pme-guide-2026.webp"
 ---
 
 # Ollama und lokale LLM für Schweizer KMU: KI ohne Cloud, ohne Kosten

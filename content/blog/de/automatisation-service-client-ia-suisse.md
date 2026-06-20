@@ -3,7 +3,7 @@ title: "Den Kundendienst mit KI in der Schweiz automatisieren: Erfahrungsbericht
 date: "2026-03-25"
 excerpt: "Konkrete Erfahrungsberichte zur Automatisierung des Kundendienstes mit KI in der Schweiz: Medizinsektor, Immobilien, Automobilbranche und Handel. Zahlenbasierte Ergebnisse und bewährte Praktiken."
 slug: "automatisation-service-client-ia-suisse"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-automatisation-service-client-ia-suisse.webp"
 ---
 
 # Den Kundendienst mit KI in der Schweiz automatisieren: Erfahrungsberichte

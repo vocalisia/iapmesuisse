@@ -5,6 +5,7 @@ excerpt: "Wie chöned Schwiizer KMU dr Rückfluss vo Investitione in KI konkret 
 slug: "roi-intelligence-artificielle-pme-suisse"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/de-roi-intelligence-artificielle-pme-suisse.webp"
 ---
 
 # ROI vo de KI für d'Schwiizer KMU: Zahle und Berechnigsmethodik 2026

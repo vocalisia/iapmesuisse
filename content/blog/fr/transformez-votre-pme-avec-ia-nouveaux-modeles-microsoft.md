@@ -6,6 +6,7 @@ slug: "transformez-votre-pme-avec-ia-nouveaux-modeles-microsoft"
 author: "Laurent Duplat"
 source: "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/fr-transformez-votre-pme-avec-ia-nouveaux-modeles-microsoft.webp"
 ---
 
 # Microsoft innove avec l'IA : Quelles opportunités pour les PME suisses ?

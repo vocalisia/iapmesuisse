@@ -6,6 +6,7 @@ slug: "pme-suisses-fusions-ia"
 author: "IAPME Suisse"
 source: "https://www.heise.de/news/Eine-politische-Ehe-Aleph-Alpha-und-Cohere-verhandeln-ueber-Fusion-11253023.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/en-pme-suisses-fusions-ia.webp"
 ---
 
 # Swiss SMEs and the Impact of AI Sector Mergers

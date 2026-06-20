@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "KI für Schweizer Anwaltskanzleien: Rechtsrecherche, Vertragsentwürfe, Due Diligence, Berufsgeheimnis, nDSG und sichere Einführung."
 author: "Laurent Duplat"
 slug: "ia-juridique-avocats-suisse-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-ia-juridique-avocats-suisse-guide-2026.webp"
 ---
 
 # KI Anwaltskanzlei Schweiz: nDSG, Verträge, Recherche

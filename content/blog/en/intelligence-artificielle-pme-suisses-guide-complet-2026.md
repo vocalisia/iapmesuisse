@@ -3,7 +3,7 @@ title: "Artificial Intelligence for Swiss SMEs: Comprehensive Guide 2026"
 date: "2026-03-26"
 excerpt: "Comprehensive guide on AI for Swiss SMEs in 2026: tools, budget, ROI, nLPD compliance, and practical use cases. AI support and training in Switzerland."
 slug: "intelligence-artificielle-pme-suisses-guide-complet-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-intelligence-artificielle-pme-suisses-guide-complet-2026.webp"
 ---
 
 # Artificial Intelligence for Swiss SMEs: Comprehensive Guide 2026

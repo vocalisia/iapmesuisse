@@ -5,6 +5,7 @@ excerpt: "Wie ein CRM mit künstlicher Intelligenz Ihre Verkäufe transformieren
 slug: "crm-intelligent-ia"
 category: "Automatisation"
 pillar: "automatisation-processus-ia-guide-pratique-pme-suisses"
+image: "/images/blog/iapme-autocontrol-20260620/de-crm-intelligent-ia.webp"
 ---
 
 # Intelligentes CRM: Steigern Sie Ihre Verkäufe mit KI

@@ -6,6 +6,7 @@ slug: "microsoft-365-securiser-conformite-pme-suisses"
 author: "IAPME Suisse"
 source: "https://www.heise.de/news/iX-Workshop-Microsoft-365-sicher-einrichten-und-datenschutzkonform-betreiben-11255540.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/it-microsoft-365-securiser-conformite-pme-suisses.webp"
 ---
 
 ## Introduzione alla Sicurezza di Microsoft 365 per le PMI Svizzere

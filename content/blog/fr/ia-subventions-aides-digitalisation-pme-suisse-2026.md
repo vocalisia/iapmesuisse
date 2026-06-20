@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Toutes les subventions disponibles pour financer votre projet IA en Suisse en 2026 : Innosuisse, aides cantonales, crédit impôt R&D, fonds européens Horizon. Guide complet."
 author: "Laurent Duplat"
 slug: "ia-subventions-aides-digitalisation-pme-suisse-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/fr-ia-subventions-aides-digitalisation-pme-suisse-2026.webp"
 ---
 
 # Subventions et aides à la digitalisation IA pour PME suisses : guide 2026

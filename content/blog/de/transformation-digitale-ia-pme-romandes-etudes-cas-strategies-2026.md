@@ -3,7 +3,7 @@ title: "Digitale Transformation AI für Schweizer KMU: Fallstudien und Strategie
 date: "2026-03-26"
 excerpt: "Digitale Transformation AI für Schweizer KMU im Jahr 2026: 6 Fallstudien, Innosuisse-Subventionen, konkrete Strategien und messbarer ROI in der Romandie."
 slug: "transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026.webp"
 ---
 
 # Digitale Transformation und KI bei Schweizer KMU: Fallstudien und Strategien 2026

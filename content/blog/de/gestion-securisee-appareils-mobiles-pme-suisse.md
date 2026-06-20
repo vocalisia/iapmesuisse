@@ -7,6 +7,7 @@ author: "Laurent Duplat"
 lang: "de"
 category: "Cybersicherheit"
 tags: ["Mobile Device Management", "KMU Schweiz", "nDSG", "Microsoft Intune", "Cybersicherheit"]
+image: "/images/blog/iapme-autocontrol-20260620/de-gestion-securisee-appareils-mobiles-pme-suisse.webp"
 ---
 
 # Sichere Verwaltung von Mobilgeräten in Schweizer KMU

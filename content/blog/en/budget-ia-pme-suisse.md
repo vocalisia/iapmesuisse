@@ -5,6 +5,7 @@ excerpt: "Plan your AI investment in 2026: ROI framework, sector benchmarks and 
 slug: "budget-ia-pme-suisse"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/en-budget-ia-pme-suisse.webp"
 ---
 
 # AI Budget for Swiss SMEs: From CHF 500 to CHF 50,000

@@ -6,7 +6,7 @@ slug: "financement-innovation-pme-suisse-2026"
 category: "Innovation & Financement"
 author: "Laurent Duplat"
 locale: "fr"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/fr-financement-innovation-pme-suisse-2026.webp"
 ---
 
 # Financement innovation PME Suisse 2026

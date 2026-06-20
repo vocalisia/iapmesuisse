@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Connect Bexio to AI: invoice OCR, automated reminders, AI bookkeeping, n8n/Make integration. Practical guide for German- and French-speaking Swiss SMEs."
 author: "Laurent Duplat"
 slug: "integration-bexio-ia-pme-suisse-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-integration-bexio-ia-pme-suisse-guide-2026.webp"
 ---
 
 **Bexio is Switzerland's most popular SME management software**: invoicing, bookkeeping, lightweight CRM, contact management, quotes, banking. More than 60,000 Swiss SMEs use it daily. Yet most of them exploit only a fraction of its automation potential. This guide explains concretely how to connect Bexio to AI tools — and what results Swiss SMEs are actually achieving in 2026.

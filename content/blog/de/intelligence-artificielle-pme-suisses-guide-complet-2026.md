@@ -1,9 +1,9 @@
-﻿---
+---
 title: "Künstliche Intelligenz für Schweizer KMU: Umfassender Leitfaden 2026"
 date: "2026-03-26"
 excerpt: "Umfassender Leitfaden zur KI für Schweizer KMU im Jahr 2026: Tools, Budget, ROI, nLPD-Konformität und konkrete Anwendungsfälle. Begleitung und Schulung in KI in der Schweiz."
 slug: "intelligence-artificielle-pme-suisses-guide-complet-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-intelligence-artificielle-pme-suisses-guide-complet-2026.webp"
 ---
 
 # Künstliche Intelligenz für Schweizer KMU: Umfassender Leitfaden 2026

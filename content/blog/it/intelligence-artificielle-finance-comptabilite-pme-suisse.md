@@ -5,6 +5,7 @@ excerpt: "Automazione della fatturazione, riconciliazione bancaria IA, prevision
 slug: "intelligence-artificielle-finance-comptabilite-pme-suisse"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/it-intelligence-artificielle-finance-comptabilite-pme-suisse.webp"
 ---
 
 # IA per la finanza e contabilità delle PMI svizzere 2026

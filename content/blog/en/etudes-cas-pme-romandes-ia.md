@@ -7,7 +7,7 @@ category: "Transformation Digitale"
 pillar: "transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026"
 author: "Laurent Duplat"
 locale: "en"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-etudes-cas-pme-romandes-ia.webp"
 
 ---
 

@@ -5,6 +5,7 @@ excerpt: "KI für KMU im Wallis und Sion: kantonale Förderungen, Anwendungsfäl
 slug: "ia-pme-valais-sion"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/de-ia-pme-valais-sion.webp"
 ---
 
 # KI für KMU im Wallis und Sion: Lokaler Leitfaden 2026

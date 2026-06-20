@@ -6,6 +6,7 @@ slug: "optimiser-gestion-documentaire-ia-pme-suisses"
 author: "Laurent Duplat"
 source: "https://www.heise.de/ratgeber/Wie-KI-gestuetzte-Dokumentengeneration-Cloud-Design-Prozesse-vereinfacht-11246552.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/fr-optimiser-gestion-documentaire-ia-pme-suisses.webp"
 ---
 
 ## Comprendre l'impact de l'IA sur la gestion documentaire

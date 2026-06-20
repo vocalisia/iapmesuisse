@@ -7,6 +7,7 @@ author: "Laurent Duplat"
 lang: "de"
 category: "KI-Strategie"
 tags: ["KI-Investitionen", "KMU Schweiz", "Digitalisierung", "Innosuisse", "Wettbewerbsfähigkeit"]
+image: "/images/blog/iapme-autocontrol-20260620/de-investissements-ia-opportunites-pme-suisses.webp"
 ---
 
 # Investitionen in KI: Welche Chancen ergeben sich daraus für Schweizer KMU?

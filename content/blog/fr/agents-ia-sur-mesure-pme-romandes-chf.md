@@ -6,6 +6,7 @@ slug: "agents-ia-sur-mesure-pme-romandes-chf"
 category: "IA PME Suisses"
 author: "Laurent Duplat"
 locale: "fr"
+image: "/images/blog/iapme-autocontrol-20260620/fr-agents-ia-sur-mesure-pme-romandes-chf.webp"
 ---
 
 # Agents IA sur mesure pour PME romandes : 3 cas chiffrés en CHF

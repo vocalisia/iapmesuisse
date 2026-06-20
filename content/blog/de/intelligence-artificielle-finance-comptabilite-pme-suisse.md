@@ -5,6 +5,7 @@ excerpt: "Automatisierung von Rechnungen, KI-basierter Bankabgleich, Liquidität
 slug: "intelligence-artificielle-finance-comptabilite-pme-suisse"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/de-intelligence-artificielle-finance-comptabilite-pme-suisse.webp"
 ---
 
 # KI für die Finanz- und Buchhaltung von Schweizer KMU 2026

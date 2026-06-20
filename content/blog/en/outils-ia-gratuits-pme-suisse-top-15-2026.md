@@ -4,7 +4,7 @@ date: "2026-05-17"
 excerpt: "The 15 best free or freemium AI tools for French-, German- and Italian-speaking Swiss SMEs: ChatGPT, Claude, Mistral, n8n, NotebookLM. Swiss FADP analysis for each tool."
 author: "Laurent Duplat"
 slug: "outils-ia-gratuits-pme-suisse-top-15-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-outils-ia-gratuits-pme-suisse-top-15-2026.webp"
 ---
 
 # Free AI tools for Swiss SMEs: top 15 (2026)

@@ -6,6 +6,7 @@ slug: "impact-modeles-ia-pme-suisses"
 author: "IAPME Suisse"
 source: "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/it-impact-modeles-ia-pme-suisses.webp"
 ---
 
 ## Introduzione all'IA e ai modelli avanzati

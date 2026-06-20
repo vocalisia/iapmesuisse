@@ -7,7 +7,7 @@ lang: "de"
 category: "Gastronomie"
 tags: ["KI Gastronomie", "Restaurant Digitalisierung", "Schweizer KMU", "Automatisierung", "Lagerverwaltung"]
 slug: "ia-restauration-pme-suisse-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-ia-restauration-pme-suisse-guide-2026.webp"
 ---
 
 Die Schweizer Gastronomie steht unter erheblichem strukturellen Druck: **Personalmangel** (CHF 4,5 Milliarden Umsatzverlust im Jahr 2024 gemäss GastroSuisse) und **Kosteninflation** bei Lebensmitteln, Energie und Löhnen belasten Betriebe jeder Grösse. Hinzu kommt ein verändertes Gästeverhalten — Online-Reservierungen, Bewertungskultur und die Erwartung an mehrsprachigen Service sind zur Selbstverständlichkeit geworden. Künstliche Intelligenz ist kein Allheilmittel, aber sie gibt Gastronominnen und Gastronomen die Möglichkeit, administrative Aufgaben zu automatisieren, Verluste zu reduzieren und die Kundenbindung zu stärken — ohne das Wesentliche zu opfern: menschliche Gastfreundschaft.

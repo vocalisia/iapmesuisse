@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Künstliche Intelligenz in der Schweizer Uhren- und Luxusbranche: KI-Authentifizierung, Premium-Kundenservice, KI-gestützte Qualitätskontrolle per Vision, Personalisierung. Anwendungsfälle aus dem Vallée de Joux, Genf."
 author: "Laurent Duplat"
 slug: "ia-horlogerie-luxe-suisse-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-ia-horlogerie-luxe-suisse-guide-2026.webp"
 ---
 
 # KI für die Schweizer Uhrenbranche und Luxusindustrie: Leitfaden 2026

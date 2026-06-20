@@ -5,6 +5,7 @@ excerpt: "Come l'IA vocale sta rivoluzionando l'accoglienza telefonica delle PMI
 slug: "ia-vocale-accueil-telephonique"
 category: "Automatisation"
 pillar: "automatisation-processus-ia-guide-pratique-pme-suisses"
+image: "/images/blog/iapme-autocontrol-20260620/it-ia-vocale-accueil-telephonique.webp"
 ---
 
 # IA vocale per l'accoglienza telefonica delle PMI

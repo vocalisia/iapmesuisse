@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Migliorare l'integrazione dei nuovi collaboratori con l'IA: percorso automatizzato, chatbot HR, formazione e-learning adattiva, conformità nLPD. Guida PMI svizzere 2026."
 author: "Laurent Duplat"
 slug: "ia-onboarding-collaborateurs-suisse-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/it-ia-onboarding-collaborateurs-suisse-2026.webp"
 ---
 
 # IA per l'onboarding dei collaboratori in Svizzera: guida pratica 2026

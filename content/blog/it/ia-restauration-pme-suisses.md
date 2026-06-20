@@ -6,6 +6,7 @@ slug: "ia-restauration-pme-suisses"
 author: "IAPME Suisse"
 source: "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/it-ia-restauration-pme-suisses.webp"
 ---
 
 ### L'IA al servizio della ristorazione: un'opportunità per le PMI svizzere

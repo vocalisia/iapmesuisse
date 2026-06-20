@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Guide Prozessautomatisierung pour PME suisses : RPA, n8n, Make, secteurs prioritaires, conformité nDSG, ROI par processus. Exemples concrets et workflows testés en conditions réelles en Suisse."
 author: "Laurent Duplat"
 slug: "automatisation-processus-metier-kmu-schweiz-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/fr-automatisation-processus-metier-kmu-schweiz-2026.webp"
 ---
 
 # Automatisation des processus métier pour PME suisses : guide pratique 2026

@@ -6,6 +6,7 @@ slug: "simplifier-ia-pme-suisses-exemple-poke"
 author: "Laurent Duplat"
 source: "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/en-simplifier-ia-pme-suisses-exemple-poke.webp"
 ---
 
 ## AI: A Strategically Accessible Tool for Swiss SMEs

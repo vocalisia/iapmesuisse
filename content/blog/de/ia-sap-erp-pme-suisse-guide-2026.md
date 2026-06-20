@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Ihr Schweizer ERP mit KI erweitern: SAP Business One KI, Abacus AI, prädiktive Module, ERP-Prozessautomatisierung. Leitfaden für Deutschschweizer und Westschweizer KMU."
 author: "Laurent Duplat"
 slug: "ia-sap-erp-pme-suisse-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-ia-sap-erp-pme-suisse-guide-2026.webp"
 ---
 
 # KI für Schweizer ERP-Systeme (SAP, Abacus, ProConcept): KMU-Leitfaden 2026

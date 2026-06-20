@@ -6,6 +6,7 @@ excerpt: "Agence IA, consultant indépendant ou SaaS clé en main : comment choi
 slug: "agence-ia-pme-suisse-comparatif"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/fr-agence-ia-pme-suisse-comparatif.webp"
 ---
 
 # Agence IA pour PME suisse : comment choisir en 2026 ?

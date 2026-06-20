@@ -7,7 +7,7 @@ category: "Réglementation IA"
 author: "Laurent Duplat"
 lang: "fr"
 tags: ["nLPD", "conformité IA", "protection données", "PME suisse", "RGPD Suisse"]
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/fr-nlpd-ia-pme-suisses-conformite-2026.webp"
 ---
 
 # nLPD et IA : ce que les PME suisses doivent absolument savoir en 2026

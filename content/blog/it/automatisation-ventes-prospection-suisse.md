@@ -5,6 +5,7 @@ excerpt: "Come le PMI svizzere italiane automatizzano la prospezione B2B e le ve
 slug: "automatisation-ventes-prospection-suisse"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/it-automatisation-ventes-prospection-suisse.webp"
 ---
 
 # Automazione delle vendite e prospezione con IA in Svizzera italiana 2026

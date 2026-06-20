@@ -6,6 +6,7 @@ slug: "heise-mdm-aus-der-cloud-so-funktioniert-der-umstieg-auf-micr"
 author: "IAPME Suisse"
 source: "https://www.heise.de/ratgeber/MDM-aus-der-Cloud-So-funktioniert-der-Umstieg-auf-Microsoft-Intune-11314536.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/fr-heise-mdm-aus-der-cloud-so-funktioniert-der-umstieg-auf-micr.webp"
 ---
 
 ## Pourquoi ce sujet concerne les PME suisses

@@ -6,6 +6,7 @@ slug: "impact-innovation-puces-ai-pme-suisses"
 author: "IAPME Suisse"
 source: "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/de-impact-innovation-puces-ai-pme-suisses.webp"
 ---
 
 ## Die Revolution der KI-Chips: Ein neues Kapitel für KMU

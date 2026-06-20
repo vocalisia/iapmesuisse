@@ -6,6 +6,7 @@ excerpt: "Combien investir dans l'IA pour votre PME suisse ? Guide budgétaire c
 slug: "budget-ia-pme-suisse"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/fr-budget-ia-pme-suisse.webp"
 ---
 
 # Budget IA pour PME suisse : de 500 à 50'000 CHF

@@ -3,7 +3,7 @@ title: "Mehrsprachigkeit und KI: Der Wettbewerbsvorteil für Schweizer Unternehm
 date: "2026-03-23"
 excerpt: "Wie KI-gestützte mehrsprachige Lösungen die Schweizer Mehrsprachigkeit in einen Wettbewerbsvorteil verwandeln: Sprachassistenten, maschinelle Übersetzung, Chatbots und Kundenservice in den vier Landessprachen."
 slug: "multilinguisme-ia-avantage-competitif-suisse"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-multilinguisme-ia-avantage-competitif-suisse.webp"
 ---
 
 # Mehrsprachigkeit und KI: Der Wettbewerbsvorteil für Schweizer Unternehmen

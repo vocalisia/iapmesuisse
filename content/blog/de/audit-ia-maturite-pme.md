@@ -5,6 +5,7 @@ excerpt: "Wie können Schweizer KMU ihre KI-Reife bewerten? Umfassende Audit-Met
 slug: "audit-ia-maturite-pme"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/de-audit-ia-maturite-pme.webp"
 ---
 
 # Audit KI: Die digitale Reife Ihrer KMU bewerten

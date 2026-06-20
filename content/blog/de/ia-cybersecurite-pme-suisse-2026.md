@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Wie KI die Cybersicherheit Schweizer KMU stärkt: Anomalieerkennung, KI-Phishing, intelligente Backups, nDSG-Konformität. Praxisleitfaden 2026."
 author: "Laurent Duplat"
 slug: "ia-cybersecurite-pme-suisse-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-ia-cybersecurite-pme-suisse-2026.webp"
 ---
 
 # KI und Cybersicherheit für Schweizer KMU: Ihr Unternehmen 2026 schützen

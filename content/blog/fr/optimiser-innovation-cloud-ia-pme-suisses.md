@@ -3,7 +3,7 @@ title: "Optimiser l'Innovation avec le Cloud et l'IA pour les PME suisses"
 date: "2026-03-27"
 excerpt: "Découvrez comment les PME suisses peuvent tirer parti de l'IA et du Cloud pour se transformer et innover."
 slug: "optimiser-innovation-cloud-ia-pme-suisses"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/fr-optimiser-innovation-cloud-ia-pme-suisses.webp"
 author: "Laurent Duplat"
 source: "https://www.heise.de/news/Online-Konferenz-betterCode-ABAP-2026-zu-KI-Einsatz-und-Cloud-Entwicklung-11221738.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true

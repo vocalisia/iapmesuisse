@@ -1,9 +1,9 @@
-﻿---
+---
 title: "AI Process Automation for Swiss SMEs"
 date: "2026-03-26"
 excerpt: "Practical guide to process automation with AI for Swiss SMEs: workflow selection, tool stack, FADP checks and 90-day rollout."
 slug: "automatisation-processus-ia-guide-pratique-pme-suisses"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-automatisation-processus-ia-guide-pratique-pme-suisses.webp"
 author: "Laurent Duplat"
 locale: "en"
 

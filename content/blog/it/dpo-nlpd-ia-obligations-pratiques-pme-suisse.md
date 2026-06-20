@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Il ruolo del Responsabile della protezione dei dati (DPO) nei progetti IA delle PMI svizzere: nLPD art. 8, VALP obbligatoria, registro dei trattamenti automatizzati, audit IFPDT."
 author: "Laurent Duplat"
 slug: "dpo-nlpd-ia-obligations-pratiques-pme-suisse"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/it-dpo-nlpd-ia-obligations-pratiques-pme-suisse.webp"
 ---
 
 Il **Responsabile della protezione dei dati (DPO)**, talvolta chiamato consulente per la protezione dei dati in Svizzera, è diventato un attore indispensabile nei progetti IA delle PMI dalla data di entrata in vigore della **nLPD** il 1° settembre 2023. Questa guida pratica si rivolge ai DPO, ai dirigenti di PMI e ai responsabili di progetti IA che vogliono integrare la conformità fin dall'inizio, trasformandola da obbligo in vantaggio competitivo.

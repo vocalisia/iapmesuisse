@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Comment calculer le ROI de la transformation numérique par IA pour une PME suisse : méthode TCO vs bénéfices, ROI par secteur, robotisation comptable, délais de retour sur investissement concrets."
 author: "Laurent Duplat"
 slug: "roi-ia-transformation-numerique-guide-calcul-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/fr-roi-ia-transformation-numerique-guide-calcul-2026.webp"
 ---
 
 # ROI de l'IA et transformation numérique : guide de calcul pour PME suisses 2026

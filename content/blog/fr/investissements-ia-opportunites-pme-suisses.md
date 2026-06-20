@@ -6,6 +6,7 @@ slug: "investissements-ia-opportunites-pme-suisses"
 author: "Laurent Duplat"
 source: "https://www.heise.de/news/KI-Wettruesten-Tech-Riesen-investieren-hunderte-Milliarden-11277500.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/fr-investissements-ia-opportunites-pme-suisses.webp"
 ---
 
 ## L'essor de l'IA et son impact sur le paysage économique

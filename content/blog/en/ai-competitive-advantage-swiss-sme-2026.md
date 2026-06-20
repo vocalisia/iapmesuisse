@@ -1,10 +1,10 @@
-﻿---
+---
 title: "AI Competitive Advantage for Swiss SMEs"
 date: "2026-05-27"
 excerpt: "How Swiss SMEs turn AI into an operational advantage: use cases, governance, skills, process automation and executive roadmap."
 author: "Laurent Duplat"
 slug: "ai-competitive-advantage-swiss-sme-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-ai-competitive-advantage-swiss-sme-2026.webp"
 locale: "en"
 
 ---

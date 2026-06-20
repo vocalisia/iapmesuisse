@@ -6,6 +6,7 @@ excerpt: "6 études de cas détaillées de PME romandes ayant intégré l'intell
 slug: "etudes-cas-pme-romandes-ia"
 category: "Transformation Digitale"
 pillar: "transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026"
+image: "/images/blog/iapme-autocontrol-20260620/fr-etudes-cas-pme-romandes-ia.webp"
 ---
 
 # Études de cas : PME romandes transformées par l'IA

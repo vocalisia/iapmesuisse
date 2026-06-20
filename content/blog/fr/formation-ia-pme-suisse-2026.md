@@ -6,6 +6,7 @@ excerpt: "Quelles formations IA choisir pour vos équipes en PME suisse ? Compar
 slug: "formation-ia-pme-suisse-2026"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/fr-formation-ia-pme-suisse-2026.webp"
 ---
 
 # Formation IA pour PME suisses en 2026 : programmes, coûts et subventions

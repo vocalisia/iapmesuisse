@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Migrazione cloud su infrastruttura sovrana (Exoscale, Infomaniak, SWITCH) e marketing automation per PMI svizzere. Conformità nLPD, HubSpot, Brevo, caso concreto di una PMI romanda."
 author: "Laurent Duplat"
 slug: "migrazione-cloud-pmi-svizzera-guida-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/it-migrazione-cloud-pmi-svizzera-guida-2026.webp"
 ---
 
 # Migrazione Cloud e Marketing Automation per PMI Svizzere: Guida Completa 2026

@@ -3,7 +3,7 @@ title: "IA et Traduction: Opportunités pour les PME Suisses"
 date: "2026-03-25"
 excerpt: "Explorons comment l'IA, à l'image d'Apertus, peut transformer les traductions pour les PME suisses."
 slug: "ia-traduction-opportunites-pme-suisses"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/fr-ia-traduction-opportunites-pme-suisses.webp"
 author: "Laurent Duplat"
 source: "https://www.ictjournal.ch/news/2026-03-24/le-canton-du-tessin-mise-sur-apertus-pour-ses-traductions"
 auto_generated: true

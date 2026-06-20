@@ -1,10 +1,10 @@
-﻿---
+---
 title: "AI Consulting for Swiss SMEs: The Complete Guide to Choosing Your Partner in 2026"
 date: "2026-05-27"
 excerpt: "How to choose the right AI consultant for your Swiss SME in 2026. Selection criteria, key cities (Zurich, Bern, Basel, Geneva, Lausanne), questions to ask, ROI expectations, nFADP compliance."
 author: "Laurent Duplat"
 slug: "ai-consulting-sme-switzerland-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-ai-consulting-sme-switzerland-guide-2026.webp"
 ---
 
 # AI Consulting for Swiss SMEs: The Complete Guide to Choosing Your Partner in 2026

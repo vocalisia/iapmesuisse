@@ -6,6 +6,7 @@ excerpt: "Comment l'intelligence artificielle transforme la comptabilité des PM
 slug: "automatiser-comptabilite-ia"
 category: "Automatisation"
 pillar: "automatisation-processus-ia-guide-pratique-pme-suisses"
+image: "/images/blog/iapme-autocontrol-20260620/fr-automatiser-comptabilite-ia.webp"
 ---
 
 # Automatiser la comptabilité avec l'IA en Suisse

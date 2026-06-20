@@ -4,7 +4,7 @@ date: "2025-01-15"
 excerpt: "Erfahren Sie, wie kleine und mittlere Unternehmen in der Schweiz ChatGPT einsetzen, um produktiver zu arbeiten, besser zu kommunizieren und Routineaufgaben zu automatisieren."
 author: "Laurent Duplat"
 slug: "chatgpt-pme"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-chatgpt-pme.webp"
 lang: "de"
 category: "KI-Tools"
 tags: ["ChatGPT", "Schweizer KMU", "KI Produktivität", "Automatisierung", "nDSG"]

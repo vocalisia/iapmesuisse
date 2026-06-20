@@ -3,7 +3,7 @@ title: "Intelligenza Artificiale per PMI Svizzere: Guida Completa 2026"
 date: "2026-03-26"
 excerpt: "Guida completa sull'IA per le PMI svizzere nel 2026: strumenti, budget, ROI, conformità nLPD e casi d'uso concreti. Supporto e formazione sull'IA in Svizzera."
 slug: "intelligence-artificielle-pme-suisses-guide-complet-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/it-intelligence-artificielle-pme-suisses-guide-complet-2026.webp"
 ---
 
 # Intelligenza Artificiale per PMI Svizzere: Guida Completa 2026

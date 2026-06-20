@@ -5,6 +5,7 @@ excerpt: "6 studi di caso dettagliati di PMI romande che hanno integrato con suc
 slug: "etudes-cas-pme-romandes-ia"
 category: "Transformation Digitale"
 pillar: "transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026"
+image: "/images/blog/iapme-autocontrol-20260620/it-etudes-cas-pme-romandes-ia.webp"
 ---
 
 # Studi di caso: PMI romande trasformate dall'IA

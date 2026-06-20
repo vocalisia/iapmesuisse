@@ -5,6 +5,7 @@ excerpt: "Talent shortage, nLPD compliance and hiring delays: how Swiss SMEs can
 slug: "ia-ressources-humaines-recrutement-pme-suisse"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/en-ia-ressources-humaines-recrutement-pme-suisse.webp"
 ---
 
 # AI and HR in Switzerland: Revolutionizing SME Recruitment in 2026

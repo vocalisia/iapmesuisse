@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Intelligenza artificiale nell'agricoltura svizzera: previsione dei raccolti, agricoltura di precisione, marketing digitale per cantine vinicole, conformità dei dati agricoli."
 author: "Laurent Duplat"
 slug: "ia-agriculture-viticulture-suisse-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/it-ia-agriculture-viticulture-suisse-2026.webp"
 ---
 
 ## IA per l'agricoltura e la viticoltura svizzere: guida pratica 2026

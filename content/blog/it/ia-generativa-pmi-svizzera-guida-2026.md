@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Guida completa all'IA generativa per PMI svizzere: Claude, GPT-4, Mistral, Gemini, casi d'uso per processo aziendale, conformità nLPD e hosting sovrano svizzero."
 author: "Laurent Duplat"
 slug: "ia-generativa-pmi-svizzera-guida-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/it-ia-generativa-pmi-svizzera-guida-2026.webp"
 ---
 
 # IA Generativa per PMI Svizzere: Guida Pratica 2026

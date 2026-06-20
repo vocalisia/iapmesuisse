@@ -7,6 +7,7 @@ category: "CRM & Vertrieb"
 author: "Laurent Duplat"
 locale: "de"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/de-crm-implementierung-kmu-schweiz-beispiel.webp"
 ---
 
 # CRM-Implementierung KMU Schweiz · Praxisbeispiel & Kosten 2026

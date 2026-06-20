@@ -1,10 +1,10 @@
-﻿---
+---
 title: "AI email automation for Swiss SMEs: complete guide 2026"
 date: "2026-05-17"
 excerpt: "How to automate inbound and outbound email processing with AI in a Swiss SME: smart sorting, automatic multilingual replies FR/DE/IT, Swiss FADP compliance."
 author: "Laurent Duplat"
 slug: "automatisation-emails-ia-pme-suisse-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-automatisation-emails-ia-pme-suisse-guide-2026.webp"
 ---
 
 ## AI email automation for Swiss SMEs: complete guide 2026

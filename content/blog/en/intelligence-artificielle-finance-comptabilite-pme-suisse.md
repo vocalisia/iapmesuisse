@@ -5,6 +5,7 @@ excerpt: "Automation of invoicing, AI bank reconciliation, cash flow forecasting
 slug: "intelligence-artificielle-finance-comptabilite-pme-suisse"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/en-intelligence-artificielle-finance-comptabilite-pme-suisse.webp"
 ---
 
 # AI for Finance and Accounting in Swiss SMEs 2026

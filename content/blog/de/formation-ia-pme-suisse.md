@@ -5,6 +5,7 @@ excerpt: "Welche KI-Schulung ist die richtige für ein Schweizer KMU? Verfügbar
 slug: "formation-ia-pme-suisse"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/de-formation-ia-pme-suisse.webp"
 ---
 
 # KI-Schulungen für Schweizer KMU: umfassender Leitfaden 2026

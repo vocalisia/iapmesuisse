@@ -6,6 +6,7 @@ slug: "optimiser-internet-haute-vitesse-pme-suisses"
 author: "Laurent Duplat"
 source: "https://www.heise.de/news/Schnelles-Heimnetz-fuer-Glasfaser-Co-c-t-uplink-11244825.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/fr-optimiser-internet-haute-vitesse-pme-suisses.webp"
 ---
 
 ## Les enjeux de l'Internet à haute vitesse pour les PME suisses

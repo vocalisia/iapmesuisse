@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Boost your Swiss online store with AI: product recommendations, chatbot customer service, automated SEO, sales forecasting. Shopify and WooCommerce guide 2026."
 author: "Laurent Duplat"
 slug: "ia-e-commerce-shopify-suisse-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-ia-e-commerce-shopify-suisse-guide-2026.webp"
 ---
 
 # AI for Swiss E-Commerce (Shopify, WooCommerce): Practical Guide 2026

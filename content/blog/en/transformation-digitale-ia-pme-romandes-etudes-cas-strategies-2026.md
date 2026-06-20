@@ -3,7 +3,7 @@ title: "AI Digital Transformation for Swiss SMEs"
 date: "2026-03-26"
 excerpt: "Case-study-led guide to AI digital transformation for Swiss SMEs: process automation, data readiness, team adoption and governance."
 slug: "transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026.webp"
 author: "Laurent Duplat"
 locale: "en"
 

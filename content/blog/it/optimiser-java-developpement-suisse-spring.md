@@ -6,6 +6,7 @@ slug: "optimiser-java-developpement-suisse-spring"
 author: "IAPME Suisse"
 source: "https://www.heise.de/news/Moderne-Java-Entwicklung-Noch-Fruehbuchertickets-fuer-betterCode-Spring-sichern-11226822.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/it-optimiser-java-developpement-suisse-spring.webp"
 ---
 
 ## Introduzione a Java e Spring per le PMI svizzere

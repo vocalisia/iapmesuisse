@@ -5,6 +5,7 @@ excerpt: "Tutto ciò che una PMI svizzera deve sapere per implementare un chatbo
 slug: "chatbot-ia-service-client-pme-suisse"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/it-chatbot-ia-service-client-pme-suisse.webp"
 ---
 
 # Chatbot IA per PMI svizzere: la guida all'implementazione 2026

@@ -1,10 +1,10 @@
-﻿---
+---
 title: "n8n self-hosted für Schweizer KMU: souveräne Automatisierung und nDSG-Konformität"
 date: "2026-05-17"
 excerpt: "Vollständiger Leitfaden n8n self-hosted in der Schweiz: Deployment bei Infomaniak/Exoscale, nDSG-Konformität, ROI, Anwendungsfälle Treuhand und Medizin. Maximale Datensouveränität."
 author: "Laurent Duplat"
 slug: "n8n-auto-heberge-pme-suisse-nlpd"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-n8n-auto-heberge-pme-suisse-nlpd.webp"
 ---
 
 # n8n self-hosted für Schweizer KMU: der Weg zur souveränen Automatisierung

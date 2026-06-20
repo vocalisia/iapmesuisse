@@ -3,7 +3,7 @@ title: "Tesla, un modello d'integrazione dell'IA per le imprese svizzere"
 date: "2026-03-24"
 excerpt: "Analisi dettagliata dell'integrazione dell'IA in Tesla attraverso produzione, vendita, servizio clienti, Autopilot ed energia, e le lezioni concrete che le PMI svizzere possono trarne."
 slug: "tesla-modele-ia-entreprise-suisse"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/it-tesla-modele-ia-entreprise-suisse.webp"
 ---
 
 # Tesla, un modello d'integrazione dell'IA per le imprese svizzere

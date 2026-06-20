@@ -5,6 +5,7 @@ excerpt: "Wie können Schweizer KMU künstliche Intelligenz einführen? Konkrete
 slug: "intelligence-artificielle-pme-suisse-romande"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/de-intelligence-artificielle-pme-suisse-romande.webp"
 ---
 
 # Künstliche Intelligenz für Schweizer KMU: Praxisleitfaden 2026

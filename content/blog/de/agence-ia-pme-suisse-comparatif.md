@@ -5,6 +5,7 @@ excerpt: "AI-Agentur, unabhängiger Berater oder SaaS-Lösung: Wie wählt man de
 slug: "agence-ia-pme-suisse-comparatif"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/de-agence-ia-pme-suisse-comparatif.webp"
 ---
 
 # AI-Agentur für Schweizer KMU: Wie wählen im Jahr 2026?

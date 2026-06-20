@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Vue d'ensemble des tendances IT et IA pour PME suisses en 2026 : taille du marché IA suisse, GenAI, agents IA, cloud souverain, conformité nLPD, comparaison Suisse vs UE. Guide stratégique."
 author: "Laurent Duplat"
 slug: "tendances-it-ia-pme-suisses-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/fr-tendances-it-ia-pme-suisses-2026.webp"
 ---
 
 # Tendances IT et IA pour les PME suisses en 2026 : marché, adoption, roadmap

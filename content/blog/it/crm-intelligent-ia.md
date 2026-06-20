@@ -5,6 +5,7 @@ excerpt: "Come un CRM arricchito dall'intelligenza artificiale può trasformare 
 slug: "crm-intelligent-ia"
 category: "Automatisation"
 pillar: "automatisation-processus-ia-guide-pratique-pme-suisses"
+image: "/images/blog/iapme-autocontrol-20260620/it-crm-intelligent-ia.webp"
 ---
 
 # CRM intelligente: potenziare le vendite con l'IA

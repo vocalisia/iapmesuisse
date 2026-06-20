@@ -6,6 +6,7 @@ excerpt: "IAPME Suisse accompagne les PME suisses dans leur transformation IA : 
 slug: "iapme-suisse-agence-intelligence-artificielle"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/fr-iapme-suisse-agence-intelligence-artificielle.webp"
 ---
 
 # IAPME Suisse : l'agence d'intelligence artificielle pour PME suisses

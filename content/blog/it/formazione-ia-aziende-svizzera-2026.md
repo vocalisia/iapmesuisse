@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Guida completa alla formazione IA per le aziende svizzere: HES-SO, EPFL, ZHAW, presenziale vs online, contenuto per dirigenti e collaboratori, certificazioni riconosciute e ROI misurabile."
 author: "Laurent Duplat"
 slug: "formazione-ia-aziende-svizzera-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/it-formazione-ia-aziende-svizzera-2026.webp"
 ---
 
 # Formazione IA per aziende svizzere 2026

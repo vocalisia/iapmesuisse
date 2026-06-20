@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "Wie wählen Sie den richtigen KI-Berater für Ihr Schweizer KMU? Auswahlkriterien, Städte (Zürich, Bern, Basel, Genf, Lausanne), Fragen vor Vertragsabschluss, ROI-Erwartungen. Expertenleitfaden 2026."
 author: "Laurent Duplat"
 slug: "ki-beratung-kmu-schweiz-leitfaden-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-ki-beratung-kmu-schweiz-leitfaden-2026.webp"
 ---
 
 # KI-Beratung für KMU in der Schweiz: Der vollständige Leitfaden 2026

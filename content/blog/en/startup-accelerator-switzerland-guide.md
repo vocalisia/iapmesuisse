@@ -6,7 +6,7 @@ slug: "startup-accelerator-switzerland-guide"
 category: "Innovation & Funding"
 author: "Laurent Duplat"
 locale: "en"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-startup-accelerator-switzerland-guide.webp"
 
 ---
 

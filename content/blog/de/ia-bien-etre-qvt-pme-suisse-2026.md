@@ -7,7 +7,7 @@ lang: "de"
 slug: "ia-bien-etre-qvt-pme-suisse-2026"
 category: "HR & Personalmanagement"
 tags: ["Wohlbefinden", "Burnout-Prävention", "HR", "Arbeitsqualität", "Engagement"]
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-ia-bien-etre-qvt-pme-suisse-2026.webp"
 ---
 
 # KI und Wohlbefinden am Arbeitsplatz in Schweizer KMU: Leitfaden Arbeitsqualität 2026

@@ -6,6 +6,7 @@ slug: "optimiser-java-developpement-suisse-spring"
 author: "Laurent Duplat"
 source: "https://www.heise.de/news/Moderne-Java-Entwicklung-Noch-Fruehbuchertickets-fuer-betterCode-Spring-sichern-11226822.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/en-optimiser-java-developpement-suisse-spring.webp"
 ---
 
 ## Introduction to Java and Spring for Swiss SMEs

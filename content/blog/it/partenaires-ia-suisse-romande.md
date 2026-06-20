@@ -5,6 +5,7 @@ excerpt: "Elenco dei partner IA di fiducia nella Svizzera italiana: agenzie, int
 slug: "partenaires-ia-suisse-romande"
 category: "Transformation Digitale"
 pillar: "transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026"
+image: "/images/blog/iapme-autocontrol-20260620/it-partenaires-ia-suisse-romande.webp"
 ---
 
 # Partner IA di fiducia nella Svizzera italiana

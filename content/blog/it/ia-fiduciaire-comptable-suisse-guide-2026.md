@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "IA negli studi fiduciari svizzeri: OCR contabile, IVA automatizzata, chiusure IA, Bexio e ProffixPX aumentati. Conformità nLPD, ROI misurabile."
 author: "Laurent Duplat"
 slug: "ia-fiduciaire-comptable-suisse-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/it-ia-fiduciaire-comptable-suisse-guide-2026.webp"
 ---
 
 # IA per gli studi fiduciari e contabili svizzeri: guida pratica 2026

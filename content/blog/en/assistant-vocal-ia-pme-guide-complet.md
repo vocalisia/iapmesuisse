@@ -1,9 +1,9 @@
-﻿---
+---
 title: "AI Voice Assistant for SMEs: The Complete Guide 2026"
 date: "2026-03-26"
 excerpt: "Comprehensive guide on AI voice assistants for Swiss SMEs: types, use cases, costs, implementation, and recommended solutions to automate call handling and customer service."
 slug: "assistant-vocal-ia-pme-guide-complet"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-assistant-vocal-ia-pme-guide-complet.webp"
 ---
 
 # AI Voice Assistant for SMEs: The Complete Guide 2026

@@ -4,7 +4,7 @@ date: "2026-05-17"
 excerpt: "Everything about autonomous AI agents for Swiss SMEs: difference from chatbots, Claude/GPT/Mistral frameworks, use cases in retail and services, Swiss FADP/AI Act compliance, real ROI."
 author: "Laurent Duplat"
 slug: "agents-ia-autonomes-pme-suisse-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-agents-ia-autonomes-pme-suisse-2026.webp"
 ---
 
 # Autonomous AI agents for Swiss SMEs: strategic guide 2026

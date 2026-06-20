@@ -6,6 +6,7 @@ slug: "des-garde-fous-pour-les-mineurs-un-cap-pour-lia-les-priorite"
 author: "IAPME Suisse"
 source: "https://www.ictjournal.ch/news/2026-06-18/des-garde-fous-pour-les-mineurs-un-cap-pour-lia-les-priorites-numeriques-du-g7"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/fr-des-garde-fous-pour-les-mineurs-un-cap-pour-lia-les-priorite.webp"
 ---
 
 ## Pourquoi ce sujet concerne les PME suisses

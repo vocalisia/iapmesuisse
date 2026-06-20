@@ -5,6 +5,7 @@ excerpt: "How an AI-enhanced CRM can transform your sales: lead scoring, predict
 slug: "crm-intelligent-ia"
 category: "Automatisation"
 pillar: "automatisation-processus-ia-guide-pratique-pme-suisses"
+image: "/images/blog/iapme-autocontrol-20260620/en-crm-intelligent-ia.webp"
 ---
 
 # Smart CRM: Boost Your Sales with AI

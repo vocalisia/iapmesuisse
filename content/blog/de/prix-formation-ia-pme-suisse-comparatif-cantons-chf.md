@@ -6,6 +6,7 @@ slug: "prix-formation-ia-pme-suisse-comparatif-cantons-chf"
 category: "KI für KMU Schweiz"
 author: "Laurent Duplat"
 locale: "de"
+image: "/images/blog/iapme-autocontrol-20260620/de-prix-formation-ia-pme-suisse-comparatif-cantons-chf.webp"
 ---
 
 # KI-Schulungspreise Schweizer KMU 2026: Kantonsvergleich in CHF

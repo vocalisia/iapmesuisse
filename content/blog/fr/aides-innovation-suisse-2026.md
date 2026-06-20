@@ -6,7 +6,7 @@ slug: "aides-innovation-suisse-2026"
 category: "Innovation & Financement"
 author: "Laurent Duplat"
 locale: "fr"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/fr-aides-innovation-suisse-2026.webp"
 ---
 
 # Aides à l'innovation Suisse 2026

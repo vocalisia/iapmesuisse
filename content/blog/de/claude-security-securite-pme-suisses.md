@@ -6,6 +6,7 @@ slug: "claude-security-securite-pme-suisses"
 author: "IAPME Suisse"
 source: "https://www.heise.de/news/Claude-Security-Anthropic-bringt-KI-Schwachstellenscanner-fuer-Unternehmen-11279018.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
 auto_generated: true
+image: "/images/blog/iapme-autocontrol-20260620/de-claude-security-securite-pme-suisses.webp"
 ---
 
 ## Einführung in Claude Security

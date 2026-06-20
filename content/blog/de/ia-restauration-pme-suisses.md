@@ -1,10 +1,11 @@
-﻿---
+---
 title: "Wie KI die Gastronomie für Schweizer KMU revolutioniert"
 date: "2026-05-06"
 excerpt: "Künstliche Intelligenz könnte die Art und Weise verändern, wie Schweizer KMU ihre Restaurants kreieren, verwalten und ausbauen, indem sie automatisierte und personalisierte Lösungen integrieren."
 slug: "ia-restauration-pme-suisses"
 author: "IAPME Suisse"
 source: "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/"
+image: "/images/blog/iapme-autocontrol-20260620/de-ia-restauration-pme-suisses.webp"
 auto_generated: true
 ---
 

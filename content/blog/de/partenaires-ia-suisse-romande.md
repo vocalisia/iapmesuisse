@@ -5,6 +5,7 @@ excerpt: "Verzeichnis vo vertrauenswürdige KI-Partner i de Welschschwiiz: Agent
 slug: "partenaires-ia-suisse-romande"
 category: "Transformation Digitale"
 pillar: "transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026"
+image: "/images/blog/iapme-autocontrol-20260620/de-partenaires-ia-suisse-romande.webp"
 ---
 
 # Vertrauenswürdigi KI-Partner i de Welschschwiiz

@@ -4,7 +4,7 @@ date: "2026-05-27"
 excerpt: "How to conduct a complete digital and AI audit for your Swiss SME: IT infrastructure, AI maturity, nFADP compliance, cybersecurity. Step-by-step guide with focus on Geneva and Bern."
 author: "Laurent Duplat"
 slug: "digital-audit-sme-switzerland-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/en-digital-audit-sme-switzerland-guide-2026.webp"
 ---
 
 # Digital Audit for Swiss SMEs: The Complete Guide 2026

@@ -4,7 +4,7 @@ date: "2026-05-18"
 excerpt: "Connecter Bexio à l'IA : OCR factures, relances automatisées, comptabilité IA, intégration n8n/Make. Le guide pratique pour PME romandes, alémaniques et tessinoises."
 author: "Laurent Duplat"
 slug: "integration-bexio-ia-pme-suisse-guide-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/fr-integration-bexio-ia-pme-suisse-guide-2026.webp"
 ---
 
 # Bexio IA pour PME suisses : automatiser la compta

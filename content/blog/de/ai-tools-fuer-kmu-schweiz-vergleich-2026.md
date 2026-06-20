@@ -4,7 +4,7 @@ date: "2026-05-19"
 excerpt: "Welche KI-Tools sind für Schweizer KMU wirklich nützlich? Praxisorientierter Vergleich der besten AI-Tools für kleine und mittlere Unternehmen – von Textgeneratoren bis zu Automatisierungsplattformen."
 author: "Laurent Duplat"
 slug: "ai-tools-fuer-kmu-schweiz-vergleich-2026"
-image: "/images/generated/iapmesuisse-ai-consulting.png"
+image: "/images/blog/iapme-autocontrol-20260620/de-ai-tools-fuer-kmu-schweiz-vergleich-2026.webp"
 ---
 
 # KI-Tools für KMU in der Schweiz: Vergleich 2026

@@ -6,6 +6,7 @@ excerpt: "Comment les PME de Suisse romande peuvent adopter l'intelligence artif
 slug: "intelligence-artificielle-pme-suisse-romande"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/fr-intelligence-artificielle-pme-suisse-romande.webp"
 ---
 
 # Intelligence artificielle pour les PME de Suisse romande : guide pratique 2026

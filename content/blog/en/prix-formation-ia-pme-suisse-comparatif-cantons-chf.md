@@ -6,6 +6,7 @@ slug: "prix-formation-ia-pme-suisse-comparatif-cantons-chf"
 category: "AI for Swiss SMEs"
 author: "Laurent Duplat"
 locale: "en"
+image: "/images/blog/iapme-autocontrol-20260620/en-prix-formation-ia-pme-suisse-comparatif-cantons-chf.webp"
 ---
 
 # AI Training Prices for Swiss SMEs 2026: Canton Comparison in CHF

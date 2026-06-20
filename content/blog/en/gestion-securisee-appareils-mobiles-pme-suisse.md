@@ -1,10 +1,11 @@
-﻿---
+---
 title: "Secure Mobile Device Management for Swiss SMEs"
 date: "2026-04-28"
 excerpt: "Optimise mobile security in Swiss SMEs with effective cloud solutions."
 slug: "gestion-securisee-appareils-mobiles-pme-suisse"
 author: "Laurent Duplat"
 source: "https://www.heise.de/news/iX-Workshop-MS-Intune-Mobile-Endgeraete-und-Apps-sicher-in-der-Cloud-verwalten-11264609.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+image: "/images/blog/iapme-autocontrol-20260620/en-gestion-securisee-appareils-mobiles-pme-suisse.webp"
 auto_generated: true
 ---
 

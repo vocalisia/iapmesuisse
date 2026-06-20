@@ -5,6 +5,7 @@ excerpt: "Come l'intelligenza artificiale sta rivoluzionando il reclutamento nel
 slug: "ia-recrutement-suisse"
 category: "Automatisation"
 pillar: "automatisation-processus-ia-guide-pratique-pme-suisses"
+image: "/images/blog/iapme-autocontrol-20260620/it-ia-recrutement-suisse.webp"
 ---
 
 # IA per il reclutamento in Svizzera

@@ -6,6 +6,7 @@ excerpt: "Comment les PME suisses utilisent l'IA pour générer des leads B2B qu
 slug: "generation-leads-b2b-suisse-ia"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
+image: "/images/blog/iapme-autocontrol-20260620/fr-generation-leads-b2b-suisse-ia.webp"
 ---
 
 # Génération de leads B2B en Suisse avec l'IA : guide complet 2026

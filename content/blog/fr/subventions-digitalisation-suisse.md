@@ -6,6 +6,7 @@ excerpt: "Guide complet des subventions, aides et financements disponibles en Su
 slug: "subventions-digitalisation-suisse"
 category: "Transformation Digitale"
 pillar: "transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026"
+image: "/images/blog/iapme-autocontrol-20260620/fr-subventions-digitalisation-suisse.webp"
 ---
 
 # Subventions et aides pour la digitalisation en Suisse

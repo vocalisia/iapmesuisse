@@ -6,6 +6,7 @@ excerpt: "Les grandes tendances de l'intelligence artificielle en Suisse pour 20
 slug: "futur-ia-suisse-tendances"
 category: "Transformation Digitale"
 pillar: "transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026"
+image: "/images/blog/iapme-autocontrol-20260620/fr-futur-ia-suisse-tendances.webp"
 ---
 
 # Le futur de l'IA en Suisse : tendances 2026-2030
