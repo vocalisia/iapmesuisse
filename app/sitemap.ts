@@ -46,9 +46,11 @@ const gscOpportunityBlogSlugs = new Set([
   'ai-training-workshop-swiss-companies-2026',
   'outils-ia-ecosysteme-pme-suisse-2026',
   'outils-ia-pme-suisses',
+  'ai-tools-fuer-kmu-schweiz-vergleich-2026',
   'ai-competitive-advantage-swiss-sme-2026',
   'transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026',
   'ai-consultant-lugano-ticino-guide-2026',
+  'ia-assurance-courtage-suisse-guide-2026',
   'ai-consulting-sme-switzerland-guide-2026',
   'process-automation-sme-switzerland-2026',
   'automatisation-service-client-ia-suisse',
@@ -156,11 +158,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Canton pages (9 cantons × 4 locales)
   for (const canton of CANTONS) {
     for (const locale of locales) {
+      const isGscCantonOpportunity = canton.slug === 'zurich' && locale === 'de';
       entries.push({
         url: `${baseUrl}/${locale}/cantons/${canton.slug}`,
         lastModified,
-        changeFrequency: 'monthly',
-        priority: 0.7,
+        changeFrequency: isGscCantonOpportunity ? 'weekly' : 'monthly',
+        priority: isGscCantonOpportunity ? 0.82 : 0.7,
         alternates: {
           languages: Object.fromEntries(
             locales.map((l) => [l, `${baseUrl}/${l}/cantons/${canton.slug}`])

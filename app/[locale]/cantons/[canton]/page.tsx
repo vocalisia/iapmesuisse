@@ -42,6 +42,16 @@ export async function generateMetadata({ params }: Props) {
   const canton = getCantonBySlug(slug);
   if (!canton) return {};
   const name = canton.names[locale as keyof typeof canton.names] ?? canton.names.fr;
+  const path = `/cantons/${slug}`;
+
+  if (locale === 'de' && slug === 'zurich') {
+    return {
+      title: 'AI Beratung KMU Zürich: KI-Audit & Automation',
+      description:
+        'AI Beratung für KMU in Zürich: Prozesse, CRM, Kundenservice und Automatisierung mit nDSG/AI-Act-Konformität. Kostenloses Audit und klarer Fahrplan.',
+      alternates: getAlternates(locale, path),
+    };
+  }
 
   const titles: Record<string, string> = {
     fr: `Audit IA gratuit & formation PME ${name} · IAPME Suisse`,
@@ -59,7 +69,7 @@ export async function generateMetadata({ params }: Props) {
   return {
     title: titles[locale] ?? titles.fr,
     description: descs[locale] ?? descs.fr,
-    alternates: getAlternates(locale, `/cantons/${slug}`),
+    alternates: getAlternates(locale, path),
   };
 }
 
@@ -214,6 +224,13 @@ export default async function CantonPage({ params }: Props) {
   const t = T[locale as keyof typeof T] ?? T.fr;
   const tNav = await getTranslations({ locale, namespace: 'nav' });
   const name = canton.names[locale as keyof typeof canton.names] ?? canton.names.fr;
+  const isZurichGerman = locale === 'de' && slug === 'zurich';
+  const h1 = isZurichGerman
+    ? 'AI Beratung KMU Zürich: KI-Audit & Automation'
+    : t.h1(name);
+  const intro = isZurichGerman
+    ? 'AI Beratung für KMU in Zürich: IAPME Suisse hilft Unternehmen bei CRM, Kundenservice, Dokumentenprozessen und Automatisierung. Der Start ist ein kostenloses Audit mit nDSG- und AI-Act-Check, danach folgt ein klarer Fahrplan für Quick Wins und sichere Tool-Integration.'
+    : t.intro(name, canton.smeCount);
 
   // Local schema.org for this canton page
   const schema = {
@@ -352,10 +369,10 @@ export default async function CantonPage({ params }: Props) {
             Canton {canton.code} · Suisse
           </p>
           <h1 className="mt-3 text-3xl font-extrabold leading-tight tracking-tight text-white sm:text-4xl lg:text-5xl">
-            {t.h1(name)}
+            {h1}
           </h1>
           <p className="mx-auto mt-6 max-w-2xl text-lg leading-relaxed text-gray-200">
-            {t.intro(name, canton.smeCount)}
+            {intro}
           </p>
           <div className="mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row">
             <Link

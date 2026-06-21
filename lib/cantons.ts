@@ -94,8 +94,8 @@ export const CANTONS: Canton[] = [
     cities: ['Zurich', 'Winterthur', 'Uster', 'Zug (proche)'],
     smeCount: '90 000+',
     language: 'de',
-    topSectors: ['Banque et assurance', 'Tech et startups ETH', 'Industrie pharmaceutique', 'Logistique', 'Services B2B'],
-    funding: 'Diverses Förderprogramme Kanton ZH, Bedingungen nach Dossier',
+    topSectors: ['Banken und Versicherungen', 'ETH-Startups und Software', 'Life Sciences und Pharma', 'Logistik und Handel', 'B2B-Services'],
+    funding: 'Zürcher Innovations- und Digitalisierungsprogramme, Bedingungen nach Dossier',
     names: { fr: 'Zurich', de: 'Zürich', en: 'Zurich', it: 'Zurigo' },
   },
   {
