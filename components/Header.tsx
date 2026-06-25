@@ -105,16 +105,18 @@ export default function Header() {
     <header className="sticky top-0 z-40 w-full border-b border-gray-200 bg-white/95 backdrop-blur supports-[backdrop-filter]:bg-white/80">
       <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-4 sm:px-6 lg:px-8">
         {/* Logo */}
-        <Link href="/" className="flex items-center gap-2 text-lg font-bold tracking-tight sm:text-xl lg:text-2xl">
-          {/* Swiss flag */}
-          <svg viewBox="0 0 20 20" width="22" height="22" aria-hidden="true" className="flex-shrink-0">
-            <rect width="20" height="20" rx="3" fill="#FF0000"/>
-            <rect x="8.5" y="3" width="3" height="14" fill="white"/>
-            <rect x="3" y="8.5" width="14" height="3" fill="white"/>
-          </svg>
-          <span className="flex items-baseline gap-0.5">
+        <Link href="/" className="flex min-w-0 items-center">
+          <img
+            src="/brand/iapmesuisse-header-logo.png"
+            alt="iapmesuisse.ch"
+            width={180}
+            height={151}
+            className="h-14 w-auto max-w-[180px] flex-shrink-0 rounded-lg bg-white object-contain shadow-sm ring-1 ring-black/10"
+          />
+          <span className="hidden items-baseline gap-0.5">
             <span className="text-[#1B2A4A]">IAPME</span>
             <span className="text-[#FF0000]">Suisse</span>
+            <span className="text-[#16A34A]">.ch</span>
           </span>
         </Link>
 
@@ -226,8 +228,15 @@ export default function Header() {
       >
         {/* Close button */}
         <div className="flex items-center justify-between border-b border-gray-200 px-4 py-4">
-          <span className="text-lg font-bold text-[#1B2A4A]">
-            IAPME<span className="text-[#FF0000]">Suisse</span>
+          <span className="flex min-w-0 items-center text-lg font-bold text-[#1B2A4A]">
+            <img
+              src="/brand/iapmesuisse-header-logo.png"
+              alt="iapmesuisse.ch"
+              width={154}
+              height={129}
+              className="h-12 w-auto max-w-[170px] flex-shrink-0 rounded-lg bg-white object-contain shadow-sm ring-1 ring-black/10"
+            />
+            <span className="hidden">IAPME<span className="text-[#FF0000]">Suisse</span><span className="text-[#16A34A]">.ch</span></span>
           </span>
           <button
             type="button"
