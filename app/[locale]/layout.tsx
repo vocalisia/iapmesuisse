@@ -13,6 +13,7 @@ import { notFound } from 'next/navigation';
 
 const inter = Inter({ subsets: ['latin'] });
 const GA4_ID = process.env.NEXT_PUBLIC_GA4_ID || 'G-7HQQDGHRT2';
+const FAVICON_VERSION = '20260630-iapme-logo';
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -34,10 +35,20 @@ export async function generateMetadata({
     description: t('description'),
     metadataBase: new URL('https://iapmesuisse.ch'),
     alternates: getAlternates(locale),
+    manifest: `/site.webmanifest?v=${FAVICON_VERSION}`,
     icons: {
       icon: [
-        { url: '/favicon.svg', type: 'image/svg+xml' },
-        { url: '/favicon.ico' },
+        { url: `/favicon.ico?v=${FAVICON_VERSION}`, sizes: 'any' },
+        { url: `/favicon-48x48.png?v=${FAVICON_VERSION}`, sizes: '48x48', type: 'image/png' },
+        { url: `/icon-192.png?v=${FAVICON_VERSION}`, sizes: '192x192', type: 'image/png' },
+        { url: `/icon-512.png?v=${FAVICON_VERSION}`, sizes: '512x512', type: 'image/png' },
+        { url: `/favicon.svg?v=${FAVICON_VERSION}`, type: 'image/svg+xml' },
+      ],
+      shortcut: [
+        { url: `/favicon.ico?v=${FAVICON_VERSION}` },
+      ],
+      apple: [
+        { url: `/apple-touch-icon.png?v=${FAVICON_VERSION}`, sizes: '180x180', type: 'image/png' },
       ],
     },
     openGraph: {
