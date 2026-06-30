@@ -12,9 +12,20 @@ export default function Footer() {
         <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-4">
           {/* Column 1: About */}
           <div>
-            <h3 className="text-lg font-bold">
-              IAPME<span className="text-[#FF0000]">Suisse</span>
-            </h3>
+            <Link href="/" className="inline-flex items-center gap-3">
+              <img
+                src="/brand/iapmesuisse-emblem-logo.png"
+                alt=""
+                width={512}
+                height={512}
+                aria-hidden="true"
+                className="h-14 w-14 flex-shrink-0 rounded-xl bg-white object-contain p-1 shadow-sm ring-1 ring-white/20"
+              />
+              <span className="whitespace-nowrap text-xl font-extrabold tracking-tight">
+                <span className="text-white">iapmesuisse</span>
+                <span className="text-[#22C55E]">.ch</span>
+              </span>
+            </Link>
             <p className="mt-4 text-sm leading-relaxed text-gray-300">
               {t('description')}
             </p>

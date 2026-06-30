@@ -63,9 +63,9 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
     "url": baseUrl,
     "logo": {
       "@type": "ImageObject",
-      "url": `${baseUrl}/images/logo.svg`,
-      "width": 320,
-      "height": 80,
+      "url": `${baseUrl}/brand/iapmesuisse-emblem-logo.png`,
+      "width": 512,
+      "height": 512,
     },
     "image": {
       "@type": "ImageObject",

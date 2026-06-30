@@ -213,7 +213,9 @@ export default async function BlogPostPage({
       name: 'IAPME Suisse',
       logo: {
         '@type': 'ImageObject',
-        url: `${baseUrl}/images/logo.svg`,
+        url: `${baseUrl}/brand/iapmesuisse-emblem-logo.png`,
+        width: 512,
+        height: 512,
       },
     },
     mainEntityOfPage: {

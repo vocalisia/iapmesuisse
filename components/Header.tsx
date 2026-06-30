@@ -54,7 +54,7 @@ export default function Header() {
 
   useEffect(() => {
     const onResize = () => {
-      if (window.innerWidth >= 768) setMobileMenuOpen(false);
+      if (window.innerWidth >= 1024) setMobileMenuOpen(false);
     };
     window.addEventListener('resize', onResize);
     return () => window.removeEventListener('resize', onResize);
@@ -103,25 +103,25 @@ export default function Header() {
 
   return (
     <header className="sticky top-0 z-40 w-full border-b border-gray-200 bg-white/95 backdrop-blur supports-[backdrop-filter]:bg-white/80">
-      <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-4 sm:px-6 lg:px-8">
+      <div className="flex min-h-20 w-full items-center justify-between gap-4 px-4 py-2 sm:px-6 lg:px-8">
         {/* Logo */}
-        <Link href="/" className="flex min-w-0 items-center">
+        <Link href="/" className="flex flex-none items-center gap-3">
           <img
-            src="/brand/iapmesuisse-header-logo.png"
-            alt="iapmesuisse.ch"
-            width={180}
-            height={151}
-            className="h-14 w-auto max-w-[180px] flex-shrink-0 rounded-lg bg-white object-contain shadow-sm ring-1 ring-black/10"
+            src="/brand/iapmesuisse-emblem-logo.png"
+            alt=""
+            width={512}
+            height={512}
+            aria-hidden="true"
+            className="h-16 w-16 flex-shrink-0 rounded-2xl bg-white object-contain p-1 shadow-sm ring-1 ring-gray-200 xl:h-20 xl:w-20"
           />
-          <span className="hidden items-baseline gap-0.5">
-            <span className="text-[#1B2A4A]">IAPME</span>
-            <span className="text-[#FF0000]">Suisse</span>
+          <span className="hidden items-baseline gap-0.5 whitespace-nowrap text-xl font-extrabold tracking-tight sm:flex xl:text-2xl">
+            <span className="text-[#1B2A4A]">iapmesuisse</span>
             <span className="text-[#16A34A]">.ch</span>
           </span>
         </Link>
 
         {/* Desktop navigation */}
-        <nav className="hidden items-center gap-0.5 md:flex lg:gap-1">
+        <nav className="hidden min-w-0 flex-1 items-center justify-center gap-0.5 lg:flex xl:gap-1">
           {mainLinks.map((link) => (
             <Link
               key={link.labelKey}
@@ -177,10 +177,10 @@ export default function Header() {
         </nav>
 
         {/* Right side: Quiz CTA + language switcher + mobile toggle */}
-        <div className="flex items-center gap-2">
+        <div className="flex flex-none items-center gap-2">
           <Link
             href="/quiz/maturite-ia"
-            className="hidden rounded-lg bg-[#FF0000] px-3 py-2 text-xs font-semibold text-white shadow-sm transition-all duration-200 hover:bg-red-700 hover:shadow-md lg:inline-flex lg:items-center lg:gap-1.5 lg:px-4 lg:text-sm"
+            className="hidden rounded-lg bg-[#FF0000] px-3 py-2 text-xs font-semibold text-white shadow-sm transition-all duration-200 hover:bg-red-700 hover:shadow-md xl:inline-flex xl:items-center xl:gap-1.5 xl:px-4 xl:text-sm"
           >
             <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
               <path strokeLinecap="round" strokeLinejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4" />
@@ -193,7 +193,7 @@ export default function Header() {
           <button
             type="button"
             onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-            className="inline-flex items-center justify-center rounded-md p-2 text-[#1B2A4A] hover:bg-gray-100 md:hidden"
+            className="inline-flex items-center justify-center rounded-md p-2 text-[#1B2A4A] hover:bg-gray-100 lg:hidden"
             aria-expanded={mobileMenuOpen}
             aria-label="Toggle navigation menu"
           >
@@ -213,7 +213,7 @@ export default function Header() {
       {/* Mobile slide-in menu */}
       {/* Overlay */}
       <div
-        className={`fixed inset-0 z-50 bg-black/40 transition-opacity md:hidden ${
+        className={`fixed inset-0 z-50 bg-black/40 transition-opacity lg:hidden ${
           mobileMenuOpen ? 'opacity-100' : 'pointer-events-none opacity-0'
         }`}
         onClick={() => setMobileMenuOpen(false)}
@@ -222,7 +222,7 @@ export default function Header() {
 
       {/* Slide-in panel */}
       <nav
-        className={`fixed right-0 top-0 z-[60] flex h-screen w-72 max-w-[85vw] flex-col overflow-y-auto overscroll-contain bg-white shadow-xl transition-transform duration-300 ease-in-out md:hidden ${
+        className={`fixed right-0 top-0 z-[60] flex h-screen w-72 max-w-[85vw] flex-col overflow-y-auto overscroll-contain bg-white shadow-xl transition-transform duration-300 ease-in-out lg:hidden ${
           mobileMenuOpen ? 'translate-x-0' : 'translate-x-full'
         }`}
       >
@@ -230,13 +230,14 @@ export default function Header() {
         <div className="flex items-center justify-between border-b border-gray-200 px-4 py-4">
           <span className="flex min-w-0 items-center text-lg font-bold text-[#1B2A4A]">
             <img
-              src="/brand/iapmesuisse-header-logo.png"
-              alt="iapmesuisse.ch"
-              width={154}
-              height={129}
-              className="h-12 w-auto max-w-[170px] flex-shrink-0 rounded-lg bg-white object-contain shadow-sm ring-1 ring-black/10"
+              src="/brand/iapmesuisse-emblem-logo.png"
+              alt=""
+              width={512}
+              height={512}
+              aria-hidden="true"
+              className="h-14 w-14 flex-shrink-0 rounded-xl bg-white object-contain p-1 ring-1 ring-gray-200"
             />
-            <span className="hidden">IAPME<span className="text-[#FF0000]">Suisse</span><span className="text-[#16A34A]">.ch</span></span>
+            <span className="ml-2 whitespace-nowrap">iapmesuisse<span className="text-[#16A34A]">.ch</span></span>
           </span>
           <button
             type="button"
