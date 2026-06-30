@@ -28,7 +28,6 @@ const moreLinks = [
 ] as const;
 
 export default function Header() {
-  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [moreOpen, setMoreOpen] = useState(false);
   const t = useTranslations('nav');
   const pathname = usePathname();
@@ -36,38 +35,8 @@ export default function Header() {
   const moreRef = useRef<HTMLDivElement | null>(null);
 
   useEffect(() => {
-    // eslint-disable-next-line react-hooks/set-state-in-effect
-    setMobileMenuOpen(false);
     setMoreOpen(false);
   }, [pathname]);
-
-  useEffect(() => {
-    if (typeof document === 'undefined') return;
-    if (mobileMenuOpen) {
-      const prev = document.body.style.overflow;
-      document.body.style.overflow = 'hidden';
-      return () => {
-        document.body.style.overflow = prev;
-      };
-    }
-  }, [mobileMenuOpen]);
-
-  useEffect(() => {
-    const onResize = () => {
-      if (window.innerWidth >= 1024) setMobileMenuOpen(false);
-    };
-    window.addEventListener('resize', onResize);
-    return () => window.removeEventListener('resize', onResize);
-  }, []);
-
-  useEffect(() => {
-    if (!mobileMenuOpen) return;
-    const onEsc = (e: KeyboardEvent) => {
-      if (e.key === 'Escape') setMobileMenuOpen(false);
-    };
-    document.addEventListener('keydown', onEsc);
-    return () => document.removeEventListener('keydown', onEsc);
-  }, [mobileMenuOpen]);
 
   const cancelClose = () => {
     if (closeTimer.current) {
@@ -189,105 +158,50 @@ export default function Header() {
           </Link>
           <LanguageSwitcher />
 
-          {/* Mobile hamburger button */}
-          <button
-            type="button"
-            onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-            className="inline-flex items-center justify-center rounded-md p-2 text-[#1B2A4A] hover:bg-gray-100 lg:hidden"
-            aria-expanded={mobileMenuOpen}
-            aria-label="Toggle navigation menu"
-          >
-            {mobileMenuOpen ? (
-              <svg className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-                <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
-              </svg>
-            ) : (
+          <details className="group lg:hidden">
+            <summary
+              className="inline-flex min-h-11 min-w-11 cursor-pointer list-none items-center justify-center rounded-md p-2 text-[#1B2A4A] hover:bg-gray-100 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#1B2A4A] focus-visible:ring-offset-2 [&::-webkit-details-marker]:hidden"
+              aria-label="Toggle navigation menu"
+            >
               <svg className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
                 <path strokeLinecap="round" strokeLinejoin="round" d="M4 6h16M4 12h16M4 18h16" />
               </svg>
-            )}
-          </button>
+            </summary>
+
+            <nav className="fixed left-0 right-0 top-20 z-50 max-h-[calc(100dvh-5rem)] overflow-y-auto border-t border-gray-200 bg-white px-4 py-4 shadow-xl">
+              <Link
+                href="/quiz/maturite-ia"
+                className="mb-3 flex min-h-11 items-center justify-center gap-2 rounded-lg bg-[#FF0000] px-4 py-3 text-base font-semibold text-white shadow-sm transition-all duration-200 hover:bg-red-700"
+              >
+                <svg className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4" />
+                </svg>
+                {t('quiz_cta')}
+              </Link>
+              <div className="my-2 border-t border-gray-200" />
+              {mainLinks.map((link) => (
+                <Link
+                  key={link.labelKey}
+                  href={link.href}
+                  className="block rounded-md px-3 py-3 text-base font-medium text-[#1B2A4A] transition-colors hover:bg-gray-100 hover:text-[#FF0000]"
+                >
+                  {t(link.labelKey)}
+                </Link>
+              ))}
+              <div className="my-2 border-t border-gray-200" />
+              {moreLinks.map((link) => (
+                <Link
+                  key={link.labelKey}
+                  href={link.href}
+                  className="block rounded-md px-3 py-3 text-sm font-medium text-gray-600 transition-colors hover:bg-gray-100 hover:text-[#FF0000]"
+                >
+                  {t(link.labelKey)}
+                </Link>
+              ))}
+            </nav>
+          </details>
         </div>
       </div>
-
-      {/* Mobile slide-in menu */}
-      {/* Overlay */}
-      <div
-        className={`fixed inset-0 z-50 bg-black/40 transition-opacity lg:hidden ${
-          mobileMenuOpen ? 'opacity-100' : 'pointer-events-none opacity-0'
-        }`}
-        onClick={() => setMobileMenuOpen(false)}
-        aria-hidden="true"
-      />
-
-      {/* Slide-in panel */}
-      <nav
-        className={`fixed right-0 top-0 z-[60] flex h-screen w-72 max-w-[85vw] flex-col overflow-y-auto overscroll-contain bg-white shadow-xl transition-transform duration-300 ease-in-out lg:hidden ${
-          mobileMenuOpen ? 'translate-x-0' : 'translate-x-full'
-        }`}
-      >
-        {/* Close button */}
-        <div className="flex items-center justify-between border-b border-gray-200 px-4 py-4">
-          <span className="flex min-w-0 items-center text-lg font-bold text-[#1B2A4A]">
-            <img
-              src="/brand/iapmesuisse-emblem-logo.png"
-              alt=""
-              width={512}
-              height={512}
-              aria-hidden="true"
-              className="h-14 w-14 flex-shrink-0 rounded-xl bg-white object-contain p-1 ring-1 ring-gray-200"
-            />
-            <span className="ml-2 whitespace-nowrap">iapmesuisse<span className="text-[#16A34A]">.ch</span></span>
-          </span>
-          <button
-            type="button"
-            onClick={() => setMobileMenuOpen(false)}
-            className="rounded-md p-2 text-gray-500 hover:bg-gray-100"
-            aria-label="Close menu"
-          >
-            <svg className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-              <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
-            </svg>
-          </button>
-        </div>
-
-        {/* Links */}
-        <div className="flex-1 overflow-y-auto px-4 py-4">
-          {/* Quiz CTA in mobile */}
-          <Link
-            href="/quiz/maturite-ia"
-            onClick={() => setMobileMenuOpen(false)}
-            className="mb-3 flex items-center justify-center gap-2 rounded-lg bg-[#FF0000] px-4 py-3 text-base font-semibold text-white shadow-sm transition-all duration-200 hover:bg-red-700"
-          >
-            <svg className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-              <path strokeLinecap="round" strokeLinejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4" />
-            </svg>
-            {t('quiz_cta')}
-          </Link>
-          <div className="my-2 border-t border-gray-200" />
-          {mainLinks.map((link) => (
-            <Link
-              key={link.labelKey}
-              href={link.href}
-              onClick={() => setMobileMenuOpen(false)}
-              className="block rounded-md px-3 py-3 text-base font-medium text-[#1B2A4A] transition-colors hover:bg-gray-100 hover:text-[#FF0000]"
-            >
-              {t(link.labelKey)}
-            </Link>
-          ))}
-          <div className="my-2 border-t border-gray-200" />
-          {moreLinks.map((link) => (
-            <Link
-              key={link.labelKey}
-              href={link.href}
-              onClick={() => setMobileMenuOpen(false)}
-              className="block rounded-md px-3 py-3 text-sm font-medium text-gray-600 transition-colors hover:bg-gray-100 hover:text-[#FF0000]"
-            >
-              {t(link.labelKey)}
-            </Link>
-          ))}
-        </div>
-      </nav>
     </header>
   );
 }
