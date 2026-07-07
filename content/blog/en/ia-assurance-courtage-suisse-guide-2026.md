@@ -1,7 +1,7 @@
 ---
-title: "AI Claims Automation Switzerland: Insurance Guide"
+title: "AI Claims Automation Switzerland: Broker Guide"
 date: "2026-05-18"
-excerpt: "AI claims automation Switzerland guide for brokers and insurers: claims triage, underwriting support, fraud signals, FADP and FINMA governance."
+excerpt: "AI claims automation Switzerland guide for brokers and insurers: claims intake, triage, underwriting support, fraud signals, FADP and FINMA governance."
 author: "Laurent Duplat"
 slug: "ia-assurance-courtage-suisse-guide-2026"
 image: "/images/blog/iapme-autocontrol-20260620/en-ia-assurance-courtage-suisse-guide-2026.webp"
@@ -16,6 +16,12 @@ image: "/images/blog/iapme-autocontrol-20260620/en-ia-assurance-courtage-suisse-
 ## Short answer
 
 Swiss insurance teams should start with AI claims intake and triage before automating underwriting or fraud detection. Claims workflows are repetitive, document-heavy and measurable, but they still require strict governance: human oversight, audit trails, data minimisation and clear escalation when a decision affects the insured client.
+
+## AI claims automation Switzerland: what the query really needs
+
+People searching for **AI claims automation Switzerland** usually need a practical workflow, not a generic AI definition. The core questions are: which steps can be accelerated, where human review is mandatory, how multilingual communication is handled, and how FADP/FINMA documentation is kept audit-ready.
+
+For brokers, the strongest first project is claims intake: collect the loss notification, extract facts, detect missing documents, prepare a client acknowledgement and route the case to the right advisor. This creates visible service improvement without handing regulated judgement to an automated system.
 
 ## Why AI claims automation matters in Switzerland
 
@@ -123,6 +129,10 @@ The tool choice matters less than the operating model. A simple workflow with st
 **Can Swiss brokers automate claims decisions with AI?**
 
 AI can support claims review, but decisions that affect clients should remain explainable and under human control. Automated refusal without review is a governance risk.
+
+**What is AI claims automation in Switzerland?**
+
+It is the controlled use of AI to collect claim information, classify documents, draft updates, route cases and support human reviewers while respecting Swiss data protection and insurance governance.
 
 **Does FINMA approve every insurance AI tool?**
 
