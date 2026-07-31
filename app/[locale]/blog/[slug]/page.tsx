@@ -84,7 +84,10 @@ export default async function BlogPostPage({
   const { locale, slug } = await params;
   const legacyRedirect = LEGACY_BLOG_REDIRECTS[locale]?.[slug];
   if (legacyRedirect) {
-    permanentRedirect(`/${locale}${legacyRedirect}`);
+    // Most legacy targets preserve the requested locale. A small number point to
+    // the only published translation and already include their locale prefix.
+    const isAbsoluteLocaleTarget = /^\/(fr|de|en|it)\//.test(legacyRedirect);
+    permanentRedirect(isAbsoluteLocaleTarget ? legacyRedirect : `/${locale}${legacyRedirect}`);
   }
 
   const t = await getTranslations({ locale, namespace: 'blog' });
