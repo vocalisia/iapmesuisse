@@ -623,7 +623,7 @@
     "subtitle": "Personalised guidance for your digital transformation",
     "audit": {
       "name": "AI Audit Express",
-      "price": "To scope",
+      "price": "297 CHF",
       "description": "Identify your AI opportunities",
       "features": [
         "1h diagnostic call",
@@ -635,7 +635,7 @@
     },
     "accompagnement": {
       "name": "Guidance",
-      "price": "To scope",
+      "price": "1,497 CHF",
       "description": "Guided implementation",
       "features": [
         "Full audit (2h)",
@@ -649,7 +649,7 @@
     },
     "custom": {
       "name": "Bespoke",
-      "price": "To scope",
+      "price": "On request",
       "description": "Complex projects and team training",
       "features": [
         "On-site team training",
@@ -661,11 +661,11 @@
       "badge": "Custom"
     },
     "book_title": "Book a discovery call",
-    "book_subtitle": "30 minutes to discuss your project",
+    "book_subtitle": "30 free minutes to discuss your project",
     "book_cta": "Book a slot",
     "cta": "Learn more",
     "booking_title": "Book a discovery call",
-    "booking_description": "30 minutes to discuss your project",
+    "booking_description": "30 free minutes to discuss your project",
     "links": {
       "audit": "https://buy.stripe.com/4gM6oGcvo5AQdxa6hwco00L",
       "accompagnement": "https://buy.stripe.com/dRm3cugLEaVa64I6hwco00M"

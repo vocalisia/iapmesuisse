@@ -623,7 +623,7 @@
     "subtitle": "Un accompagnamento personalizzato per la vostra trasformazione digitale",
     "audit": {
       "name": "Audit IA Express",
-      "price": "Da definire",
+      "price": "297 CHF",
       "description": "Identificate le vostre opportunità IA",
       "features": [
         "Chiamata diagnostica di 1 ora",
@@ -635,7 +635,7 @@
     },
     "accompagnement": {
       "name": "Accompagnamento",
-      "price": "Da definire",
+      "price": "1'497 CHF",
       "description": "Implementazione guidata",
       "features": [
         "Audit completo (2 ore)",
@@ -649,7 +649,7 @@
     },
     "custom": {
       "name": "Su misura",
-      "price": "Da definire",
+      "price": "Su preventivo",
       "description": "Progetti complessi e formazione del team",
       "features": [
         "Formazione del team in loco",
@@ -661,11 +661,11 @@
       "badge": "Su misura"
     },
     "book_title": "Prenotate una chiamata conoscitiva",
-    "book_subtitle": "30 minuti per discutere del vostro progetto",
+    "book_subtitle": "30 minuti gratuiti per discutere del vostro progetto",
     "book_cta": "Prenotare un appuntamento",
     "cta": "Scopri di più",
     "booking_title": "Prenotate una chiamata conoscitiva",
-    "booking_description": "30 minuti per discutere del vostro progetto",
+    "booking_description": "30 minuti gratuiti per discutere del vostro progetto",
     "links": {
       "audit": "https://buy.stripe.com/4gM6oGcvo5AQdxa6hwco00L",
       "accompagnement": "https://buy.stripe.com/dRm3cugLEaVa64I6hwco00M"

@@ -623,7 +623,7 @@
     "subtitle": "Persönliche Begleitung für Ihre digitale Transformation",
     "audit": {
       "name": "KI-Audit Express",
-      "price": "Zu prüfen",
+      "price": "297 CHF",
       "description": "Identifizieren Sie Ihre KI-Chancen",
       "features": [
         "1 Std. Diagnosegespräch",
@@ -635,7 +635,7 @@
     },
     "accompagnement": {
       "name": "Begleitung",
-      "price": "Zu prüfen",
+      "price": "1'497 CHF",
       "description": "Begleitete Implementierung",
       "features": [
         "Vollständiges Audit (2 Std.)",
@@ -649,7 +649,7 @@
     },
     "custom": {
       "name": "Massgeschneidert",
-      "price": "Zu prüfen",
+      "price": "Auf Anfrage",
       "description": "Komplexe Projekte und Teamschulungen",
       "features": [
         "Teamschulung vor Ort",
@@ -661,7 +661,7 @@
       "badge": "Massgeschneidert"
     },
     "book_title": "Buchen Sie ein Kennenlerngespräch",
-    "book_subtitle": "30 Minuten, um über Ihr Projekt zu sprechen",
+    "book_subtitle": "30 kostenlose Minuten, um über Ihr Projekt zu sprechen",
     "book_cta": "Termin buchen",
     "cta": "Mehr erfahren",
     "booking_title": "Buchen Sie ein Kennenlerngespräch",

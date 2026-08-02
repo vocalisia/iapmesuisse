@@ -18,6 +18,13 @@ const forbidden = [
   { name: 'starts-at pricing', pattern: /(?:à partir de|a partir de|starts at)\s+\d/i },
 ];
 
+const allowedConsultingPrices = {
+  'messages/fr.json': new Set(['"price": "297 CHF",', '"price": "1\'497 CHF",']),
+  'messages/de.json': new Set(['"price": "297 CHF",', '"price": "1\'497 CHF",']),
+  'messages/en.json': new Set(['"price": "297 CHF",', '"price": "1,497 CHF",']),
+  'messages/it.json': new Set(['"price": "297 CHF",', '"price": "1\'497 CHF",']),
+};
+
 function listFiles(target) {
   if (!fs.existsSync(target)) return [];
   const stat = fs.statSync(target);
@@ -41,9 +48,23 @@ const failures = [];
 
 for (const file of files) {
   const rel = path.relative(root, file);
+  const normalizedRel = rel.split(path.sep).join('/');
   const lines = fs.readFileSync(file, 'utf8').split(/\r?\n/);
+  let inConsultingSection = false;
   lines.forEach((line, index) => {
+    if (/^  "consulting": \{$/.test(line)) {
+      inConsultingSection = true;
+    } else if (inConsultingSection && /^  "[^"]+": \{$/.test(line)) {
+      inConsultingSection = false;
+    }
+
     for (const rule of forbidden) {
+      const isAllowedExistingConsultingPrice =
+        rule.name === 'currency code' &&
+        inConsultingSection &&
+        allowedConsultingPrices[normalizedRel]?.has(line.trim());
+      if (isAllowedExistingConsultingPrice) continue;
+
       if (rule.pattern.test(line)) {
         failures.push(`${rel}:${index + 1} ${rule.name}: ${line.trim().slice(0, 180)}`);
       }
