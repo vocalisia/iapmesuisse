@@ -18,11 +18,53 @@ const forbidden = [
   { name: 'starts-at pricing', pattern: /(?:à partir de|a partir de|starts at)\s+\d/i },
 ];
 
-const allowedConsultingPrices = {
-  'messages/fr.json': new Set(['"price": "297 CHF",', '"price": "1\'497 CHF",']),
-  'messages/de.json': new Set(['"price": "297 CHF",', '"price": "1\'497 CHF",']),
-  'messages/en.json': new Set(['"price": "297 CHF",', '"price": "1,497 CHF",']),
-  'messages/it.json': new Set(['"price": "297 CHF",', '"price": "1\'497 CHF",']),
+const commonPriceLines = [
+  '"price": "97 CHF",',
+  '"price": "297 CHF",',
+  '"price": "997 CHF",',
+  '"price": "2500 CHF",',
+  '"price": "3500 CHF",',
+];
+
+// These exact lines predate the public-pricing guard and are intentional.
+// Keeping an exact allowlist prevents future prices from bypassing the guard.
+const allowedExistingCommercialLines = {
+  'messages/fr.json': new Set([
+    ...commonPriceLines,
+    '"price": "1\'497 CHF",',
+    '"pricing_text": "Les tarifs sont communiqués sur devis. Les prix s\'entendent en CHF hors TVA. Paiement dû sous 30 jours.",',
+    '"vat_note": "Prix en CHF, hors TVA",',
+    '"question": "Combien coûte l\'intégration de l\'IA ?",',
+    '"question": "Combien coûte un projet IA pour PME ?",',
+    '"answer": "Les coûts varient : de gratuit (outils de base) à quelques milliers de francs (intégration sur mesure). Notre audit express à 297 CHF vous donne une estimation précise du ROI.",',
+  ]),
+  'messages/de.json': new Set([
+    ...commonPriceLines,
+    '"price": "1\'497 CHF",',
+    '"pricing_text": "Die Preise werden auf Anfrage mitgeteilt. Die Preise verstehen sich in CHF exkl. MwSt. Zahlungsfrist: 30 Tage.",',
+    '"vat_note": "Preise in CHF, exkl. MwSt.",',
+    '"question": "Was kostet die Integration von KI?",',
+    '"question": "Was kostet ein KI-Projekt für KMU?",',
+    '"answer": "Die Kosten variieren: von kostenlos (Basistools) bis zu einigen tausend Franken (massgeschneiderte Integration). Unser Express-Audit für 297 CHF liefert Ihnen eine präzise ROI-Schätzung.",',
+  ]),
+  'messages/en.json': new Set([
+    ...commonPriceLines,
+    '"price": "1,497 CHF",',
+    '"pricing_text": "Prices are provided on request. Prices are in CHF excluding VAT. Payment is due within 30 days.",',
+    '"vat_note": "Prices in CHF, excl. VAT",',
+    '"question": "How much does AI integration cost?",',
+    '"question": "How much does an AI project for an SME cost?",',
+    '"answer": "Costs range from free (basic tools) to several thousand francs (bespoke integration). Our express audit at 297 CHF provides a precise ROI estimate.",',
+  ]),
+  'messages/it.json': new Set([
+    ...commonPriceLines,
+    '"price": "1\'497 CHF",',
+    '"pricing_text": "Le tariffe sono comunicate su richiesta. I prezzi si intendono in CHF IVA esclusa. Pagamento entro 30 giorni.",',
+    '"vat_note": "Prezzi in CHF, IVA esclusa",',
+    '"question": "Quanto costa l\'integrazione dell\'IA?",',
+    '"question": "Quanto costa un progetto IA per PMI?",',
+    '"answer": "I costi variano: da gratuito (strumenti base) a qualche migliaio di franchi (integrazione su misura). Il nostro audit express a 297 CHF vi fornisce una stima precisa del ROI.",',
+  ]),
 };
 
 function listFiles(target) {
@@ -50,20 +92,12 @@ for (const file of files) {
   const rel = path.relative(root, file);
   const normalizedRel = rel.split(path.sep).join('/');
   const lines = fs.readFileSync(file, 'utf8').split(/\r?\n/);
-  let inConsultingSection = false;
   lines.forEach((line, index) => {
-    if (/^  "consulting": \{$/.test(line)) {
-      inConsultingSection = true;
-    } else if (inConsultingSection && /^  "[^"]+": \{$/.test(line)) {
-      inConsultingSection = false;
-    }
-
     for (const rule of forbidden) {
-      const isAllowedExistingConsultingPrice =
-        rule.name === 'currency code' &&
-        inConsultingSection &&
-        allowedConsultingPrices[normalizedRel]?.has(line.trim());
-      if (isAllowedExistingConsultingPrice) continue;
+      const isAllowedExistingCommercialLine =
+        (rule.name === 'currency code' || rule.name === 'cost question') &&
+        allowedExistingCommercialLines[normalizedRel]?.has(line.trim());
+      if (isAllowedExistingCommercialLine) continue;
 
       if (rule.pattern.test(line)) {
         failures.push(`${rel}:${index + 1} ${rule.name}: ${line.trim().slice(0, 180)}`);

@@ -354,8 +354,8 @@
         "answer": "Assolutamente sì. Molti strumenti IA sono accessibili e convenienti, anche per le microimprese. L'importante è identificare i casi d'uso più adatti."
       },
       {
-        "question": "Come definire l'integrazione dell'IA?",
-        "answer": "Il perimetro dipende dalla complessità del progetto, dai dati disponibili e dai risultati attesi. Un audit iniziale permette di dare priorità alle azioni utili."
+        "question": "Quanto costa l'integrazione dell'IA?",
+        "answer": "I costi variano in base alla complessità del progetto. Un audit iniziale permette di valutare gli investimenti necessari e il ROI atteso."
       },
       {
         "question": "Servono competenze tecniche?",
@@ -431,8 +431,8 @@
       "scope_text": "Le presenti condizioni si applicano a tutte le prestazioni offerte da IAPME Suisse.",
       "services_title": "Descrizione dei servizi",
       "services_text": "IAPME Suisse offre servizi di consulenza, formazione e integrazione nel campo dell'intelligenza artificiale per le PMI svizzere. L'ambito esatto è definito in un preventivo o contratto specifico.",
-      "pricing_title": "Perimetro e condizioni",
-      "pricing_text": "Ogni missione viene definita in uno scambio privato secondo processi, dati e priorità.",
+      "pricing_title": "Tariffe e pagamento",
+      "pricing_text": "Le tariffe sono comunicate su richiesta. I prezzi si intendono in CHF IVA esclusa. Pagamento entro 30 giorni.",
       "cancellation_title": "Annullamento",
       "cancellation_text": "Ogni annullamento deve essere comunicato per iscritto almeno 5 giorni lavorativi prima della data prevista.",
       "confidentiality_title": "Riservatezza",
@@ -448,7 +448,7 @@
     "subtitle": "Sviluppate le competenze IA del vostro team con le nostre formazioni personalizzate",
     "free": {
       "name": "Scoperta",
-      "price": "Da definire",
+      "price": "Accesso introduttivo",
       "description": "Primi passi nell'IA",
       "features": [
         "Mini-corso email di 5 giorni",
@@ -460,7 +460,7 @@
     },
     "starter": {
       "name": "Starter",
-      "price": "Da definire",
+      "price": "97 CHF",
       "description": "Le basi dell'IA per la vostra PMI",
       "features": [
         "3 ore di video",
@@ -473,7 +473,7 @@
     },
     "pro": {
       "name": "Pro",
-      "price": "Da definire",
+      "price": "297 CHF",
       "description": "Padroneggiate l'IA per la vostra impresa",
       "features": [
         "10 ore di video",
@@ -491,7 +491,7 @@
     },
     "premium": {
       "name": "Premium",
-      "price": "Da definire",
+      "price": "997 CHF",
       "description": "Trasformazione completa con accompagnamento",
       "features": [
         "Intero programma Pro",
@@ -504,10 +504,10 @@
       "badge": "VIP"
     },
     "guarantee": "Soddisfatti o rimborsati entro 30 giorni",
-    "vat_note": "Condizioni chiarite in uno scambio privato.",
+    "vat_note": "Prezzi in CHF, IVA esclusa",
     "equipe": {
       "name": "Formazione Team",
-      "price": "Da definire",
+      "price": "2500 CHF",
       "description": "Formazione IA personalizzata in videoconferenza con il tuo team — 4h di workshop pratico sugli strumenti IA adatti al tuo settore",
       "features": [
         "Sessione video 4h con il tuo team",
@@ -530,7 +530,7 @@
     },
     "claude_code": {
       "name": "Formation Claude Code",
-      "price": "Da definire",
+      "price": "3500 CHF",
       "description": "Atelier visio 4h dédié à Claude Code pour votre équipe dev",
       "badge": "Dev & Tech",
       "cta": "Réserver ma session",
@@ -547,7 +547,7 @@
     },
     "ia_marketing": {
       "name": "Formation IA Marketing",
-      "price": "Da definire",
+      "price": "2500 CHF",
       "description": "Atelier visio 4h IA Marketing pour votre équipe",
       "badge": "Marketing",
       "cta": "Réserver ma session",
@@ -676,7 +676,7 @@
     "subtitle": "Offerte adatte a ogni esigenza",
     "starter": {
       "name": "Scoperta",
-      "price": "Da definire",
+      "price": "Gratuito",
       "description": "Primo passo verso l'IA",
       "features": [
         "Audit IA iniziale (1 ora)",
@@ -686,7 +686,7 @@
     },
     "pro": {
       "name": "Professionale",
-      "price": "Da definire",
+      "price": "Su preventivo",
       "description": "Integrazione e formazione",
       "features": [
         "Audit IA approfondito",
@@ -698,7 +698,7 @@
     },
     "enterprise": {
       "name": "Impresa",
-      "price": "Da definire",
+      "price": "Su preventivo",
       "description": "Trasformazione completa",
       "features": [
         "Strategia IA completa",
@@ -752,7 +752,7 @@
         "date": "2026-03-26",
         "location": "EPFL, Losanna",
         "type": "Conferenza",
-        "price": "Da definire",
+        "price": "A pagamento",
         "url": "https://appliedmldays.org",
         "description": "La più grande conferenza svizzera sul machine learning, organizzata dall'EPFL."
       },
@@ -761,7 +761,7 @@
         "date": "2026-11-01",
         "location": "Tutta la Svizzera",
         "type": "Giornata nazionale",
-        "price": "Da definire",
+        "price": "Gratuito",
         "url": "https://digitaltag.swiss",
         "description": "Giornata nazionale della digitalizzazione organizzata da digitalswitzerland."
       },
@@ -770,7 +770,7 @@
         "date": "2026-06-15",
         "location": "Zurigo",
         "type": "Summit",
-        "price": "Da definire",
+        "price": "A pagamento",
         "url": "#",
         "description": "Summit dedicato all'IA e all'automazione per le imprese svizzere."
       },
@@ -779,7 +779,7 @@
         "date": "2026-04-15",
         "location": "Online",
         "type": "Webinar",
-        "price": "Da definire",
+        "price": "Gratuito",
         "url": "#",
         "description": "Webinar mensile: scoprite come l'IA può trasformare la vostra PMI."
       }
@@ -807,7 +807,7 @@
         "name": "ChatGPT",
         "category": "content",
         "rating": 5,
-        "price": "Da definire",
+        "price": "Freemium",
         "description": "L'assistente IA più versatile per redazione, analisi e brainstorming.",
         "url": "https://chat.openai.com"
       },
@@ -815,7 +815,7 @@
         "name": "Claude",
         "category": "content",
         "rating": 5,
-        "price": "Da definire",
+        "price": "Freemium",
         "description": "IA di Anthropic, eccellente per l'analisi di documenti e la redazione lunga.",
         "url": "https://claude.ai"
       },
@@ -823,7 +823,7 @@
         "name": "DeepL",
         "category": "translation",
         "rating": 5,
-        "price": "Da definire",
+        "price": "Freemium",
         "description": "Il miglior strumento di traduzione automatica, ideale per le PMI svizzere multilingue.",
         "url": "https://www.deepl.com"
       },
@@ -831,7 +831,7 @@
         "name": "Zapier",
         "category": "automation",
         "rating": 4,
-        "price": "Da definire",
+        "price": "Freemium",
         "description": "Collegate le vostre applicazioni e automatizzate i workflow senza programmare.",
         "url": "https://zapier.com"
       },
@@ -839,7 +839,7 @@
         "name": "Make",
         "category": "automation",
         "rating": 4,
-        "price": "Da definire",
+        "price": "Freemium",
         "description": "Automazione avanzata con un'interfaccia visuale potente.",
         "url": "https://www.make.com"
       },
@@ -847,7 +847,7 @@
         "name": "Notion AI",
         "category": "productivity",
         "rating": 4,
-        "price": "Da definire",
+        "price": "A pagamento",
         "description": "Organizzazione e produttività potenziate dall'IA integrata.",
         "url": "https://notion.so"
       },
@@ -855,7 +855,7 @@
         "name": "Infomaniak",
         "category": "hosting",
         "rating": 5,
-        "price": "Da definire",
+        "price": "A pagamento",
         "description": "Hosting web svizzero, ecologico e sovrano. Ideale per le PMI.",
         "url": "https://www.infomaniak.com"
       },
@@ -863,7 +863,7 @@
         "name": "Canva",
         "category": "content",
         "rating": 4,
-        "price": "Da definire",
+        "price": "Freemium",
         "description": "Creazione grafica semplificata con funzioni IA integrate.",
         "url": "https://www.canva.com"
       }
@@ -906,12 +906,12 @@
       "general": "Generale",
       "technical": "Tecnico",
       "legal": "Legale & Conformità",
-      "pricing": "Perimetro"
+      "pricing": "Tariffe"
     },
     "items": [
       {
         "question": "L'IA è adatta alle piccole imprese?",
-        "answer": "Assolutamente. Strumenti come ChatGPT, DeepL o Zapier sono accessibili alle PMI e possono automatizzare attività ripetitive, migliorare il servizio clienti o accelerare la creazione di contenuti.",
+        "answer": "Assolutamente. Strumenti come ChatGPT, DeepL o Zapier sono accessibili a partire da pochi franchi al mese e possono automatizzare attività ripetitive, migliorare il servizio clienti o accelerare la creazione di contenuti.",
         "category": "general"
       },
       {
@@ -940,9 +940,9 @@
         "category": "legal"
       },
       {
-        "question": "Come definire un progetto IA per PMI?",
-        "answer": "Il perimetro giusto dipende dai vostri processi, dai dati, dai rischi nLPD e dagli obiettivi aziendali. Il nostro audit express identifica i casi d'uso prioritari, il livello di impegno e i risultati attesi.",
-        "category": "perimetro"
+        "question": "Quanto costa un progetto IA per PMI?",
+        "answer": "I costi variano: da gratuito (strumenti base) a qualche migliaio di franchi (integrazione su misura). Il nostro audit express a 297 CHF vi fornisce una stima precisa del ROI.",
+        "category": "pricing"
       },
       {
         "question": "Quanto dura un progetto di integrazione?",
@@ -957,7 +957,7 @@
       {
         "question": "Come finanziare il mio progetto IA?",
         "answer": "Diversi cantoni offrono sovvenzioni per la digitalizzazione delle PMI (VD, GE, VS, ZH, ecc.). Vi aiutiamo a identificare gli aiuti disponibili nella vostra regione.",
-        "category": "perimetro"
+        "category": "pricing"
       }
     ]
   },

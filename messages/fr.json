@@ -354,8 +354,8 @@
         "answer": "Absolument. De nombreux outils IA sont accessibles et abordables, même pour les micro-entreprises. L'important est d'identifier les bons cas d'usage."
       },
       {
-        "question": "comment cadrer l'intégration de l'IA?",
-        "answer": "Le périmètre dépend de la complexité du projet, des données disponibles et des résultats attendus. Un audit initial permet de prioriser les actions utiles."
+        "question": "Combien coûte l'intégration de l'IA ?",
+        "answer": "Les coûts varient selon la complexité du projet. Un audit initial permet d'évaluer les investissements nécessaires et le ROI attendu."
       },
       {
         "question": "Faut-il des compétences techniques?",
@@ -431,8 +431,8 @@
       "scope_text": "Les présentes conditions s'appliquent à l'ensemble des prestations proposées par IAPME Suisse.",
       "services_title": "Description des services",
       "services_text": "IAPME Suisse propose des services de conseil, formation et intégration en intelligence artificielle destinés aux PME suisses. Le périmètre exact est défini en échange privé selon vos processus, vos données et vos priorités.",
-      "pricing_title": "Cadrage et conditions",
-      "pricing_text": "Chaque mission est cadrée en échange privé selon vos processus, vos données et vos priorités.",
+      "pricing_title": "Tarifs et paiement",
+      "pricing_text": "Les tarifs sont communiqués sur devis. Les prix s'entendent en CHF hors TVA. Paiement dû sous 30 jours.",
       "cancellation_title": "Annulation",
       "cancellation_text": "Toute annulation doit être communiquée par écrit au minimum 5 jours ouvrables avant la date prévue.",
       "confidentiality_title": "Confidentialité",
@@ -448,7 +448,7 @@
     "subtitle": "Développez les compétences IA de votre équipe avec nos formations adaptées",
     "free": {
       "name": "Découverte",
-      "price": "À cadrer",
+      "price": "Acces decouverte",
       "description": "Premiers pas dans l'IA",
       "features": [
         "Mini-cours email 5 jours",
@@ -460,7 +460,7 @@
     },
     "starter": {
       "name": "Starter",
-      "price": "À cadrer",
+      "price": "97 CHF",
       "description": "Les bases de l'IA pour votre PME",
       "features": [
         "3h de vidéo",
@@ -473,7 +473,7 @@
     },
     "pro": {
       "name": "Pro",
-      "price": "À cadrer",
+      "price": "297 CHF",
       "description": "Maîtrisez l'IA pour votre entreprise",
       "features": [
         "10h de vidéo",
@@ -491,7 +491,7 @@
     },
     "premium": {
       "name": "Premium",
-      "price": "À cadrer",
+      "price": "997 CHF",
       "description": "Transformation complète avec accompagnement",
       "features": [
         "Tout le programme Pro",
@@ -504,10 +504,10 @@
       "badge": "VIP"
     },
     "guarantee": "Satisfait ou remboursé 30 jours",
-    "vat_note": "Conditions précisées en échange privé.",
+    "vat_note": "Prix en CHF, hors TVA",
     "equipe": {
       "name": "Formation Équipe",
-      "price": "À cadrer",
+      "price": "2500 CHF",
       "description": "Formation IA en visio sur mesure avec vos équipes — 4h d'atelier pratique sur les outils IA adaptés à votre métier",
       "features": [
         "Session visio 4h avec votre équipe",
@@ -530,7 +530,7 @@
     },
     "claude_code": {
       "name": "Formation Claude Code",
-      "price": "À cadrer",
+      "price": "3500 CHF",
       "description": "Atelier visio 4h dédié à Claude Code pour votre équipe dev",
       "badge": "Dev & Tech",
       "cta": "Réserver ma session",
@@ -547,7 +547,7 @@
     },
     "ia_marketing": {
       "name": "Formation IA Marketing",
-      "price": "À cadrer",
+      "price": "2500 CHF",
       "description": "Atelier visio 4h IA Marketing pour votre équipe",
       "badge": "Marketing",
       "cta": "Réserver ma session",
@@ -676,7 +676,7 @@
     "subtitle": "Des offres adaptées à chaque besoin",
     "starter": {
       "name": "Découverte",
-      "price": "À cadrer",
+      "price": "Gratuit",
       "description": "Premier pas vers l'IA",
       "features": [
         "Audit IA initial (1h)",
@@ -686,7 +686,7 @@
     },
     "pro": {
       "name": "Professionnel",
-      "price": "À cadrer",
+      "price": "Sur devis",
       "description": "Intégration et formation",
       "features": [
         "Audit IA approfondi",
@@ -698,7 +698,7 @@
     },
     "enterprise": {
       "name": "Entreprise",
-      "price": "À cadrer",
+      "price": "Sur devis",
       "description": "Transformation complète",
       "features": [
         "Stratégie IA complète",
@@ -729,7 +729,7 @@
         "date": "2026-03-26",
         "location": "EPFL, Lausanne",
         "type": "Conférence",
-        "price": "À cadrer",
+        "price": "Payant",
         "url": "https://appliedmldays.org",
         "description": "La plus grande conférence suisse sur le machine learning, organisée par l'EPFL."
       },
@@ -738,7 +738,7 @@
         "date": "2026-11-01",
         "location": "Suisse entière",
         "type": "Journée nationale",
-        "price": "À cadrer",
+        "price": "Gratuit",
         "url": "https://digitaltag.swiss",
         "description": "Journée nationale de la digitalisation organisée par digitalswitzerland."
       },
@@ -747,7 +747,7 @@
         "date": "2026-06-15",
         "location": "Zurich",
         "type": "Sommet",
-        "price": "À cadrer",
+        "price": "Payant",
         "url": "#",
         "description": "Sommet dédié à l'IA et l'automatisation pour les entreprises suisses."
       },
@@ -756,7 +756,7 @@
         "date": "2026-04-15",
         "location": "En ligne",
         "type": "Webinaire",
-        "price": "À cadrer",
+        "price": "Gratuit",
         "url": "#",
         "description": "Webinaire mensuel: découvrez comment l'IA peut transformer votre PME."
       }
@@ -784,7 +784,7 @@
         "name": "ChatGPT",
         "category": "content",
         "rating": 5,
-        "price": "À cadrer",
+        "price": "Freemium",
         "description": "L'assistant IA le plus polyvalent pour rédaction, analyse et brainstorming.",
         "url": "https://chat.openai.com"
       },
@@ -792,7 +792,7 @@
         "name": "Claude",
         "category": "content",
         "rating": 5,
-        "price": "À cadrer",
+        "price": "Freemium",
         "description": "IA d'Anthropic, excellente pour l'analyse de documents et la rédaction longue.",
         "url": "https://claude.ai"
       },
@@ -800,7 +800,7 @@
         "name": "DeepL",
         "category": "translation",
         "rating": 5,
-        "price": "À cadrer",
+        "price": "Freemium",
         "description": "Le meilleur outil de traduction automatique, idéal pour les PME multilingues suisses.",
         "url": "https://www.deepl.com"
       },
@@ -808,7 +808,7 @@
         "name": "Zapier",
         "category": "automation",
         "rating": 4,
-        "price": "À cadrer",
+        "price": "Freemium",
         "description": "Connectez vos applications et automatisez vos workflows sans coder.",
         "url": "https://zapier.com"
       },
@@ -816,7 +816,7 @@
         "name": "Make",
         "category": "automation",
         "rating": 4,
-        "price": "À cadrer",
+        "price": "Freemium",
         "description": "Automatisation avancée avec une interface visuelle puissante.",
         "url": "https://www.make.com"
       },
@@ -824,7 +824,7 @@
         "name": "Notion AI",
         "category": "productivity",
         "rating": 4,
-        "price": "À cadrer",
+        "price": "Payant",
         "description": "Organisation et productivité boostées par l'IA intégrée.",
         "url": "https://notion.so"
       },
@@ -832,7 +832,7 @@
         "name": "Infomaniak",
         "category": "hosting",
         "rating": 5,
-        "price": "À cadrer",
+        "price": "Payant",
         "description": "Hébergement web suisse, écologique et souverain. Idéal pour les PME.",
         "url": "https://www.infomaniak.com"
       },
@@ -840,7 +840,7 @@
         "name": "Canva",
         "category": "content",
         "rating": 4,
-        "price": "À cadrer",
+        "price": "Freemium",
         "description": "Création graphique simplifiée avec fonctions IA intégrées.",
         "url": "https://www.canva.com"
       },
@@ -848,7 +848,7 @@
         "name": "SEO True",
         "category": "seo",
         "rating": 5,
-        "price": "À cadrer",
+        "price": "Freemium",
         "description": "Outil SEO automatisé par IA: audit de contenu, optimisation de mots-clés et génération de recommandations SEO adaptées aux PME suisses.",
         "url": "https://seo-true.com"
       }
@@ -891,12 +891,12 @@
       "general": "Général",
       "technical": "Technique",
       "legal": "Légal & Conformité",
-      "pricing": "cadrage personnalisé"
+      "pricing": "Tarifs"
     },
     "items": [
       {
         "question": "L'IA est-elle adaptée aux petites entreprises?",
-        "answer": "Absolument. Des outils comme ChatGPT, DeepL ou Zapier sont accessibles aux PME et peuvent automatiser des tâches répétitives, améliorer le service client ou accélérer la création de contenu.",
+        "answer": "Absolument. Des outils comme ChatGPT, DeepL ou Zapier sont accessibles dès quelques francs par mois et peuvent automatiser des tâches répétitives, améliorer le service client ou accélérer la création de contenu.",
         "category": "general"
       },
       {
@@ -925,9 +925,9 @@
         "category": "legal"
       },
       {
-        "question": "Comment cadrer un projet IA pour PME?",
-        "answer": "Le bon périmètre dépend de vos processus, de vos données, des risques nLPD et de vos objectifs métier. Notre audit express identifie les cas d'usage prioritaires, le niveau d'effort et les résultats attendus.",
-        "category": "cadrage"
+        "question": "Combien coûte un projet IA pour PME ?",
+        "answer": "Les coûts varient : de gratuit (outils de base) à quelques milliers de francs (intégration sur mesure). Notre audit express à 297 CHF vous donne une estimation précise du ROI.",
+        "category": "pricing"
       },
       {
         "question": "Quelle est la durée d'un projet d'intégration?",
@@ -942,7 +942,7 @@
       {
         "question": "Comment financer mon projet IA?",
         "answer": "Plusieurs cantons proposent des subventions pour la digitalisation des PME (VD, GE, VS, ZH, etc.). Nous vous aidons à identifier les aides disponibles dans votre région.",
-        "category": "cadrage"
+        "category": "pricing"
       }
     ]
   },
