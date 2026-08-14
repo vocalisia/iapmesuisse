@@ -1,7 +1,10 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { Resend } from 'resend';
 
-const resend = new Resend(process.env.RESEND_API_KEY);
+function getResendClient() {
+  const apiKey = process.env.RESEND_API_KEY;
+  return apiKey ? new Resend(apiKey) : null;
+}
 
 export async function POST(request: NextRequest) {
   try {
@@ -10,6 +13,11 @@ export async function POST(request: NextRequest) {
 
     if (!email) {
       return NextResponse.json({ error: 'Email is required' }, { status: 400 });
+    }
+
+    const resend = getResendClient();
+    if (!resend) {
+      return NextResponse.json({ error: 'Email service is temporarily unavailable' }, { status: 503 });
     }
 
     await resend.emails.send({

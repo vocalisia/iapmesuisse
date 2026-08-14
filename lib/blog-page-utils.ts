@@ -71,6 +71,7 @@ export const LEGACY_BLOG_REDIRECTS: Record<string, Record<string, string>> = {
   it: {
     'formation-ia-pme-suisse': '/formation-ia-pme',
     'ia-pme-valais-sion': '/villes/sion',
+    'crm-implementierung-kmu-schweiz-beispiel': '/blog/crm-intelligent-ia',
     // This article exists only in French; retain the content rather than return a dead localized URL.
     'ia-pme-geneve-cas-usage-2026': '/fr/blog/ia-pme-geneve-cas-usage-2026',
     'agence-ia-pour-pme-2026-04-14': '/blog/agence-ia-pme-suisse-comparatif',
@@ -78,6 +79,8 @@ export const LEGACY_BLOG_REDIRECTS: Record<string, Record<string, string>> = {
     'subventions-pme-suisse-2026-04-14': '/blog/subventions-digitalisation-suisse',
   },
   fr: {
+    'agent-ia-commercial-pme-suisse-romande': '/blog/agent-ia-vente-prospection-suisse',
+    'ia-cyber-risques-pme-suisse-2026': '/blog/ia-cybersecurite-pme-suisse-2026',
     'registre-usages-ia-pme-suisse-nlpd': '/blog/audit-ia-gratuit-pme-suisse-checklist-nlpd',
     'agent-ia-documentation-interne-pme': '/blog/ia-gestion-documentaire-suisse-guide-2026',
     'ia-fiduciaire-pme-suisse-controles': '/blog/ia-fiduciaire-comptable-suisse-guide-2026',
