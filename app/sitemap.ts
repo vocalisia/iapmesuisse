@@ -95,6 +95,7 @@ const pages = [
   '/services/marketing-ia',
   '/services/prise-de-rdv',
   '/a-propos',
+  '/charte-editoriale',
   '/blog',
   '/contact',
   '/cantons',

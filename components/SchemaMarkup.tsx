@@ -138,9 +138,6 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
       "closes": "18:00",
     },
     "publishingPrinciples": `${baseUrl}/${locale}/charte-editoriale`,
-    "ethicsPolicy": `${baseUrl}/${locale}/ethique`,
-    "correctionsPolicy": `${baseUrl}/${locale}/corrections`,
-    "diversityPolicy": `${baseUrl}/${locale}/diversite`,
     "sameAs": [
       "https://www.linkedin.com/company/iapme-suisse",
       "https://www.linkedin.com/in/vocalisia",

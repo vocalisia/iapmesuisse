@@ -21,6 +21,12 @@ const nextConfig: NextConfig = {
         destination: '/:locale/quiz/maturite-ia',
         permanent: true,
       },
+      // Ancienne landing page : le guide nLPD est l'équivalent éditorial public disponible.
+      {
+        source: '/audit-ia-gratuit',
+        destination: '/fr/blog/audit-ia-gratuit-pme-suisse-checklist-nlpd',
+        permanent: true,
+      },
       // Cannibalisation: consolide Valais/Sion vers slug canonique
       {
         source: '/fr/blog/ia-pme-valais-sion',

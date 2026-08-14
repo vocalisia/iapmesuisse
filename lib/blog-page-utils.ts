@@ -87,6 +87,7 @@ export const LEGACY_BLOG_REDIRECTS: Record<string, Record<string, string>> = {
     'subventions-pme-suisse-ou-chercher': '/blog/ia-subventions-aides-digitalisation-pme-suisse-2026',
     'ia-tourisme-pme-suisse-demandes-clients': '/blog/ia-tourisme-hotellerie-suisse-guide-2026',
     'automatisation-ia-support-client-pme-suisse': '/blog/automatisation-service-client-ia-suisse',
+    'faq-aio-pme-suisse-questions-clients': '/faq',
     'workflow-ia-suisse-cartographie-processus-pme': '/blog/workflow-ia-pme-suisse',
     'prompt-securise-pme-suisse': '/blog/claude-security-securite-pme-suisses',
     'maillage-interne-aio-pme-suisse': '/blog/maillage-interne-seo-ia-pme-suisse',
