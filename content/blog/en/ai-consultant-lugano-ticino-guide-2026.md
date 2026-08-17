@@ -1,7 +1,7 @@
 ---
 title: "AI Consultant Lugano: Ticino SME Guide 2026"
 date: "2026-05-27"
-excerpt: "AI consultant Lugano guide for Ticino SMEs comparing AI consulting companies in Lugano, conversational AI consultants and Swiss data rules."
+excerpt: "AI consultants in Lugano: compare AI consultancy options for Ticino SMEs, multilingual workflows and Swiss data-protection requirements."
 author: "Laurent Duplat"
 slug: "ai-consultant-lugano-ticino-guide-2026"
 image: "/images/blog/iapme-autocontrol-20260620/en-ai-consultant-lugano-ticino-guide-2026.webp"
