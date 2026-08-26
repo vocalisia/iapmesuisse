@@ -27,6 +27,14 @@ const nextConfig: NextConfig = {
         destination: '/fr/blog/audit-ia-gratuit-pme-suisse-checklist-nlpd',
         permanent: true,
       },
+      // 2026-08-26 — article indexé par Google mais mort en 404 (7 impressions/480j).
+      // Aucun équivalent éditorial parmi les 12 articles publiés : renvoi vers l'index
+      // du blog, seul parent légitime (une cible sans rapport serait un soft 404).
+      {
+        source: '/fr/blog/cas-usage-ia-pme-suisse-priorisation',
+        destination: '/fr/blog',
+        permanent: true,
+      },
       // Cannibalisation: consolide Valais/Sion vers slug canonique
       {
         source: '/fr/blog/ia-pme-valais-sion',
