@@ -11,7 +11,76 @@ type ChangeFrequency = NonNullable<MetadataRoute.Sitemap[number]['changeFrequenc
 const excludedBlogSlugsByLocale: Record<string, Set<string>> = {
   de: new Set(['formation-ia-pme-suisse', 'ia-pme-valais-sion']),
   en: new Set(['formation-ia-pme-suisse', 'ia-pme-valais-sion']),
-  it: new Set(['formation-ia-pme-suisse', 'ia-pme-valais-sion']),
+  it: new Set([
+    'formation-ia-pme-suisse',
+    'ia-pme-valais-sion',
+    // 2026-08-27 — elagage italien, mesure GSC a l'appui.
+    // L'italien est la SEULE langue du site ou Google a rendu son verdict : 95 % des
+    // articles /it/blog ont ete explores puis REFUSES (75 refuses, 4 seulement non vus),
+    // contre 63-68 % en fr/de/en, encore en cours d'evaluation.
+    // Rendement 90 j : it 5,4 impressions/page, contre de 67,2 et en 141,4.
+    // Les 55 slugs ci-dessous sont refuses ET sans traction (0 clic, < 5 impressions
+    // sur 180 j) ; les 11 articles italiens qui rapportent restent declares.
+    // Les pages restent EN LIGNE : on cesse seulement de demander a Google de les
+    // crawler, pour rendre ce budget aux sections qui performent.
+    // Rafraichir en croisant gsc-health.json (Crawled - currently not indexed) avec
+    // Search Analytics, et ne retirer que ce qui n'a ni clic ni impression.
+    'adopter-authentification-sans-mot-de-passe-pme-suisse',
+    'agents-ia-autonomes-pme-suisse-2026',
+    'audit-digitale-pmi-svizzera-guida-2026',
+    'audit-ia-maturite-pme',
+    'automatisation-service-client-ia-suisse',
+    'automatisation-ventes-prospection-suisse',
+    'automatisation-whatsapp-business-ia-pme-suisse',
+    'automatiser-taches-atout-pme-suisses',
+    'chatbot-ia-service-client-pme-suisse',
+    'chatgpt-pme',
+    'claude-security-securite-pme-suisses',
+    'copilot-microsoft-365-pme-suisse-guide-2026',
+    'etudes-cas-pme-romandes-ia',
+    'formation-ia-dirigeants',
+    'futur-ia-suisse-tendances',
+    'generation-leads-b2b-suisse-ia',
+    'gestion-securisee-appareils-mobiles-pme-suisse',
+    'ia-bien-etre-qvt-pme-suisse-2026',
+    'ia-crm-hubspot-salesforce-pme-suisse-2026',
+    'ia-cybersecurite-pme-suisse-2026',
+    'ia-energie-durabilite-pme-suisse-2026',
+    'ia-fintech-services-financiers-suisse-2026',
+    'ia-generativa-pmi-svizzera-guida-2026',
+    'ia-gestion-projets-pme-suisse-2026',
+    'ia-industrie-4-0-suisse-pme-2026',
+    'ia-innovation-startup-suisse-guide-2026',
+    'ia-logistique-supply-chain-suisse-2026',
+    'ia-recrutement-suisse',
+    'ia-restauration-pme-suisse-guide-2026',
+    'ia-rh-recrutement-automatise-suisse-2026',
+    'ia-sap-erp-pme-suisse-guide-2026',
+    'ia-seo-contenu-multilingue-suisse-pme-2026',
+    'ia-subventions-aides-digitalisation-pme-suisse-2026',
+    'ia-suisse-2025',
+    'ia-tourisme-hotellerie-suisse-guide-2026',
+    'ia-vehicules-electriques-revolution-suisse',
+    'impact-modeles-ia-pme-suisses',
+    'intelligence-artificielle-pme-suisses-guide-complet-2026',
+    'investissements-ia-opportunites-pme-suisses',
+    'make-vs-n8n-vs-zapier-pme-suisse-comparatif-2026',
+    'microsoft-365-securiser-conformite-pme-suisses',
+    'multilinguisme-ia-avantage-competitif-suisse',
+    'optimiser-innovation-cloud-ia-pme-suisses',
+    'optimiser-internet-haute-vitesse-pme-suisses',
+    'outils-ia-ecosysteme-pme-suisse-2026',
+    'outils-ia-gratuits-pme-suisse-top-15-2026',
+    'roi-intelligence-artificielle-pme-suisse',
+    'securite-pme-suisses-ia-identites',
+    'simplifier-ia-pme-suisses-exemple-poke',
+    'strategie-ia-pme-suisse-2026',
+    'strumenti-ia-elettricisti-idraulici-svizzera-2026',
+    'tendenze-it-ia-pmi-svizzera-2026',
+    'tesla-modele-ia-entreprise-suisse',
+    'transformez-votre-pme-avec-ia-nouveaux-modeles-microsoft',
+    'vantaggio-competitivo-ia-pmi-svizzera-2026',
+  ]),
 };
 
 const highIntentPages = new Set([
@@ -124,6 +193,7 @@ const pages = [
   '/quiz/quel-outil-ia',
   '/quiz/test-connaissances',
 ];
+
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const entries: MetadataRoute.Sitemap = [];
