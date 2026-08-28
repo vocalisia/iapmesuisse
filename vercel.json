@@ -2,8 +2,33 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "has": [{ "type": "host", "value": "www.iapmesuisse.ch" }],
+      "has": [
+        {
+          "type": "host",
+          "value": "www.iapmesuisse.ch"
+        }
+      ],
       "destination": "https://iapmesuisse.ch/$1",
+      "permanent": true
+    },
+    {
+      "source": "/fr/blog/cas-usage-ia-pme-suisse-priorisation",
+      "destination": "/fr/blog/ia-pour-pme-suisses-cas-usages-2026",
+      "permanent": true
+    },
+    {
+      "source": "/fr/blog/cas-usage-ia-pme-suisse-priorisation/",
+      "destination": "/fr/blog/ia-pour-pme-suisses-cas-usages-2026",
+      "permanent": true
+    },
+    {
+      "source": "/fr/blog/n8n-bexio-odoo-pme-suisse-automatisation",
+      "destination": "/fr/blog/n8n-self-hosted-pme-suisse",
+      "permanent": true
+    },
+    {
+      "source": "/fr/blog/n8n-bexio-odoo-pme-suisse-automatisation/",
+      "destination": "/fr/blog/n8n-self-hosted-pme-suisse",
       "permanent": true
     }
   ],
