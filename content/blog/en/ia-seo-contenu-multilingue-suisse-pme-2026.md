@@ -11,7 +11,7 @@ image: "/images/blog/iapme-autocontrol-20260620/en-ia-seo-contenu-multilingue-su
 
 The Swiss market is unique in the world: four linguistic regions, two main cultures (Latin and Germanic), and radically different search behaviours depending on the language. A Vaud-based SME targeting only French misses **75% of its potential Swiss market**. AI finally makes multilingual SEO accessible to SMEs.
 
-> For the general context, see the [pillar guide on AI automation for Swiss SMEs](/en/ai-automation-swiss-sme).
+> For the general context, see the [pillar guide on AI automation for Swiss SMEs](/en/automatisation-ia-pme-suisse).
 
 ## 1. The Specifics of Multilingual SEO in Switzerland
 
@@ -81,7 +81,7 @@ For a B2B services SME targeting all 4 linguistic regions:
 
 ## Further Reading
 
-- [Pillar guide: AI Automation for Swiss SMEs](/en/ai-automation-swiss-sme)
+- [Pillar guide: AI Automation for Swiss SMEs](/en/automatisation-ia-pme-suisse)
 - [AI for Digital Marketing of Swiss SMEs](/en/blog/ia-marketing-digital-pme-suisse-2026)
 - [Email Automation with AI](/en/blog/automatisation-emails-ia-pme-suisse-guide-2026)
 - [Autonomous AI Agents for Swiss SMEs](/en/blog/agents-ia-autonomes-pme-suisse-2026)
