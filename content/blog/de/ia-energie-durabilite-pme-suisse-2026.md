@@ -14,7 +14,7 @@ Die Schweiz hat sich verpflichtet, bis **2050 klimaneutral** zu werden — das K
 
 Gleichzeitig eröffnen Bund und Kantone erhebliche Subventionsprogramme für energetische Massnahmen. Künstliche Intelligenz spielt dabei eine zunehmend zentrale Rolle: Sie hilft KMU, Energie intelligenter zu nutzen, ESG-Reporting zu automatisieren und Subventionsanträge effizient zu verwalten — ohne dafür einen Spezialisten in Vollzeit einzustellen.
 
-> Zum allgemeinen Kontext der KI-Implementierung für Schweizer Betriebe empfehlen wir den [Praxisleitfaden zur KI-Automatisierung für Schweizer KMU](/de/automatisierung-ki-kmu-schweiz).
+> Zum allgemeinen Kontext der KI-Implementierung für Schweizer Betriebe empfehlen wir den [Praxisleitfaden zur KI-Automatisierung für Schweizer KMU](/de/automatisation-ia-pme-suisse).
 
 ## 1. Vier KI-Anwendungen für nachhaltigere Schweizer KMU
 
@@ -106,7 +106,7 @@ Möchten Sie wissen, wie viel Energie Ihr KMU mit KI einsparen könnte, und welc
 
 ## Weiterführende Informationen
 
-- [Praxisleitfaden: KI-Automatisierung für Schweizer KMU](/de/automatisierung-ki-kmu-schweiz)
+- [Praxisleitfaden: KI-Automatisierung für Schweizer KMU](/de/automatisation-ia-pme-suisse)
 - [KI für Industrie 4.0 in Schweizer KMU](/de/blog/ia-industrie-4-0-suisse-pme-2026)
 - [n8n selbst-gehostet für Schweizer KMU: Datensouveränität und nDSG](/de/blog/n8n-auto-heberge-pme-suisse-nlpd)
 - [KI für die Datenanalyse von Schweizer KMU](/de/blog/ia-analyse-donnees-pme-suisse-guide-2026)

@@ -12,7 +12,7 @@ image: "/images/blog/iapme-autocontrol-20260620/de-ia-restauration-pme-suisse-gu
 
 Die Schweizer Gastronomie steht unter erheblichem strukturellen Druck: **Personalmangel** (CHF 4,5 Milliarden Umsatzverlust im Jahr 2024 gemäss GastroSuisse) und **Kosteninflation** bei Lebensmitteln, Energie und Löhnen belasten Betriebe jeder Grösse. Hinzu kommt ein verändertes Gästeverhalten — Online-Reservierungen, Bewertungskultur und die Erwartung an mehrsprachigen Service sind zur Selbstverständlichkeit geworden. Künstliche Intelligenz ist kein Allheilmittel, aber sie gibt Gastronominnen und Gastronomen die Möglichkeit, administrative Aufgaben zu automatisieren, Verluste zu reduzieren und die Kundenbindung zu stärken — ohne das Wesentliche zu opfern: menschliche Gastfreundschaft.
 
-> Für den allgemeinen Kontext zur KI-Implementierung in Schweizer Betrieben empfehlen wir den [Praxisleitfaden zur KI-Automatisierung für Schweizer KMU](/de/automatisierung-ki-kmu-schweiz).
+> Für den allgemeinen Kontext zur KI-Implementierung in Schweizer Betrieben empfehlen wir den [Praxisleitfaden zur KI-Automatisierung für Schweizer KMU](/de/automatisation-ia-pme-suisse).
 
 ## 1. Fünf KI-Anwendungen mit sofortigem Impact in der Gastronomie
 
@@ -99,7 +99,7 @@ Sie möchten wissen, welche KI-Anwendungen sich für Ihr Restaurant konkret lohn
 
 ## Weiterführende Ressourcen
 
-- [Praxisleitfaden: KI-Automatisierung für Schweizer KMU](/de/automatisierung-ki-kmu-schweiz)
+- [Praxisleitfaden: KI-Automatisierung für Schweizer KMU](/de/automatisation-ia-pme-suisse)
 - [KI-Sprachassistent für KMU: vollständiger Leitfaden](/de/blog/assistant-vocal-ia-pme-guide-complet)
 - [KI für digitales Marketing von Schweizer KMU](/de/blog/ia-marketing-digital-pme-suisse-2026)
 - [WhatsApp Business-Automatisierung mit KI](/de/blog/automatisation-whatsapp-business-ia-pme-suisse)

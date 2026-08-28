@@ -14,7 +14,7 @@ Die Schweiz ist der **drittgrösste Finanzplatz der Welt**. Zürich und Genf beh
 
 Für kleinere Finanzdienstleister bietet KI eine seltene Gelegenheit: Prozesse, die bisher grossen Instituten vorbehalten waren, werden zugänglich — zu einem Bruchteil der früheren Kosten.
 
-> Für den allgemeinen Kontext zur KI-Einführung in Schweizer Betrieben empfehlen wir den [Praxisleitfaden zur KI-Automatisierung für Schweizer KMU](/de/automatisierung-ki-kmu-schweiz).
+> Für den allgemeinen Kontext zur KI-Einführung in Schweizer Betrieben empfehlen wir den [Praxisleitfaden zur KI-Automatisierung für Schweizer KMU](/de/automatisation-ia-pme-suisse).
 
 ## 1. Fünf KI-Anwendungen mit grossem Impact im Schweizer Finanzsektor
 
@@ -103,7 +103,7 @@ Sie möchten einschätzen lassen, welche KI-Lösungen für Ihr Finanzunternehmen
 
 ## Weiterführende Ressourcen
 
-- [Praxisleitfaden: KI-Automatisierung für Schweizer KMU](/de/automatisierung-ki-kmu-schweiz)
+- [Praxisleitfaden: KI-Automatisierung für Schweizer KMU](/de/automatisation-ia-pme-suisse)
 - [Datenschutzbeauftragter und nDSG im Zeitalter der KI: Praktische Pflichten](/de/blog/dpo-nlpd-ia-obligations-pratiques-pme-suisse)
 - [n8n selbst-gehostet für Schweizer KMU: Datensouveränität und nDSG](/de/blog/n8n-auto-heberge-pme-suisse-nlpd)
 - [E-Mail-Automatisierung mit KI](/de/blog/automatisation-emails-ia-pme-suisse-guide-2026)
