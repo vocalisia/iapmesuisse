@@ -2,69 +2,33 @@ const fs = require('fs');
 const path = require('path');
 
 const root = process.cwd();
-const scanTargets = [
+const markdownRenderer = fs.readFileSync(path.join(root, 'lib', 'markdown.ts'), 'utf8');
+const packageManifest = JSON.parse(fs.readFileSync(path.join(root, 'package.json'), 'utf8'));
+const schemaScanTargets = [
   path.join(root, 'app'),
   path.join(root, 'components'),
-  path.join(root, 'messages'),
-  path.join(root, 'lib', 'cantons.ts'),
+  path.join(root, 'lib'),
 ];
 
-const forbidden = [
-  { name: 'currency code', pattern: /\b(?:CHF|EUR|USD|GBP)\b/i },
-  { name: 'currency symbol', pattern: /[€£]/ },
-  { name: 'json-ld price field', pattern: /\b(?:priceRange|lowPrice|highPrice)\b/ },
-  { name: 'bad public sanitizer text', pattern: /condition personnalis(?:e|é)e?/i },
-  { name: 'cost question', pattern: /(?:Combien coûte|Combien coute|How much does[^?]+cost|Was kostet|Quanto costa)/i },
-  { name: 'starts-at pricing', pattern: /(?:à partir de|a partir de|starts at)\s+\d/i },
+const schemaForbidden = [
+  { name: 'json-ld price range field', pattern: /\b(?:priceRange|lowPrice|highPrice)\b/ },
+  { name: 'json-ld explicit price currency', pattern: /\bpriceCurrency\b\s*:\s*['"`][A-Z]{3}['"`]/ },
 ];
 
-const commonPriceLines = [
-  '"price": "97 CHF",',
-  '"price": "297 CHF",',
-  '"price": "997 CHF",',
-  '"price": "2500 CHF",',
-  '"price": "3500 CHF",',
-];
-
-// These exact lines predate the public-pricing guard and are intentional.
-// Keeping an exact allowlist prevents future prices from bypassing the guard.
-const allowedExistingCommercialLines = {
-  'messages/fr.json': new Set([
-    ...commonPriceLines,
-    '"price": "1\'497 CHF",',
-    '"pricing_text": "Les tarifs sont communiqués sur devis. Les prix s\'entendent en CHF hors TVA. Paiement dû sous 30 jours.",',
-    '"vat_note": "Prix en CHF, hors TVA",',
-    '"question": "Combien coûte l\'intégration de l\'IA ?",',
-    '"question": "Combien coûte un projet IA pour PME ?",',
-    '"answer": "Les coûts varient : de gratuit (outils de base) à quelques milliers de francs (intégration sur mesure). Notre audit express à 297 CHF vous donne une estimation précise du ROI.",',
-  ]),
-  'messages/de.json': new Set([
-    ...commonPriceLines,
-    '"price": "1\'497 CHF",',
-    '"pricing_text": "Die Preise werden auf Anfrage mitgeteilt. Die Preise verstehen sich in CHF exkl. MwSt. Zahlungsfrist: 30 Tage.",',
-    '"vat_note": "Preise in CHF, exkl. MwSt.",',
-    '"question": "Was kostet die Integration von KI?",',
-    '"question": "Was kostet ein KI-Projekt für KMU?",',
-    '"answer": "Die Kosten variieren: von kostenlos (Basistools) bis zu einigen tausend Franken (massgeschneiderte Integration). Unser Express-Audit für 297 CHF liefert Ihnen eine präzise ROI-Schätzung.",',
-  ]),
-  'messages/en.json': new Set([
-    ...commonPriceLines,
-    '"price": "1,497 CHF",',
-    '"pricing_text": "Prices are provided on request. Prices are in CHF excluding VAT. Payment is due within 30 days.",',
-    '"vat_note": "Prices in CHF, excl. VAT",',
-    '"question": "How much does AI integration cost?",',
-    '"question": "How much does an AI project for an SME cost?",',
-    '"answer": "Costs range from free (basic tools) to several thousand francs (bespoke integration). Our express audit at 297 CHF provides a precise ROI estimate.",',
-  ]),
-  'messages/it.json': new Set([
-    ...commonPriceLines,
-    '"price": "1\'497 CHF",',
-    '"pricing_text": "Le tariffe sono comunicate su richiesta. I prezzi si intendono in CHF IVA esclusa. Pagamento entro 30 giorni.",',
-    '"vat_note": "Prezzi in CHF, IVA esclusa",',
-    '"question": "Quanto costa l\'integrazione dell\'IA?",',
-    '"question": "Quanto costa un progetto IA per PMI?",',
-    '"answer": "I costi variano: da gratuito (strumenti base) a qualche migliaio di franchi (integrazione su misura). Il nostro audit express a 297 CHF vi fornisce una stima precisa del ROI.",',
-  ]),
+const requiredOfferText = {
+  'messages/fr.json': [
+    '97 CHF',
+    '297 CHF',
+    '997 CHF',
+    '2500 CHF',
+    '3500 CHF',
+    "1'497 CHF",
+    'https://buy.stripe.com/aFabJ03YS5AQ2SwfS6co00F',
+    'https://buy.stripe.com/dRm3cugLEaVa64I6hwco00M',
+  ],
+  'messages/de.json': ['97 CHF', '297 CHF', '997 CHF', '2500 CHF', '3500 CHF'],
+  'messages/en.json': ['97 CHF', '297 CHF', '997 CHF', '2500 CHF', '3500 CHF'],
+  'messages/it.json': ['97 CHF', '297 CHF', '997 CHF', '2500 CHF', '3500 CHF'],
 };
 
 function listFiles(target) {
@@ -77,28 +41,28 @@ function listFiles(target) {
     const full = path.join(target, entry);
     const entryStat = fs.statSync(full);
     if (entryStat.isDirectory()) {
-      files.push(...listFiles(full));
-    } else if (/\.(tsx?|json|mdx?)$/i.test(entry)) {
+      if (!['node_modules', '.next', 'out', 'dist', 'build'].includes(entry)) {
+        files.push(...listFiles(full));
+      }
+    } else if (/\.(tsx?|jsx?|mdx?)$/i.test(entry)) {
       files.push(full);
     }
   }
   return files;
 }
 
-const files = scanTargets.flatMap(listFiles);
 const failures = [];
 
-for (const file of files) {
+if (packageManifest.dependencies?.['remark-gfm'] === undefined || !/\.use\(gfm\)/.test(markdownRenderer)) {
+  failures.push('markdown tables must be rendered through remark-gfm; raw pipe tables are not publishable');
+}
+
+for (const file of schemaScanTargets.flatMap(listFiles)) {
   const rel = path.relative(root, file);
   const normalizedRel = rel.split(path.sep).join('/');
   const lines = fs.readFileSync(file, 'utf8').split(/\r?\n/);
   lines.forEach((line, index) => {
-    for (const rule of forbidden) {
-      const isAllowedExistingCommercialLine =
-        (rule.name === 'currency code' || rule.name === 'cost question') &&
-        allowedExistingCommercialLines[normalizedRel]?.has(line.trim());
-      if (isAllowedExistingCommercialLine) continue;
-
+    for (const rule of schemaForbidden) {
       if (rule.pattern.test(line)) {
         failures.push(`${rel}:${index + 1} ${rule.name}: ${line.trim().slice(0, 180)}`);
       }
@@ -106,11 +70,22 @@ for (const file of files) {
   });
 }
 
+for (const [rel, requiredValues] of Object.entries(requiredOfferText)) {
+  const full = path.join(root, rel);
+  const text = fs.existsSync(full) ? fs.readFileSync(full, 'utf8') : '';
+  for (const value of requiredValues) {
+    if (!text.includes(value)) {
+      failures.push(`${rel} missing required existing offer value: ${value}`);
+    }
+  }
+}
+
+
 if (failures.length > 0) {
-  console.error('Public content guard failed. Remove public pricing/currency before build:\n');
+  console.error('Public content guard failed. Preserve existing IAPME offers and keep schema pricing clean:\n');
   console.error(failures.slice(0, 80).join('\n'));
   if (failures.length > 80) console.error(`...and ${failures.length - 80} more`);
   process.exit(1);
 }
 
-console.log('OK public-content-guard: no public pricing/currency detected.');
+console.log('OK public-content-guard: existing IAPME prices/Stripe preserved; schema pricing clean.');

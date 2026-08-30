@@ -57,3 +57,46 @@ html, body {
   color: var(--color-accent);
   text-decoration: underline;
 }
+
+/* Editorial data tables: semantic, readable and safe on small screens. */
+.prose table {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  margin: 1.75rem 0;
+  border: 1px solid var(--color-gray-medium);
+  border-radius: 0.75rem;
+  border-spacing: 0;
+  border-collapse: separate;
+  background: var(--color-white);
+  box-shadow: 0 1px 2px rgb(27 42 74 / 0.06);
+}
+
+.prose th,
+.prose td {
+  min-width: 10rem;
+  padding: 0.875rem 1rem;
+  border-bottom: 1px solid var(--color-gray-medium);
+  text-align: left;
+  vertical-align: top;
+  line-height: 1.55;
+}
+
+.prose th {
+  background: var(--color-primary);
+  color: var(--color-white);
+  font-weight: 700;
+}
+
+.prose tr:last-child td {
+  border-bottom: 0;
+}
+
+.prose tbody tr:nth-child(even) {
+  background: #f8fafc;
+}
+
+.prose tbody tr:hover {
+  background: #f1f5f9;
+}

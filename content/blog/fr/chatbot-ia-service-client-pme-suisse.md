@@ -1,12 +1,12 @@
 ---
 title: "Chatbot IA pour PME suisse : le guide d'implémentation 2026"
 author: "Laurent Duplat"
-date: "2026-04-22"
+date: "2026-08-24"
 excerpt: "Tout ce qu'une PME suisse doit savoir pour implémenter un chatbot IA : types, coûts en CHF, plateformes, conformité LPD, étapes clés et KPIs à suivre."
 slug: "chatbot-ia-service-client-pme-suisse"
 category: "IA PME Suisses"
 pillar: "intelligence-artificielle-pme-suisses-guide-complet-2026"
-image: "/images/blog/iapme-autocontrol-20260620/fr-chatbot-ia-service-client-pme-suisse.webp"
+image: "/images/blog/iapmesuisse-photos-20260824/chatbot-ia-service-client-pme-suisse-photo.png"
 ---
 
 # Chatbot IA pour PME suisse : le guide d'implémentation 2026
@@ -319,6 +319,16 @@ Comparaison du nombre de tickets de support avant et après déploiement.
 | Chatbot IA sur-mesure + hébergement CH | 20 000 – 80 000 CHF | 15 000 – 40 000 CHF | 65 000 – 200 000 CHF |
 
 Ces chiffres incluent la plateforme, l'implémentation, la formation et la maintenance courante. Ils excluent le coût des intégrations techniques complexes (ERP sur mesure, systèmes legacy) qui peuvent ajouter 5 000 à 30 000 CHF.
+
+---
+
+## Contrôle qualité avant ouverture au public
+
+Avant d'ouvrir le chatbot à tous les visiteurs, préparez une série de conversations de test fondées sur de vraies demandes anonymisées. Incluez une question simple, une formulation ambiguë, une demande dans chaque langue de service, une demande hors périmètre et une situation qui doit obligatoirement être transférée à une personne. Pour chaque test, vérifiez la source utilisée, le ton de la réponse, la clarté du transfert et l'absence d'information inventée.
+
+Le responsable du support doit pouvoir modifier une réponse, retirer une source devenue obsolète et repérer les questions qui reviennent sans solution. Une fiche de suivi très simple suffit : date, demande, réponse proposée, validation humaine, correction et action à faire sur la base documentaire. Cette discipline évite qu'un chatbot donne longtemps une réponse dépassée parce que personne ne regarde ses conversations.
+
+Prévoyez aussi une règle de fermeture. Si le système ne sait pas répondre, il doit le dire clairement, indiquer comment joindre l'équipe et transmettre le contexte déjà fourni. Le client ne doit jamais recommencer son problème depuis le début après l'escalade. C'est souvent ce détail qui distingue une automatisation utile d'un obstacle supplémentaire dans le parcours de support.
 
 ---
 

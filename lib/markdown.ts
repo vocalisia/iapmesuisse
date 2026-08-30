@@ -2,6 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
 import { remark } from 'remark';
+import gfm from 'remark-gfm';
 import html from 'remark-html';
 import { isPublicPricingSlug, sanitizePublicPricingText } from './structured-data';
 import { sanitizePublicHtml } from './public-text';
@@ -71,7 +72,7 @@ export async function getBlogPost(
     const postSlug = data.slug || filename.replace(/\.md$/, '');
 
     if (postSlug === slug) {
-      const processedContent = await remark().use(html).process(content);
+      const processedContent = await remark().use(gfm).use(html).process(content);
 
       return {
         slug: postSlug,
