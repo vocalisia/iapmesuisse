@@ -115,6 +115,10 @@ Ce scénario est intéressant parce que la sortie est vérifiable. La personne q
 
 Les mesures peuvent rester simples : temps nécessaire pour préparer un dossier, proportion de tickets correctement classés après contrôle, volume de demandes renvoyées pour information manquante, délai d’escalade et exemples d’erreurs. Une mesure ne sert que si l’équipe sait quelle décision elle permettra de prendre : conserver le pilote, corriger une règle, limiter le périmètre ou l’arrêter.
 
+## Fixer une décision avant de lancer le pilote
+
+Avant de démarrer, notez ce qui permettra de considérer le pilote comme utile. Il peut s’agir d’un temps de préparation réduit sans baisse de qualité, d’une catégorie mieux renseignée après contrôle, ou d’une diminution des dossiers renvoyés faute d’information. Définissez aussi le signal inverse : une erreur répétée, une source introuvable ou un temps de correction supérieur au travail initial. Cette règle évite de prolonger un essai uniquement parce que la démonstration paraît convaincante. À la fin de la période retenue, l’équipe dispose alors d’éléments concrets pour maintenir, corriger, réduire ou arrêter le périmètre.
+
 ## Définir le contrôle humain avant le lancement
 
 Le contrôle humain ne signifie pas que chacun doit tout relire sans méthode. Il consiste à définir qui valide quoi, dans quelles conditions et comment une correction améliore le flux. Pour une proposition de résumé, une relecture par échantillon peut être adaptée. Pour une mise à jour de statut qui déclenche une action, une validation explicite peut être nécessaire. Pour les demandes sensibles, le workflow doit créer une escalade plutôt que chercher à forcer une réponse.

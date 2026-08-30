@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useRef, useState } from 'react';
-import { Link, usePathname } from '@/i18n/routing';
+import { Link } from '@/i18n/routing';
 import { useTranslations } from 'next-intl';
 import LanguageSwitcher from './LanguageSwitcher';
 
@@ -30,13 +30,8 @@ const moreLinks = [
 export default function Header() {
   const [moreOpen, setMoreOpen] = useState(false);
   const t = useTranslations('nav');
-  const pathname = usePathname();
   const closeTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
   const moreRef = useRef<HTMLDivElement | null>(null);
-
-  useEffect(() => {
-    setMoreOpen(false);
-  }, [pathname]);
 
   const cancelClose = () => {
     if (closeTimer.current) {
@@ -95,6 +90,7 @@ export default function Header() {
             <Link
               key={link.labelKey}
               href={link.href}
+              onClick={() => setMoreOpen(false)}
               className="rounded-md px-2 py-2 text-[13px] font-medium text-[#1B2A4A] transition-colors hover:bg-gray-100 hover:text-[#FF0000] lg:px-2.5 lg:text-sm"
             >
               {t(link.labelKey)}

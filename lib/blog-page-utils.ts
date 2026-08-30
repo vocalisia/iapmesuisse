@@ -78,12 +78,10 @@ export const LEGACY_BLOG_REDIRECTS: Record<string, Record<string, string>> = {
     'subventions-pme-suisse-2026-04-14': '/blog/subventions-digitalisation-suisse',
   },
   fr: {
-    'registre-usages-ia-pme-suisse-nlpd': '/blog/audit-ia-gratuit-pme-suisse-checklist-nlpd',
     'agent-ia-documentation-interne-pme': '/blog/ia-gestion-documentaire-suisse-guide-2026',
     'ia-fiduciaire-pme-suisse-controles': '/blog/ia-fiduciaire-comptable-suisse-guide-2026',
     'subventions-pme-suisse-ou-chercher': '/blog/ia-subventions-aides-digitalisation-pme-suisse-2026',
     'ia-tourisme-pme-suisse-demandes-clients': '/blog/ia-tourisme-hotellerie-suisse-guide-2026',
-    'automatisation-ia-support-client-pme-suisse': '/blog/automatisation-service-client-ia-suisse',
     'workflow-ia-suisse-cartographie-processus-pme': '/blog/workflow-ia-pme-suisse',
     'prompt-securise-pme-suisse': '/blog/claude-security-securite-pme-suisses',
     'maillage-interne-aio-pme-suisse': '/blog/maillage-interne-seo-ia-pme-suisse',
