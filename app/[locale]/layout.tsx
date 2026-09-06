@@ -5,6 +5,7 @@ import { routing } from '@/i18n/routing';
 import { getAlternates } from '@/lib/metadata';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
+import ContactFunnel from '@/components/ContactFunnel';
 import NewsletterBanner from '@/components/NewsletterBanner';
 import CookieBanner from '@/components/CookieBanner';
 import WhatsAppFAB from '@/components/WhatsAppFAB';
@@ -110,6 +111,7 @@ export default async function LocaleLayout({
         <NextIntlClientProvider messages={messages}>
           <Header />
           <main className="flex-1">{children}</main>
+          <ContactFunnel locale={locale} />
           <Footer />
           <NewsletterBanner />
           <CookieBanner />

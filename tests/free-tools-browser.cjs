@@ -15,7 +15,7 @@ await page.goto(base+'/fr/ressources',{waitUntil:'networkidle'});
 check('single H1',await page.locator('h1').count()===1);
 check('short title',(await page.title()).length<=60);
 check('canonical',(await page.locator('link[rel=canonical]').getAttribute('href'))==='https://iapmesuisse.ch/fr/ressources');
-check('12 tools',await page.locator('nav[aria-label="Choisir un outil"] a').count()===12);
+check('13 tools',await page.locator('nav[aria-label="Choisir un outil"] a').count()===13);
 const wordCount=await page.locator('[data-editorial-content]').evaluate(el=>Array.from(el.querySelectorAll('p')).filter(p=>{const c=p.cloneNode(true);c.querySelectorAll('a,br').forEach(a=>a.remove());return c.textContent.trim().length>0}).map(p=>p.textContent).join(' ').match(/[A-Za-zÀ-ÖØ-öø-ÿ0-9]+(?:[’'-][A-Za-zÀ-ÖØ-öø-ÿ0-9]+)*/g).length);
 check('3000 useful rendered words',wordCount>=3000);
 await page.evaluate(()=>{window.toolEvents=[];window.gtag=(...args)=>window.toolEvents.push(args)});

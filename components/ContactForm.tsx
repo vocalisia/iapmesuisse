@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { useTranslations } from 'next-intl';
+import { CONTACT_FORM_KEY } from '@/lib/free-tools/callback-submit';
 
 function formatPhone(raw: string): string {
   const digits = raw.replace(/\D/g, '');
@@ -64,7 +65,7 @@ export default function ContactForm() {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
-          access_key: '0ab0bb41-b3fc-46cd-9498-7007bb919de5',
+          access_key: CONTACT_FORM_KEY,
           subject: `iapmesuisse.ch - Nouveau message de ${formData.name}`,
           from_site: 'iapmesuisse.ch',
           name: formData.name,

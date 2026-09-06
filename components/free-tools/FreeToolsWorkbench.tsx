@@ -1,6 +1,7 @@
 'use client';
 import { useEffect, useState } from 'react';
 import Calculator from './Calculator';
+import AgentDiagnostic from './AgentDiagnostic';
 import AutomationSelector from './AutomationSelector';
 import PromptComposer from './PromptComposer';
 import { trackTool } from './tracking';
@@ -19,6 +20,7 @@ const tools = [
   { id: 'essai-ia', title: 'Évaluer un essai IA', short: 'Bilan avant / après', kind: 'calculator' },
   { id: 'charte-ia', title: 'Préparer une charte IA', short: 'Kit de charte IA', kind: 'prompt', template: 'charte-ia' },
   { id: 'brief-automatisation', title: 'Préparer un brief d’automatisation', short: 'Brief d’automatisation', kind: 'prompt', template: 'brief-automatisation' },
+  { id: 'agent-sur-mesure', title: 'Quel agent IA pour mon entreprise ?', short: 'Mon agent IA sur mesure', kind: 'diagnostic' },
 ] as const;
 type ToolId = typeof tools[number]['id'];
 export default function FreeToolsWorkbench() {
@@ -32,11 +34,11 @@ export default function FreeToolsWorkbench() {
     <div className={s.intro}><div><p className={s.eyebrow}>La boîte à outils du dirigeant</p><h2 id="tools-heading">Un besoin précis. Un point de départ utile.</h2><p>Calculez votre charge de travail ou préparez un prompt pour votre prochaine tâche. Gratuit, sans compte et sans envoi de vos saisies à un service IA.</p></div><a className={s.secondary} href="#guide-ressources">Comprendre la méthode</a></div>
     <div className={s.layout}><nav className={s.navigation} aria-label="Choisir un outil">{tools.map((item, i) => <a key={item.id} id={item.id} className={s.toolLink} href={`#${item.id}`} aria-current={active === item.id ? 'true' : undefined} aria-controls="active-tool" onClick={() => { setActive(item.id); trackTool('tool_select', item.id); }}><span aria-hidden="true">{String(i + 1).padStart(2, '0')}</span>{item.short}</a>)}</nav>
       <div className={s.panel} id="active-tool"><h3>{tool.title}</h3>
-        {tool.kind === 'calculator' ? <Calculator key={tool.id} mode={tool.id} /> : tool.kind === 'triage' ? <AutomationSelector /> : <PromptComposer key={tool.id} templateId={'template' in tool ? tool.template : undefined} toolId={tool.id} />}
-        <div className={s.actions}><Link className={s.secondary} href="/fr/contact" onClick={() => trackTool('tool_audit', tool.id)}>Examiner mon cas lors d’un audit gratuit</Link></div>
+        {tool.kind === 'diagnostic' ? <AgentDiagnostic /> : tool.kind === 'calculator' ? <Calculator key={tool.id} mode={tool.id} /> : tool.kind === 'triage' ? <AutomationSelector /> : <PromptComposer key={tool.id} templateId={'template' in tool ? tool.template : undefined} toolId={tool.id} />}
+        <div className={s.actions}>{tool.kind !== 'diagnostic' && <a className={s.primary} href="#agent-sur-mesure">Trouver mon agent IA et demander un rappel</a>}<Link className={s.secondary} href="/fr/contact" onClick={() => trackTool('tool_audit', tool.id)}>Examiner mon cas lors d’un audit gratuit</Link></div>
       </div>
     </div>
-    <p className={s.footer}>Les saisies restent dans cette page et sont effacées en changeant d’outil ou en la quittant. Les calculateurs produisent des estimations ; les assistants préparent des prompts à copier et à faire relire. Si vous acceptez les cookies analytics, seuls le choix de l’outil et les actions réalisées sont mesurés, jamais le contenu de vos champs.</p>
+    <p className={s.footer}>Les saisies restent dans cette page jusqu’à sa fermeture ou au changement d’outil. Le diagnostic d’agent transmet vos informations uniquement lorsque vous demandez explicitement un rappel. Les calculateurs produisent des estimations ; les assistants préparent des prompts à copier et à faire relire. Si vous acceptez les cookies analytics, seuls le choix de l’outil et les actions réalisées sont mesurés, jamais le contenu de vos champs.</p>
     <noscript><p>Activez JavaScript pour utiliser les formulaires. Le guide, les exemples de calcul et les ressources ci-dessous restent accessibles sans JavaScript.</p></noscript>
   </div></section>;
 }
