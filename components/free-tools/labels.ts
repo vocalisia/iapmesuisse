@@ -1,0 +1,23 @@
+export const FIELD_LABELS: Record<string, string> = {
+  besoinClient: 'Besoin du client', dateEnvoi: 'Date d’envoi', dernierEchange: 'Dernier échange', prochaineEtape: 'Prochaine étape souhaitée',
+  relationAnterieure: 'Relation antérieure', dernierContact: 'Dernier contact', motifReprise: 'Motif de reprise de contact',
+  informationsConfirmees: 'Informations confirmées', objectifRendezVous: 'Objectif du rendez-vous', dureeDisponible: 'Durée disponible',
+  objectionExacte: 'Objection exacte', contexteEchange: 'Contexte de l’échange', faitsDisponibles: 'Faits disponibles', limitesEngagement: 'Limites de votre engagement',
+  reclamationAnonymisee: 'Réclamation anonymisée', faitsConfirmes: 'Faits confirmés', pointsInconnus: 'Points inconnus', actionAutorisee: 'Action autorisée',
+  avisAnonymise: 'Avis anonymisé', canalContactAutorise: 'Canal de contact autorisé', dossierAnonymise: 'Dossier anonymisé',
+  piecesAttendues: 'Pièces attendues', piecesRecues: 'Pièces déjà reçues', echeanceConfirmee: 'Échéance confirmée',
+  questionsRecues: 'Questions réellement reçues', reponsesValidees: 'Réponses validées', limitesPrestations: 'Limites des prestations',
+  texteSource: 'Texte source', destinataireEtContexte: 'Destinataire et contexte', termesAConserver: 'Termes à conserver',
+  notesAnonymisees: 'Notes anonymisées', decisionsConfirmees: 'Décisions confirmées', prochainesActions: 'Prochaines actions', objectifSuivi: 'Objectif du suivi',
+  decisionAttendue: 'Décision attendue', participantsEtRoles: 'Participants et rôles', informationsDisponibles: 'Informations disponibles',
+  declencheur: 'Déclencheur de la tâche', etapesActuelles: 'Étapes actuelles', rolesEtAcces: 'Rôles et accès', exceptions: 'Exceptions connues', resultatAttendu: 'Résultat attendu',
+  tachesEtFrequences: 'Tâches et fréquences', dureesObservees: 'Durées observées', consequencesErreur: 'Conséquences d’une erreur',
+  besoinEtCriteres: 'Besoin et critères de comparaison', propositionsAnonymisees: 'Propositions anonymisées', contraintes: 'Contraintes',
+  role: 'Rôle du collaborateur', dateArrivee: 'Date d’arrivée', tachesAttendues: 'Tâches attendues', personnesReferentes: 'Personnes référentes', accesNecessaires: 'Accès nécessaires',
+  objectifPilotage: 'Objectif du pilotage', donneesDisponibles: 'Données disponibles', decisionsAPrendre: 'Décisions à prendre', frequenceSuivi: 'Fréquence de suivi',
+  donneesEtUnites: 'Données et unités', periodesComparees: 'Périodes comparées', definitionsIndicateurs: 'Définitions des indicateurs', changementsConnus: 'Changements connus',
+  processusActuel: 'Processus actuel', logiciels: 'Logiciels concernés', donneesEtAcces: 'Données et accès',
+  mesuresAvantApres: 'Mesures avant et après', volumesEtTypesTaches: 'Volumes et types de tâches', controleEtCorrections: 'Contrôle et corrections', erreursObservees: 'Erreurs observées', changementsConcomitants: 'Autres changements pendant l’essai',
+  usagesEnvisages: 'Usages envisagés', outilsExamines: 'Outils examinés', donneesConcernees: 'Données concernées', validationHumaine: 'Validation humaine prévue', responsable: 'Responsable désigné',
+};
+export const SECTOR_LABELS: Record<string, string> = { fiduciaire: 'Fiduciaire', artisan: 'Artisan du bâtiment', garage: 'Garage', immobilier: 'Immobilier', hotellerie: 'Hôtellerie et restauration', services: 'Société de services' };

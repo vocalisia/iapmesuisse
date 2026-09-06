@@ -3,6 +3,8 @@ import { Link } from '@/i18n/routing';
 import { getAlternates } from '@/lib/metadata';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import FAQ from '@/components/FAQ';
+import FreeToolsWorkbench from '@/components/free-tools/FreeToolsWorkbench';
+import ResourcesGuide from '@/components/free-tools/ResourcesGuide';
 
 export async function generateMetadata({
   params,
@@ -12,8 +14,8 @@ export async function generateMetadata({
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: 'metadata.resources' });
   return {
-    title: t('title'),
-    description: t('description'),
+    title: locale === 'fr' ? { absolute: 'Ressources IA gratuites pour PME suisses' } : t('title'),
+    description: locale === 'fr' ? 'Calculez le temps gagné, préparez vos relances et personnalisez 20 prompts métier. Des ressources gratuites pour les dirigeants de PME suisses.' : t('description'),
     alternates: getAlternates(locale, '/ressources'),
   };
 }
@@ -59,13 +61,19 @@ export default async function ResourcesPage({
       <section className="bg-white px-4 pb-12 pt-8 sm:px-6 sm:pb-16 sm:pt-12 lg:px-8">
         <div className="mx-auto max-w-7xl text-center">
           <h1 className="text-4xl font-bold tracking-tight text-[#1B2A4A] sm:text-5xl">
-            {t('title')}
+            {locale === 'fr' ? 'Ressources IA gratuites pour PME suisses' : t('title')}
           </h1>
           <p className="mx-auto mt-4 max-w-2xl text-lg leading-relaxed text-gray-600">
-            {t('subtitle')}
+            {locale === 'fr' ? 'Des calculateurs et des prompts pour préparer vos tâches, mesurer vos essais et décider de la prochaine étape.' : t('subtitle')}
           </p>
         </div>
       </section>
+
+      {locale === 'fr' && <>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ '@context': 'https://schema.org', '@type': 'CollectionPage', name: 'Ressources IA gratuites pour PME suisses', url: 'https://iapmesuisse.ch/fr/ressources', inLanguage: 'fr-CH', isAccessibleForFree: true, image: 'https://iapmesuisse.ch/images/iapmesuisse-outils-dirigeant-20260906.png' }).replace(/</g, '\u003c') }} />
+        <FreeToolsWorkbench />
+        <ResourcesGuide />
+      </>}
 
       {/* Guides Section */}
       <section className="bg-gray-50 px-4 py-16 sm:px-6 sm:py-20 lg:px-8">

@@ -1,0 +1,43 @@
+const fs = require('node:fs');
+const assert = require('node:assert/strict');
+const { chromium } = require(process.env.PLAYWRIGHT_MODULE || 'playwright');
+const dir=process.env.TOOL_REPORT_DIR || require('node:path').join(process.cwd(),'test-results/free-tools');
+fs.mkdirSync(dir,{recursive:true});
+const base=process.env.TOOL_BASE_URL || 'http://localhost:3267';
+(async()=>{
+const browser=await chromium.launch({executablePath:process.env.CHROME_PATH || undefined,headless:true});
+const context=await browser.newContext({viewport:{width:1440,height:1000},acceptDownloads:true});
+await context.addInitScript(()=>localStorage.setItem('cookie-consent','rejected'));
+await context.route(/googletagmanager|google-analytics/,r=>r.abort());
+const page=await context.newPage(),errors=[],checks=[];page.on('pageerror',e=>errors.push(e.message));
+const check=(name,condition)=>{assert.ok(condition,name);checks.push(name)};
+await page.goto(base+'/fr/ressources',{waitUntil:'networkidle'});
+check('single H1',await page.locator('h1').count()===1);
+check('short title',(await page.title()).length<=60);
+check('canonical',(await page.locator('link[rel=canonical]').getAttribute('href'))==='https://iapmesuisse.ch/fr/ressources');
+check('12 tools',await page.locator('nav[aria-label="Choisir un outil"] a').count()===12);
+const wordCount=await page.locator('[data-editorial-content]').evaluate(el=>Array.from(el.querySelectorAll('p')).filter(p=>{const c=p.cloneNode(true);c.querySelectorAll('a,br').forEach(a=>a.remove());return c.textContent.trim().length>0}).map(p=>p.textContent).join(' ').match(/[A-Za-zÀ-ÖØ-öø-ÿ0-9]+(?:[’'-][A-Za-zÀ-ÖØ-öø-ÿ0-9]+)*/g).length);
+check('3000 useful rendered words',wordCount>=3000);
+await page.evaluate(()=>{window.toolEvents=[];window.gtag=(...args)=>window.toolEvents.push(args)});
+await page.getByRole('button',{name:'Calculer mon résultat'}).click();
+check('default net gain',/2[,.]5 h/.test(await page.getByRole('region',{name:'Résultat du calcul'}).innerText()));
+check('consent rejected: no event',await page.evaluate(()=>window.toolEvents.length)===0);
+await page.locator('#tools-heading').scrollIntoViewIfNeeded();await page.screenshot({path:dir+'/desktop-tools.png'});
+await page.locator('#assistedMinutes').fill('9');check('stale result cleared',await page.getByRole('region',{name:'Résultat du calcul'}).count()===0);
+await page.evaluate(()=>localStorage.setItem('cookie-consent','accepted'));
+await page.getByRole('button',{name:'Calculer mon résultat'}).click();check('negative result preserved',/-3[,.]5 h/.test(await page.getByRole('region',{name:'Résultat du calcul'}).innerText()));
+await page.locator('#amortizationWeeks').fill('0');await page.getByRole('button',{name:'Calculer mon résultat'}).click();check('invalid weeks blocked',await page.getByRole('region',{name:'Résultat du calcul'}).count()===0);
+await page.locator('a#charge-emails').click();await page.getByRole('button',{name:'Calculer mon résultat'}).click();check('email selected workload',/2 h/.test(await page.getByRole('region',{name:'Résultat du calcul'}).innerText()));
+await page.locator('a#essai-ia').click();await page.getByRole('button',{name:'Calculer mon résultat'}).click();const pilot=await page.getByRole('region',{name:'Résultat du calcul'}).innerText();check('normalized pilot quality separate',/0[,.]33 h/.test(pilot)&&pilot.includes('10 %')&&pilot.includes('20 %'));
+await page.locator('a#choisir-automatisation').click();for(const name of ['repetitive','clearRules','stableInputs','languageTask','sensitiveData'])await page.locator(`input[name=${name}][value=yes]`).check();for(const name of ['frequentExceptions','consequentialDecision'])await page.locator(`input[name=${name}][value=no]`).check();await page.getByRole('button',{name:'Examiner cette tâche'}).click();check('sensitive process human review',(await page.getByRole('region',{name:'Orientation de la tâche'}).innerText()).includes('validation humaine'));
+await page.locator('a#prompts-metier').click();const ids=await page.locator('#prompt-task option').evaluateAll(els=>els.map(x=>x.value));check('20 templates',ids.length===20);
+for(const id of ids){await page.locator('#prompt-task').selectOption(id);for(const field of await page.locator('#active-tool form textarea').all())await field.fill('Information vérifiée pour une PME. À confirmer avec le responsable.');await page.getByRole('button',{name:'Préparer mon prompt'}).click();check('template '+id,(await page.locator('#prepared-prompt').inputValue()).length>100)}
+await page.evaluate(()=>Object.defineProperty(navigator,'clipboard',{configurable:true,value:{writeText:async()=>{throw Error('denied')}}}));await page.getByRole('button',{name:'Copier le prompt',exact:true}).click();check('copy fallback honest',(await page.locator('#active-tool').innerText()).includes('Copie automatique indisponible'));
+const [download]=await Promise.all([page.waitForEvent('download'),page.getByRole('button',{name:'Télécharger le texte'}).click()]);check('download file',download.suggestedFilename()==='iapmesuisse-bilan-essai.txt');
+await page.locator('a#charte-ia').click();check('official charter source',await page.locator('#active-tool a[href*="ge.ch/document/"]').count()===1);
+const events=await page.evaluate(()=>window.toolEvents);check('events contain only tool metadata',events.length>0&&events.every(e=>e[0]==='event'&&Object.keys(e[2]).sort().join(',')==='tool_id,tool_location'));
+await page.setViewportSize({width:390,height:844});await page.locator('a#gain-temps').click();await page.getByRole('button',{name:'Calculer mon résultat'}).click();await page.locator('#active-tool').scrollIntoViewIfNeeded();await page.screenshot({path:dir+'/mobile-tools.png'});check('mobile no overflow',await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
+for(const locale of ['de','en','it']){await page.goto(base+'/'+locale+'/ressources',{waitUntil:'networkidle'});check(locale+' original resources',await page.locator('#tools-heading').count()===0);check(locale+' canonical',(await page.locator('link[rel=canonical]').getAttribute('href'))==='https://iapmesuisse.ch/'+locale+'/ressources')}
+const nojs=await browser.newContext({javaScriptEnabled:false});const staticPage=await nojs.newPage();await staticPage.goto(base+'/fr/ressources');check('guide available without JS',(await staticPage.locator('[data-editorial-content]').innerText()).length>15000);const source=await staticPage.content();check('existing GA4 preserved',source.includes('G-7HQQDGHRT2'));check('dedicated image present',source.includes('iapmesuisse-outils-dirigeant-20260906.png'));check('no runtime page errors',errors.length===0);
+fs.writeFileSync(dir+'/browser-ui.json',JSON.stringify({status:'PASS',checks,wordCount,errors,events,scope:'Local Chromium desktop/mobile and JS-disabled; no assistive-technology certification'},null,2));await browser.close();console.log(JSON.stringify({status:'PASS',checks:checks.length,wordCount}));
+})().catch(e=>{console.error(e);process.exit(1)});
