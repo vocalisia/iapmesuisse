@@ -26,7 +26,8 @@ test('callback requires email, phone, consent and an empty honeypot', () => {
 });
 test('lead includes complete brief and source without query parameters', () => {
   const p = callbackPayload(diagnosis, contact, '/fr/services?email=private@example.com#details');
-  assert.equal(p.phone, contact.phone); assert.equal(p.company, diagnosis.company); assert.equal(p.website, 'https://exemple.ch/'); assert.match(p.message, /Garage automobile/); assert.match(p.message, /Agent de prise de rendez-vous/); assert.match(p.message, /Agenda atelier/); assert.match(p.message, /https:\/\/iapmesuisse.ch\/fr\/services/); assert.ok(!p.message.includes('private@example.com'));
+  assert.equal(p.phone, contact.phone); assert.equal(p.company, diagnosis.company); assert.equal(p.website, 'https://exemple.ch/'); assert.match(p.message, /Garage automobile/); assert.match(p.message, /Agent de prise de rendez-vous/); assert.match(p.message, /Agenda atelier/); assert.match(p.message, /https:\/\/iapmesuisse.ch\/fr\/services/); assert.ok(!p.message.includes('private@example.com')); assert.equal(p.website, 'https://exemple.ch/');
+  assert.equal(callbackPayload({ ...diagnosis, website: '' }, contact, '/fr').website, '');
 });
 test('provider acceptance is required; all rejection and network outcomes fail', async () => {
   for (const response of [new Response('{"success":false}', { status: 200 }), new Response('{"success":true}', { status: 429 }), new Response('not json', { status: 500 })]) await assert.rejects(submitCallback(diagnosis, contact, '/fr', (async () => response) as typeof fetch), /pas été confirmé/);
