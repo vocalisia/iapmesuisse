@@ -34,7 +34,7 @@ test('provider acceptance is required; all rejection and network outcomes fail',
 });
 test('successful provider response sends one explicit request with complete contact data', async () => {
   let calls = 0;
-  await submitCallback(diagnosis, contact, '/fr/ressources', (async (url, init) => { calls++; assert.equal(url, 'https://api.web3forms.com/submit'); const payload = JSON.parse(String(init?.body)); assert.equal(payload.email, contact.email); assert.match(payload.message, /explicitement demandé/); return new Response('{"success":true}', { status: 200 }); }) as typeof fetch);
+  await submitCallback(diagnosis, contact, '/fr/ressources', (async (url, init) => { calls++; assert.equal(url, '/api/contact'); const payload = JSON.parse(String(init?.body)); assert.equal(payload.email, contact.email); assert.match(payload.message, /explicitement demandé/); return new Response('{"success":true}', { status: 200 }); }) as typeof fetch);
   assert.equal(calls, 1);
 });
 test('invalid consent never calls the contact provider', async () => {

@@ -3,7 +3,7 @@ const {chromium}=require(process.env.PLAYWRIGHT_MODULE||'playwright');
 const base=process.env.TOOL_BASE_URL||'http://127.0.0.1:3269',dir=process.env.TOOL_REPORT_DIR||path.join(process.cwd(),'test-results/funnel');fs.mkdirSync(dir,{recursive:true});
 (async()=>{
 const browser=await chromium.launch({executablePath:process.env.CHROME_PATH||undefined,headless:true});const context=await browser.newContext({viewport:{width:1440,height:1000}});await context.addInitScript(()=>localStorage.setItem('cookie-consent','rejected'));await context.route(/googletagmanager|google-analytics/,r=>r.abort());let outbound=[];
-await context.route('https://api.web3forms.com/**',async route=>{outbound.push(route.request().postDataJSON());await route.fulfill({status:200,contentType:'application/json',body:JSON.stringify({success:outbound.length>1})})});
+await context.route('**/api/contact',async route=>{outbound.push(route.request().postDataJSON());await route.fulfill({status:200,contentType:'application/json',body:JSON.stringify({success:outbound.length>1})})});
 const page=await context.newPage(),errors=[],checks=[];page.on('pageerror',e=>errors.push(e.message));const check=(name,value)=>{assert.ok(value,name);checks.push(name)};
 await page.goto(base+'/fr/ressources#agent-sur-mesure',{waitUntil:'networkidle'});const d=page.locator('#active-tool [data-agent-diagnostic]');check('diagnostic deep link',await d.count()===1);check('global funnel',await page.locator('[data-contact-funnel]').count()===1);
 await page.evaluate(()=>{window.events=[];window.gtag=(...args)=>window.events.push(args)});

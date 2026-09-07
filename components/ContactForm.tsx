@@ -1,8 +1,7 @@
 'use client';
 
-import { useState } from 'react';
+import { useRef, useState } from 'react';
 import { useTranslations } from 'next-intl';
-import { CONTACT_FORM_KEY } from '@/lib/free-tools/callback-submit';
 
 function formatPhone(raw: string): string {
   const digits = raw.replace(/\D/g, '');
@@ -25,6 +24,7 @@ function isValidPhone(phone: string): boolean {
 
 export default function ContactForm() {
   const t = useTranslations('contact');
+  const sending = useRef(false);
 
   const [formData, setFormData] = useState({
     name: '',
@@ -53,21 +53,20 @@ export default function ContactForm() {
 
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
+    if (sending.current) return;
     if (!isValidPhone(formData.phone)) {
       setPhoneError('Numéro requis — ex: +41 79 123 45 67');
       return;
     }
     setError('');
+    sending.current = true;
     setLoading(true);
 
     try {
-      const res = await fetch('https://api.web3forms.com/submit', {
+      const res = await fetch('/api/contact', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
-          access_key: CONTACT_FORM_KEY,
-          subject: `iapmesuisse.ch - Nouveau message de ${formData.name}`,
-          from_site: 'iapmesuisse.ch',
           name: formData.name,
           email: formData.email,
           company: formData.company,
@@ -79,14 +78,15 @@ export default function ContactForm() {
 
       const data = await res.json();
 
-      if (!data.success) {
-        throw new Error(data.message || 'Une erreur est survenue');
+      if (!res.ok || data.success !== true) {
+        throw new Error(data.error || 'Votre envoi n’a pas été confirmé.');
       }
 
       setSubmitted(true);
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Une erreur est survenue');
     } finally {
+      sending.current = false;
       setLoading(false);
     }
   }
