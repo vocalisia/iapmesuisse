@@ -1,0 +1,53 @@
+const fs = require('node:fs');
+const assert = require('node:assert/strict');
+const { chromium } = require(process.env.PLAYWRIGHT_MODULE || 'playwright');
+const base = process.env.TOOL_BASE_URL || 'http://127.0.0.1:3271';
+const dir = process.env.TOOL_REPORT_DIR || 'test-results/free-tools';
+(async () => {
+  fs.mkdirSync(dir, { recursive: true });
+  const browser = await chromium.launch({ executablePath: process.env.CHROME_PATH, headless: true });
+  const context = await browser.newContext({ viewport: { width: 1440, height: 1000 } });
+  await context.addInitScript(() => { localStorage.setItem('cookie-consent', 'rejected'); localStorage.setItem('newsletter-dismissed', 'true'); });
+  await context.route(/googletagmanager|google-analytics|api.web3forms/, r => r.abort());
+  const page = await context.newPage(), checks = [], errors = [];
+  page.on('pageerror', e => errors.push(e.message));
+  const check = (name, ok) => { assert.ok(ok, name); checks.push(name); };
+  await page.goto(base + '/fr/ressources', { waitUntil: 'networkidle' });
+  await page.screenshot({ path: dir + '/modern-hero-desktop.png' });
+  check('new image loads', await page.locator('img[alt^="Composition contemporaine"]').evaluate(img => img.complete && img.naturalWidth > 0));
+  check('retired computer image not rendered', !(await page.content()).includes('iapmesuisse-outils-dirigeant-20260906.png'));
+  await page.locator('a#agent-sur-mesure').click();
+  await page.locator('#active-tool').evaluate(el => el.scrollIntoView({ block: 'start' }));
+  await page.screenshot({ path: dir + '/modern-diagnostic-desktop.png' });
+  const panelClass = await page.locator('#active-tool > div').getAttribute('class');
+  check('normal motion enabled', await page.locator('#active-tool > div').evaluate(el => getComputedStyle(el).animationName !== 'none'));
+  await page.emulateMedia({ reducedMotion: 'reduce' });
+  check('reduced motion respected', await page.locator('#active-tool > div').evaluate(el => getComputedStyle(el).animationName === 'none'));
+  check('hero reduced motion respected', await page.locator('a[href="#agent-sur-mesure"]').first().evaluate(el => getComputedStyle(el).transitionDuration === '0s'));
+  await page.emulateMedia({ reducedMotion: 'no-preference' });
+  for (const width of [360, 390, 768]) {
+    await page.setViewportSize({ width, height: 900 });
+    await page.goto(base + '/fr/ressources#agent-sur-mesure', { waitUntil: 'networkidle' });
+    await page.reload({ waitUntil: 'networkidle' });
+    check(width + ' direct diagnostic visible', await page.locator('#active-tool').evaluate(el => el.getBoundingClientRect().top >= 80 && el.getBoundingClientRect().top < 240));
+    check(width + ' no horizontal overflow', await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth));
+    const toggle = page.getByRole('button', { name: /Mon agent IA sur mesure/ });
+    await toggle.focus(); await page.keyboard.press('Enter');
+    check(width + ' keyboard opens catalog', await toggle.getAttribute('aria-expanded') === 'true');
+    check(width + ' all tools reachable', await page.locator('nav[aria-label="Choisir un outil"] a:visible').count() === 13);
+    await page.locator('a#charge-emails').click();
+    check(width + ' mobile selection closes catalog', await page.locator('#tool-catalog').isHidden());
+    await page.waitForFunction(() => document.activeElement.id === 'active-tool', null, { timeout: 3000 });
+    check(width + ' focus leaves hidden catalog', await page.evaluate(() => document.activeElement.id === 'active-tool'));
+    await page.getByRole('button', { name: 'Calculer mon résultat' }).click();
+    check(width + ' result available', await page.getByRole('region', { name: 'Résultat du calcul' }).isVisible());
+    if (width === 390) { await page.locator('#active-tool').evaluate(el => el.scrollIntoView({ block: 'start' })); await page.screenshot({ path: dir + '/modern-calculator-mobile.png' }); }
+  }
+  await page.setViewportSize({ width: 1440, height: 1000 });
+  await page.goto(base + '/fr/services', { waitUntil: 'networkidle' });
+  await page.locator('[data-contact-funnel]').evaluate(el => el.scrollIntoView({ block: 'center' }));
+  await page.screenshot({ path: dir + '/modern-funnel-desktop.png' });
+  check('no runtime errors', errors.length === 0);
+  fs.writeFileSync(dir + '/design-browser.json', JSON.stringify({ status: 'PASS', checks, errors, panelClass, scope: 'Local Chrome, responsive 360/390/768/1440, keyboard catalog, deep links and reduced motion; no full screen-reader certification.' }, null, 2));
+  await browser.close(); console.log(JSON.stringify({ status: 'PASS', checks: checks.length }));
+})().catch(e => { console.error(e); process.exit(1); });

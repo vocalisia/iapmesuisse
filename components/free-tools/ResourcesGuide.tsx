@@ -10,7 +10,7 @@ export default async function ResourcesGuide() {
   const body = (await remark().use(html, { sanitize: true }).process(source)).toString();
   return <section className={s.guide} id="guide-ressources" aria-labelledby="guide-title">
     <h2 id="guide-title">Utiliser ces ressources dans votre PME</h2>
-    <figure><Image src="/images/iapmesuisse-outils-dirigeant-20260906.png" alt="Bureau avec ordinateur, carnet et minuteur pour préparer et mesurer une tâche professionnelle." width={1536} height={1024} sizes="(max-width: 850px) 100vw, 800px" /><figcaption>Illustration dédiée aux ressources pratiques d’IAPME Suisse.</figcaption></figure>
+    <figure><Image src="/images/iapmesuisse-workflow-verre-20260906.png" alt="Composition de verre et de métal illustrant des tâches reliées dans un processus de travail." width={1536} height={1024} sizes="(max-width: 850px) 100vw, 800px" /><figcaption>Illustration dédiée aux ressources pratiques d’IAPME Suisse.</figcaption></figure>
     <div data-editorial-content dangerouslySetInnerHTML={{ __html: body }} />
     <aside className={s.related} aria-label="Approfondir votre projet"><h2>Pour aller plus loin</h2><ul>
       <li><Link href="/fr/blog/roi-intelligence-artificielle-pme-suisse">Comprendre la méthode de calcul du ROI de l’IA</Link></li>

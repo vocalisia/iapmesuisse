@@ -5,6 +5,8 @@ import Breadcrumbs from '@/components/Breadcrumbs';
 import FAQ from '@/components/FAQ';
 import FreeToolsWorkbench from '@/components/free-tools/FreeToolsWorkbench';
 import ResourcesGuide from '@/components/free-tools/ResourcesGuide';
+import Image from 'next/image';
+import styles from '@/components/free-tools/tools.module.css';
 
 export async function generateMetadata({
   params,
@@ -58,7 +60,10 @@ export default async function ResourcesPage({
       </div>
 
       {/* Header */}
-      <section className="bg-white px-4 pb-12 pt-8 sm:px-6 sm:pb-16 sm:pt-12 lg:px-8">
+      {locale === 'fr' ? <section className={styles.resourceHero}>
+        <div className={styles.heroCopy}><p className={styles.eyebrow}>IAPME Suisse · Ressources gratuites</p><h1>Ressources IA gratuites pour PME suisses</h1><p>Moins de tâches répétitives.<br />Plus de place pour votre entreprise.</p><div className={styles.actions}><a href="#agent-sur-mesure" className={styles.primary}>Trouver mon agent IA <span aria-hidden="true">↗</span></a><a href="#tools-heading" className={styles.secondary}>Explorer les 13 outils</a></div><div className={styles.heroDetails}><span>Calculateurs</span><span>Prompts métier</span><span>Diagnostic IA</span></div></div>
+        <div className={styles.heroVisual}><Image src="/images/iapmesuisse-workflow-verre-20260906.png" alt="Composition contemporaine de verre et de métal évoquant un processus de travail connecté." width={1536} height={1024} sizes="(max-width: 800px) 100vw, 50vw" priority /><div className={styles.heroCaption}><span aria-hidden="true">↗</span><div>Un premier pas concret.<small>Vos idées, prêtes à prendre forme.</small></div></div></div>
+      </section> : <section className="bg-white px-4 pb-12 pt-8 sm:px-6 sm:pb-16 sm:pt-12 lg:px-8">
         <div className="mx-auto max-w-7xl text-center">
           <h1 className="text-4xl font-bold tracking-tight text-[#1B2A4A] sm:text-5xl">
             {locale === 'fr' ? 'Ressources IA gratuites pour PME suisses' : t('title')}
@@ -67,10 +72,10 @@ export default async function ResourcesPage({
             {locale === 'fr' ? 'Des calculateurs et des prompts pour préparer vos tâches, mesurer vos essais et décider de la prochaine étape.' : t('subtitle')}
           </p>
         </div>
-      </section>
+      </section>}
 
       {locale === 'fr' && <>
-        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ '@context': 'https://schema.org', '@type': 'CollectionPage', name: 'Ressources IA gratuites pour PME suisses', url: 'https://iapmesuisse.ch/fr/ressources', inLanguage: 'fr-CH', isAccessibleForFree: true, image: 'https://iapmesuisse.ch/images/iapmesuisse-outils-dirigeant-20260906.png' }).replace(/</g, '\u003c') }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ '@context': 'https://schema.org', '@type': 'CollectionPage', name: 'Ressources IA gratuites pour PME suisses', url: 'https://iapmesuisse.ch/fr/ressources', inLanguage: 'fr-CH', isAccessibleForFree: true, image: 'https://iapmesuisse.ch/images/iapmesuisse-workflow-verre-20260906.png' }).replace(/</g, '\u003c') }} />
         <FreeToolsWorkbench />
         <ResourcesGuide />
       </>}

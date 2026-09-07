@@ -11,7 +11,7 @@ export default function AgentDiagnostic({ placement = 'resources_fr' }: { placem
   const [step, setStep] = useState(1), [data, setData] = useState<Diagnosis>(initial), [error, setError] = useState(''), [sending, setSending] = useState(false), [sent, setSent] = useState(false);
   const id = (name: string) => `${uid}-${name}`;
   const track = (event: Parameters<typeof trackTool>[0]) => trackTool(event, 'agent-sur-mesure', placement);
-  function move(next: number) { setError(''); setStep(next); requestAnimationFrame(() => heading.current?.focus()); }
+  function move(next: number) { setError(''); setStep(next); requestAnimationFrame(() => { heading.current?.focus({ preventScroll: true }); heading.current?.scrollIntoView({ block: 'nearest' }); }); }
   const get = (f: FormData, name: string) => String(f.get(name) ?? '').trim();
   function companyStep(event: FormEvent<HTMLFormElement>) {
     event.preventDefault(); const f = new FormData(event.currentTarget);
@@ -39,7 +39,7 @@ export default function AgentDiagnostic({ placement = 'resources_fr' }: { placem
   }
   const recommendation = step === 3 ? recommendAgent(data) : null;
   return <div data-agent-diagnostic className={s.diagnostic}>
-    <ol className={s.steps} aria-label="Étapes du diagnostic">{['Votre entreprise', 'Vos besoins', 'Votre agent et le rappel'].map((label, i) => <li key={label} aria-current={step === i + 1 ? 'step' : undefined}>{i + 1}. {label}</li>)}</ol>
+    <ol className={s.steps} aria-label="Étapes du diagnostic">{['Votre entreprise', 'Vos besoins', 'Votre agent et le rappel'].map((label, i) => <li key={label} aria-current={step === i + 1 ? 'step' : undefined}><span aria-hidden="true">{i + 1}</span>{label}</li>)}</ol>
     <h4 tabIndex={-1} ref={heading}>{sent ? 'Votre demande a été transmise' : step === 1 ? 'Présentez votre entreprise' : step === 2 ? 'Quelle tâche souhaitez-vous confier à un agent ?' : 'Voici l’agent à étudier pour votre entreprise'}</h4>
     {sent ? <div role="status" className={s.result}><p>Votre demande de rappel et le récapitulatif du projet ont été acceptés par notre service de contact. L’équipe pourra examiner votre besoin pour concevoir votre agent sur mesure.</p><p className={s.note}>Aucun rendez-vous n’est réservé automatiquement. Nous conviendrons avec vous des prochaines étapes.</p><button type="button" className={s.secondary} onClick={() => { setData(initial); setSent(false); move(1); }}>Préparer une autre demande</button></div> : <>
       {step === 1 && <form onSubmit={companyStep} className={s.diagnosticForm}>
