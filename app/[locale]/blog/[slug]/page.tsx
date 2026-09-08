@@ -9,6 +9,7 @@ import Image from 'next/image';
 import { notFound, permanentRedirect } from 'next/navigation';
 import { VILLES } from '@/lib/villes';
 import BlogSeoSections from '@/components/BlogSeoSections';
+import ArticleActions from '@/components/ArticleActions';
 import {
   buildHowToFromHtml,
   getSchemaLanguage,
@@ -330,6 +331,7 @@ export default async function BlogPostPage({
               />
             )}
           </div>
+          <ArticleActions locale={locale} title={post.title} url={articleUrl} />
           <div className="mt-6 h-px w-full bg-gray-200" />
         </header>
 
@@ -411,23 +413,14 @@ export default async function BlogPostPage({
           </div>
         </div>
 
-        {/* Contact form */}
-        <div className="mt-14 border-t border-gray-200 pt-10">
-          <div className="rounded-2xl border border-gray-200 bg-white p-6 shadow-sm sm:p-8">
-            <div className="mb-6">
-              <p className="text-sm font-semibold uppercase tracking-wide text-accent">
-                {contactLabel.eyebrow}
-              </p>
-              <h2 className="mt-2 text-2xl font-bold leading-tight text-primary">
-                {contactLabel.title}
-              </h2>
-              <p className="mt-3 text-sm leading-relaxed text-gray-600 sm:text-base">
-                {contactLabel.description}
-              </p>
-            </div>
-            <ContactForm />
+        {/* Contact funnel */}
+        <section className="mt-14 border-t border-gray-200 pt-10" data-article-contact-funnel aria-labelledby="article-contact-title">
+          <div className="overflow-hidden rounded-3xl border border-[#294762] bg-[#172b46] p-6 text-white shadow-lg sm:p-9">
+            <div className="mb-6"><p className="text-sm font-semibold uppercase tracking-wide text-sky-200">{contactLabel.eyebrow}</p><h2 id="article-contact-title" className="mt-2 text-2xl font-bold leading-tight text-white sm:text-3xl">{contactLabel.title}</h2><p className="mt-3 max-w-2xl text-sm leading-relaxed text-slate-200 sm:text-base">{contactLabel.description}</p></div>
+            <ol className="mb-7 grid gap-3 text-sm sm:grid-cols-3" aria-label="Étapes du projet">{['Votre contexte', 'Le besoin à traiter', 'Une prochaine étape claire'].map((step, index) => <li key={step} className="rounded-xl border border-white/15 bg-white/5 p-3"><span className="mr-2 inline-flex h-6 w-6 items-center justify-center rounded-full bg-white/15 text-xs font-bold">{index + 1}</span>{step}</li>)}</ol>
+            <div className="rounded-2xl bg-white p-4 text-slate-900 sm:p-6"><ContactForm /></div>
           </div>
-        </div>
+        </section>
 
         {/* Back to blog */}
         <div className="mt-10 border-t border-gray-200 pt-8">

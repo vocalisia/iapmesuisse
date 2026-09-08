@@ -7,6 +7,7 @@ import FreeToolsWorkbench from '@/components/free-tools/FreeToolsWorkbench';
 import ResourcesGuide from '@/components/free-tools/ResourcesGuide';
 import Image from 'next/image';
 import styles from '@/components/free-tools/tools.module.css';
+import { getBlogPosts } from '@/lib/markdown';
 
 export async function generateMetadata({
   params,
@@ -47,6 +48,13 @@ export default async function ResourcesPage({
     answer: string;
   }[];
 
+  const resourceArticles = locale === 'fr' ? getBlogPosts('fr').filter((post) => [
+    'outils-ia-gratuits-pme-suisse-top-15-2026',
+    'agent-ia-vente-prospection-suisse',
+    'ia-fiduciaire-comptable-suisse-guide-2026',
+    'automatisation-emails-ia-pme-suisse-guide-2026',
+  ].includes(post.slug)) : [];
+
   return (
     <>
       {/* Breadcrumbs */}
@@ -78,6 +86,14 @@ export default async function ResourcesPage({
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ '@context': 'https://schema.org', '@type': 'CollectionPage', name: 'Ressources IA gratuites pour PME suisses', url: 'https://iapmesuisse.ch/fr/ressources', inLanguage: 'fr-CH', isAccessibleForFree: true, image: 'https://iapmesuisse.ch/images/iapmesuisse-workflow-verre-20260906.png' }).replace(/</g, '\u003c') }} />
         <FreeToolsWorkbench />
         <ResourcesGuide />
+        <section className="bg-white px-4 pb-16 sm:px-6 lg:px-8" aria-labelledby="resources-articles-title" data-resource-cocoon>
+          <div className="mx-auto max-w-6xl rounded-3xl border border-slate-200 bg-slate-50 p-6 sm:p-9">
+            <div className="max-w-2xl"><p className="text-sm font-semibold uppercase tracking-wide text-accent">Continuer selon votre besoin</p><h2 id="resources-articles-title" className="mt-2 text-2xl font-bold tracking-tight text-primary sm:text-3xl">Des guides pour passer de l’idée à une première action</h2><p className="mt-3 leading-relaxed text-slate-600">Après le diagnostic ou un outil, retrouvez le guide qui correspond à votre contexte. Chaque lecture garde un lien vers les ressources et la prise de contact.</p></div>
+            <div className="mt-7 grid gap-4 sm:grid-cols-2">
+              {resourceArticles.map((post) => <Link key={post.slug} href={`/blog/${post.slug}`} className="group rounded-2xl border border-slate-200 bg-white p-5 transition duration-200 hover:-translate-y-0.5 hover:border-slate-400 hover:shadow-md"><p className="text-sm font-semibold text-primary group-hover:text-accent">{post.title}</p><p className="mt-2 text-sm leading-relaxed text-slate-600">{post.excerpt}</p><span className="mt-4 inline-flex text-sm font-semibold text-accent">Lire le guide <span aria-hidden="true" className="ml-1">→</span></span></Link>)}
+            </div>
+          </div>
+        </section>
       </>}
 
       {/* Guides Section */}
