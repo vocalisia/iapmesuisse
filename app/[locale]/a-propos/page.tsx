@@ -60,8 +60,8 @@ export default async function AboutPage({
         <div className="mx-auto max-w-5xl">
           <div className="mb-10 overflow-hidden rounded-2xl">
             <Image
-              src="/images/swiss.jpg"
-              alt="Paysage suisse"
+              src="/images/iapmesuisse-about-valais-20260908.png"
+              alt="Paysage valaisan près de Sion, créé pour IAPME Suisse"
               width={1200}
               height={500}
               className="h-64 w-full object-cover sm:h-80"
@@ -122,8 +122,8 @@ export default async function AboutPage({
         <div className="mx-auto max-w-7xl">
           <div className="mb-12 overflow-hidden rounded-2xl">
             <Image
-              src="/images/team.jpg"
-              alt="Notre équipe"
+              src="/images/iapmesuisse-team-studio-20260908.png"
+              alt="Équipe en échange dans un studio de travail, créé pour IAPME Suisse"
               width={800}
               height={400}
               className="mx-auto h-64 w-full max-w-3xl object-cover sm:h-80"

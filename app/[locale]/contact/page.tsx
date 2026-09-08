@@ -46,8 +46,8 @@ export default async function ContactPage({
         <div className="mx-auto max-w-7xl">
           <div className="mb-8 overflow-hidden rounded-2xl">
             <Image
-              src="/images/contact.jpg"
-              alt="Contactez-nous"
+              src="/images/iapmesuisse-contact-sion-20260908.png"
+              alt="Espace de rendez-vous à Sion, créé pour IAPME Suisse"
               width={800}
               height={300}
               className="h-48 w-full object-cover sm:h-64"

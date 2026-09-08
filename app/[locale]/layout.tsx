@@ -60,7 +60,7 @@ export async function generateMetadata({
       siteName: 'IAPME Suisse',
       images: [
         {
-          url: 'https://iapmesuisse.ch/images/hero-bg.jpg',
+          url: 'https://iapmesuisse.ch/images/iapmesuisse-home-consultation-20260908.png',
           width: 1200,
           height: 630,
           alt: 'IAPME Suisse – IA pour PME suisses',
@@ -71,7 +71,7 @@ export async function generateMetadata({
       card: 'summary_large_image',
       title: t('title'),
       description: t('description'),
-      images: ['https://iapmesuisse.ch/images/hero-bg.jpg'],
+      images: ['https://iapmesuisse.ch/images/iapmesuisse-home-consultation-20260908.png'],
     },
     robots: { index: true, follow: true },
     ...(process.env.NEXT_PUBLIC_GSC_VERIFICATION && {

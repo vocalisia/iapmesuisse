@@ -74,7 +74,7 @@ export default async function HomePage({
       {/* Hero Section */}
       <section className="relative overflow-hidden bg-[#1B2A4A] px-4 py-16 sm:px-6 sm:py-28 lg:px-8">
         <Image
-          src="/images/hero-bg.jpg"
+          src="/images/iapmesuisse-home-consultation-20260908.png"
           alt=""
           fill
           className="object-cover opacity-20"

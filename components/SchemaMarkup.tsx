@@ -69,7 +69,7 @@ export default function SchemaMarkup({ locale }: { locale: string }) {
     },
     "image": {
       "@type": "ImageObject",
-      "url": `${baseUrl}/images/hero-bg.jpg`,
+      "url": `${baseUrl}/images/iapmesuisse-home-consultation-20260908.png`,
       "width": 1200,
       "height": 630,
     },
