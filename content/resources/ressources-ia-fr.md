@@ -2,6 +2,14 @@ Ces ressources servent à préparer une tâche, comparer un scénario d'automati
 
 Commencez par un problème observable : des devis sans suivi, des emails similaires rédigés chaque semaine, des réunions dont les décisions restent dispersées ou une procédure difficile à transmettre. Notez ce qui entre dans le processus, qui intervient et ce qui permet de considérer le travail comme terminé. Ces trois informations sont plus utiles qu'une longue liste de logiciels. Elles permettent de choisir une ressource adaptée et de vérifier ensuite si le résultat vous aide.
 
+## Les 13 outils : choisissez une action, puis vérifiez le résultat
+
+La page réunit treize outils sans compte, conçus pour une première action dans une PME suisse. Ils préparent une estimation, une structure ou une question de cadrage ; ils ne remplacent pas une validation métier. Les liens ci-dessous ouvrent directement l’outil correspondant et chaque panneau explique le périmètre, la méthode et le point de vigilance.
+
+- Pour une tâche répétitive : [calculer le temps gagné](#gain-temps) ou [mesurer la charge des emails](#charge-emails).
+- Avant un projet : [choisir la tâche à automatiser](#choisir-automatisation) puis [préparer un brief](#brief-automatisation).
+- Pour rédiger avec contexte : [prompts métier](#prompts-metier), [relance de devis](#relance-devis), [réunion](#reunion), [procédure](#procedure), [réponse à un avis](#avis-client) et [FAQ](#faq).
+- Pour déployer un usage : [évaluer un essai IA](#essai-ia), [préparer une charte](#charte-ia) ou [identifier un agent IA sur mesure](#agent-sur-mesure).
 ## Choisir une ressource selon votre besoin
 
 Pour estimer du temps, utilisez un calculateur. Pour préparer un message ou un document, partez du modèle correspondant à la tâche. Pour décider quoi automatiser, examinez les règles du processus et les conséquences d'une erreur. Pour évaluer un essai déjà réalisé, comparez des observations avant et après en conservant des unités identiques. Ces usages répondent à des questions différentes : une bonne préparation ne prouve pas encore un gain, et un gain de rédaction ne prouve pas que tout le processus est devenu plus rapide.

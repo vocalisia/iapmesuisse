@@ -1,5 +1,6 @@
 'use client';
 import { useEffect, useState } from 'react';
+import Image from 'next/image';
 import Calculator from './Calculator';
 import AgentDiagnostic from './AgentDiagnostic';
 import AutomationSelector from './AutomationSelector';
@@ -8,6 +9,7 @@ import { trackTool } from './tracking';
 import Link from 'next/link';
 import s from './tools.module.css';
 import ToolIcon from './ToolIcon';
+import { toolEditorial } from './toolEditorial';
 const tools = [
   { id: 'gain-temps', title: 'Calculer le temps gagné', short: 'Temps gagné', kind: 'calculator' },
   { id: 'prompts-metier', title: '20 prompts adaptés à votre métier', short: '20 prompts métier', kind: 'prompt' },
@@ -47,6 +49,10 @@ export default function FreeToolsWorkbench() {
         <div className={s.panelContent} key={tool.id}>
           <div className={s.panelTop}><span className={s.toolBadge}><ToolIcon kind={tool.kind} />{tool.kind === 'diagnostic' ? 'Votre agent sur mesure' : tool.kind === 'calculator' ? 'Calculateur interactif' : tool.kind === 'triage' ? 'Aide à la décision' : 'Assistant de rédaction'}</span><span className={s.freeBadge}><span aria-hidden="true" />Accès gratuit</span></div>
           <h3>{tool.title}</h3>
+          <div className={s.toolEditorial}>
+            <div className={s.toolImage}><Image src={toolEditorial[tool.id].image} alt={toolEditorial[tool.id].alt} width={2048} height={1152} sizes="(max-width: 800px) 100vw, 42rem" /></div>
+            <div className={s.toolCopy}><p className={s.toolAnswer}>{toolEditorial[tool.id].answer}</p><p>{toolEditorial[tool.id].method}</p><p className={s.toolCaution}><strong>À vérifier :</strong> {toolEditorial[tool.id].caution}</p><Link href={toolEditorial[tool.id].relatedHref} className={s.toolRelated}>{toolEditorial[tool.id].relatedLabel} <span aria-hidden="true">→</span></Link></div>
+          </div>
           {tool.kind === 'diagnostic' ? <AgentDiagnostic /> : tool.kind === 'calculator' ? <Calculator key={tool.id} mode={tool.id} /> : tool.kind === 'triage' ? <AutomationSelector /> : <PromptComposer key={tool.id} templateId={'template' in tool ? tool.template : undefined} toolId={tool.id} />}
           <div className={s.panelConversion}><p>Et si nous allions plus loin ensemble ?</p><div className={s.actions}>{tool.kind !== 'diagnostic' && <a className={s.primary} href="#agent-sur-mesure">Trouver mon agent IA et demander un rappel</a>}<Link className={s.secondary} href="/fr/contact" onClick={() => trackTool('tool_audit', tool.id)}>Examiner mon cas lors d’un audit gratuit</Link></div></div>
         </div>
