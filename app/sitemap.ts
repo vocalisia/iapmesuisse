@@ -6,6 +6,10 @@ import { isPublicPricingSlug } from '@/lib/structured-data';
 
 const locales = ['fr', 'de', 'en', 'it'];
 const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://iapmesuisse.ch';
+// `lastModified` must describe a content change, not the time the sitemap is rendered.
+// A moving timestamp makes every URL look newly updated on each deployment and obscures
+// the crawl signal for genuinely changed pages.
+const siteStructureLastModified = new Date('2026-09-13T00:00:00.000Z');
 type ChangeFrequency = NonNullable<MetadataRoute.Sitemap[number]['changeFrequency']>;
 
 const excludedBlogSlugsByLocale: Record<string, Set<string>> = {
@@ -126,13 +130,12 @@ const pages = [
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const entries: MetadataRoute.Sitemap = [];
-  const lastModified = new Date();
 
   for (const page of pages) {
     for (const locale of locales) {
       entries.push({
         url: `${baseUrl}/${locale}${page}`,
-        lastModified,
+        lastModified: siteStructureLastModified,
         changeFrequency: getPageChangeFrequency(page),
         priority: getPagePriority(page),
         alternates: {
@@ -161,7 +164,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       const isGscCantonOpportunity = canton.slug === 'zurich' && locale === 'de';
       entries.push({
         url: `${baseUrl}/${locale}/cantons/${canton.slug}`,
-        lastModified,
+        lastModified: siteStructureLastModified,
         changeFrequency: isGscCantonOpportunity ? 'weekly' : 'monthly',
         priority: isGscCantonOpportunity ? 0.82 : 0.7,
         alternates: {
@@ -178,7 +181,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     for (const locale of locales) {
       entries.push({
         url: `${baseUrl}/${locale}/villes/${ville.slug}`,
-        lastModified,
+        lastModified: siteStructureLastModified,
         changeFrequency: 'monthly',
         priority: 0.75,
         alternates: {
@@ -191,12 +194,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
   }
 
   for (const locale of locales) {
-    for (const slug of localeSlugs[locale]) {
+    for (const post of getBlogPosts(locale)) {
+      const slug = post.slug;
+      if (!localeSlugs[locale].has(slug)) continue;
       // Only declare hreflang alternates for locales where the article actually exists.
       const availableLanguages = locales.filter((l) => localeSlugs[l].has(slug));
+      const articleLastModified = post.date ? new Date(post.date) : siteStructureLastModified;
       entries.push({
         url: `${baseUrl}/${locale}/blog/${slug}`,
-        lastModified,
+        lastModified: Number.isNaN(articleLastModified.getTime())
+          ? siteStructureLastModified
+          : articleLastModified,
         changeFrequency: getBlogChangeFrequency(slug),
         priority: getBlogPriority(slug),
         alternates: {
