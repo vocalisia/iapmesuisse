@@ -3,6 +3,7 @@ import { Link } from '@/i18n/routing';
 import { getAlternates } from '@/lib/metadata';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import CTA from '@/components/CTA';
+import Image from 'next/image';
 
 type Props = { params: Promise<{ locale: string }> };
 
@@ -10,16 +11,16 @@ export async function generateMetadata({ params }: Props) {
   const { locale } = await params;
 
   const titles: Record<string, string> = {
-    fr: 'Automatisation IA pour PME suisses : guide complet 2026 | IAPME Suisse',
+    fr: 'Automatisation IA pour PME suisses | IAPME Suisse',
     de: 'KI-Automatisierung für Schweizer KMU: vollständiger Leitfaden 2026 | IAPME Suisse',
     en: 'AI automation for Swiss SMEs: complete guide 2026 | IAPME Suisse',
     it: 'Automazione IA per PMI svizzere: guida completa 2026 | IAPME Suisse',
   };
   const descs: Record<string, string> = {
-    fr: 'Automatisez votre PME suisse avec l\'IA : outils, ROI, conformité nLPD, cas d\'usage concrets. Guide 2026 pour PME romandes, alémaniques et tessinoises. Résultats en 30 jours.',
-    de: 'KI-Automatisierung für Schweizer KMU: Tools, ROI, nDSG-Konformität, konkrete Anwendungsfälle. Leitfaden 2026. Ergebnisse in 30 Tagen.',
-    en: 'AI automation for Swiss SMEs: tools, ROI, nFADP compliance, real use cases. 2026 guide. Results in 30 days.',
-    it: 'Automazione IA per PMI svizzere: strumenti, ROI, conformità nLPD, casi d\'uso concreti. Guida 2026. Risultati in 30 giorni.',
+    fr: 'Automatisation IA pour PME suisses : qualification de demandes, relances, rendez-vous, documents et veille commerciale. Méthode, garde-fous et conformité nLPD.',
+    de: 'KI-Automatisierung für Schweizer KMU: konkrete Abläufe, menschliche Kontrolle und nDSG-Rahmen.',
+    en: 'AI automation for Swiss SMEs: practical workflows, human oversight and nFADP considerations.',
+    it: 'Automazione IA per PMI svizzere: flussi pratici, controllo umano e aspetti nLPD.',
   };
 
   return {
@@ -39,81 +40,75 @@ const T = {
   fr: {
     breadcrumbLabel: 'Automatisation IA PME',
     hero_title: 'Automatisation IA pour PME suisses',
-    hero_subtitle: 'Guide complet 2026',
-    hero_desc: 'Réduisez vos coûts opérationnels de 20 à 35 %, libérez vos équipes des tâches répétitives et restez conformes à la nLPD. Conçu pour les PME de Suisse romande, alémanique et italophone.',
+    hero_subtitle: 'Des agents utiles, contrôlés et mesurables',
+    hero_desc: 'Transformez les demandes, messages et documents qui s\'accumulent en processus suivis. Cette page présente les agents IA que nous pouvons déployer pour une PME suisse, avec une validation humaine et un cadre nLPD dès le départ.',
     cta_audit: 'Demander un audit gratuit',
     cta_consulting: 'Voir nos offres de conseil',
     s1_title: "Qu'est-ce que l'automatisation IA pour une PME suisse ?",
-    s1_p1: "L'automatisation IA désigne l'utilisation de l'intelligence artificielle pour exécuter des tâches répétitives ou basées sur des règles à la place de vos collaborateurs : saisie de documents, réponse aux emails, qualification de leads, gestion des stocks, relances clients. Ce n'est pas de la robotique industrielle — c'est du software intelligent, déployable en quelques semaines, sans équipe IT interne.",
-    s1_p2: "En Suisse, 42 % des PME ont déjà intégré au moins un outil d'automatisation (OFS, 2025). Celles qui n'ont pas encore franchi le pas risquent de perdre en compétitivité face à des concurrents qui traitent deux fois plus de demandes clients avec le même effectif.",
+    s1_p1: "L'automatisation IA combine un processus clair, des outils connectés et un contrôle humain. Elle sert à préparer une réponse, classer une demande, relancer un prospect, extraire une information d'un document ou signaler une action à traiter. Elle ne remplace pas le jugement de la direction ni la relation client lorsqu'une décision engage l'entreprise.",
+    s1_p2: "Pour une PME, le bon point de départ n'est pas un agent qui fait tout : c'est un flux concret, un responsable identifié, une règle d'escalade et un indicateur de résultat. Les études suisses soulignent que l'automatisation et l'efficacité sont les bénéfices les plus recherchés, alors que la sécurité des données et la traçabilité restent des priorités.",
     s2_title: 'Les outils d\'automatisation IA adaptés aux PME suisses',
     s2_tools: [
       { name: 'Make (ex-Integromat)', use: 'Orchestration de workflows multi-étapes', deployment: 'SaaS européen possible', star: false },
-      { name: 'n8n (auto-hébergé)', use: 'Souveraineté des données, hébergement Infomaniak/Exoscale', deployment: 'Auto-hébergeable', star: true },
+      { name: 'n8n (auto-hébergé)', use: 'Workflows connectés et contrôle de l\'hébergement', deployment: 'Auto-hébergeable', star: false },
       { name: 'ChatGPT / Claude', use: 'Rédaction, analyse, réponse client, synthèse', deployment: 'Politique données requise', star: false },
       { name: 'Bexio + IA', use: 'Comptabilité automatisée, facturation, rappels', deployment: 'Écosystème suisse', star: false },
       { name: 'HubSpot CRM', use: 'Qualification de leads, nurturing automatisé', deployment: 'Connecteurs CRM', star: false },
-      { name: 'Vocalis', use: 'Accueil téléphonique IA 24h/24 en FR/DE/IT', deployment: 'Routage multilingue', star: true },
+      { name: 'Vocalis', use: 'Accueil téléphonique et qualification des demandes', deployment: 'Routage multilingue', star: false },
     ],
-    s2_star: 'Recommandé pour conformité nLPD',
-    s3_title: 'ROI de l\'automatisation IA : chiffres concrets pour PME suisses',
-    s3_desc: 'La réduction des coûts opérationnels est mesurable dès le premier trimestre. Voici les benchmarks issus de projets réels en Suisse romande (2024-2026) :',
+    s2_star: 'À évaluer selon les données, les accès et le processus concerné',
+    s3_title: 'Mesurer un agent IA avant de l\'étendre',
+    s3_desc: 'Nous définissons une ligne de départ puis mesurons le flux réel. Aucun gain n\'est promis avant d\'avoir observé vos volumes, vos outils et vos règles métier.',
     s3_stats: [
-      { label: 'Réduction des coûts opérationnels', value: '20–35 %', detail: 'Sur les processus automatisés' },
-      { label: 'Délai moyen de retour sur investissement', value: '8–14 mois', detail: 'Pour PME services (10-50 emp.)' },
-      { label: 'Gain de temps administratif', value: '12–18h/mois', detail: 'Par collaborateur concerné' },
-      { label: 'Taux d\'appels traités sans intervention', value: '60–70 %', detail: 'Avec agent vocal IA' },
+      { label: 'Délai de première réponse', value: 'Réactivité', detail: 'Temps entre la demande et la prise en charge' },
+      { label: 'Demandes qualifiées', value: 'Qualité', detail: 'Informations complètes avant transmission à l\'équipe' },
+      { label: 'Relances utiles', value: 'Suivi', detail: 'Prospects relancés selon une règle et un consentement définis' },
+      { label: 'Escalades humaines', value: 'Contrôle', detail: 'Cas sensibles remis à la bonne personne au bon moment' },
     ],
-    s3_calc_title: 'Calculateur ROI simplifié',
-    s3_calc_desc: 'Estimez votre retour sur investissement IA en quelques secondes :',
+    s3_calc_title: 'Le cadrage qui rend le résultat vérifiable',
+    s3_calc_desc: 'Chaque pilote commence avec un périmètre, une ligne de départ et des critères d\'arrêt explicites.',
     s4_title: 'Spécificités suisses : nLPD, multilinguisme et hébergement local',
     s4_nlpd_title: 'Conformité nLPD (loi fédérale sur la protection des données)',
-    s4_nlpd: "La nLPD, en vigueur depuis septembre 2023, impose aux PME suisses qui automatisent le traitement de données personnelles de respecter quatre principes : transparence envers les personnes concernées, minimisation des données, sécurité technique et documentation des traitements. Non-conformité : sanctions personnelles possibles pour les responsables.",
+    s4_nlpd: "La nLPD encadre le traitement de données personnelles en Suisse. Un projet d'automatisation doit notamment définir sa finalité, limiter les données et les accès, documenter les traitements, protéger les informations et informer les personnes de manière appropriée. Les exigences précises dépendent du processus et du niveau de risque.",
     s4_nlpd_tips: [
-      "Privilégier l'hébergement Suisse (Infomaniak, Exoscale) ou UE pour tous outils d'automatisation",
-      'Tenir un registre des activités de traitement automatisé',
-      'Informer les clients lorsqu\'un agent IA répond en leur nom',
-      'Réaliser une AIPD pour tout traitement à risque élevé (profilage, décisions automatisées)',
+      "Cartographier les données, les sous-traitants, les accès et les destinations avant le déploiement",
+      'Définir une base de connaissance approuvée et une règle d\'escalade humaine pour chaque agent',
+      'Appliquer la minimisation des données et la conservation limitée au besoin métier',
+      'Faire évaluer les traitements à risque élevé avec la personne compétente en protection des données',
     ],
     s4_multi_title: 'Multilinguisme : l\'avantage suisse',
-    s4_multi: "La Suisse est le seul marché où une PME doit pouvoir interagir en français, allemand, italien et parfois anglais avec ses clients. Les agents IA modernes gèrent nativement ces quatre langues — un avantage concurrentiel direct que vos concurrents étrangers n'ont pas.",
-    s5_title: "Cas d'usage sectoriels : l'automatisation IA concrète",
+    s4_multi: "Une PME suisse peut devoir interagir en français, allemand, italien et anglais selon sa clientèle. Les langues, les contenus de référence et les règles de transfert doivent être testés sur vos cas réels avant mise en production.",
+    s5_title: 'Les 5 agents IA que votre PME peut déployer en priorité',
     s5_cases: [
       {
-        sector: 'Tourisme & hôtellerie',
-        icon: '🏔',
-        uses: ['Chatbot réservations multilingue (FR/DE/EN/ZH)', 'Revenue management automatisé (+8-15% RevPAR)', 'Personnalisation séjour par IA'],
-        roi: 'ROI moyen : 50-90 % an 1',
+        sector: 'Agent de qualification et de relance',
+        icon: '①',
+        uses: ['Lit les demandes entrantes, extrait les besoins et les transmet dans votre CRM', 'Demande les informations manquantes avec un scénario validé', 'Relance seulement les contacts autorisés et signale les priorités à un commercial'],
+        roi: 'À suivre : délai de réponse, complétude des demandes et rendez-vous obtenus',
       },
       {
-        sector: 'Fiduciaires & services professionnels',
-        icon: '📊',
-        uses: ['OCR + intégration comptable automatisée (-80% temps saisie)', 'Revue automatique de documents', 'Veille réglementaire IA'],
-        roi: 'ROI moyen : 55-85 % an 1',
+        sector: 'Assistant WhatsApp commercial',
+        icon: '②',
+        uses: ['Répond aux questions récurrentes à partir de contenus approuvés', 'Recueille le contexte avant de proposer un créneau ou un rappel', 'Bascule vers une personne quand une demande est sensible, complexe ou hors périmètre'],
+        roi: 'À suivre : délai de réponse, conversations prises en charge et qualité des transferts',
       },
       {
-        sector: 'Commerce de détail',
-        icon: '🛍',
-        uses: ['Prévision des ventes et optimisation des stocks', 'Chatbot WhatsApp pour commandes', 'Personnalisation des promotions'],
-        roi: 'ROI moyen : 40-70 % an 1',
+        sector: 'Agent de prise de rendez-vous',
+        icon: '③',
+        uses: ['Propose des créneaux selon les disponibilités réellement partagées', 'Confirme, rappelle et prépare le motif du rendez-vous', 'Ne prend aucune décision commerciale, médicale, financière ou assurantielle à votre place'],
+        roi: 'À suivre : rendez-vous confirmés, annulations et temps administratif évité',
       },
       {
-        sector: 'Viticulture & agroalimentaire',
-        icon: '🍇',
-        uses: ['Prévision des récoltes par données météo', 'Marketing digital automatisé', 'Traçabilité et certification automatisées'],
-        roi: 'ROI moyen : 45-75 % an 1',
+        sector: 'Agent de dossiers et documents',
+        icon: '④',
+        uses: ['Vérifie la présence des pièces attendues sans statuer sur leur validité métier', 'Classe les documents dans le bon dossier et demande les éléments manquants', 'Conserve une trace de la source, de l\'action et du responsable de validation'],
+        roi: 'À suivre : dossiers complets, délais de traitement et erreurs détectées avant transmission',
       },
       {
-        sector: 'Construction & BTP',
-        icon: '🏗',
-        uses: ['Génération automatique de documents réglementaires', 'Suivi chantier et reporting IA', 'Qualification automatique des appels d\'offres'],
-        roi: 'ROI moyen : 30-55 % an 1',
-      },
-      {
-        sector: 'Santé & cabinets médicaux',
-        icon: '🏥',
-        uses: ['Prise de rendez-vous vocale IA 24h/24', 'Gestion automatique des rappels patients', 'Synthèse automatisée des dossiers'],
-        roi: 'ROI moyen : 60-95 % an 1',
+        sector: 'Agent de veille commerciale',
+        icon: '⑤',
+        uses: ['Surveille les sources publiques définies avec vous : appels d\'offres, changements sectoriels ou signaux de marché', 'Résume les éléments pertinents et les relie à vos secteurs ou comptes cibles', 'Laisse la vérification, la décision et toute prise de contact à votre équipe'],
+        roi: 'À suivre : alertes pertinentes, opportunités examinées et décisions documentées',
       },
     ],
     s6_title: 'Roadmap 90 jours : automatiser votre PME étape par étape',
@@ -164,11 +159,11 @@ const T = {
       },
       {
         q: 'L\'automatisation IA est-elle conforme à la nLPD suisse ?',
-        a: 'Oui, à condition de respecter la transparence, la minimisation des données et de privilégier un hébergement en Suisse ou dans l\'UE. IAPME Suisse intègre la conformité nLPD dans chaque projet dès la conception.',
+        a: 'La conformité dépend du traitement concret : données utilisées, finalité, personnes concernées, sous-traitants, accès et mesures de sécurité. Le projet doit être cadré dès la conception et, si nécessaire, revu avec la personne compétente en protection des données.',
       },
       {
-        q: 'En combien de temps voit-on les premiers résultats ?',
-        a: 'Les premières économies de temps apparaissent dès la fin du premier mois de déploiement. Le ROI financier positif est généralement atteint entre 8 et 14 mois selon le secteur et l\'ambition du projet.',
+        q: 'Quand sait-on si un agent IA fonctionne ?',
+        a: 'Après une phase pilote définie avec vous : le processus, les cas d\'escalade et les indicateurs sont comparés à une ligne de départ. Un agent n\'est étendu que si les résultats et les garde-fous sont validés.',
       },
       {
         q: 'Peut-on automatiser en plusieurs langues pour le marché suisse ?',
@@ -219,7 +214,7 @@ export default async function AutomatisationPillarPage({ params }: Props) {
   const articleSchema = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: 'Automatisation IA pour PME suisses : guide complet 2026',
+    headline: 'Automatisation IA pour PME suisses',
     description: tData.hero_desc,
     author: {
       '@type': 'Person',
@@ -236,9 +231,10 @@ export default async function AutomatisationPillarPage({ params }: Props) {
       url: 'https://iapmesuisse.ch',
     },
     datePublished: '2026-05-08',
-    dateModified: '2026-05-29',
+    dateModified: '2026-09-12',
     mainEntityOfPage: `https://iapmesuisse.ch/fr/automatisation-ia-pme-suisse`,
     url: `https://iapmesuisse.ch/fr/automatisation-ia-pme-suisse`,
+    image: 'https://iapmesuisse.ch/images/iapmesuisse-automatisation-ia-pme-pilier-20260912.png',
   };
 
   const faqSchema = {
@@ -304,6 +300,19 @@ export default async function AutomatisationPillarPage({ params }: Props) {
               {tData.cta_consulting}
             </Link>
           </div>
+          <figure className="mt-10 overflow-hidden rounded-2xl border border-gray-200 bg-gray-50">
+            <Image
+              src="/images/iapmesuisse-automatisation-ia-pme-pilier-20260912.png"
+              alt="Équipe de PME suisse qui valide un processus d'automatisation IA"
+              width={1672}
+              height={940}
+              className="h-auto w-full object-cover"
+              priority
+            />
+            <figcaption className="px-4 py-3 text-xs leading-relaxed text-gray-600">
+              Illustration créée pour IAPME Suisse : l&apos;automatisation prépare et trace les actions, l&apos;équipe garde la décision.
+            </figcaption>
+          </figure>
         </div>
       </section>
 
@@ -347,13 +356,13 @@ export default async function AutomatisationPillarPage({ params }: Props) {
               </tbody>
             </table>
             <p className="mt-2 text-xs text-gray-500">
-              Outils marqués nLPD = {tData.s2_star}
+              {tData.s2_star}
             </p>
           </div>
         </div>
       </section>
 
-      {/* Section 3 — ROI + Calculateur */}
+      {/* Section 3 — Mesure */}
       <section className="bg-gray-50 px-4 py-14 sm:px-6 lg:px-8">
         <div className="mx-auto max-w-4xl">
           <h2 className="text-2xl font-bold text-[#1B2A4A] sm:text-3xl">{tData.s3_title}</h2>
@@ -370,29 +379,29 @@ export default async function AutomatisationPillarPage({ params }: Props) {
             ))}
           </div>
 
-          {/* Calculateur ROI simplifié */}
+          {/* Cadre de mesure */}
           <div className="mt-10 rounded-2xl bg-[#1B2A4A] p-8 text-white">
             <h3 className="text-xl font-bold">{tData.s3_calc_title}</h3>
             <p className="mt-2 text-sm text-gray-300">{tData.s3_calc_desc}</p>
             <div className="mt-6 grid gap-4 sm:grid-cols-3">
               <div className="rounded-lg bg-white/10 p-4">
-                <p className="text-sm font-semibold text-gray-200">Base mensuelle de calcul</p>
-                <p className="mt-1 text-2xl font-bold">7 500</p>
-                <p className="text-xs text-gray-400">Médiane PME romande</p>
+                <p className="text-sm font-semibold text-gray-200">Périmètre</p>
+                <p className="mt-1 text-lg font-bold">Un flux précis</p>
+                <p className="text-xs text-gray-400">Une source, un responsable et une sortie définis</p>
               </div>
               <div className="rounded-lg bg-white/10 p-4">
-                <p className="text-sm font-semibold text-gray-200">Temps automatisable</p>
-                <p className="mt-1 text-2xl font-bold">25–30 %</p>
-                <p className="text-xs text-gray-400">Des tâches répétitives</p>
+                <p className="text-sm font-semibold text-gray-200">Contrôle</p>
+                <p className="mt-1 text-lg font-bold">Validation humaine</p>
+                <p className="text-xs text-gray-400">Escalade obligatoire pour les exceptions et les cas sensibles</p>
               </div>
               <div className="rounded-lg bg-[#FF0000]/80 p-4">
-                <p className="text-sm font-semibold text-white">Gain annuel estimé</p>
-                <p className="mt-1 text-2xl font-bold">Gain estim?</p>
-                <p className="text-xs text-red-200">Par collaborateur concerné</p>
+                <p className="text-sm font-semibold text-white">Décision</p>
+                <p className="mt-1 text-lg font-bold">Mesure avant extension</p>
+                <p className="text-xs text-red-200">Les indicateurs réels guident la suite du déploiement</p>
               </div>
             </div>
             <p className="mt-4 text-xs text-gray-400">
-              Estimation basée sur un collaborateur type, 25 % de tâches automatisées, 11 mois travaillés.{' '}
+              La méthode de mesure est adaptée à votre processus, vos données et vos obligations.{' '}
               <Link href="/blog/roi-intelligence-artificielle-pme-suisse" className="underline hover:text-white">
                 Voir la méthode complète de calcul ROI
               </Link>
@@ -447,12 +456,21 @@ export default async function AutomatisationPillarPage({ params }: Props) {
               </div>
             ))}
           </div>
-          <p className="mt-4 text-xs text-gray-500">
-            Sources : OFS, Economiesuisse, Digitalswitzerland, études de cas PME romandes 2024-2026.{' '}
-            <Link href="/blog/ia-pme-valais-sion" className="text-[#FF0000] hover:underline">
-              Voir les cas concrets en Valais
-            </Link>
-          </p>
+          <div className="mt-6 rounded-xl border border-gray-200 bg-white p-5 text-sm leading-relaxed text-gray-700">
+            <h3 className="font-bold text-[#1B2A4A]">Le cadre de confiance d&apos;un agent IA</h3>
+            <p className="mt-2">
+              L&apos;agent travaille dans un périmètre documenté : données minimisées, accès limités, journal des actions,
+              contenu approuvé et relais humain. Il n&apos;effectue pas de décision automatisée à fort impact et ne remplace
+              pas l&apos;expertise métier. Ces points sont particulièrement importants lorsque des données personnelles sont traitées.
+            </p>
+            <p className="mt-3 text-xs text-gray-500">
+              Contexte : l&apos;<a href="https://www.raiffeisen.ch/content/dam/www/rch/firmenkunden/unternehmerthemen/mittelstandstudie/2024/kmu-mittelstandstudie-2024-fr.pdf" className="text-[#FF0000] hover:underline" rel="noreferrer">Étude PME Suisse 2024 de Raiffeisen</a>
+              identifie l&apos;automatisation et les gains d&apos;efficacité parmi les principaux bénéfices perçus, tout en soulignant
+              les enjeux de sécurité des données et de traçabilité. Le <a href="https://www.edoeb.admin.ch/fr/ia-et-protection-des-donnees" className="text-[#FF0000] hover:underline" rel="noreferrer">PFPDT rappelle que la LPD s&apos;applique directement aux traitements de données recourant à l&apos;IA</a>.
+              Pour les obligations applicables, consultez aussi notre{' '}
+              <Link href="/blog/nlpd-ia-obligations-pme" className="text-[#FF0000] hover:underline">guide nLPD pour PME</Link>.
+            </p>
+          </div>
         </div>
       </section>
 
