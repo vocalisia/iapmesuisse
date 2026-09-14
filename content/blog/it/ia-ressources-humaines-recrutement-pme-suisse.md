@@ -204,7 +204,7 @@ Fate validare la vostra politica sulla privacy dei candidati da un giurista spec
 
 ### Fase 5: Formare il vostro team HR
 
-L'IA non sostituisce il reclutatore: lo libera dalle attività a basso valore aggiunto per permettergli di concentrarsi sulla relazione umana. Una formazione di 1-2 giorni è generalmente sufficiente per padroneggiare le funzioni principali di un ATS moderno. Per preparare un piano di formazione IA strutturato, consultate la nostra guida sulla [formazione IA per PMI svizzere](/fr/blog/formation-ia-pme-suisse).
+L'IA non sostituisce il reclutatore: lo libera dalle attività a basso valore aggiunto per permettergli di concentrarsi sulla relazione umana. Una formazione di 1-2 giorni è generalmente sufficiente per padroneggiare le funzioni principali di un ATS moderno. Per preparare un piano di formazione IA strutturato, consultate la nostra guida sulla [formazione IA per PMI svizzere](/fr/blog/formation-ia-pme-suisse-2026).
 
 ---
 

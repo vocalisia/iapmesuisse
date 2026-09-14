@@ -20,7 +20,7 @@ Il cantone del Vallese conta più di 18.000 PMI, di cui l'85% impiega meno di 10
 
 **La sfida:** le microimprese non dispongono né delle risorse umane né dei budget delle grandi aziende per progetti IA complessi. Un panettiere a Sion, uno studio fiduciario a Visp o un'agenzia immobiliare a Monthey non possono permettersi di assumere un data scientist.
 
-**L'opportunità:** gli strumenti IA no-code e gli agenti preconfigurati consentono oggi a qualsiasi PMI di automatizzare processi senza competenze tecniche. Le soluzioni progettate per le PMI svizzere — come quelle offerte da [iapmesuisse.ch](https://iapmesuisse.ch) — sono specificamente adattate a questo contesto.
+**L'opportunità:** gli strumenti IA no-code e gli agenti preconfigurati consentono oggi a qualsiasi PMI di automatizzare processi senza competenze tecniche. Le soluzioni progettate per le PMI svizzere — come quelle offerte da [iapmesuisse.ch](https://iapmesuisse.ch/it) — sono specificamente adattate a questo contesto.
 
 ## I settori vallesani dove l'IA fa la differenza
 
@@ -121,7 +121,7 @@ Scegliete uno strumento adatto al vostro caso d'uso, implementatelo su un perime
 
 ### Passo 3: Richiedere supporto locale
 
-Gli specialisti accompagnano le PMI vallesane nella loro trasformazione IA, dall'audit iniziale all'implementazione. [iapmesuisse.ch](https://iapmesuisse.ch) propone programmi specificamente progettati per il contesto elvetico — incluse le aziende del Vallese.
+Gli specialisti accompagnano le PMI vallesane nella loro trasformazione IA, dall'audit iniziale all'implementazione. [iapmesuisse.ch](https://iapmesuisse.ch/it) propone programmi specificamente progettati per il contesto elvetico — incluse le aziende del Vallese.
 
 ---
 

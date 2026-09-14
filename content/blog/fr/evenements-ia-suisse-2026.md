@@ -201,7 +201,7 @@ L'écosystème IA suisse est riche, dynamique et accessible. Les événements li
 
 ---
 
-**Vous souhaitez un accompagnement personnalisé pour intégrer l'IA dans votre PME ?** [Demandez votre audit gratuit](https://iapmesuisse.ch/audit) et bénéficiez de recommandations adaptées à votre situation.
+**Vous souhaitez un accompagnement personnalisé pour intégrer l'IA dans votre PME ?** [Demandez votre audit gratuit](/fr/contact) et bénéficiez de recommandations adaptées à votre situation.
 
 ---
 

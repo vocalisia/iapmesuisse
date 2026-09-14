@@ -210,7 +210,7 @@ Un dossier avec "budget estimé" vague est systématiquement refusé. Chaque lig
 50% d'aide publique maximum pour la plupart des projets InnoSuisse. Certaines PME reçoivent aide cantonale + InnoSuisse + Interreg et dépassent ce seuil → remboursement partiel requis.
 
 **4. Ignorer les aides à la formation**
-Le SECO et plusieurs cantons financent la **formation IA et numérique** des PME, indépendamment des projets d'innovation. Voir notre [comparatif formation IA par canton](/fr/blog/prix-formation-ia-pme-suisse-comparatif-cantons-chf).
+Le SECO et plusieurs cantons financent la **formation IA et numérique** des PME, indépendamment des projets d'innovation. Voir notre [comparatif formation IA par canton](/fr/contact).
 
 **5. Négliger la conformité réglementaire**
 Un projet IA non conforme nLPD/AI Act peut se voir refuser ou retirer le financement en cours. Voir notre [guide AI Act PME Suisse](/fr/blog/ai-act-eu-pme-suisse-conformite-2026).

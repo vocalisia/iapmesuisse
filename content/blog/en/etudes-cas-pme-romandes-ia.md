@@ -329,16 +329,16 @@ The common denominator of these successes is neither technology nor budget but t
 
 ---
 
-**Ready to write your own case study?** [Request your free audit](https://iapmesuisse.ch/audit) and identify concrete AI opportunities for your business.
+**Ready to write your own case study?** [Request your free audit](/en/contact) and identify concrete AI opportunities for your business.
 
 ---
 
 ### Related Articles
 
 - [Digital Transformation with AI for Swiss SMEs](/fr/blog/transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026) — Pillar article  
-- [AI Budget for Swiss SMEs: From CHF 500 to CHF 50,000](/fr/blog/budget-ia-pme-suisse)  
+- [AI Budget for Swiss SMEs: From CHF 500 to CHF 50,000](/fr/contact)
 - [Trusted AI Partners in French-speaking Switzerland](/fr/blog/partenaires-ia-suisse-romande)  
 
 ### External Resource
 
-- [Digitalswitzerland — Studies and Reports on Digitalization](https://digitalswitzerland.com)  
+- [Digitalswitzerland — Studies and Reports on Digitalization](https://digitalswitzerland.com)

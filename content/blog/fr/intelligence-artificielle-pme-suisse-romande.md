@@ -176,4 +176,4 @@ En pratique pour les PME romandes : vérifiez que vos fournisseurs IA hébergent
 
 Les PME de Suisse romande ont tout ce qu'il faut pour tirer le meilleur parti de l'intelligence artificielle : culture de l'excellence, proximité avec les meilleures hautes écoles d'Europe, et un tissu économique diversifié riche en cas d'usage. Le moment d'agir est maintenant.
 
-Pour un accompagnement personnalisé adapté à votre secteur et votre canton, consultez [iapmesuisse.ch](https://iapmesuisse.ch).
+Pour un accompagnement personnalisé adapté à votre secteur et votre canton, consultez [iapmesuisse.ch](https://iapmesuisse.ch/fr).

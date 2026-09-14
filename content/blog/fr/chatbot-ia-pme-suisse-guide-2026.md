@@ -16,7 +16,7 @@ En 2026, **67 % des consommateurs suisses s'attendent à une réponse instantan�
 
 Ce guide est conçu pour les dirigeants et responsables opérationnels de PME suisses qui veulent passer de la théorie à l'action : quel outil choisir, comment déployer en 4 semaines, quels résultats attendre, et comment rester en règle avec la nLPD (nouvelle Loi fédérale sur la Protection des Données).
 
-> Pour aller plus loin sur l'automatisation globale du service client, consultez notre guide [Automatisation du service client par IA en Suisse](/fr/automatisation-service-client-ia-suisse).
+> Pour aller plus loin sur l'automatisation globale du service client, consultez notre guide [Automatisation du service client par IA en Suisse](/fr/blog/automatisation-service-client-ia-suisse).
 
 ---
 
@@ -79,7 +79,7 @@ Avant de choisir un outil, il faut comprendre quelle catégorie correspond à vo
 
 **Limites :** Complexité élevée, nécessite une expertise technique, supervision humaine indispensable sur les décisions à fort impact. Budget de mise en place significatif.
 
-**Pour qui :** PME avec des processus métier bien définis et répétitifs, prêtes à investir dans un projet de 2 à 4 mois. Voir notre guide sur les [agents IA autonomes pour PME suisses](/fr/agents-ia-autonomes-pme-suisse-2026).
+**Pour qui :** PME avec des processus métier bien définis et répétitifs, prêtes à investir dans un projet de 2 à 4 mois. Voir notre guide sur les [agents IA autonomes pour PME suisses](/fr/blog/agents-ia-autonomes-pme-suisse-2026).
 
 ---
 
@@ -209,7 +209,7 @@ Pour les secteurs sensibles (santé, juridique, finance), l'hébergement en Suis
 
 **Q1 : Combien coûte un chatbot IA pour une PME suisse ?**
 
-Les solutions SaaS (Tidio, Crisp, Intercom) fonctionnent par abonnement mensuel. Les tarifs varient selon le volume de conversations et les fonctionnalités. Une PME de taille moyenne peut attendre à des coûts d'abonnement allant de quelques dizaines à quelques centaines de CHF par mois selon l'outil et le volume. À cela s'ajoute le temps de configuration initiale — comptez 2 à 5 jours de travail selon la complexité. Pour un [audit gratuit de votre situation](/contact), notre équipe peut vous donner une estimation adaptée à votre contexte réel.
+Les solutions SaaS (Tidio, Crisp, Intercom) fonctionnent par abonnement mensuel. Les tarifs varient selon le volume de conversations et les fonctionnalités. Une PME de taille moyenne peut attendre à des coûts d'abonnement allant de quelques dizaines à quelques centaines de CHF par mois selon l'outil et le volume. À cela s'ajoute le temps de configuration initiale — comptez 2 à 5 jours de travail selon la complexité. Pour un [audit gratuit de votre situation](/fr/contact), notre équipe peut vous donner une estimation adaptée à votre contexte réel.
 
 **Q2 : Un chatbot peut-il répondre en français ET en allemand ?**
 
@@ -222,11 +222,11 @@ Bexio dispose d'une API publique bien documentée. Deux approches principales :
 - **Via Make.com :** connecteur natif Bexio disponible dans Make.com. Vous pouvez construire des scénarios qui lisent et écrivent dans Bexio (contacts, devis, projets) déclenchés par des événements chatbot.
 - **Via webhook custom :** pour Intercom ou Botpress, une intégration webhook permet d'appeler l'API Bexio directement depuis le chatbot.
 
-Notre guide [Intégrer Bexio et l'IA](/fr/integration-bexio-ia-pme-suisse-guide-2026) détaille les étapes techniques.
+Notre guide [Intégrer Bexio et l'IA](/fr/blog/integration-bexio-ia-pme-suisse-guide-2026) détaille les étapes techniques.
 
 **Q4 : Mon chatbot IA doit-il respecter la nLPD suisse ?**
 
-Oui, sans exception. Tout traitement de données personnelles de résidents suisses — y compris via un chatbot — est soumis à la nLPD depuis septembre 2023. Les obligations essentielles : identification comme IA, option de transfert à un humain, consentement explicite pour la collecte de données, hébergement en Suisse ou UE recommandé. En cas de doute, notre article [DPO et obligations nLPD pour les PME suisses](/fr/dpo-nlpd-ia-obligations-pratiques-pme-suisse) couvre le sujet en détail.
+Oui, sans exception. Tout traitement de données personnelles de résidents suisses — y compris via un chatbot — est soumis à la nLPD depuis septembre 2023. Les obligations essentielles : identification comme IA, option de transfert à un humain, consentement explicite pour la collecte de données, hébergement en Suisse ou UE recommandé. En cas de doute, notre article [DPO et obligations nLPD pour les PME suisses](/fr/blog/dpo-nlpd-ia-obligations-pratiques-pme-suisse) couvre le sujet en détail.
 
 ---
 
@@ -238,7 +238,7 @@ La technologie est prête. Les outils sont accessibles. Le vrai travail est dans
 
 Si vous ne savez pas par où commencer, ou si vous voulez valider votre approche avant d'investir, la meilleure prochaine étape est un audit de votre situation actuelle.
 
-**[Demander un audit gratuit de 30 minutes](/contact)** — nous analysons votre service client, vos outils actuels et vous recommandons le type de chatbot adapté à votre PME suisse.
+**[Demander un audit gratuit de 30 minutes](/fr/contact)** — nous analysons votre service client, vos outils actuels et vous recommandons le type de chatbot adapté à votre PME suisse.
 
 ---
 

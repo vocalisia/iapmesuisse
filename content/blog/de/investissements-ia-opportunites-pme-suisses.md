@@ -93,4 +93,4 @@ Die wichtigsten Kriterien: Daten müssen auf Servern innerhalb der EU oder der S
 
 ---
 
-**Möchten Sie verstehen, welche KI-Investitionen für Ihr KMU die höchste Rendite bringen?** Buchen Sie ein [kostenloses 30-Minuten-Beratungsgespräch](/contact) — wir erstellen mit Ihnen gemeinsam eine priorisierte KI-Roadmap, die zu Ihrem Budget und Ihren Zielen passt.
+**Möchten Sie verstehen, welche KI-Investitionen für Ihr KMU die höchste Rendite bringen?** Buchen Sie ein [kostenloses 30-Minuten-Beratungsgespräch](/de/contact) — wir erstellen mit Ihnen gemeinsam eine priorisierte KI-Roadmap, die zu Ihrem Budget und Ihren Zielen passt.

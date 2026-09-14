@@ -88,7 +88,7 @@ Voir aussi notre [page services par canton](/fr/cantons) pour la couverture géo
 | Zurich | Innovation ZH | 10 000-150 000 |
 | Tessin | Fondazione Agire | 10 000-100 000 |
 
-Les aides cantonales sont **cumulables** avec InnoSuisse dans la limite de 50% du financement total du projet. Voir notre [comparatif prix formation IA par canton](/fr/blog/prix-formation-ia-pme-suisse-comparatif-cantons-chf) pour le détail des aides à la formation.
+Les aides cantonales sont **cumulables** avec InnoSuisse dans la limite de 50% du financement total du projet. Voir notre [comparatif prix formation IA par canton](/fr/contact) pour le détail des aides à la formation.
 
 ## Cas pratique : projet IA PME 80 000 CHF
 

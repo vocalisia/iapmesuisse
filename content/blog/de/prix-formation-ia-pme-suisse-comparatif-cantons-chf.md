@@ -66,7 +66,7 @@ Für KMU in tiefgreifender digitaler Transformation. Diagnose, Führungsschulung
 
 InnoSuisse anerkennt KI 2024-2027 ausdrücklich als strategisches Thema.
 
-Zur globalen KI-Budgetplanung siehe unseren [KI-Budget-Leitfaden für KMU](/de/blog/budget-ia-pme-suisse).
+Zur globalen KI-Budgetplanung siehe unseren [KI-Budget-Leitfaden für KMU](/de/contact).
 
 ## Interkantonaler Marktpreisvergleich
 

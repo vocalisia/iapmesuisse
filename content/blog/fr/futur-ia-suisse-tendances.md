@@ -264,7 +264,7 @@ Le futur de l'IA en Suisse s'écrit aujourd'hui. Et il s'écrit aussi dans les P
 
 ---
 
-**Vous souhaitez anticiper et préparer votre PME aux évolutions de l'IA ?** [Demandez votre audit gratuit](https://iapmesuisse.ch/audit) et construisez votre feuille de route IA pour les années à venir.
+**Vous souhaitez anticiper et préparer votre PME aux évolutions de l'IA ?** [Demandez votre audit gratuit](/fr/contact) et construisez votre feuille de route IA pour les années à venir.
 
 ---
 

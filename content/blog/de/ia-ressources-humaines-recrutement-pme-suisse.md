@@ -204,7 +204,7 @@ Lassen Sie Ihre Datenschutzrichtlinie für Bewerber von einem auf Schweizer Date
 
 ### Schritt 5: Schulen Sie Ihr HR-Team
 
-KI ersetzt den Recruiter nicht: Sie entlastet ihn von Aufgaben mit geringem Mehrwert, damit er sich auf die menschliche Beziehung konzentrieren kann. Eine Schulung von 1 bis 2 Tagen reicht in der Regel aus, um die Hauptfunktionen eines modernen ATS zu beherrschen. Für einen strukturierten KI-Schulungsplan lesen Sie unseren Leitfaden zur [KI-Schulung für Schweizer KMU](/fr/blog/formation-ia-pme-suisse).
+KI ersetzt den Recruiter nicht: Sie entlastet ihn von Aufgaben mit geringem Mehrwert, damit er sich auf die menschliche Beziehung konzentrieren kann. Eine Schulung von 1 bis 2 Tagen reicht in der Regel aus, um die Hauptfunktionen eines modernen ATS zu beherrschen. Für einen strukturierten KI-Schulungsplan lesen Sie unseren Leitfaden zur [KI-Schulung für Schweizer KMU](/fr/blog/formation-ia-pme-suisse-2026).
 
 ---
 

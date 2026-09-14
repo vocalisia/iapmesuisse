@@ -117,7 +117,7 @@ Dans une PME, chaque collaborateur porte plusieurs casquettes. Il est difficile 
 
 **Module 3 — Stratégie et gouvernance (demi-journée pour les managers)** : Piloter une transition IA, mesurer le ROI, définir les règles d'usage internes, gérer les risques (confidentialité, biais, qualité).
 
-Chez [iapmesuisse.ch](https://iapmesuisse.ch), nous proposons ces programmes adaptés spécifiquement aux PME suisses, en français, allemand et anglais, avec des exemples tirés de secteurs représentatifs de l'économie helvétique (industrie, services B2B, commerce, santé).
+Chez [iapmesuisse.ch](https://iapmesuisse.ch/fr), nous proposons ces programmes adaptés spécifiquement aux PME suisses, en français, allemand et anglais, avec des exemples tirés de secteurs représentatifs de l'économie helvétique (industrie, services B2B, commerce, santé).
 
 ---
 

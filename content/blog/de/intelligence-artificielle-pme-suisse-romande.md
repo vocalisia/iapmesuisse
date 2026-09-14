@@ -174,4 +174,4 @@ Für Schweizer KMU bedeutet dies: Stellen Sie sicher, dass Ihre KI-Anbieter Date
 
 Schweizer KMU haben alles, was nötig ist, um das Beste aus künstlicher Intelligenz herauszuholen: eine Kultur der Exzellenz, Nähe zu den besten Hochschulen Europas und eine vielfältige Wirtschaftsstruktur mit zahlreichen Anwendungsfällen. Der Zeitpunkt zum Handeln ist jetzt.
 
-Für eine individuelle Beratung, die auf Ihren Sektor und Kanton abgestimmt ist, besuchen Sie [iapmesuisse.ch](https://iapmesuisse.ch).
+Für eine individuelle Beratung, die auf Ihren Sektor und Kanton abgestimmt ist, besuchen Sie [iapmesuisse.ch](https://iapmesuisse.ch/de).

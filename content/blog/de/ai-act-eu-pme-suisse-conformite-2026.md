@@ -106,4 +106,4 @@ Ja, sogar empfohlen. Die Pflichten überschneiden sich zu 40-60%. Unser [kostenl
 
 ---
 
-Möchten Sie wissen, wo Ihr KMU beim AI Act steht? [Buchen Sie ein kostenloses KI-Audit](/de/contact). Vertiefen Sie mit unserem [KI-Budget-Leitfaden](/de/blog/budget-ia-pme-suisse) und unseren [Beratungsleistungen](/de/consulting).
+Möchten Sie wissen, wo Ihr KMU beim AI Act steht? [Buchen Sie ein kostenloses KI-Audit](/de/contact). Vertiefen Sie mit unserem [KI-Budget-Leitfaden](/de/contact) und unseren [Beratungsleistungen](/de/consulting).

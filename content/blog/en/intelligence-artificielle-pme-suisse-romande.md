@@ -175,4 +175,4 @@ In practice for SMEs in French-speaking Switzerland: ensure your AI providers ho
 
 SMEs in French-speaking Switzerland have everything they need to make the most of artificial intelligence: a culture of excellence, proximity to Europe's top universities, and a diverse economic fabric rich in use cases. The time to act is now.
 
-For personalized support tailored to your sector and canton, visit [iapmesuisse.ch](https://iapmesuisse.ch).
+For personalized support tailored to your sector and canton, visit [iapmesuisse.ch](https://iapmesuisse.ch/en).

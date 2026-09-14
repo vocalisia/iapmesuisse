@@ -263,7 +263,7 @@ Die Zukunft der KI in der Schweiz wird heute geschrieben. Und sie wird auch in d
 
 ---
 
-**Möchten Sie Ihre KMU auf die Entwicklungen der KI vorbereiten?** [Fordern Sie Ihr kostenloses Audit an](https://iapmesuisse.ch/audit) und erstellen Sie Ihre KI-Roadmap für die kommenden Jahre.
+**Möchten Sie Ihre KMU auf die Entwicklungen der KI vorbereiten?** [Fordern Sie Ihr kostenloses Audit an](/de/contact) und erstellen Sie Ihre KI-Roadmap für die kommenden Jahre.
 
 ---
 

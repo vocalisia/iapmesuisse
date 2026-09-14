@@ -157,7 +157,7 @@ The key is not to wait for an incident to act. A proactive, structured approach 
 
 ---
 
-**Want to evaluate the nLPD compliance of your AI projects?** [Request your free audit](https://iapmesuisse.ch/audit) and receive a personalized diagnosis within 48 hours.
+**Want to evaluate the nLPD compliance of your AI projects?** [Request your free audit](/en/contact) and receive a personalized diagnosis within 48 hours.
 
 ---
 
@@ -165,7 +165,7 @@ The key is not to wait for an incident to act. A proactive, structured approach 
 
 - [Artificial Intelligence for Swiss SMEs: Complete Guide 2026](/fr/blog/intelligence-artificielle-pme-suisses-guide-complet-2026) — Pillar article
 - [AI Audit: Assessing your SME's digital maturity](/fr/blog/audit-ia-maturite-pme)
-- [AI Budget for Swiss SMEs: From CHF 500 to CHF 50,000](/fr/blog/budget-ia-pme-suisse)
+- [AI Budget for Swiss SMEs: From CHF 500 to CHF 50,000](/fr/contact)
 
 ### External resource
 

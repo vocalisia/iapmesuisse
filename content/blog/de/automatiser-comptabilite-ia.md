@@ -224,14 +224,14 @@ Der Schlüssel zum Erfolg liegt in einem schrittweisen Ansatz: Beginnen Sie mit 
 
 ---
 
-**Bereit, Ihre Buchhaltung zu automatisieren?** [Fordern Sie Ihr kostenloses Audit an](https://iapmesuisse.ch/audit) und identifizieren Sie die potenziellen Einsparungen für Ihr Unternehmen.
+**Bereit, Ihre Buchhaltung zu automatisieren?** [Fordern Sie Ihr kostenloses Audit an](/de/contact) und identifizieren Sie die potenziellen Einsparungen für Ihr Unternehmen.
 
 ---
 
 ### Verwandte Artikel
 
 - [Automatisierung von Prozessen mit KI: Praktischer Leitfaden für Schweizer KMU](/de/blog/automatisation-processus-ia-guide-pratique-pme-suisses) — Artikel-Pfeiler
-- [KI-Budget für Schweizer KMU: Von 500 bis 50'000 CHF](/de/blog/budget-ia-pme-suisse)
+- [KI-Budget für Schweizer KMU: Von 500 bis 50'000 CHF](/de/contact)
 - [Intelligentes CRM: Steigern Sie Ihre Verkäufe mit KI](/de/blog/crm-intelligent-ia)
 
 ### Externe Ressource

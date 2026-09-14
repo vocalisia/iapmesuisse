@@ -11,7 +11,7 @@ image: "/images/blog/iapme-autocontrol-20260620/de-ia-seo-contenu-multilingue-su
 
 Der Schweizer Markt ist weltweit einzigartig: vier Sprachregionen, zwei Hauptkulturen (romanisch und germanisch) und je nach Sprache grundlegend unterschiedliche Suchverhalten. Ein Waadtländer KMU, das nur auf Französisch ausgerichtet ist, verpasst **75 % seines potenziellen Schweizer Marktes**. KI macht mehrsprachiges SEO für KMU endlich zugänglich.
 
-> Für den allgemeinen Kontext, siehe den [Pileitfaden zur KI-Automatisierung für Schweizer KMU](/de/automatisierung-ki-kmu-schweiz).
+> Für den allgemeinen Kontext, siehe den [Pileitfaden zur KI-Automatisierung für Schweizer KMU](/de/automatisation-ia-pme-suisse).
 
 ## 1. Die Besonderheiten des mehrsprachigen SEO in der Schweiz
 
@@ -81,7 +81,7 @@ Für ein B2B-Dienstleistungs-KMU, das auf alle 4 Sprachregionen abzielt:
 
 ## Weiterführende Ressourcen
 
-- [Pileitfaden: KI-Automatisierung für Schweizer KMU](/de/automatisierung-ki-kmu-schweiz)
+- [Pileitfaden: KI-Automatisierung für Schweizer KMU](/de/automatisation-ia-pme-suisse)
 - [KI für digitales Marketing von Schweizer KMU](/de/blog/ia-marketing-digital-pme-suisse-2026)
 - [E-Mail-Automatisierung mit KI](/de/blog/automatisation-emails-ia-pme-suisse-guide-2026)
 - [Autonome KI-Agenten für Schweizer KMU](/de/blog/agents-ia-autonomes-pme-suisse-2026)

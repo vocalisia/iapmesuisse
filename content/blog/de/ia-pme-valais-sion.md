@@ -20,7 +20,7 @@ Der Kanton Wallis zählt über 18'000 KMU, von denen 85 % weniger als 10 Mitarbe
 
 **Die Herausforderung:** Sehr kleine Unternehmen verfügen weder über die personellen noch über die finanziellen Ressourcen, die grosse Unternehmen für komplexe KI-Projekte haben. Ein Bäcker in Sion, ein Treuhandbüro in Visp oder eine Immobilienagentur in Monthey können keinen Data Scientist einstellen.
 
-**Die Chance:** No-Code-KI-Tools und vorgefertigte Agenten ermöglichen es heute jedem KMU, Prozesse zu automatisieren, ohne technische Kenntnisse zu benötigen. Lösungen, die speziell für Schweizer KMU entwickelt wurden – wie die von [iapmesuisse.ch](https://iapmesuisse.ch) – sind genau auf diesen Kontext zugeschnitten.
+**Die Chance:** No-Code-KI-Tools und vorgefertigte Agenten ermöglichen es heute jedem KMU, Prozesse zu automatisieren, ohne technische Kenntnisse zu benötigen. Lösungen, die speziell für Schweizer KMU entwickelt wurden – wie die von [iapmesuisse.ch](https://iapmesuisse.ch/de) – sind genau auf diesen Kontext zugeschnitten.
 
 ## Branchen im Wallis, in denen KI den grössten Unterschied macht
 
@@ -121,7 +121,7 @@ Wählen Sie ein Tool, das zu Ihrem Anwendungsfall passt, setzen Sie es auf einem
 
 ### Schritt 3: Lokale Unterstützung in Anspruch nehmen
 
-Spezialisten begleiten Walliser KMU bei ihrer KI-Transformation, vom ersten Audit bis zur Implementierung. [iapmesuisse.ch](https://iapmesuisse.ch) bietet Programme, die speziell für den Schweizer Kontext entwickelt wurden – auch für Unternehmen im Wallis.
+Spezialisten begleiten Walliser KMU bei ihrer KI-Transformation, vom ersten Audit bis zur Implementierung. [iapmesuisse.ch](https://iapmesuisse.ch/de) bietet Programme, die speziell für den Schweizer Kontext entwickelt wurden – auch für Unternehmen im Wallis.
 
 ---
 

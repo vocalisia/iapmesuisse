@@ -248,4 +248,4 @@ Der Schlüssel zum Erfolg liegt in einer **methodischen Herangehensweise**: mit 
 
 Bei IA PME Suisse begleiten wir Schweizer Unternehmen jeder Größe und Branche bei dieser Transformation. Vom ersten Audit über die Schulung der Teams bis hin zur technischen Implementierung und Leistungskontrolle ist es unsere Mission, KI für jedes Schweizer KMU zugänglich, rentabel und konform zu machen.
 
-**Machen Sie heute den ersten Schritt.** [Fordern Sie Ihr kostenloses KI-Audit an](https://iapmesuisse.ch/audit-ia-gratuit) und entdecken Sie, wie künstliche Intelligenz Ihr Unternehmen transformieren kann.
+**Machen Sie heute den ersten Schritt.** [Fordern Sie Ihr kostenloses KI-Audit an](/de/contact) und entdecken Sie, wie künstliche Intelligenz Ihr Unternehmen transformieren kann.

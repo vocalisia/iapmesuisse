@@ -113,7 +113,7 @@ const COPY: Record<string, LocaleCopy> = {
     related: (cantonSlug) => [
       { title: `Voir toutes les ressources du canton de ${cantonSlug}`, href: `/cantons/${cantonSlug}` },
       { title: 'Stratégie IA PME Suisse — plan d\'action 2026', href: '/blog/strategie-ia-pme-suisse-2026' },
-      { title: 'ROI Intelligence Artificielle PME Suisse', href: '/blog/roi-intelligence-artificielle-pme-transformation-digitale' },
+      { title: 'ROI Intelligence Artificielle PME Suisse', href: '/blog/roi-intelligence-artificielle-pme-suisse' },
       { title: 'Études de cas PME romandes', href: '/blog/etudes-cas-pme-romandes-ia' },
     ],
     ctaTitle: (name) => `Démarrons votre projet IA à ${name}`,
@@ -245,7 +245,7 @@ const COPY: Record<string, LocaleCopy> = {
     related: (cantonSlug) => [
       { title: `All resources for canton ${cantonSlug}`, href: `/cantons/${cantonSlug}` },
       { title: 'AI Strategy for Swiss SMEs 2026', href: '/blog/strategie-ia-pme-suisse-2026' },
-      { title: 'AI ROI for Swiss SMEs', href: '/blog/roi-intelligence-artificielle-pme-transformation-digitale' },
+      { title: 'AI ROI for Swiss SMEs', href: '/blog/roi-intelligence-artificielle-pme-suisse' },
       { title: 'Swiss SME case studies', href: '/blog/etudes-cas-pme-romandes-ia' },
     ],
     ctaTitle: (name) => `Let's start your AI project in ${name}`,
@@ -311,7 +311,7 @@ const COPY: Record<string, LocaleCopy> = {
     related: (cantonSlug) => [
       { title: `Tutte le risorse del cantone ${cantonSlug}`, href: `/cantons/${cantonSlug}` },
       { title: 'Strategia IA PMI Svizzera 2026', href: '/blog/strategie-ia-pme-suisse-2026' },
-      { title: 'ROI IA PMI Svizzera', href: '/blog/roi-intelligence-artificielle-pme-transformation-digitale' },
+      { title: 'ROI IA PMI Svizzera', href: '/blog/roi-intelligence-artificielle-pme-suisse' },
       { title: 'Studi di caso PMI svizzere', href: '/blog/etudes-cas-pme-romandes-ia' },
     ],
     ctaTitle: (name) => `Avviamo il suo progetto IA a ${name}`,

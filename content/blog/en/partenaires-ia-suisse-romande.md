@@ -225,7 +225,7 @@ Take the time to select rigorously, demand verifiable references, and structure 
 
 ---
 
-**Need help finding the right AI partner for your project?** [Request your free audit](https://iapmesuisse.ch/audit) and receive recommendations for partners tailored to your sector and budget.
+**Need help finding the right AI partner for your project?** [Request your free audit](/en/contact) and receive recommendations for partners tailored to your sector and budget.
 
 ---
 
@@ -233,7 +233,7 @@ Take the time to select rigorously, demand verifiable references, and structure 
 
 - [Digital Transformation with AI for Swiss SMEs](/fr/blog/transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026) — Pillar article
 - [Case Studies: Swiss SMEs Transformed by AI](/fr/blog/etudes-cas-pme-romandes-ia)
-- [AI Budget for Swiss SMEs: From CHF 500 to CHF 50,000](/fr/blog/budget-ia-pme-suisse)
+- [AI Budget for Swiss SMEs: From CHF 500 to CHF 50,000](/fr/contact)
 
 ### External Resource
 

@@ -11,7 +11,7 @@ image: "/images/blog/iapme-autocontrol-20260620/en-ia-fintech-services-financier
 
 Switzerland is the **3rd largest financial centre in the world**. Zurich and Geneva host hundreds of fintechs and thousands of independent wealth managers. In 2026, AI is reshaping the Swiss financial sector at every level — from major banks to independent wealth management firms with just 5 employees.
 
-> For the general context, see the [pillar guide on AI automation for Swiss SMEs](/en/ai-automation-swiss-sme).
+> For the general context, see the [pillar guide on AI automation for Swiss SMEs](/en/automatisation-ia-pme-suisse).
 
 ## 1. Five High-Impact AI Applications in Swiss Finance
 
@@ -91,7 +91,7 @@ Ready to transform your SME with AI? [Contact our experts for a free 30-minute a
 
 ## Further Reading
 
-- [Pillar guide: AI Automation for Swiss SMEs](/en/ai-automation-swiss-sme)
+- [Pillar guide: AI Automation for Swiss SMEs](/en/automatisation-ia-pme-suisse)
 - [DPO and Swiss FADP in the Age of AI: Practical Obligations](/en/blog/dpo-nlpd-ia-obligations-pratiques-pme-suisse)
 - [Self-Hosted n8n for Swiss SMEs: Sovereignty and Swiss FADP](/en/blog/n8n-auto-heberge-pme-suisse-nlpd)
 - [Email Automation with AI](/en/blog/automatisation-emails-ia-pme-suisse-guide-2026)

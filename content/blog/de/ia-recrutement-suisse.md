@@ -218,7 +218,7 @@ Wichtig ist, einen ethischen, transparenten und nLPD-konformen Ansatz zu verfolg
 
 ---
 
-**Möchten Sie Ihren Rekrutierungsprozess modernisieren?** [Fordern Sie Ihr kostenloses Audit an](https://iapmesuisse.ch/audit) und erhalten Sie Empfehlungen, die auf Ihr Rekrutierungsvolumen und Ihr Budget zugeschnitten sind.
+**Möchten Sie Ihren Rekrutierungsprozess modernisieren?** [Fordern Sie Ihr kostenloses Audit an](/de/contact) und erhalten Sie Empfehlungen, die auf Ihr Rekrutierungsvolumen und Ihr Budget zugeschnitten sind.
 
 ---
 

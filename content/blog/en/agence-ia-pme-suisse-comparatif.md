@@ -131,7 +131,7 @@ Request a **documented business case** before any commitment.
 
 ### Criterion 4: Ability to Train Your Teams
 
-AI is not a tool you deploy and forget. Your employees must understand how to use it, feed it correctly, and interpret its results. A good partner systematically includes a **training and change management component**. Discover the [AI training options available for Swiss SMEs](/fr/blog/formation-ia-pme-suisse) to evaluate what you’ll need to plan internally.
+AI is not a tool you deploy and forget. Your employees must understand how to use it, feed it correctly, and interpret its results. A good partner systematically includes a **training and change management component**. Discover the [AI training options available for Swiss SMEs](/fr/blog/formation-ia-pme-suisse-2026) to evaluate what you’ll need to plan internally.
 
 ### Criterion 5: Commercial Transparency
 

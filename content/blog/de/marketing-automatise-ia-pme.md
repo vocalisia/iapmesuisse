@@ -235,7 +235,7 @@ Der Schlüssel zum Erfolg liegt in einem schrittweisen und datengestützten Ansa
 
 ---
 
-**Bereit, Ihr Marketing zu automatisieren?** [Fordern Sie jetzt Ihr kostenloses Audit an](https://iapmesuisse.ch/audit) und erhalten Sie einen personalisierten Marketingplan für Ihr KMU.
+**Bereit, Ihr Marketing zu automatisieren?** [Fordern Sie jetzt Ihr kostenloses Audit an](/de/contact) und erhalten Sie einen personalisierten Marketingplan für Ihr KMU.
 
 ---
 

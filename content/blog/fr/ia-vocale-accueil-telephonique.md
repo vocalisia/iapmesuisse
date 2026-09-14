@@ -208,7 +208,7 @@ La technologie est désormais suffisamment mature pour offrir une expérience na
 
 ---
 
-**Envie de tester un assistant vocal IA pour votre PME ?** [Demandez votre audit gratuit](https://iapmesuisse.ch/audit) et découvrez combien d'appels vous perdez chaque mois.
+**Envie de tester un assistant vocal IA pour votre PME ?** [Demandez votre audit gratuit](/fr/contact) et découvrez combien d'appels vous perdez chaque mois.
 
 ---
 

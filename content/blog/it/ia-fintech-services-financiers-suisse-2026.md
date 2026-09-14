@@ -11,7 +11,7 @@ image: "/images/blog/iapme-autocontrol-20260620/it-ia-fintech-services-financier
 
 La Svizzera è la **3a piazza finanziaria mondiale**. Zurigo e Ginevra ospitano centinaia di fintech e migliaia di gestori patrimoniali indipendenti. Nel 2026, l'IA ridisegna il settore finanziario svizzero a tutti i livelli, dalle grandi banche alle società di gestione patrimoniale indipendente con 5 persone. Chi non adotta l'IA rischia di perdere terreno rispetto ai competitor internazionali che già la utilizzano per ridurre costi e migliorare la qualità del servizio.
 
-> Per il contesto generale, vedere la [guida pilastro sull'automazione IA per le PMI svizzere](/it/automazione-ia-pmi-svizzera).
+> Per il contesto generale, vedere la [guida pilastro sull'automazione IA per le PMI svizzere](/it/automatisation-ia-pme-suisse).
 
 ## 1. Cinque applicazioni IA ad alto impatto nella finanza svizzera
 
@@ -99,7 +99,7 @@ Pronto a trasformare la tua PMI con l'IA? [Contatta i nostri esperti per un audi
 
 ## Per approfondire
 
-- [Guida pilastro: Automazione IA per PMI svizzere](/it/automazione-ia-pmi-svizzera)
+- [Guida pilastro: Automazione IA per PMI svizzere](/it/automatisation-ia-pme-suisse)
 - [DPO e nLPD di fronte all'IA: obblighi pratici](/it/blog/dpo-nlpd-ia-obligations-pratiques-pme-suisse)
 - [n8n auto-ospitato per PMI svizzere: sovranità e nLPD](/it/blog/n8n-auto-heberge-pme-suisse-nlpd)
 - [Automazione email con IA](/it/blog/automatisation-emails-ia-pme-suisse-guide-2026)

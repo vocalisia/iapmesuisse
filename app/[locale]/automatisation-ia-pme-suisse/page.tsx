@@ -205,6 +205,28 @@ const T = {
   },
 };
 
+const localizedInternalLinks: Record<string, Record<string, string>> = {
+  de: {
+    '/blog/ki-beratung-kmu-schweiz-guide-2026': '/blog/ki-beratung-kmu-schweiz-leitfaden-2026',
+    '/blog/ia-generative-pme-suisses-guide-2026': '/blog/generative-ki-kmu-schweiz-guide-2026',
+    '/blog/cloud-migration-pme-suisse-guide-2026': '/blog/cloud-migration-kmu-schweiz-guide-2026',
+  },
+  en: {
+    '/blog/ki-beratung-kmu-schweiz-guide-2026': '/blog/ai-consulting-sme-switzerland-guide-2026',
+    '/blog/ia-generative-pme-suisses-guide-2026': '/blog/generative-ai-swiss-sme-guide-2026',
+    '/blog/cloud-migration-pme-suisse-guide-2026': '/blog/cloud-migration-swiss-sme-guide-2026',
+  },
+  it: {
+    '/blog/ki-beratung-kmu-schweiz-guide-2026': '/blog/consulenza-ia-pmi-svizzera-guida-2026',
+    '/blog/ia-generative-pme-suisses-guide-2026': '/blog/ia-generativa-pmi-svizzera-guida-2026',
+    '/blog/cloud-migration-pme-suisse-guide-2026': '/blog/migrazione-cloud-pmi-svizzera-guida-2026',
+  },
+};
+
+function resolveInternalLink(locale: string, href: string) {
+  return localizedInternalLinks[locale]?.[href] ?? href;
+}
+
 export default async function AutomatisationPillarPage({ params }: Props) {
   const { locale } = await params;
   const tData = T[locale as keyof typeof T] ?? T.fr;
@@ -530,7 +552,7 @@ export default async function AutomatisationPillarPage({ params }: Props) {
             {tData.internal_links.map((link, i) => (
               <li key={i}>
                 <Link
-                  href={link.href as '/consulting'}
+                  href={resolveInternalLink(locale, link.href) as '/consulting'}
                   className="flex items-center gap-2 text-sm text-[#FF0000] hover:underline"
                 >
                   <span>→</span>

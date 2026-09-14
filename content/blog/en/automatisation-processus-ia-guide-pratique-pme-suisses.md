@@ -367,4 +367,4 @@ Automating processes with AI is no longer a question of "if," but "when" and "ho
 
 The key is to start with high-impact, low-complexity processes, choose tools tailored to the Swiss context (compliance, multilingualism, local hosting), and involve teams from the outset to ensure adoption.
 
-To go further, explore our [guides and tutorials on AI automation](https://vocalis.blog), or request your [free AI audit](https://iapmesuisse.ch/audit-ia-gratuit) to get a personalized action plan.
+To go further, explore our [guides and tutorials on AI automation](https://vocalis.blog), or request your [free AI audit](/en/contact) to get a personalized action plan.

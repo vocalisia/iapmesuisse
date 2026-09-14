@@ -254,8 +254,8 @@ const T = {
     internal_links_title: 'Ressources complémentaires — Chatbot IA & assistants vocaux PME suisses',
     internal_links: [
       { href: '/automatisation-ia-pme-suisse', label: 'Automatisation IA pour PME suisses : guide complet 2026' },
-      { href: '/blog/chatbot-ia-entreprise-suisse-guide-2026', label: 'Chatbot IA entreprise suisse : guide complet 2026' },
-      { href: '/blog/chatbot-ia-pme-suisse-guide-2026', label: 'Chatbot IA PME suisse : déploiement et conformité nLPD' },
+      { href: '/chatbot-ia-entreprise-suisse', label: 'Chatbot IA entreprise suisse : guide complet 2026' },
+      { href: '/blog/chatbot-ia-service-client-pme-suisse', label: 'Chatbot IA PME suisse : déploiement et conformité nLPD' },
       { href: '/blog/assistant-vocal-ia-pme-guide-complet', label: 'Assistant vocal IA pour PME : guide complet (Vocalis, Twilio, ElevenLabs)' },
       { href: '/services', label: 'Services IA pour PME suisses — nos solutions' },
       { href: '/contact', label: 'Audit chatbot IA gratuit (30 min)' },
@@ -479,8 +479,8 @@ const T = {
     internal_links_title: 'Weiterführende Ressourcen — KI-Chatbot & Sprachassistenten für Schweizer KMU',
     internal_links: [
       { href: '/automatisation-ia-pme-suisse', label: 'KI-Automatisierung für Schweizer KMU: vollständiger Leitfaden 2026' },
-      { href: '/blog/chatbot-ia-entreprise-suisse-guide-2026', label: 'KI-Chatbot Schweizer Unternehmen: vollständiger Leitfaden 2026' },
-      { href: '/blog/chatbot-ia-pme-suisse-guide-2026', label: 'KI-Chatbot KMU Schweiz: Deployment und nDSG-Konformität' },
+      { href: '/chatbot-ia-entreprise-suisse', label: 'KI-Chatbot Schweizer Unternehmen: vollständiger Leitfaden 2026' },
+      { href: '/blog/chatbot-ia-service-client-pme-suisse', label: 'KI-Chatbot KMU Schweiz: Deployment und nDSG-Konformität' },
       { href: '/blog/assistant-vocal-ia-pme-guide-complet', label: 'KI-Sprachassistent für KMU: vollständiger Leitfaden (Vocalis, Twilio, ElevenLabs)' },
       { href: '/services', label: 'KI-Services für Schweizer KMU — unsere Lösungen' },
       { href: '/contact', label: 'Kostenloses KI-Chatbot-Audit (30 min)' },
@@ -704,8 +704,8 @@ const T = {
     internal_links_title: 'Further resources — AI chatbot & voice assistants for Swiss SMEs',
     internal_links: [
       { href: '/automatisation-ia-pme-suisse', label: 'AI automation for Swiss SMEs: complete guide 2026' },
-      { href: '/blog/chatbot-ia-entreprise-suisse-guide-2026', label: 'AI chatbot Swiss business: complete guide 2026' },
-      { href: '/blog/chatbot-ia-pme-suisse-guide-2026', label: 'AI chatbot Swiss SME: deployment and nFADP compliance' },
+      { href: '/chatbot-ia-entreprise-suisse', label: 'AI chatbot Swiss business: complete guide 2026' },
+      { href: '/blog/chatbot-ia-service-client-pme-suisse', label: 'AI chatbot Swiss SME: deployment and nFADP compliance' },
       { href: '/blog/assistant-vocal-ia-pme-guide-complet', label: 'AI voice assistant for SMEs: complete guide (Vocalis, Twilio, ElevenLabs)' },
       { href: '/services', label: 'AI services for Swiss SMEs — our solutions' },
       { href: '/contact', label: 'Free AI chatbot audit (30 min)' },
@@ -929,8 +929,8 @@ const T = {
     internal_links_title: 'Risorse complementari — Chatbot IA & assistenti vocali per PMI svizzere',
     internal_links: [
       { href: '/automatisation-ia-pme-suisse', label: 'Automazione IA per PMI svizzere: guida completa 2026' },
-      { href: '/blog/chatbot-ia-entreprise-suisse-guide-2026', label: 'Chatbot IA azienda svizzera: guida completa 2026' },
-      { href: '/blog/chatbot-ia-pme-suisse-guide-2026', label: 'Chatbot IA PMI svizzera: deployment e conformità nLPD' },
+      { href: '/chatbot-ia-entreprise-suisse', label: 'Chatbot IA azienda svizzera: guida completa 2026' },
+      { href: '/blog/chatbot-ia-service-client-pme-suisse', label: 'Chatbot IA PMI svizzera: deployment e conformità nLPD' },
       { href: '/blog/assistant-vocal-ia-pme-guide-complet', label: 'Assistente vocale IA per PMI: guida completa (Vocalis, Twilio, ElevenLabs)' },
       { href: '/services', label: 'Servizi IA per PMI svizzere — le nostre soluzioni' },
       { href: '/contact', label: 'Audit chatbot IA gratuito (30 min)' },

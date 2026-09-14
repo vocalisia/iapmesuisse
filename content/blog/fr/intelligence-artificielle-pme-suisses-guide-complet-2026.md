@@ -249,4 +249,4 @@ La clé du succès réside dans une **approche méthodique** : commencer par un 
 
 Chez IA PME Suisse, nous accompagnons les entreprises helvétiques de toutes tailles et de tous secteurs dans cette transformation. De l'audit initial à la formation des équipes, en passant par le déploiement technique et le suivi des performances, notre mission est de rendre l'IA accessible, rentable et conforme pour chaque PME suisse.
 
-**Faites le premier pas aujourd'hui.** [Demandez votre audit IA gratuit](https://iapmesuisse.ch/audit-ia-gratuit) et découvrez comment l'intelligence artificielle peut transformer votre entreprise.
+**Faites le premier pas aujourd'hui.** [Demandez votre audit IA gratuit](/fr/contact) et découvrez comment l'intelligence artificielle peut transformer votre entreprise.

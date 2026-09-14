@@ -102,7 +102,7 @@ Prima di automatizzare, documentate con precisione i vostri processi attuali:
 - Dove si verificano gli errori più frequenti?
 - Quanto tempo dedicate alle riconciliazioni bancarie?
 
-Un [audit di maturità IA](/it/blog/audit-ia-maturita-pmi) consente di identificare con precisione i potenziali vantaggi.
+Un [audit di maturità IA](/it/blog/audit-ia-maturite-pme) consente di identificare con precisione i potenziali vantaggi.
 
 ### Passo 2: Scegliere la soluzione giusta
 
@@ -203,7 +203,7 @@ I dati contabili sono tra i più sensibili dell'azienda. Nella scelta di una sol
 - **Crittografia**: richiedete la crittografia in transito e a riposo
 - **Accesso**: implementate una gestione dettagliata dei diritti di accesso
 - **Backup**: verificate la politica di backup e ripristino
-- **Conformità [nLPD](/it/blog/nlpd-ia-obblighi-pmi)**: assicuratevi che il trattamento dei dati sia conforme
+- **Conformità [nLPD](/it/blog/nlpd-ia-obligations-pme)**: assicuratevi che il trattamento dei dati sia conforme
 
 ## I limiti attuali dell'IA in contabilità
 
@@ -224,14 +224,14 @@ La chiave del successo risiede in un approccio progressivo: iniziate con le atti
 
 ---
 
-**Pronti ad automatizzare la vostra contabilità?** [Richiedete il vostro audit gratuito](https://iapmesuisse.ch/audit) e identificate i vantaggi potenziali per la vostra azienda.
+**Pronti ad automatizzare la vostra contabilità?** [Richiedete il vostro audit gratuito](/it/contact) e identificate i vantaggi potenziali per la vostra azienda.
 
 ---
 
 ### Articoli correlati
 
 - [Automazione dei processi con IA: guida pratica per PMI svizzere](/it/blog/automatisation-processus-ia-guide-pratique-pme-suisses) — Articolo pilastro
-- [Budget IA per PMI svizzere: da 500 a 50'000 CHF](/it/blog/budget-ia-pme-suisse)
+- [Budget IA per PMI svizzere: da 500 a 50'000 CHF](/it/contact)
 - [CRM intelligente: aumentare le vendite con l'IA](/it/blog/crm-intelligent-ia)
 
 ### Risorsa esterna

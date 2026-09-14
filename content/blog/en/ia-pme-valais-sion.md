@@ -20,7 +20,7 @@ The canton of Valais is home to over 18,000 SMEs, 85% of which employ fewer than
 
 **The challenge:** Very small businesses lack the human resources and budgets of large companies for complex AI projects. A baker in Sion, a fiduciary office in Visp, or a real estate agency in Monthey cannot afford to hire a data scientist.
 
-**The opportunity:** No-code AI tools and pre-configured agents now allow any SME to automate processes without technical expertise. Solutions designed for Swiss SMEs — like those offered by [iapmesuisse.ch](https://iapmesuisse.ch) — are specifically tailored to this context.
+**The opportunity:** No-code AI tools and pre-configured agents now allow any SME to automate processes without technical expertise. Solutions designed for Swiss SMEs — like those offered by [iapmesuisse.ch](https://iapmesuisse.ch/en) — are specifically tailored to this context.
 
 ## Sectors in Valais Where AI Makes the Biggest Difference
 
@@ -121,7 +121,7 @@ Choose a tool suited to your use case, deploy it on a limited scale, and measure
 
 ### Step 3: Seek Local Support
 
-Specialists assist Valais SMEs in their AI transformation, from initial audits to deployment. [iapmesuisse.ch](https://iapmesuisse.ch) offers programs specifically designed for the Swiss context — including for businesses in Valais.
+Specialists assist Valais SMEs in their AI transformation, from initial audits to deployment. [iapmesuisse.ch](https://iapmesuisse.ch/en) offers programs specifically designed for the Swiss context — including for businesses in Valais.
 
 ---
 

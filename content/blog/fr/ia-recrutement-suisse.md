@@ -219,7 +219,7 @@ L'essentiel est d'adopter une approche éthique, transparente et conforme à la 
 
 ---
 
-**Vous souhaitez moderniser votre processus de recrutement ?** [Demandez votre audit gratuit](https://iapmesuisse.ch/audit) et recevez des recommandations adaptées à votre volume de recrutement et votre budget.
+**Vous souhaitez moderniser votre processus de recrutement ?** [Demandez votre audit gratuit](/fr/contact) et recevez des recommandations adaptées à votre volume de recrutement et votre budget.
 
 ---
 

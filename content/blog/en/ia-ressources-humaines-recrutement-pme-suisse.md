@@ -189,7 +189,7 @@ Have your candidate privacy policy validated by a lawyer specializing in Swiss d
 
 ### Step 5: Train Your HR Teams
 
-AI doesn’t replace recruiters: it frees them from low-value tasks, enabling focus on human relationships. A 1-2 day training session is usually sufficient to master the main functions of a modern ATS. For a structured AI training plan, consult our guide on [AI training for Swiss SMEs](/fr/blog/formation-ia-pme-suisse).
+AI doesn’t replace recruiters: it frees them from low-value tasks, enabling focus on human relationships. A 1-2 day training session is usually sufficient to master the main functions of a modern ATS. For a structured AI training plan, consult our guide on [AI training for Swiss SMEs](/fr/blog/formation-ia-pme-suisse-2026).
 
 ---
 

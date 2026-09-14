@@ -14,7 +14,7 @@ image: "/images/blog/iapme-autocontrol-20260620/de-ia-suisse-2025.webp"
 
 Die Schweiz nimmt in der globalen KI-Landschaft eine besondere Stellung ein. Mit der EPFL, der ETH Zürich und einem dynamischen Startup-Ökosystem verfügt das Land über eine der stärksten KI-Forschungsbasen Europas. Doch wie steht es 2025 um die konkrete Nutzung durch Unternehmen — insbesondere durch KMU, die das Rückgrat der Schweizer Wirtschaft bilden?
 
-> Weiterführend: [Pillar-Guide zur KI-Automatisierung für Schweizer KMU](/de/automatisierung-ia-kmu-schweiz)
+> Weiterführend: [Pillar-Guide zur KI-Automatisierung für Schweizer KMU](/de/automatisation-ia-pme-suisse)
 
 ## Ein Ökosystem auf dem Weg zur Reife
 
@@ -59,7 +59,7 @@ Mehrere Entwicklungen zeichnen sich klar ab:
 
 - **Generative KI wird zum Standard**: Immer mehr Unternehmen integrieren Sprachmodelle für Textgenerierung, Übersetzung, Kundenkommunikation und interne Wissensdatenbanken. Die Nutzungsschwelle sinkt monatlich.
 - **Souveräne Lösungen gewinnen an Bedeutung**: Die Nachfrage nach KI-Lösungen mit Hosting in der Schweiz oder der EU steigt stark, getrieben durch Compliance-Anforderungen in regulierten Sektoren und wachsendes Datenbewusstsein bei Kunden.
-- **Agentische KI tritt auf den Plan**: 2025 ist das Jahr, in dem KI-Agenten — Systeme, die eigenständig mehrstufige Aufgaben ausführen — aus der Forschung in die Praxis wandern. Für KMU bedeutet das: ganze Workflows können automatisiert werden, nicht nur einzelne Schritte. Mehr dazu: [Autonome KI-Agenten für Schweizer KMU](/de/blog/autonome-ki-agenten-kmu-schweiz-2026).
+- **Agentische KI tritt auf den Plan**: 2025 ist das Jahr, in dem KI-Agenten — Systeme, die eigenständig mehrstufige Aufgaben ausführen — aus der Forschung in die Praxis wandern. Für KMU bedeutet das: ganze Workflows können automatisiert werden, nicht nur einzelne Schritte. Mehr dazu: [Autonome KI-Agenten für Schweizer KMU](/de/blog/agents-ia-autonomes-pme-suisse-2026).
 - **Weiterbildung beschleunigt sich**: Universitäten, Fachhochschulen und private Anbieter erweitern ihr Angebot an praxisorientierten KI-Weiterbildungen deutlich. Der Markt für KI-Schulungen für KMU wächst jährlich um über 40 Prozent.
 
 ## Was bedeutet das konkret für Schweizer KMU?
@@ -76,7 +76,7 @@ Die gute Nachricht: Die Werkzeuge werden immer zugänglicher, die Kosten sinken 
 Ja — und besonders für diese Grösse. Ein KMU mit 10 Mitarbeitenden, das 20 Prozent administrativer Arbeit automatisiert, gewinnt effektiv zwei Vollzeitstellen zurück. Der Hebeleffekt ist proportional zur Betriebsgrösse oft grösser als bei Grossunternehmen, wo KI-Projekte in Organisationsstrukturen und politischen Prozessen verlangsamt werden.
 
 **Wie fange ich an, ohne mich zu verlieren?**
-Der grösste Fehler ist, zu breit anzusetzen. Identifizieren Sie einen einzigen, klar definierten Prozess, der zeitintensiv und repetitiv ist — Angebotserstellung, E-Mail-Bearbeitung, Rechnungsprüfung, Terminplanung. Pilotieren Sie dort. Messen Sie den Effekt. Dann skalieren Sie. Konkrete Anleitung: [KI-Automatisierung Schritt für Schritt für Schweizer KMU](/de/automatisierung-ia-kmu-schweiz).
+Der grösste Fehler ist, zu breit anzusetzen. Identifizieren Sie einen einzigen, klar definierten Prozess, der zeitintensiv und repetitiv ist — Angebotserstellung, E-Mail-Bearbeitung, Rechnungsprüfung, Terminplanung. Pilotieren Sie dort. Messen Sie den Effekt. Dann skalieren Sie. Konkrete Anleitung: [KI-Automatisierung Schritt für Schritt für Schweizer KMU](/de/automatisation-ia-pme-suisse).
 
 **Wie stelle ich sicher, dass meine KI-Nutzung nDSG-konform ist?**
 Drei Kernpunkte: Daten so weit wie möglich in der Schweiz oder der EU hosten, Datenschutz-Folgenabschätzung bei der Verarbeitung sensibler Daten, und Transparenz gegenüber Kunden und Mitarbeitenden über den KI-Einsatz. Ein spezialisierter Datenschutzbeauftragter oder ein erfahrener KI-Berater kann die Compliance-Prüfung rasch und pragmatisch durchführen.
@@ -85,12 +85,12 @@ Drei Kernpunkte: Daten so weit wie möglich in der Schweiz oder der EU hosten, D
 
 ## Weiterführende Ressourcen
 
-- [KI-Automatisierung für Schweizer KMU: der vollständige Leitfaden](/de/automatisierung-ia-kmu-schweiz)
-- [Autonome KI-Agenten für Schweizer KMU 2026](/de/blog/autonome-ki-agenten-kmu-schweiz-2026)
+- [KI-Automatisierung für Schweizer KMU: der vollständige Leitfaden](/de/automatisation-ia-pme-suisse)
+- [Autonome KI-Agenten für Schweizer KMU 2026](/de/blog/agents-ia-autonomes-pme-suisse-2026)
 - [Datenschutz und nDSG im KI-Einsatz: praktische Pflichten](/de/blog/dpo-nlpd-ia-obligations-pratiques-pme-suisse)
-- [ROI der KI für Schweizer KMU](/de/blog/roi-kuenstliche-intelligenz-kmu-schweiz)
-- [Microsoft Copilot für Schweizer KMU](/de/blog/microsoft-copilot-365-kmu-schweiz-leitfaden-2026)
+- [ROI der KI für Schweizer KMU](/de/blog/roi-ki-digitale-transformation-kmu-2026)
+- [Microsoft Copilot für Schweizer KMU](/de/blog/copilot-microsoft-365-pme-suisse-guide-2026)
 
 ---
 
-**Wo steht Ihr Unternehmen auf dem Weg zur KI-Reife?** Buchen Sie jetzt Ihr [kostenloses 30-Minuten-Beratungsgespräch](/contact) — wir analysieren Ihren aktuellen digitalen Reifegrad, identifizieren die drei Anwendungsfälle mit dem grössten ROI für Ihre Branche und skizzieren einen realistischen Einstiegsplan, der zu Ihrer Betriebsgrösse und Ihren Ressourcen passt.
+**Wo steht Ihr Unternehmen auf dem Weg zur KI-Reife?** Buchen Sie jetzt Ihr [kostenloses 30-Minuten-Beratungsgespräch](/de/contact) — wir analysieren Ihren aktuellen digitalen Reifegrad, identifizieren die drei Anwendungsfälle mit dem grössten ROI für Ihre Branche und skizzieren einen realistischen Einstiegsplan, der zu Ihrer Betriebsgrösse und Ihren Ressourcen passt.

@@ -191,18 +191,18 @@ Avant de détailler nos recommandations, précisons les critères spécifiques a
 
 Le paysage des outils IA pour PME évolue rapidement. Les solutions présentées dans cet article ont été sélectionnées pour leur maturité, leur fiabilité et leur pertinence pour le marché suisse en 2026. Toutefois, le choix d'un outil ne doit jamais précéder la définition d'un besoin clair et d'un objectif mesurable.
 
-Commencez par un ou deux outils correspondant à vos priorités, mesurez les résultats, puis élargissez progressivement votre écosystème IA. Cette approche itérative, combinée à un [budget correctement planifié](/fr/blog/budget-ia-pme-suisse), maximise vos chances de succès.
+Commencez par un ou deux outils correspondant à vos priorités, mesurez les résultats, puis élargissez progressivement votre écosystème IA. Cette approche itérative, combinée à un [budget correctement planifié](/fr/contact), maximise vos chances de succès.
 
 ---
 
-**Vous souhaitez identifier les outils IA les plus adaptés à votre PME ?** [Demandez votre audit gratuit](https://iapmesuisse.ch/audit) et recevez des recommandations personnalisées sous 48 heures.
+**Vous souhaitez identifier les outils IA les plus adaptés à votre PME ?** [Demandez votre audit gratuit](/fr/contact) et recevez des recommandations personnalisées sous 48 heures.
 
 ---
 
 ### Articles connexes
 
 - [Intelligence artificielle pour PME suisses : guide complet 2026](/fr/blog/intelligence-artificielle-pme-suisses-guide-complet-2026) — Article pilier
-- [Budget IA pour PME suisse : de 500 à 50'000 CHF](/fr/blog/budget-ia-pme-suisse)
+- [Budget IA pour PME suisse : de 500 à 50'000 CHF](/fr/contact)
 - [Formation IA pour dirigeants : par où commencer](/fr/blog/formation-ia-dirigeants)
 
 ### Ressource externe

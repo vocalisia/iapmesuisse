@@ -225,7 +225,7 @@ Prendete il tempo necessario per selezionare con rigore, richiedete referenze ve
 
 ---
 
-**Avete bisogno di essere indirizzati verso il partner IA giusto per il vostro progetto?** [Richiedete il vostro audit gratuito](https://iapmesuisse.ch/audit) e ricevete raccomandazioni di partner adatti al vostro settore e budget.
+**Avete bisogno di essere indirizzati verso il partner IA giusto per il vostro progetto?** [Richiedete il vostro audit gratuito](/it/contact) e ricevete raccomandazioni di partner adatti al vostro settore e budget.
 
 ---
 
@@ -233,7 +233,7 @@ Prendete il tempo necessario per selezionare con rigore, richiedete referenze ve
 
 - [Trasformazione digitale IA delle PMI svizzere](/fr/blog/transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026) — Articolo pilastro
 - [Casi studio: PMI svizzere trasformate dall'IA](/fr/blog/etudes-cas-pme-romandes-ia)
-- [Budget IA per PMI svizzere: da 500 a 50'000 CHF](/fr/blog/budget-ia-pme-suisse)
+- [Budget IA per PMI svizzere: da 500 a 50'000 CHF](/fr/contact)
 
 ### Risorsa esterna
 

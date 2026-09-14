@@ -62,7 +62,7 @@ Les collaborateurs observent leur direction. Un dirigeant qui comprend l'IA, qui
 **Contenus typiques** :
 - [Audit et évaluation de la maturité IA](/fr/blog/audit-ia-maturite-pme)
 - Identification et priorisation des cas d'usage
-- [Budgétisation et calcul du ROI](/fr/blog/budget-ia-pme-suisse)
+- [Budgétisation et calcul du ROI](/fr/contact)
 - Gestion du changement et accompagnement des équipes
 - Sélection de prestataires et pilotage de projets IA
 - Gouvernance des données et conformité
@@ -230,7 +230,7 @@ L'important n'est pas de viser la perfection dès le départ, mais de commencer,
 
 ---
 
-**Vous souhaitez un programme de formation sur mesure pour votre équipe dirigeante ?** [Demandez votre audit gratuit](https://iapmesuisse.ch/audit) et recevez une proposition de programme adaptée à votre niveau et vos objectifs.
+**Vous souhaitez un programme de formation sur mesure pour votre équipe dirigeante ?** [Demandez votre audit gratuit](/fr/contact) et recevez une proposition de programme adaptée à votre niveau et vos objectifs.
 
 ---
 

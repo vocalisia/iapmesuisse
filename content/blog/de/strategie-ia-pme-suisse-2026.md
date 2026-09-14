@@ -98,7 +98,7 @@ Bevor Sie ein AI-Tool auswählen, sichern Sie Ihre Daten:
 - Stellen Sie die nLPD-Konformität sicher: Verzeichnis der Datenverarbeitungen, rechtliche Hinweise, Aufbewahrungsrichtlinien
 - Ernennen Sie einen internen Datenverantwortlichen (nicht unbedingt IT – oft ist es der Operations-Leiter)
 
-**Budget Phase 1**: 5'000 - 15'000 CHF (Audit + Datenbereinigung + juristische Beratung zur nLPD). Für eine vollständige Budgetierung lesen Sie unseren Leitfaden zum [AI-Budget für Schweizer KMU](/fr/blog/budget-ia-pme-suisse).
+**Budget Phase 1**: 5'000 - 15'000 CHF (Audit + Datenbereinigung + juristische Beratung zur nLPD). Für eine vollständige Budgetierung lesen Sie unseren Leitfaden zum [AI-Budget für Schweizer KMU](/fr/contact).
 
 ### Phase 2 – Pilotprojekt zu einem priorisierten Use Case (Monat 3-4)
 

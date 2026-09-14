@@ -175,4 +175,4 @@ Dini Schwiizer KMU verdient e rentabli KI-Investition. D'Werkzüg für d'Berechn
 
 - [Strategie KI für Schwiizer KMU: Der komplette Aktionsplan 2026](/fr/blog/strategie-ia-pme-suisse-2026)
 - [KI für Finanz und Buchhaltig vo Schwiizer KMU 2026](/fr/blog/intelligence-artificielle-finance-comptabilite-pme-suisse)
-- [Budget für KI in Schwiizer KMU: Wievill vorsehe und wie optimieren](/fr/blog/budget-ia-pme-suisse)
+- [Budget für KI in Schwiizer KMU: Wievill vorsehe und wie optimieren](/fr/contact)

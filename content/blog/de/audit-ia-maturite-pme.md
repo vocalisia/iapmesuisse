@@ -143,7 +143,7 @@ Die letzte Phase formalisiert den Aktionsplan:
 - Definition von Quick Wins (Ergebnisse in weniger als 3 Monaten)
 - Planung von mittel- bis langfristigen Projekten (3–12 Monate)
 - Identifikation von strukturellen Investitionen (12–24 Monate)
-- [Detaillierte Budgetierung](/fr/blog/budget-ia-pme-suisse) pro Phase
+- [Detaillierte Budgetierung](/fr/contact) pro Phase
 
 **Liefergegenstand**: 24-Monats-Roadmap für KI mit Meilensteinen, Budgets und Erfolgskriterien.
 
@@ -218,14 +218,14 @@ In einem Schweizer Markt, in dem der Wettbewerb intensiver wird und die Kundener
 
 ---
 
-**Bereit, die KI-Reife Ihrer KMU zu bewerten?** [Fordern Sie Ihr kostenloses Audit an](https://iapmesuisse.ch/audit) und erhalten Sie innerhalb von 48 Stunden eine personalisierte Diagnose mit konkreten Empfehlungen.
+**Bereit, die KI-Reife Ihrer KMU zu bewerten?** [Fordern Sie Ihr kostenloses Audit an](/de/contact) und erhalten Sie innerhalb von 48 Stunden eine personalisierte Diagnose mit konkreten Empfehlungen.
 
 ---
 
 ### Verwandte Artikel
 
 - [Künstliche Intelligenz für Schweizer KMU: umfassender Leitfaden 2026](/fr/blog/intelligence-artificielle-pme-suisses-guide-complet-2026) — Pillar-Artikel
-- [Budget für KI in Schweizer KMU: von 500 bis 50'000 CHF](/fr/blog/budget-ia-pme-suisse)
+- [Budget für KI in Schweizer KMU: von 500 bis 50'000 CHF](/fr/contact)
 - [Die getesteten und bewährten KI-Tools für Schweizer KMU](/fr/blog/outils-ia-pme-suisses)
 
 ### Externe Ressource

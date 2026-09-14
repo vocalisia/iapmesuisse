@@ -149,7 +149,7 @@ Le registre a aussi une fonction commerciale et opérationnelle : il permet de r
 
 ## Liens utiles pour continuer
 
-Ce guide traite le registre opérationnel. Pour le cadre général, consultez notre [guide sur l’IA en PME suisse](/fr/blog/intelligence-artificielle-suisse-pme-guide-operationnel) et la page dédiée à la [nLPD et aux obligations IA des PME](/fr/blog/nlpd-ia-obligations-pme). Pour passer à l’action, vous pouvez préparer un [audit des données IA](/fr/blog/audit-donnees-ia-pme-suisse-2026), rédiger une [charte d’utilisation de l’IA](/fr/blog/charte-utilisation-ia-pme-suisse) ou bâtir une [roadmap IA sur 90 jours](/fr/blog/roadmap-ia-90-jours-pme-suisse).
+Ce guide traite le registre opérationnel. Pour le cadre général, consultez notre [guide sur l’IA en PME suisse](/fr/blog/intelligence-artificielle-suisse-pme-guide-operationnel) et la page dédiée à la [nLPD et aux obligations IA des PME](/fr/blog/nlpd-ia-obligations-pme). Pour passer à l’action, vous pouvez préparer un [audit des données IA](/fr/blog/ia-analyse-donnees-pme-suisse-guide-2026), rédiger une charte d’utilisation de l’IA ou bâtir une [roadmap IA sur 90 jours](/fr/blog/audit-workflow-ia-pme-suisse).
 
 ## Questions fréquentes
 

@@ -177,4 +177,4 @@ Nos clients nous choisissent pour trois raisons principales :
 
 La meilleure façon de comprendre ce qu'IAPME peut faire pour votre PME, c'est un échange direct de 30 minutes. Pas de présentation PowerPoint générique — une conversation sur votre activité, vos processus et ce que l'IA peut concrètement vous apporter.
 
-[Contactez-nous pour votre audit gratuit](https://iapmesuisse.ch/contact) — disponible pour les PME du Valais, Sion, Martigny, Sierre et l'ensemble de la Suisse romande.
+[Contactez-nous pour votre audit gratuit](https://iapmesuisse.ch/fr/contact) — disponible pour les PME du Valais, Sion, Martigny, Sierre et l'ensemble de la Suisse romande.

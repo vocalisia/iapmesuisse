@@ -218,7 +218,7 @@ The key is to adopt an ethical, transparent, and nLPD-compliant approach, positi
 
 ---
 
-**Want to modernize your recruitment process?** [Request your free audit](https://iapmesuisse.ch/audit) and receive recommendations tailored to your recruitment volume and budget.
+**Want to modernize your recruitment process?** [Request your free audit](/en/contact) and receive recommendations tailored to your recruitment volume and budget.
 
 ---
 

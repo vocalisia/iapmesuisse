@@ -165,7 +165,7 @@ Concluez par une formulation courte : « pendant ce pilote, nous voulons aider t
 
 ## Liens utiles pour aller plus loin
 
-Pour transformer un cas retenu en plan de travail, consultez la [roadmap IA sur 90 jours](/fr/blog/roadmap-ia-90-jours-pme-suisse). Pour préparer les données et les droits avant le pilote, utilisez l’[audit des données IA en PME suisse](/fr/blog/audit-donnees-ia-pme-suisse-2026). Le [registre des usages IA](/fr/blog/registre-usages-ia-pme-suisse-nlpd) aide ensuite à documenter les finalités, fournisseurs, validations et points de vigilance. Si votre priorité concerne les demandes entrantes, l’article sur l’[automatisation du support client](/fr/blog/automatisation-ia-support-client-pme-suisse) décrit un workflow interne plus détaillé.
+Pour transformer un cas retenu en plan de travail, consultez la [roadmap IA sur 90 jours](/fr/blog/audit-workflow-ia-pme-suisse). Pour préparer les données et les droits avant le pilote, utilisez l’[audit des données IA en PME suisse](/fr/blog/ia-analyse-donnees-pme-suisse-guide-2026). Le [registre des usages IA](/fr/blog/registre-usages-ia-pme-suisse-nlpd) aide ensuite à documenter les finalités, fournisseurs, validations et points de vigilance. Si votre priorité concerne les demandes entrantes, l’article sur l’[automatisation du support client](/fr/blog/automatisation-ia-support-client-pme-suisse) décrit un workflow interne plus détaillé.
 
 ## Questions fréquentes
 

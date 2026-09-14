@@ -226,7 +226,7 @@ Prenez le temps de sélectionner rigoureusement, exigez des références vérifi
 
 ---
 
-**Besoin d'être orienté vers le bon partenaire IA pour votre projet ?** [Demandez votre audit gratuit](https://iapmesuisse.ch/audit) et recevez des recommandations de partenaires adaptés à votre secteur et votre budget.
+**Besoin d'être orienté vers le bon partenaire IA pour votre projet ?** [Demandez votre audit gratuit](/fr/contact) et recevez des recommandations de partenaires adaptés à votre secteur et votre budget.
 
 ---
 
@@ -234,7 +234,7 @@ Prenez le temps de sélectionner rigoureusement, exigez des références vérifi
 
 - [Transformation digitale IA des PME romandes](/fr/blog/transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026) — Article pilier
 - [Études de cas : PME romandes transformées par l'IA](/fr/blog/etudes-cas-pme-romandes-ia)
-- [Budget IA pour PME suisse : de 500 à 50'000 CHF](/fr/blog/budget-ia-pme-suisse)
+- [Budget IA pour PME suisse : de 500 à 50'000 CHF](/fr/contact)
 
 ### Ressource externe
 

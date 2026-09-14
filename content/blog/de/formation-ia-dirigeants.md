@@ -61,7 +61,7 @@ Mitarbeitende beobachten ihre Führung. Eine Führungskraft, die KI versteht, si
 **Typische Inhalte**:
 - [Audit und Bewertung der KI-Reife](/fr/blog/audit-ia-maturite-pme)
 - Identifikation und Priorisierung von Anwendungsfällen
-- [Budgetierung und ROI-Berechnung](/fr/blog/budget-ia-pme-suisse)
+- [Budgetierung und ROI-Berechnung](/fr/contact)
 - Change Management und Begleitung der Teams
 - Auswahl von Dienstleistern und Steuerung von KI-Projekten
 - Daten-Governance und Compliance
@@ -229,7 +229,7 @@ Wichtig ist nicht, von Anfang an perfekt zu sein, sondern anzufangen, zu experim
 
 ---
 
-**Möchten Sie ein maßgeschneidertes Schulungsprogramm für Ihr Führungsteam?** [Fordern Sie Ihr kostenloses Audit an](https://iapmesuisse.ch/audit) und erhalten Sie einen Vorschlag für ein Programm, das auf Ihr Niveau und Ihre Ziele zugeschnitten ist.
+**Möchten Sie ein maßgeschneidertes Schulungsprogramm für Ihr Führungsteam?** [Fordern Sie Ihr kostenloses Audit an](/de/contact) und erhalten Sie einen Vorschlag für ein Programm, das auf Ihr Niveau und Ihre Ziele zugeschnitten ist.
 
 ---
 

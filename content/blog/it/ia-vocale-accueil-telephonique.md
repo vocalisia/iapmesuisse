@@ -207,7 +207,7 @@ La tecnologia è ormai sufficientemente matura per offrire un'esperienza natural
 
 ---
 
-**Vuoi testare un assistente vocale IA per la tua PMI?** [Richiedi il tuo audit gratuito](https://iapmesuisse.ch/audit) e scopri quante chiamate perdi ogni mese.
+**Vuoi testare un assistente vocale IA per la tua PMI?** [Richiedi il tuo audit gratuito](/it/contact) e scopri quante chiamate perdi ogni mese.
 
 ---
 

@@ -269,4 +269,4 @@ Le PMI che investono oggi nell'automazione della loro finanza costruiscono un va
 
 - [ROI dell'IA per le PMI svizzere: cifre e metodo di calcolo 2026](/fr/blog/roi-intelligence-artificielle-pme-suisse)  
 - [Automazione dei processi con IA: guida pratica per PMI svizzere](/fr/blog/automatisation-processus-ia-guide-pratique-pme-suisses)  
-- [Budget IA per PMI svizzere: quanto prevedere e come ottimizzare](/fr/blog/budget-ia-pme-suisse)  
+- [Budget IA per PMI svizzere: quanto prevedere e come ottimizzare](/fr/contact)

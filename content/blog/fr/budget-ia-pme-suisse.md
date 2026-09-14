@@ -211,7 +211,7 @@ L'essentiel est de commencer à la bonne échelle, de mesurer systématiquement 
 
 ---
 
-**Besoin d'établir votre budget IA personnalisé ?** [Demandez votre audit gratuit](https://iapmesuisse.ch/audit) et recevez une estimation budgétaire sur mesure avec projection de ROI.
+**Besoin d'établir votre budget IA personnalisé ?** [Demandez votre audit gratuit](/fr/contact) et recevez une estimation budgétaire sur mesure avec projection de ROI.
 
 ---
 

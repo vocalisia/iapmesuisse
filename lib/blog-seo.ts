@@ -327,7 +327,7 @@ const COCON_LINKS: Record<BlogLocale, CoconLinkDefinition[]> = {
     { href: '/ki-beratung-kmu-schweiz', label: 'KI Beratung KMU Schweiz', tags: /deutsch|kmu|ki|zurich|bern|allemand/i },
   ],
   de: [
-    { href: '/fr/ressources#agent-sur-mesure', label: 'KI-Diagnose und kostenlose Tools für KMU', tags: /./, always: true },
+    { href: '/ressources#agent-sur-mesure', label: 'KI-Diagnose und kostenlose Tools für KMU', tags: /./, always: true },
     { href: '/ki-beratung-kmu-schweiz', label: 'KI Beratung für Schweizer KMU', tags: /ki|beratung|kmu|berater|strategie/i },
     { href: '/automatisation-ia-pme-suisse', label: 'Prozessautomatisierung für KMU', tags: /automatisierung|prozess|workflow|tools|make|n8n/i },
     { href: '/formation-ia-pme', label: 'KI Schulung für Teams', tags: /schulung|workshop|training|team|chatgpt|copilot/i },
@@ -335,7 +335,7 @@ const COCON_LINKS: Record<BlogLocale, CoconLinkDefinition[]> = {
     { href: '/chatbot-ia-entreprise-suisse', label: 'KI Chatbot für Unternehmen', tags: /chatbot|kundenservice|support|service|kontakt/i },
   ],
   en: [
-    { href: '/fr/ressources#agent-sur-mesure', label: 'AI diagnostic and free SME tools', tags: /./, always: true },
+    { href: '/ressources#agent-sur-mesure', label: 'AI diagnostic and free SME tools', tags: /./, always: true },
     { href: '/agence-ia-suisse', label: 'AI consulting agency in Switzerland', tags: /agency|consulting|consultant|strategy|audit/i },
     { href: '/automatisation-ia-pme-suisse', label: 'AI process automation for Swiss SMEs', tags: /automation|process|workflow|tools|make|n8n/i },
     { href: '/formation-ia-pme', label: 'AI training for Swiss SME teams', tags: /training|upskilling|workshop|team|chatgpt|copilot/i },
@@ -343,7 +343,7 @@ const COCON_LINKS: Record<BlogLocale, CoconLinkDefinition[]> = {
     { href: '/ki-beratung-kmu-schweiz', label: 'AI consulting for German-speaking SMEs', tags: /german|kmu|beratung|zurich|bern/i },
   ],
   it: [
-    { href: '/fr/ressources#agent-sur-mesure', label: 'Diagnosi IA e strumenti gratuiti per PMI', tags: /./, always: true },
+    { href: '/ressources#agent-sur-mesure', label: 'Diagnosi IA e strumenti gratuiti per PMI', tags: /./, always: true },
     { href: '/agence-ia-suisse', label: 'Agenzia IA in Svizzera per PMI', tags: /agenzia|consulenza|consulente|strategia|audit/i },
     { href: '/automatisation-ia-pme-suisse', label: 'Automazione IA per PMI svizzere', tags: /automazione|processi|workflow|strumenti|make|n8n/i },
     { href: '/formation-ia-pme', label: 'Formazione IA per team PMI', tags: /formazione|workshop|team|chatgpt|copilot/i },

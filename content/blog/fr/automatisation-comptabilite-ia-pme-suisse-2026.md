@@ -265,6 +265,6 @@ Une PME suisse qui automatise sa comptabilité récupère en moyenne **6 à 8 he
 
 La seule mauvaise décision est de ne pas commencer.
 
-**Prêt à automatiser votre comptabilité ?** [Réservez un audit IA gratuit de 30 minutes](/contact) avec nos experts — nous analysons votre processus comptable actuel et vous recommandons la solution la plus adaptée à votre logiciel et à votre volume.
+**Prêt à automatiser votre comptabilité ?** [Réservez un audit IA gratuit de 30 minutes](/fr/contact) avec nos experts — nous analysons votre processus comptable actuel et vous recommandons la solution la plus adaptée à votre logiciel et à votre volume.
 
-Vous souhaitez d'abord monter en compétence ? Découvrez notre [programme de formation IA pour PME suisses](/formation-ia-pme), conçu pour les dirigeants et équipes comptables sans background technique.
+Vous souhaitez d'abord monter en compétence ? Découvrez notre [programme de formation IA pour PME suisses](/fr/formation-ia-pme), conçu pour les dirigeants et équipes comptables sans background technique.

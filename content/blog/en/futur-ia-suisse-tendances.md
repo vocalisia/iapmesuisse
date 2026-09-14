@@ -263,7 +263,7 @@ The future of AI in Switzerland is being written today. And it is being written 
 
 ---
 
-**Want to anticipate and prepare your SME for AI developments?** [Request your free audit](https://iapmesuisse.ch/audit) and build your AI roadmap for the years ahead.
+**Want to anticipate and prepare your SME for AI developments?** [Request your free audit](/en/contact) and build your AI roadmap for the years ahead.
 
 ---
 

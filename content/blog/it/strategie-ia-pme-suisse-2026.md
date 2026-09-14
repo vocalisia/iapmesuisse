@@ -98,7 +98,7 @@ Prima di scegliere uno strumento IA, mettete in sicurezza i vostri dati:
 - Mettetevi in conformità con la nLPD: registro dei trattamenti, note legali, politica di conservazione
 - Nominate un referente dati interno (non necessariamente un IT — spesso il responsabile delle operazioni)
 
-**Budget fase 1**: 5.000 - 15.000 CHF (audit + pulizia dei dati + consulenza legale nLPD). Per un budget dettagliato, leggete la nostra guida sul [budget IA per PMI svizzere](/fr/blog/budget-ia-pme-suisse).
+**Budget fase 1**: 5.000 - 15.000 CHF (audit + pulizia dei dati + consulenza legale nLPD). Per un budget dettagliato, leggete la nostra guida sul [budget IA per PMI svizzere](/fr/contact).
 
 ### Fase 2 — Pilota su un caso d'uso prioritario (mesi 3-4)
 

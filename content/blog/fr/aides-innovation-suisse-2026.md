@@ -91,7 +91,7 @@ Pour les jeunes entreprises innovantes (moins de 5 ans).
 #### Aides MedTech / HealthTech
 - **Innosuisse + HUG/CHUV** : parcours accéléré pour les startups santé avec données cliniques
 - **Interpharma** : programme de soutien à l'innovation biotech/pharma
-- **DayOne Basel** : subventions + accès aux corporates pharma pour [medtech accelerator Switzerland](/fr/blog/medtech-accelerator-switzerland-guide)
+- **DayOne Basel** : subventions + accès aux corporates pharma pour medtech accelerator Switzerland
 
 #### Aides Cleantech / Environnement
 - **Fondation Mava** : projets à impact environnemental

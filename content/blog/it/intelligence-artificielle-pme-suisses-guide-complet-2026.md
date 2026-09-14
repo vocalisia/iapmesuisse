@@ -248,4 +248,4 @@ La chiave del successo risiede in un **approccio metodico**: iniziare con un aud
 
 Presso IA PMI Svizzera, supportiamo aziende elvetiche di tutte le dimensioni e settori in questa trasformazione. Dall'audit iniziale alla formazione dei team, passando per l'implementazione tecnica e il monitoraggio delle performance, la nostra missione è rendere l'IA accessibile, redditizia e conforme per ogni PMI svizzera.
 
-**Fai il primo passo oggi stesso.** [Richiedi il tuo audit IA gratuito](https://iapmesuisse.ch/audit-ia-gratuit) e scopri come l'intelligenza artificiale può trasformare la tua azienda.
+**Fai il primo passo oggi stesso.** [Richiedi il tuo audit IA gratuito](/it/contact) e scopri come l'intelligenza artificiale può trasformare la tua azienda.

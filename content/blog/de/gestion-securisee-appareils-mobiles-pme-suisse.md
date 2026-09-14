@@ -95,4 +95,4 @@ Mit einem aktiven MDM-System ist der Offboarding-Prozess für Mobilgeräte auf w
 
 ---
 
-**Ist Ihre mobile Infrastruktur wirklich sicher?** Buchen Sie ein [kostenloses 30-Minuten-Beratungsgespräch](/contact) — wir führen einen schnellen Sicherheits-Check durch und zeigen Ihnen, welche Massnahmen für Ihr KMU am dringendsten sind.
+**Ist Ihre mobile Infrastruktur wirklich sicher?** Buchen Sie ein [kostenloses 30-Minuten-Beratungsgespräch](/de/contact) — wir führen einen schnellen Sicherheits-Check durch und zeigen Ihnen, welche Massnahmen für Ihr KMU am dringendsten sind.

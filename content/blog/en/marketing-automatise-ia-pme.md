@@ -235,7 +235,7 @@ The key to success lies in a gradual and measured approach: start with one or tw
 
 ---
 
-**Ready to automate your marketing?** [Request your free audit](https://iapmesuisse.ch/audit) and receive a personalized marketing plan for your SME.
+**Ready to automate your marketing?** [Request your free audit](/en/contact) and receive a personalized marketing plan for your SME.
 
 ---
 

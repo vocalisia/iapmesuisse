@@ -205,7 +205,7 @@ Faites valider votre politique de confidentialité candidats par un juriste spé
 
 ### Étape 5 : Former vos équipes RH
 
-L'IA ne remplace pas le recruteur : elle le libère des tâches à faible valeur ajoutée pour lui permettre de se concentrer sur la relation humaine. Une formation de 1 à 2 jours suffit généralement pour maîtriser les fonctions principales d'un ATS moderne. Pour préparer un plan de formation IA structuré, consultez notre guide sur la [formation IA pour PME suisses](/fr/blog/formation-ia-pme-suisse).
+L'IA ne remplace pas le recruteur : elle le libère des tâches à faible valeur ajoutée pour lui permettre de se concentrer sur la relation humaine. Une formation de 1 à 2 jours suffit généralement pour maîtriser les fonctions principales d'un ATS moderne. Pour préparer un plan de formation IA structuré, consultez notre guide sur la [formation IA pour PME suisses](/fr/blog/formation-ia-pme-suisse-2026).
 
 ---
 

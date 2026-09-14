@@ -123,4 +123,4 @@ Oui, c'est même recommandé. Les obligations se cumulent à 40-60%. Notre [audi
 
 ---
 
-Vous voulez savoir où votre PME se situe par rapport à l'AI Act ? [Réservez un audit IA gratuit](/fr/contact). Pour aller plus loin, consultez aussi notre [guide budget IA PME](/fr/blog/budget-ia-pme-suisse) et notre catalogue [consulting IA](/fr/consulting).
+Vous voulez savoir où votre PME se situe par rapport à l'AI Act ? [Réservez un audit IA gratuit](/fr/contact). Pour aller plus loin, consultez aussi notre [guide budget IA PME](/fr/contact) et notre catalogue [consulting IA](/fr/consulting).

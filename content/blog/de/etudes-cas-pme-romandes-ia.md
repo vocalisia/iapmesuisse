@@ -326,14 +326,14 @@ Der gemeinsame Nenner dieser Erfolge ist weder die Technologie noch das Budget, 
 
 ---
 
-**Bereit, Ihre eigene Fallstudie zu schreiben?** [Fordern Sie Ihr kostenloses Audit an](https://iapmesuisse.ch/audit) und identifizieren Sie konkrete KI-Chancen für Ihr Unternehmen.
+**Bereit, Ihre eigene Fallstudie zu schreiben?** [Fordern Sie Ihr kostenloses Audit an](/de/contact) und identifizieren Sie konkrete KI-Chancen für Ihr Unternehmen.
 
 ---
 
 ### Verwandte Artikel
 
 - [Digitale Transformation mit KI für KMU aus der Romandie](/fr/blog/transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026) — Hauptartikel  
-- [KI-Budget für Schweizer KMU: von 500 bis 50'000 CHF](/fr/blog/budget-ia-pme-suisse)  
+- [KI-Budget für Schweizer KMU: von 500 bis 50'000 CHF](/fr/contact)
 - [Vertrauenswürdige KI-Partner in der Romandie](/fr/blog/partenaires-ia-suisse-romande)
 
 ### Externe Ressource

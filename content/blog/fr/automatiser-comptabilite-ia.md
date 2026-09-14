@@ -225,14 +225,14 @@ La clé du succès réside dans une approche progressive : commencez par les tâ
 
 ---
 
-**Prêt à automatiser votre comptabilité ?** [Demandez votre audit gratuit](https://iapmesuisse.ch/audit) et identifiez les gains potentiels pour votre entreprise.
+**Prêt à automatiser votre comptabilité ?** [Demandez votre audit gratuit](/fr/contact) et identifiez les gains potentiels pour votre entreprise.
 
 ---
 
 ### Articles connexes
 
 - [Automatisation des processus par IA : guide pratique pour PME suisses](/fr/blog/automatisation-processus-ia-guide-pratique-pme-suisses) — Article pilier
-- [Budget IA pour PME suisse : de 500 à 50'000 CHF](/fr/blog/budget-ia-pme-suisse)
+- [Budget IA pour PME suisse : de 500 à 50'000 CHF](/fr/contact)
 - [CRM intelligent : booster vos ventes avec l'IA](/fr/blog/crm-intelligent-ia)
 
 ### Ressource externe

@@ -61,7 +61,7 @@ Employees observe their leadership. An executive who understands AI, uses it dai
 **Typical Content**:
 - [Audit and evaluation of AI maturity](/fr/blog/audit-ia-maturite-pme)
 - Identifying and prioritizing use cases
-- [Budgeting and ROI calculation](/fr/blog/budget-ia-pme-suisse)
+- [Budgeting and ROI calculation](/fr/contact)
 - Change management and team support
 - Selecting providers and managing AI projects
 - Data governance and compliance
@@ -229,7 +229,7 @@ The key is not to aim for perfection from the start but to begin, experiment, an
 
 ---
 
-**Would you like a tailored training program for your executive team?** [Request your free audit](https://iapmesuisse.ch/audit) and receive a program proposal adapted to your level and objectives.
+**Would you like a tailored training program for your executive team?** [Request your free audit](/en/contact) and receive a program proposal adapted to your level and objectives.
 
 ---
 

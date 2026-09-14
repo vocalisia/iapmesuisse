@@ -126,7 +126,7 @@ Fordern Sie vor jeder Verpflichtung einen **dokumentierten Business Case**.
 
 ### Kriterium 4: Fähigkeit, Ihre Teams zu schulen
 
-KI ist kein Tool, das man einführt und vergisst. Ihre Mitarbeitenden müssen verstehen, wie man es nutzt, korrekt füttert und seine Ergebnisse interpretiert. Ein guter Partner enthält immer einen Abschnitt zur **Schulung und Change Management**. Entdecken Sie die Optionen zur [KI-Schulung für Schweizer KMU](/fr/blog/formation-ia-pme-suisse), um zu beurteilen, was Sie intern planen müssen.
+KI ist kein Tool, das man einführt und vergisst. Ihre Mitarbeitenden müssen verstehen, wie man es nutzt, korrekt füttert und seine Ergebnisse interpretiert. Ein guter Partner enthält immer einen Abschnitt zur **Schulung und Change Management**. Entdecken Sie die Optionen zur [KI-Schulung für Schweizer KMU](/fr/blog/formation-ia-pme-suisse-2026), um zu beurteilen, was Sie intern planen müssen.
 
 ### Kriterium 5: Transparente Preisgestaltung
 

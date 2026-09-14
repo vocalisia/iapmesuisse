@@ -326,16 +326,16 @@ Il denominatore comune di questi successi non è né la tecnologia né il budget
 
 ---
 
-**Pronti a scrivere il vostro studio di caso?** [Richiedete il vostro audit gratuito](https://iapmesuisse.ch/audit) e identificate le opportunità concrete di IA per la vostra azienda.
+**Pronti a scrivere il vostro studio di caso?** [Richiedete il vostro audit gratuito](/it/contact) e identificate le opportunità concrete di IA per la vostra azienda.
 
 ---
 
 ### Articoli correlati
 
 - [Trasformazione digitale IA delle PMI romande](/fr/blog/transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026) — Articolo pilastro  
-- [Budget IA per PMI svizzere: da 500 a 50'000 CHF](/fr/blog/budget-ia-pme-suisse)  
+- [Budget IA per PMI svizzere: da 500 a 50'000 CHF](/fr/contact)
 - [Partner IA affidabili in Svizzera romanda](/fr/blog/partenaires-ia-suisse-romande)  
 
 ### Risorsa esterna
 
-- [Digitalswitzerland — Studi e rapporti sulla digitalizzazione](https://digitalswitzerland.com)  
+- [Digitalswitzerland — Studi e rapporti sulla digitalizzazione](https://digitalswitzerland.com)

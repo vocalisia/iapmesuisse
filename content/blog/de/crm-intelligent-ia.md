@@ -219,7 +219,7 @@ Die Investition, typischerweise zwischen 10'000 und 30'000 CHF im ersten Jahr fÃ
 
 ---
 
-**Bereit, Ihre Vertriebsstrategie zu transformieren?** [Fordern Sie Ihr kostenloses Audit an](https://iapmesuisse.ch/audit) und finden Sie das intelligente CRM, das zu Ihrem KMU passt.
+**Bereit, Ihre Vertriebsstrategie zu transformieren?** [Fordern Sie Ihr kostenloses Audit an](/de/contact) und finden Sie das intelligente CRM, das zu Ihrem KMU passt.
 
 ---
 

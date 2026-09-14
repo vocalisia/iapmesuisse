@@ -169,7 +169,7 @@ Pour les projets IA impliquant un développement propriétaire, le régime de la
 | Fribourg | 50 % | 90 % |
 | Neuchâtel | 50 % | 90 % |
 
-**Conseil** : consultez votre fiduciaire pour optimiser la structuration fiscale de vos investissements IA. Les économies fiscales peuvent couvrir 15 à 30 % du [budget total d'un projet IA](/fr/blog/budget-ia-pme-suisse).
+**Conseil** : consultez votre fiduciaire pour optimiser la structuration fiscale de vos investissements IA. Les économies fiscales peuvent couvrir 15 à 30 % du [budget total d'un projet IA](/fr/contact).
 
 ## Financements bancaires et alternatifs
 
@@ -199,7 +199,7 @@ Le leasing permet de financer les investissements IA sans immobiliser de capital
 Un dossier de demande de subvention doit inclure :
 - Description claire du projet et de ses objectifs
 - Analyse de marché et positionnement concurrentiel
-- [Budget détaillé](/fr/blog/budget-ia-pme-suisse) avec sources de financement
+- [Budget détaillé](/fr/contact) avec sources de financement
 - Planning de mise en oeuvre
 - Indicateurs de succès mesurables (KPIs)
 - Description de l'équipe et des compétences
@@ -248,14 +248,14 @@ La démarche demande un effort de recherche et de préparation, mais cet effort 
 
 ---
 
-**Besoin d'aide pour identifier les subventions adaptées à votre projet ?** [Demandez votre audit gratuit](https://iapmesuisse.ch/audit) et recevez un plan de financement personnalisé.
+**Besoin d'aide pour identifier les subventions adaptées à votre projet ?** [Demandez votre audit gratuit](/fr/contact) et recevez un plan de financement personnalisé.
 
 ---
 
 ### Articles connexes
 
 - [Transformation digitale IA des PME romandes](/fr/blog/transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026) — Article pilier
-- [Budget IA pour PME suisse : de 500 à 50'000 CHF](/fr/blog/budget-ia-pme-suisse)
+- [Budget IA pour PME suisse : de 500 à 50'000 CHF](/fr/contact)
 - [Études de cas : PME romandes transformées par l'IA](/fr/blog/etudes-cas-pme-romandes-ia)
 
 ### Ressource externe

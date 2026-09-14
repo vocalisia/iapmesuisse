@@ -14,7 +14,7 @@ image: "/images/blog/iapme-autocontrol-20260620/de-ia-construction-btp-suisse-gu
 
 Die Baubranche macht **acht Prozent des Schweizer BIP** aus und beschäftigt rund 330 000 Personen. Sie gehört gleichzeitig zu den am wenigsten digitalisierten Sektoren — mit Margen unter Druck, einem strukturellen Arbeitskräftemangel und einem zunehmenden Regulierungsdruck durch SUVA-Vorgaben und SIA-Normen. Künstliche Intelligenz bietet 2026 konkrete, praxiserprobte Antworten auf diese Herausforderungen. Dieser Leitfaden zeigt, welche KI-Anwendungen für Schweizer Bau-KMU heute realistisch umsetzbar sind — und welchen messbaren Mehrwert sie erzeugen.
 
-> Für den allgemeinen Kontext: [Leitfaden zur KI-Automatisierung für Schweizer KMU](/de/automatisierung-ia-kmu-schweiz).
+> Für den allgemeinen Kontext: [Leitfaden zur KI-Automatisierung für Schweizer KMU](/de/automatisation-ia-pme-suisse).
 
 ## 1. Fünf konkrete KI-Anwendungen im Schweizer Bauwesen
 
@@ -87,12 +87,12 @@ Ja. Verschiedene Lösungen bieten direkte Schnittstellen zu SIMAP, construire.ch
 
 ## Weiterführende Links
 
-- [Leitfaden: KI-Automatisierung für Schweizer KMU](/de/automatisierung-ia-kmu-schweiz)
-- [Self-hosted n8n für Schweizer KMU und nDSG-Konformität](/de/blog/n8n-selbst-gehostet-kmu-schweiz-nlpd)
-- [Autonome KI-Agenten für Schweizer KMU](/de/blog/autonome-ki-agenten-kmu-schweiz-2026)
-- [ROI der KI für Schweizer KMU](/de/blog/roi-kuenstliche-intelligenz-kmu-schweiz)
+- [Leitfaden: KI-Automatisierung für Schweizer KMU](/de/automatisation-ia-pme-suisse)
+- [Self-hosted n8n für Schweizer KMU und nDSG-Konformität](/de/blog/n8n-auto-heberge-pme-suisse-nlpd)
+- [Autonome KI-Agenten für Schweizer KMU](/de/blog/agents-ia-autonomes-pme-suisse-2026)
+- [ROI der KI für Schweizer KMU](/de/blog/roi-ki-digitale-transformation-kmu-2026)
 - [Datenschutz und nDSG im KI-Einsatz](/de/blog/dpo-nlpd-ia-obligations-pratiques-pme-suisse)
 
 ---
 
-**Interessiert an einem konkreten KI-Einsatz in Ihrem Bauunternehmen?** Buchen Sie jetzt Ihr [kostenloses 30-Minuten-Beratungsgespräch](/contact) — wir analysieren gemeinsam Ihre grössten Zeitfresser und zeigen Ihnen, welche KI-Lösung den schnellsten und grössten ROI für Ihr Unternehmen liefert.
+**Interessiert an einem konkreten KI-Einsatz in Ihrem Bauunternehmen?** Buchen Sie jetzt Ihr [kostenloses 30-Minuten-Beratungsgespräch](/de/contact) — wir analysieren gemeinsam Ihre grössten Zeitfresser und zeigen Ihnen, welche KI-Lösung den schnellsten und grössten ROI für Ihr Unternehmen liefert.

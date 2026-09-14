@@ -364,4 +364,4 @@ Die Automatisierung von Prozessen durch KI ist keine Frage des «Ob», sondern d
 
 Das Wesentliche ist, mit Prozessen zu beginnen, die einen hohen Impact und eine geringe Komplexität haben, Tools zu wählen, die dem Schweizer Kontext entsprechen (Konformität, Mehrsprachigkeit, lokales Hosting), und die Teams von Anfang an einzubeziehen, um die Akzeptanz zu gewährleisten.
 
-Um mehr zu erfahren, besuchen Sie unsere [Leitfäden und Tutorials zur KI-Automatisierung](https://vocalis.blog), oder fordern Sie direkt Ihr [kostenloses KI-Audit](https://iapmesuisse.ch/audit-ia-gratuit) an, um einen maßgeschneiderten Aktionsplan zu erhalten.
+Um mehr zu erfahren, besuchen Sie unsere [Leitfäden und Tutorials zur KI-Automatisierung](https://vocalis.blog), oder fordern Sie direkt Ihr [kostenloses KI-Audit](/de/contact) an, um einen maßgeschneiderten Aktionsplan zu erhalten.

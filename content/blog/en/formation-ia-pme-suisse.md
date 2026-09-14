@@ -164,4 +164,4 @@ The plan is often amortized within 6 to 9 months thanks to productivity gains, p
 
 ---
 
-For personalized support in training and deploying AI in your Swiss SME, visit [iapmesuisse.ch](https://iapmesuisse.ch) — or explore our [practical AI training programs for teams](/fr/blog/formation-ia-revendeur).
+For personalized support in training and deploying AI in your Swiss SME, visit [iapmesuisse.ch](https://iapmesuisse.ch/en) — or explore our [practical AI training programs for teams](/fr/blog/formation-ia-revendeur).

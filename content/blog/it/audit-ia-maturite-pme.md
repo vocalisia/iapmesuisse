@@ -143,7 +143,7 @@ L'ultima fase formalizza il piano d'azione:
 - Definizione dei quick win (risultati entro 3 mesi)
 - Pianificazione dei progetti a medio termine (3-12 mesi)
 - Identificazione degli investimenti strutturali (12-24 mesi)
-- [Budget dettagliato](/fr/blog/budget-ia-pme-suisse) per fase
+- [Budget dettagliato](/fr/contact) per fase
 
 **Consegna**: roadmap IA su 24 mesi con tappe, budget e indicatori di successo.
 
@@ -218,14 +218,14 @@ In un mercato svizzero dove la concorrenza si intensifica e le aspettative dei c
 
 ---
 
-**Pronti a valutare la maturità IA della vostra PMI?** [Richiedete il vostro audit gratuito](https://iapmesuisse.ch/audit) e ricevete una diagnosi personalizzata con raccomandazioni concrete entro 48 ore.
+**Pronti a valutare la maturità IA della vostra PMI?** [Richiedete il vostro audit gratuito](/it/contact) e ricevete una diagnosi personalizzata con raccomandazioni concrete entro 48 ore.
 
 ---
 
 ### Articoli correlati
 
 - [Intelligenza artificiale per PMI svizzere: guida completa 2026](/fr/blog/intelligence-artificielle-pme-suisses-guide-complet-2026) — Articolo pilastro
-- [Budget IA per PMI svizzera: da 500 a 50'000 CHF](/fr/blog/budget-ia-pme-suisse)
+- [Budget IA per PMI svizzera: da 500 a 50'000 CHF](/fr/contact)
 - [Gli strumenti IA testati e approvati per PMI svizzere](/fr/blog/outils-ia-pme-suisses)
 
 ### Risorsa esterna

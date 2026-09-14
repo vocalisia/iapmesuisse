@@ -11,7 +11,7 @@ image: "/images/blog/iapme-autocontrol-20260620/it-ia-restauration-pme-suisse-gu
 
 La ristorazione svizzera soffre di una doppia pressione strutturale: **carenza di personale** (CHF 4,5 miliardi di fatturato perso nel 2024 secondo GastroSuisse) e **inflazione dei costi** (derrate, energia, salari). L'intelligenza artificiale non è una soluzione miracolosa, ma libera ore sui compiti amministrativi e migliora la relazione con il cliente senza sostituire l'essenziale: l'ospitalità umana.
 
-> Per il contesto generale, vedere la [guida pilastro sull'automazione IA per le PMI svizzere](/it/automazione-ia-pmi-svizzera).
+> Per il contesto generale, vedere la [guida pilastro sull'automazione IA per le PMI svizzere](/it/automatisation-ia-pme-suisse).
 
 ## 1. Cinque applicazioni IA adatte alla ristorazione svizzera
 
@@ -69,7 +69,7 @@ I dati sanitari (allergie alimentari) possono essere considerati dati sensibili 
 
 ## Per approfondire
 
-- [Guida pilastro: Automazione IA per PMI svizzere](/it/automazione-ia-pmi-svizzera)
+- [Guida pilastro: Automazione IA per PMI svizzere](/it/automatisation-ia-pme-suisse)
 - [Assistente vocale IA per PMI: guida completa](/it/blog/assistant-vocal-ia-pme-guide-complet)
 - [IA per il marketing digitale delle PMI svizzere](/it/blog/ia-marketing-digital-pme-suisse-2026)
 - [Automazione WhatsApp Business con IA](/it/blog/automatisation-whatsapp-business-ia-pme-suisse)

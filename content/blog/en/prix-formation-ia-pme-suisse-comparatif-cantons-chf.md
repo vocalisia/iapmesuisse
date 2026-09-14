@@ -66,7 +66,7 @@ For SMEs in deep digital transformation. Includes diagnosis, leadership training
 
 InnoSuisse explicitly recognises AI as a strategic theme for 2024-2027.
 
-For overall AI budgeting see our [SME AI budget guide](/en/blog/budget-ia-pme-suisse).
+For overall AI budgeting see our [SME AI budget guide](/en/contact).
 
 ## Inter-cantonal market prices
 

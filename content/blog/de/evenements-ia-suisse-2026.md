@@ -200,7 +200,7 @@ Das Schweizer KI-Ökosystem ist reichhaltig, dynamisch und zugänglich. Die in d
 
 ---
 
-**Möchten Sie eine individuelle Beratung zur Integration von KI in Ihr KMU?** [Fordern Sie Ihr kostenloses Audit an](https://iapmesuisse.ch/audit) und erhalten Sie Empfehlungen, die auf Ihre Situation zugeschnitten sind.
+**Möchten Sie eine individuelle Beratung zur Integration von KI in Ihr KMU?** [Fordern Sie Ihr kostenloses Audit an](/de/contact) und erhalten Sie Empfehlungen, die auf Ihre Situation zugeschnitten sind.
 
 ---
 

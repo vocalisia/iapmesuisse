@@ -210,7 +210,7 @@ Das Wichtigste ist, in der richtigen Größenordnung zu beginnen, die Ergebnisse
 
 ---
 
-**Möchten Sie Ihr individuelles KI-Budget erstellen?** [Fordern Sie Ihr kostenloses Audit an](https://iapmesuisse.ch/audit) und erhalten Sie eine maßgeschneiderte Budgetschätzung mit ROI-Projektion.
+**Möchten Sie Ihr individuelles KI-Budget erstellen?** [Fordern Sie Ihr kostenloses Audit an](/de/contact) und erhalten Sie eine maßgeschneiderte Budgetschätzung mit ROI-Projektion.
 
 ---
 

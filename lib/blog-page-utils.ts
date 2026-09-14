@@ -112,7 +112,11 @@ function keywords(text: string) {
 export function getRelatedPosts(post: BlogSummary, locale: string) {
   const current = keywords(`${post.title} ${post.excerpt} ${post.slug.replace(/-/g, ' ')}`);
   return getBlogPosts(locale)
-    .filter((candidate) => candidate.slug !== post.slug)
+    .filter(
+      (candidate) =>
+        candidate.slug !== post.slug &&
+        !LEGACY_BLOG_REDIRECTS[locale]?.[candidate.slug]
+    )
     .map((candidate) => {
       const candidateWords = keywords(`${candidate.title} ${candidate.excerpt} ${candidate.slug.replace(/-/g, ' ')}`);
       let score = 0;

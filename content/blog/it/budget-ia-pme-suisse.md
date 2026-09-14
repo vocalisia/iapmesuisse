@@ -210,7 +210,7 @@ L'essenziale è iniziare con la giusta scala, misurare sistematicamente i risult
 
 ---
 
-**Hai bisogno di stabilire il tuo budget IA personalizzato?** [Richiedi il tuo audit gratuito](https://iapmesuisse.ch/audit) e ricevi una stima del budget su misura con proiezione del ROI.
+**Hai bisogno di stabilire il tuo budget IA personalizzato?** [Richiedi il tuo audit gratuito](/it/contact) e ricevi una stima del budget su misura con proiezione del ROI.
 
 ---
 

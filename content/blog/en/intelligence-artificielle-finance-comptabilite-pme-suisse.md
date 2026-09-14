@@ -269,4 +269,4 @@ SMEs investing today in automating their finance processes are building a sustai
 
 - [AI ROI for Swiss SMEs: Figures and Calculation Method 2026](/fr/blog/roi-intelligence-artificielle-pme-suisse)
 - [Process Automation with AI: Practical Guide for Swiss SMEs](/fr/blog/automatisation-processus-ia-guide-pratique-pme-suisses)
-- [AI Budget for Swiss SMEs: How Much to Plan and Optimize](/fr/blog/budget-ia-pme-suisse)
+- [AI Budget for Swiss SMEs: How Much to Plan and Optimize](/fr/contact)

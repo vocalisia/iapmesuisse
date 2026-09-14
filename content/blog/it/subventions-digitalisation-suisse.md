@@ -29,7 +29,7 @@ Innosuisse è il principale organo federale di supporto all'innovazione per le P
 - **Tempo di elaborazione**: 4-6 settimane
 - **Come candidarsi**: domanda online sul sito di Innosuisse
 
-**Pertinenza per l'IA**: eccellente per finanziare un [audit di maturità IA](/it/blog/audit-ia-maturita-pme) o uno studio di fattibilità in collaborazione con una SUP.
+**Pertinenza per l'IA**: eccellente per finanziare un [audit di maturità IA](/it/blog/audit-ia-maturite-pme) o uno studio di fattibilità in collaborazione con una SUP.
 
 #### Progetti di innovazione
 
@@ -168,7 +168,7 @@ Per i progetti IA che implicano uno sviluppo proprietario, il regime della Paten
 | Friburgo | 50% | 90% |
 | Neuchâtel | 50% | 90% |
 
-**Consiglio**: consultate il vostro fiduciario per ottimizzare la struttura fiscale dei vostri investimenti IA. I risparmi fiscali possono coprire il 15-30% del [budget totale di un progetto IA](/it/blog/budget-ia-pme-suisse).
+**Consiglio**: consultate il vostro fiduciario per ottimizzare la struttura fiscale dei vostri investimenti IA. I risparmi fiscali possono coprire il 15-30% del [budget totale di un progetto IA](/it/contact).
 
 ## Finanziamenti bancari e alternativi
 
@@ -198,7 +198,7 @@ Il leasing consente di finanziare gli investimenti IA senza immobilizzare capita
 Un dossier di richiesta di sovvenzione deve includere:
 - Descrizione chiara del progetto e dei suoi obiettivi
 - Analisi di mercato e posizionamento competitivo
-- [Budget dettagliato](/it/blog/budget-ia-pme-suisse) con fonti di finanziamento
+- [Budget dettagliato](/it/contact) con fonti di finanziamento
 - Pianificazione dell'implementazione
 - Indicatori di successo misurabili (KPI)
 - Descrizione del team e delle competenze
@@ -247,14 +247,14 @@ Il processo richiede uno sforzo di ricerca e preparazione, ma questo sforzo è a
 
 ---
 
-**Avete bisogno di aiuto per identificare le sovvenzioni adatte al vostro progetto?** [Richiedete il vostro audit gratuito](https://iapmesuisse.ch/audit) e ricevete un piano di finanziamento personalizzato.
+**Avete bisogno di aiuto per identificare le sovvenzioni adatte al vostro progetto?** [Richiedete il vostro audit gratuito](/it/contact) e ricevete un piano di finanziamento personalizzato.
 
 ---
 
 ### Articoli correlati
 
 - [Trasformazione digitale IA delle PMI svizzere](/it/blog/transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026) — Articolo pilastro
-- [Budget IA per PMI svizzere: da 500 a 50'000 CHF](/it/blog/budget-ia-pme-suisse)
+- [Budget IA per PMI svizzere: da 500 a 50'000 CHF](/it/contact)
 - [Casi studio: PMI svizzere trasformate dall'IA](/it/blog/etudes-cas-pme-romandes-ia)
 
 ### Risorsa esterna

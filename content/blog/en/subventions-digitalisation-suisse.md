@@ -168,7 +168,7 @@ For AI projects involving proprietary development, the Patent Box regime (introd
 | Fribourg | 50% | 90% |
 | Neuchâtel | 50% | 90% |
 
-**Tip**: Consult your fiduciary to optimize the tax structuring of your AI investments. Tax savings can cover 15 to 30% of the [total budget of an AI project](/fr/blog/budget-ia-pme-suisse).
+**Tip**: Consult your fiduciary to optimize the tax structuring of your AI investments. Tax savings can cover 15 to 30% of the [total budget of an AI project](/fr/contact).
 
 ## Bank and Alternative Financing
 
@@ -197,7 +197,7 @@ Leasing allows financing AI investments without immobilizing capital:
 A subsidy application should include:  
 - Clear project description and objectives  
 - Market analysis and competitive positioning  
-- [Detailed budget](/fr/blog/budget-ia-pme-suisse) with funding sources  
+- [Detailed budget](/fr/contact) with funding sources
 - Implementation timeline  
 - Measurable success indicators (KPIs)  
 - Team and skills description  
@@ -246,16 +246,16 @@ The process requires research and preparation, but the effort is well worth it. 
 
 ---
 
-**Need help identifying the right subsidies for your project?** [Request your free audit](https://iapmesuisse.ch/audit) and receive a personalized financing plan.
+**Need help identifying the right subsidies for your project?** [Request your free audit](/en/contact) and receive a personalized financing plan.
 
 ---
 
 ### Related Articles
 
 - [Digital Transformation and AI for French-speaking Swiss SMEs](/fr/blog/transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026) — Pillar article  
-- [AI Budget for Swiss SMEs: From CHF 500 to CHF 50,000](/fr/blog/budget-ia-pme-suisse)  
+- [AI Budget for Swiss SMEs: From CHF 500 to CHF 50,000](/fr/contact)
 - [Case Studies: French-speaking Swiss SMEs Transformed by AI](/fr/blog/etudes-cas-pme-romandes-ia)  
 
 ### External Resource
 
-- [Innosuisse — Swiss Innovation Agency](https://www.innosuisse.ch/inno/fr/home.html)  
+- [Innosuisse — Swiss Innovation Agency](https://www.innosuisse.ch/inno/fr/home.html)

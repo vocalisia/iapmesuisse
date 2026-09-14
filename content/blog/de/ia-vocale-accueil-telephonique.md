@@ -207,7 +207,7 @@ Die Technologie ist mittlerweile so ausgereift, dass sie eine natürliche und fl
 
 ---
 
-**Möchten Sie einen Sprach-IA-Assistenten für Ihr KMU testen?** [Fordern Sie Ihr kostenloses Audit an](https://iapmesuisse.ch/audit) und erfahren Sie, wie viele Anrufe Sie monatlich verlieren.
+**Möchten Sie einen Sprach-IA-Assistenten für Ihr KMU testen?** [Fordern Sie Ihr kostenloses Audit an](/de/contact) und erfahren Sie, wie viele Anrufe Sie monatlich verlieren.
 
 ---
 

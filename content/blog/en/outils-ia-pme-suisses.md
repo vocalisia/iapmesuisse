@@ -181,7 +181,7 @@ Start with one or two tools that match your priorities, measure the results, and
 
 ---
 
-**Want to identify the most suitable AI tools for your SME?** [Request your free audit](https://iapmesuisse.ch/audit) and receive personalized recommendations within 48 hours.
+**Want to identify the most suitable AI tools for your SME?** [Request your free audit](/en/contact) and receive personalized recommendations within 48 hours.
 
 ---
 

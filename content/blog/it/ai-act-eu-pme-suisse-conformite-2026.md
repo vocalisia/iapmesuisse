@@ -106,4 +106,4 @@ Sì, è anzi raccomandato. Gli obblighi si sovrappongono al 40-60%. Il nostro [a
 
 ---
 
-Vuole sapere dove si trova la sua PMI rispetto all'AI Act? [Prenoti un audit IA gratuito](/it/contact). Per approfondire, consulti la nostra [guida budget IA PMI](/it/blog/budget-ia-pme-suisse) e il nostro catalogo [consulting IA](/it/consulting).
+Vuole sapere dove si trova la sua PMI rispetto all'AI Act? [Prenoti un audit IA gratuito](/it/contact). Per approfondire, consulti la nostra [guida budget IA PMI](/it/contact) e il nostro catalogo [consulting IA](/it/consulting).

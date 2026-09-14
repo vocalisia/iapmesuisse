@@ -119,7 +119,7 @@ Stratégie pragmatique pour une PME : 5 backlinks `.ch` sur 6 mois suffisent pou
 | Schema validator | Google Rich Results Test | 0 |
 | Page speed | PageSpeed Insights + WebPageTest | 0 |
 
-Pour une PME 5-25 personnes, prévoir 100-250 CHF/mois d'outils SEO. Voir notre [comparatif budget IA + SEO](/fr/blog/budget-ia-pme-suisse).
+Pour une PME 5-25 personnes, prévoir 100-250 CHF/mois d'outils SEO. Voir notre [comparatif budget IA + SEO](/fr/contact).
 
 ## Plan d'action 90 jours pour PME suisse multilingue
 

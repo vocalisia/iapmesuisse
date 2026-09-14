@@ -95,4 +95,4 @@ Kostenlose Pläne finanzieren sich oft dadurch, dass Nutzerdaten zur Verbesserun
 
 ---
 
-**Möchten Sie herausfinden, welche KI-Tools am besten zu Ihrem KMU passen?** Buchen Sie ein [kostenloses 30-Minuten-Beratungsgespräch](/contact) mit unseren Experten — wir analysieren Ihre Prozesse und empfehlen die passenden Werkzeuge für Ihren konkreten Bedarf.
+**Möchten Sie herausfinden, welche KI-Tools am besten zu Ihrem KMU passen?** Buchen Sie ein [kostenloses 30-Minuten-Beratungsgespräch](/de/contact) mit unseren Experten — wir analysieren Ihre Prozesse und empfehlen die passenden Werkzeuge für Ihren konkreten Bedarf.

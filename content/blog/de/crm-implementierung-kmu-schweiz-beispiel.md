@@ -109,12 +109,12 @@ IAPME Suisse bietet:
 - **nDSG + AI-Act-Konformitätsprüfung**
 - Präsenz in **Zürich, Bern, Basel, Sion, Genf, Lausanne, Lugano**
 
-Buchen Sie Ihr [kostenloses CRM-Audit](/contact) — wir analysieren Ihre aktuelle Situation und schlagen den schnellsten Weg zum messbaren ROI vor.
+Buchen Sie Ihr [kostenloses CRM-Audit](/de/contact) — wir analysieren Ihre aktuelle Situation und schlagen den schnellsten Weg zum messbaren ROI vor.
 
 ## Verwandte Ressourcen
 
 - [Tech-Stack KMU Schweiz 2026](/de/blog/outils-ia-ecosysteme-pme-suisse-2026)
-- [KI für KMU im Wallis und Sion](/de/blog/ia-pme-valais-sion)
+- [KI für KMU im Wallis und Sion](/de/villes/sion)
 - [Integration von KI in CRM](/de/blog/integration-ia-crm-opportunites-pme-suisses)
 - [HubSpot vs Salesforce für KMU](/de/blog/ia-crm-hubspot-salesforce-pme-suisse-2026)
 - [Bexio mit KI integrieren](/de/blog/integration-bexio-ia-pme-suisse-guide-2026)

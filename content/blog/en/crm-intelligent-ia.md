@@ -219,7 +219,7 @@ The investment, typically CHF 10,000 to 30,000 in the first year for an SME with
 
 ---
 
-**Ready to transform your sales approach?** [Request your free audit](https://iapmesuisse.ch/audit) and identify the smart CRM tailored to your SME.
+**Ready to transform your sales approach?** [Request your free audit](/en/contact) and identify the smart CRM tailored to your SME.
 
 ---
 

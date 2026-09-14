@@ -28,7 +28,7 @@ Commencez par suivre une demande depuis sa réception jusqu’à sa clôture. Le
 
 Dessinez ce parcours tel qu’il fonctionne aujourd’hui, avec les exceptions. Qui lit le premier message ? Où le statut est-il mis à jour ? Quelle information est nécessaire pour attribuer le dossier ? Comment l’équipe sait-elle qu’un client a déjà obtenu une réponse ? Quel outil fait foi pour une commande, une facture ou un contrat ? Ces questions sont plus importantes que le choix du connecteur.
 
-Le [guide de cartographie des workflows IA](/fr/blog/workflow-ia-suisse-cartographie-processus-pme) permet de structurer cette première étape. La carte doit montrer les entrées, les décisions, les systèmes de référence, les personnes responsables et les sorties. Un workflow qui n’est pas compréhensible sur une page ne doit pas être automatisé dans son ensemble.
+Le [guide de cartographie des workflows IA](/fr/blog/workflow-ia-pme-suisse) permet de structurer cette première étape. La carte doit montrer les entrées, les décisions, les systèmes de référence, les personnes responsables et les sorties. Un workflow qui n’est pas compréhensible sur une page ne doit pas être automatisé dans son ensemble.
 
 ## Choisir un périmètre de pilote réaliste
 
@@ -144,7 +144,7 @@ Enfin, annoncez clairement aux collaborateurs ce qui change et ce qui ne change 
 
 ## Liens utiles pour la suite
 
-Pour préparer les réponses et le support multilingue, consultez l’[agent IA de service client](/fr/blog/agent-ia-service-client-pme-suisse). Pour cartographier les flux avant un projet, utilisez le [guide workflow IA](/fr/blog/workflow-ia-suisse-cartographie-processus-pme). Pour encadrer les données, fournisseurs et validations, lisez le [registre des usages IA](/fr/blog/registre-usages-ia-pme-suisse-nlpd). Ces ressources complètent ce guide sans traiter exactement la même tâche.
+Pour préparer les réponses et le support multilingue, consultez l’[agent IA de service client](/fr/blog/agent-ia-service-client-pme-suisse). Pour cartographier les flux avant un projet, utilisez le [guide workflow IA](/fr/blog/workflow-ia-pme-suisse). Pour encadrer les données, fournisseurs et validations, lisez le [registre des usages IA](/fr/blog/registre-usages-ia-pme-suisse-nlpd). Ces ressources complètent ce guide sans traiter exactement la même tâche.
 
 ## Questions fréquentes
 

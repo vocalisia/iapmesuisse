@@ -343,7 +343,7 @@ L'investissement, typiquement de 10'000 à 30'000 CHF la première année pour u
 
 ---
 
-**Prêt à transformer votre approche commerciale ?** [Demandez votre audit gratuit](https://iapmesuisse.ch/audit) et identifiez le CRM intelligent adapté à votre PME.
+**Prêt à transformer votre approche commerciale ?** [Demandez votre audit gratuit](/fr/contact) et identifiez le CRM intelligent adapté à votre PME.
 
 ---
 

@@ -157,7 +157,7 @@ L'essenziale è non aspettare un incidente per agire. Un approccio proattivo, st
 
 ---
 
-**Desiderate valutare la conformità nLPD dei vostri progetti IA?** [Richiedete il vostro audit gratuito](https://iapmesuisse.ch/audit) e ricevete una diagnosi personalizzata entro 48 ore.
+**Desiderate valutare la conformità nLPD dei vostri progetti IA?** [Richiedete il vostro audit gratuito](/it/contact) e ricevete una diagnosi personalizzata entro 48 ore.
 
 ---
 
@@ -165,7 +165,7 @@ L'essenziale è non aspettare un incidente per agire. Un approccio proattivo, st
 
 - [Intelligenza artificiale per PMI svizzere: guida completa 2026](/fr/blog/intelligence-artificielle-pme-suisses-guide-complet-2026) — Articolo pilastro
 - [Audit IA: valutare la maturità digitale della vostra PMI](/fr/blog/audit-ia-maturite-pme)
-- [Budget IA per PMI svizzere: da 500 a 50'000 CHF](/fr/blog/budget-ia-pme-suisse)
+- [Budget IA per PMI svizzere: da 500 a 50'000 CHF](/fr/contact)
 
 ### Risorsa esterna
 

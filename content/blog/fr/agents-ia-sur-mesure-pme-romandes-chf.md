@@ -55,7 +55,7 @@ Pour comprendre l'articulation avec la conformité, voir notre [guide AI Act PME
 | Délai 1ère réponse | 4h | 90 sec | -99% |
 | Rendez-vous mensuels qualifiés | 36 | 62 | +72% |
 
-**Budget** : 12 500 CHF déploiement (4 sem) + 380 CHF/mois licences. ROI atteint au mois 3 sur les ventes additionnelles. Subvention partielle InnoSuisse Innovationscheck (5 000 CHF). Voir aussi notre [comparatif prix formations](/fr/blog/prix-formation-ia-pme-suisse-comparatif-cantons-chf).
+**Budget** : 12 500 CHF déploiement (4 sem) + 380 CHF/mois licences. ROI atteint au mois 3 sur les ventes additionnelles. Subvention partielle InnoSuisse Innovationscheck (5 000 CHF). Voir aussi notre [comparatif prix formations](/fr/contact).
 
 ## Cas 3 — Cabinet d'avocats, 8 personnes, Genève
 
@@ -87,7 +87,7 @@ Un agent IA est rentable si vous cochez **au moins 4 sur 6** :
 | 5 | Le risque de l'erreur est gérable (humain peut valider, pas vie ou mort immédiat) |
 | 6 | Vous êtes prêt à investir 5 000 à 25 000 CHF sur 4-12 semaines |
 
-Si moins de 4 critères cochés : l'IA générative simple (ChatGPT Team) est plus adaptée. Voir notre [guide budget IA PME](/fr/blog/budget-ia-pme-suisse).
+Si moins de 4 critères cochés : l'IA générative simple (ChatGPT Team) est plus adaptée. Voir notre [guide budget IA PME](/fr/contact).
 
 ## Les 4 erreurs à éviter
 

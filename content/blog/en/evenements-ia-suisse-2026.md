@@ -200,7 +200,7 @@ The Swiss AI ecosystem is rich, dynamic, and accessible. The events listed in th
 
 ---
 
-**Looking for personalized support to integrate AI into your SME?** [Request your free audit](https://iapmesuisse.ch/audit) and receive tailored recommendations for your situation.
+**Looking for personalized support to integrate AI into your SME?** [Request your free audit](/en/contact) and receive tailored recommendations for your situation.
 
 ---
 

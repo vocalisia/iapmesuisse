@@ -236,7 +236,7 @@ La clé du succès réside dans une approche progressive et mesurée : commencez
 
 ---
 
-**Prêt à automatiser votre marketing ?** [Demandez votre audit gratuit](https://iapmesuisse.ch/audit) et recevez un plan marketing personnalisé pour votre PME.
+**Prêt à automatiser votre marketing ?** [Demandez votre audit gratuit](/fr/contact) et recevez un plan marketing personnalisé pour votre PME.
 
 ---
 

@@ -66,7 +66,7 @@ Formato per PMI in trasformazione digitale profonda. Include diagnosi, formazion
 
 InnoSuisse riconosce esplicitamente l'IA come tema strategico 2024-2027.
 
-Per il budget IA globale veda la nostra [guida budget IA PMI](/it/blog/budget-ia-pme-suisse).
+Per il budget IA globale veda la nostra [guida budget IA PMI](/it/contact).
 
 ## Confronto inter-cantonale dei prezzi di mercato
 

@@ -61,7 +61,7 @@ I collaboratori osservano la direzione. Un dirigente che comprende l'IA, la util
 **Contenuti tipici**:
 - [Audit e valutazione della maturità IA](/fr/blog/audit-ia-maturite-pme)
 - Identificazione e prioritizzazione dei casi d'uso
-- [Budgeting e calcolo del ROI](/fr/blog/budget-ia-pme-suisse)
+- [Budgeting e calcolo del ROI](/fr/contact)
 - Gestione del cambiamento e accompagnamento dei team
 - Selezione di fornitori e gestione di progetti IA
 - Governance dei dati e conformità
@@ -229,7 +229,7 @@ L'importante non è mirare alla perfezione fin dall'inizio, ma iniziare, sperime
 
 ---
 
-**Desiderate un programma di formazione su misura per il vostro team dirigenziale?** [Richiedete il vostro audit gratuito](https://iapmesuisse.ch/audit) e ricevete una proposta di programma adattata al vostro livello e ai vostri obiettivi.
+**Desiderate un programma di formazione su misura per il vostro team dirigenziale?** [Richiedete il vostro audit gratuito](/it/contact) e ricevete una proposta di programma adattata al vostro livello e ai vostri obiettivi.
 
 ---
 

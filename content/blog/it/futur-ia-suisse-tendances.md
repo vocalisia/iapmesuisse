@@ -263,7 +263,7 @@ Il futuro dell'IA in Svizzera si scrive oggi. E si scrive anche nelle PMI.
 
 ---
 
-**Vuoi anticipare e preparare la tua PMI alle evoluzioni dell'IA?** [Richiedi il tuo audit gratuito](https://iapmesuisse.ch/audit) e costruisci la tua roadmap IA per gli anni a venire.
+**Vuoi anticipare e preparare la tua PMI alle evoluzioni dell'IA?** [Richiedi il tuo audit gratuito](/it/contact) e costruisci la tua roadmap IA per gli anni a venire.
 
 ---
 

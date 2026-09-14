@@ -222,4 +222,4 @@ Die gute Nachricht: Sie müssen nicht alles auf einmal tun. Ein einziger gut imp
 
 Nutzen Sie unsere **kostenlose KI-Beratung (30 Minuten)** für Schweizer KMU. Wir analysieren gemeinsam Ihren konkreten Anwendungsfall, klären die nDSG-Konformität und zeigen Ihnen, welche Tools für Ihren Betrieb wirklich Sinn ergeben – ohne Verkaufsdruck, mit konkreten Zahlen.
 
-[Kostenlose KI-Beratung anfordern](/contact)
+[Kostenlose KI-Beratung anfordern](/de/contact)

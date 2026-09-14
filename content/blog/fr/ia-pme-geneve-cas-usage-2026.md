@@ -167,7 +167,7 @@ L'écart entre "j'ai entendu parler de l'IA" et "je génère un ROI mesurable" s
 
 ### Étape 1 : Audit IA 30 minutes — identifier vos 2 ou 3 priorités
 
-Avant tout investissement, il faut cartographier les processus chronophages, répétitifs ou sources d'erreurs. Un audit structuré permet d'identifier les cas d'usage à ROI rapide (moins de 6 mois) versus les projets de transformation plus profonds. Cet audit peut se faire en présentiel à Genève ou en visioconférence — [demandez le vôtre ici](/contact).
+Avant tout investissement, il faut cartographier les processus chronophages, répétitifs ou sources d'erreurs. Un audit structuré permet d'identifier les cas d'usage à ROI rapide (moins de 6 mois) versus les projets de transformation plus profonds. Cet audit peut se faire en présentiel à Genève ou en visioconférence — [demandez le vôtre ici](/fr/contact).
 
 ### Étape 2 : Sélectionner 2 à 3 cas d'usage prioritaires
 
@@ -201,7 +201,7 @@ Les PME genevoises qui souhaitent adopter l'IA ne partent pas les mains vides.
 
 **Y a-t-il des agences IA spécialisées PME à Genève ?**
 
-Oui. L'écosystème genevois compte plusieurs prestataires spécialisés dans l'intégration IA pour PME — distincts des grands cabinets de conseil qui s'adressent aux grandes entreprises. Les agences locales comprennent les contraintes spécifiques (budget, ressources internes limitées, conformité nLPD, multilinguisme) et proposent des déploiements adaptés à des structures de 5 à 50 personnes. [Consultez notre page dédiée](/cantons/geneve) pour trouver l'accompagnement adapté à votre secteur.
+Oui. L'écosystème genevois compte plusieurs prestataires spécialisés dans l'intégration IA pour PME — distincts des grands cabinets de conseil qui s'adressent aux grandes entreprises. Les agences locales comprennent les contraintes spécifiques (budget, ressources internes limitées, conformité nLPD, multilinguisme) et proposent des déploiements adaptés à des structures de 5 à 50 personnes. [Consultez notre page dédiée](/fr/cantons/geneve) pour trouver l'accompagnement adapté à votre secteur.
 
 **Quels secteurs genevois bénéficient le plus de l'IA en 2026 ?**
 
@@ -225,4 +225,4 @@ L'IA n'est plus une technologie de demain pour les PME de Genève. C'est un levi
 
 La première étape est un audit structuré de 30 minutes : vos processus, vos contraintes, vos cas d'usage prioritaires. Sans engagement, en présentiel à Genève ou en visioconférence.
 
-**[Demandez votre audit IA gratuit](/contact)** — ou [découvrez notre accompagnement pour les PME genevoises](/cantons/geneve).
+**[Demandez votre audit IA gratuit](/fr/contact)** — ou [découvrez notre accompagnement pour les PME genevoises](/fr/cantons/geneve).

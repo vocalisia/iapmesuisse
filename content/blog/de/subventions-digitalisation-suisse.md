@@ -168,7 +168,7 @@ Für KI-Projekte mit eigene Entwicklig chönd s'Patentbox-System (eiführt mit d
 | Freiburg | 50 % | 90 % |
 | Neuenburg | 50 % | 90 % |
 
-**Tipp**: Konsultiere dini Treuhänder, um d'steuerlichi Struktur vo dine KI-Investitione optimal z'gestalte. D'Steuerersparnis chönnti 15 bis 30 % vo de [gesamte Projektchoschte](/fr/blog/budget-ia-pme-suisse) decke.
+**Tipp**: Konsultiere dini Treuhänder, um d'steuerlichi Struktur vo dine KI-Investitione optimal z'gestalte. D'Steuerersparnis chönnti 15 bis 30 % vo de [gesamte Projektchoschte](/fr/contact) decke.
 
 ## Bank- und alternative Finanzierig
 
@@ -198,7 +198,7 @@ Leasing ermöglicht d'Finanzierig vo KI-Investitione ohni Kapitalbindung:
 E Subventionsantrag muess enthalte:
 - Klari Beschrieb vom Projekt und vo de Ziel
 - Marktanalys und Wettbewerbspositionierig
-- [Detailbudget](/fr/blog/budget-ia-pme-suisse) mit Finanzierungsquelle
+- [Detailbudget](/fr/contact) mit Finanzierungsquelle
 - Umsetzigsplan
 - Messbari Erfolgsindikatore (KPIs)
 - Beschrieb vom Team und vo de Kompetenze
@@ -247,14 +247,14 @@ D'Vorbereitig isch zwar ufwendig, aber dä Ufwand lohnt sich. Jede Subventionsfr
 
 ---
 
-**Brauchsch Hilf, um d'richtige Subventione für dis Projekt z'finde?** [Fordere dini gratis Analyse aa](https://iapmesuisse.ch/audit) und erhalte e personalisierte Finanzierungsplan.
+**Brauchsch Hilf, um d'richtige Subventione für dis Projekt z'finde?** [Fordere dini gratis Analyse aa](/de/contact) und erhalte e personalisierte Finanzierungsplan.
 
 ---
 
 ### Verwandti Artikel
 
 - [Digitale Transformation und KI für KMU in dr Romandie](/fr/blog/transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026) – Leitartikel
-- [Budget für KI-Projekte in de Schwiiz: vo 500 bis 50'000 CHF](/fr/blog/budget-ia-pme-suisse)
+- [Budget für KI-Projekte in de Schwiiz: vo 500 bis 50'000 CHF](/fr/contact)
 - [Fallstudie: KMU in dr Romandie, wo vo KI profitiert händ](/fr/blog/etudes-cas-pme-romandes-ia)
 
 ### Externi Ressource

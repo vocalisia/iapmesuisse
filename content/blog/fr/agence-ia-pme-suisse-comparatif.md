@@ -127,7 +127,7 @@ Demandez un **business case documenté** avant tout engagement.
 
 ### Critère 4 : La capacité à former vos équipes
 
-L'IA n'est pas un outil qu'on déploie et qu'on oublie. Vos collaborateurs doivent comprendre comment l'utiliser, l'alimenter correctement et interpréter ses résultats. Un bon partenaire inclut systématiquement un volet **formation et accompagnement au changement**. Découvrez les options de [formation IA disponibles pour les PME suisses](/fr/blog/formation-ia-pme-suisse) pour évaluer ce que vous devrez prévoir en interne.
+L'IA n'est pas un outil qu'on déploie et qu'on oublie. Vos collaborateurs doivent comprendre comment l'utiliser, l'alimenter correctement et interpréter ses résultats. Un bon partenaire inclut systématiquement un volet **formation et accompagnement au changement**. Découvrez les options de [formation IA disponibles pour les PME suisses](/fr/blog/formation-ia-pme-suisse-2026) pour évaluer ce que vous devrez prévoir en interne.
 
 ### Critère 5 : La transparence tarifaire
 

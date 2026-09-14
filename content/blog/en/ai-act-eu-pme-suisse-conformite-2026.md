@@ -107,4 +107,4 @@ Yes, recommended. Obligations overlap by 40-60%. Our [free AI audit](/en/contact
 
 ---
 
-Want to know where your SME stands on the AI Act? [Book a free AI audit](/en/contact). Also see our [SME AI budget guide](/en/blog/budget-ia-pme-suisse) and our [consulting offering](/en/consulting).
+Want to know where your SME stands on the AI Act? [Book a free AI audit](/en/contact). Also see our [SME AI budget guide](/en/contact) and our [consulting offering](/en/consulting).

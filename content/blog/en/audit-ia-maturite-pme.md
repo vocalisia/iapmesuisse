@@ -143,7 +143,7 @@ The final phase formalizes the action plan:
 - Definition of quick wins (results within 3 months)
 - Medium-term project planning (3–12 months)
 - Identification of structural investments (12–24 months)
-- [Detailed budgeting](/fr/blog/budget-ia-pme-suisse) by phase
+- [Detailed budgeting](/fr/contact) by phase
 
 **Deliverable**: 24-month AI roadmap with milestones, budgets, and success indicators.
 
@@ -218,14 +218,14 @@ In a Swiss market where competition is intensifying and customer expectations ar
 
 ---
 
-**Ready to assess your SME's AI maturity?** [Request your free audit](https://iapmesuisse.ch/audit) and receive a personalized diagnosis with concrete recommendations within 48 hours.
+**Ready to assess your SME's AI maturity?** [Request your free audit](/en/contact) and receive a personalized diagnosis with concrete recommendations within 48 hours.
 
 ---
 
 ### Related Articles
 
 - [Artificial Intelligence for Swiss SMEs: Complete Guide 2026](/fr/blog/intelligence-artificielle-pme-suisses-guide-complet-2026) — Pillar article
-- [AI Budget for Swiss SMEs: From CHF 500 to CHF 50,000](/fr/blog/budget-ia-pme-suisse)
+- [AI Budget for Swiss SMEs: From CHF 500 to CHF 50,000](/fr/contact)
 - [AI Tools Tested and Approved for Swiss SMEs](/fr/blog/outils-ia-pme-suisses)
 
 ### External Resource

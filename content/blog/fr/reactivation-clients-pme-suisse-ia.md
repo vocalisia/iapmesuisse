@@ -84,7 +84,7 @@ L’IA donne de la valeur lorsqu’elle réduit une tâche de lecture ou de pré
 
 Elle ne doit pas qualifier un silence comme un refus, estimer une intention d’achat à partir d’un détail isolé, ni envoyer un message automatiquement parce qu’un délai est atteint. Ce sont des décisions commerciales et relationnelles. Le bon dispositif organise les dossiers à examiner ; il ne transforme pas le client en signal à exploiter.
 
-Pour définir le niveau d’assistance adapté, consultez l’article sur l’[agent IA commercial pour PME suisse romande](/fr/blog/agent-ia-commercial-pme-suisse-romande). Il distingue une assistance à la préparation d’une action d’une interaction externe autonome.
+Pour définir le niveau d’assistance adapté, consultez l’article sur l’agent IA commercial pour PME suisse romande. Il distingue une assistance à la préparation d’une action d’une interaction externe autonome.
 
 ## Une méthode opérationnelle en six étapes
 

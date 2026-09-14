@@ -77,7 +77,7 @@ Un agent de support peut recevoir une demande par formulaire ou e-mail, créer u
 
 Le workflow doit indiquer clairement ce qui est lu et ce qui peut être modifié. Au début, l’agent peut être limité à la lecture et à la préparation de brouillons. Une modification de statut, une création de tâche ou un envoi peut être ajouté plus tard, après vérification. Cette progression réduit le risque de dupliquer une demande, de fermer un ticket trop tôt ou d’écrire dans le mauvais dossier.
 
-Pour les flux entre e-mail, CRM et base documentaire, l’équipe peut examiner un orchestrateur adapté à ses contraintes. La page sur le [workflow IA pour PME suisse](/fr/blog/workflow-ia-suisse-cartographie-processus-pme) aide à cartographier les entrées, les décisions et les sorties avant de connecter des outils. L’important n’est pas le nombre d’intégrations. C’est la capacité à expliquer le parcours d’une demande de bout en bout.
+Pour les flux entre e-mail, CRM et base documentaire, l’équipe peut examiner un orchestrateur adapté à ses contraintes. La page sur le [workflow IA pour PME suisse](/fr/blog/workflow-ia-pme-suisse) aide à cartographier les entrées, les décisions et les sorties avant de connecter des outils. L’important n’est pas le nombre d’intégrations. C’est la capacité à expliquer le parcours d’une demande de bout en bout.
 
 ## Préparer des réponses qui restent humaines et exactes
 

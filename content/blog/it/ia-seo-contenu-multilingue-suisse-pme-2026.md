@@ -11,7 +11,7 @@ image: "/images/blog/iapme-autocontrol-20260620/it-ia-seo-contenu-multilingue-su
 
 Il mercato svizzero è unico al mondo: quattro regioni linguistiche, due culture principali (latina e germanica) e comportamenti di ricerca radicalmente diversi a seconda della lingua. Una PMI vodese che si rivolge solo al francese perde **il 75% del suo potenziale mercato svizzero**. L'IA rende finalmente il SEO multilingue accessibile alle PMI.
 
-> Per il contesto generale, vedere la [guida pilastro sull'automazione IA per le PMI svizzere](/it/automazione-ia-pmi-svizzera).
+> Per il contesto generale, vedere la [guida pilastro sull'automazione IA per le PMI svizzere](/it/automatisation-ia-pme-suisse).
 
 ## 1. Le specificità del SEO multilingue svizzero
 
@@ -81,7 +81,7 @@ Per una PMI di servizi B2B che si rivolge alle 4 regioni linguistiche:
 
 ## Per approfondire
 
-- [Guida pilastro: Automazione IA per PMI svizzere](/it/automazione-ia-pmi-svizzera)
+- [Guida pilastro: Automazione IA per PMI svizzere](/it/automatisation-ia-pme-suisse)
 - [IA per il marketing digitale delle PMI svizzere](/it/blog/ia-marketing-digital-pme-suisse-2026)
 - [Automazione email con IA](/it/blog/automatisation-emails-ia-pme-suisse-guide-2026)
 - [Agenti IA autonomi per PMI svizzere](/it/blog/agents-ia-autonomes-pme-suisse-2026)

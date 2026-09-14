@@ -167,4 +167,4 @@ Budget totale indicativo: 15.000-40.000 CHF per 15 persone — spesso ammortizza
 
 ---
 
-Per un accompagnamento personalizzato nella formazione e implementazione dell'IA nella tua PMI svizzera, consulta [iapmesuisse.ch](https://iapmesuisse.ch) — oppure scopri i nostri programmi di [formazione IA pratica per team](/fr/blog/formation-ia-revendeur).
+Per un accompagnamento personalizzato nella formazione e implementazione dell'IA nella tua PMI svizzera, consulta [iapmesuisse.ch](https://iapmesuisse.ch/it) — oppure scopri i nostri programmi di [formazione IA pratica per team](/fr/blog/formation-ia-revendeur).

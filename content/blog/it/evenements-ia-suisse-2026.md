@@ -200,7 +200,7 @@ L'ecosistema IA svizzero è ricco, dinamico e accessibile. Gli eventi elencati i
 
 ---
 
-**Desiderate un supporto personalizzato per integrare l'IA nella vostra PMI?** [Richiedete il vostro audit gratuito](https://iapmesuisse.ch/audit) e ricevete raccomandazioni adattate alla vostra situazione.
+**Desiderate un supporto personalizzato per integrare l'IA nella vostra PMI?** [Richiedete il vostro audit gratuito](/it/contact) e ricevete raccomandazioni adattate alla vostra situazione.
 
 ---
 

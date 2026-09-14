@@ -14,7 +14,7 @@ Die Schweiz zählt **51 000 Landwirtschaftsbetriebe** (BFS) und über **15 000 H
 
 Künstliche Intelligenz bietet für diese Realität konkrete Lösungen — keine Zukunftsmusik, sondern bereits heute von innovativen Schweizer Bäuerinnen, Bauern und Winzerinnen sowie Winzern eingesetzte Technologien, die den Unterschied zwischen einem effizienten und einem überlasteten Betrieb machen können.
 
-> Für den allgemeinen Kontext zur KI-Einführung in Schweizer Betrieben empfehlen wir den [Praxisleitfaden zur KI-Automatisierung für Schweizer KMU](/de/automatisierung-ki-kmu-schweiz).
+> Für den allgemeinen Kontext zur KI-Einführung in Schweizer Betrieben empfehlen wir den [Praxisleitfaden zur KI-Automatisierung für Schweizer KMU](/de/automatisation-ia-pme-suisse).
 
 ## 1. KI-Anwendungen für die Schweizer Landwirtschaft
 
@@ -102,13 +102,13 @@ Schweizer Anbieter wie Infomaniak oder SwissSign unterliegen dem Schweizer Daten
 
 ## Ihr nächster Schritt
 
-Möchten Sie wissen, welche KI-Anwendungen für Ihren Landwirtschafts- oder Weinbaubetrieb wirtschaftlich sinnvoll und sofort umsetzbar sind? Vereinbaren Sie jetzt ein [kostenloses 30-Minuten-Beratungsgespräch](/contact) — ohne Verpflichtung, mit konkreter Potenzialeinschätzung für Ihren Betrieb.
+Möchten Sie wissen, welche KI-Anwendungen für Ihren Landwirtschafts- oder Weinbaubetrieb wirtschaftlich sinnvoll und sofort umsetzbar sind? Vereinbaren Sie jetzt ein [kostenloses 30-Minuten-Beratungsgespräch](/de/contact) — ohne Verpflichtung, mit konkreter Potenzialeinschätzung für Ihren Betrieb.
 
 ---
 
 ## Weiterführende Ressourcen
 
-- [Praxisleitfaden: KI-Automatisierung für Schweizer KMU](/de/automatisierung-ki-kmu-schweiz)
+- [Praxisleitfaden: KI-Automatisierung für Schweizer KMU](/de/automatisation-ia-pme-suisse)
 - [WhatsApp Business-Automatisierung mit KI](/de/blog/automatisation-whatsapp-business-ia-pme-suisse)
 - [KI für digitales Marketing von Schweizer KMU](/de/blog/ia-marketing-digital-pme-suisse-2026)
 - [Kostenlose KI-Tools für Schweizer KMU: Top 15](/de/blog/outils-ia-gratuits-pme-suisse-top-15-2026)

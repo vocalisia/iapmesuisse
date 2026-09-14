@@ -365,4 +365,4 @@ L'automatisation des processus par IA n'est plus une question de « si », mais 
 
 L'essentiel est de commencer par les processus à fort impact et à faible complexité, de choisir des outils adaptés au contexte suisse (conformité, multilinguisme, hébergement local), et d'impliquer les équipes dès le départ pour garantir l'adoption.
 
-Pour aller plus loin, explorez nos [guides et tutoriels sur l'automatisation IA](https://vocalis.blog), ou demandez directement votre [audit IA gratuit](https://iapmesuisse.ch/audit-ia-gratuit) pour obtenir un plan d'action personnalisé.
+Pour aller plus loin, explorez nos [guides et tutoriels sur l'automatisation IA](https://vocalis.blog), ou demandez directement votre [audit IA gratuit](/fr/contact) pour obtenir un plan d'action personnalisé.

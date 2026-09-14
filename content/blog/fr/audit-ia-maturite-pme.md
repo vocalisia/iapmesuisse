@@ -144,7 +144,7 @@ La dernière phase formalise le plan d'action :
 - Définition des quick wins (résultats en moins de 3 mois)
 - Planification des projets à moyen terme (3-12 mois)
 - Identification des investissements structurants (12-24 mois)
-- [Budgétisation détaillée](/fr/blog/budget-ia-pme-suisse) par phase
+- [Budgétisation détaillée](/fr/contact) par phase
 
 **Livrable** : feuille de route IA sur 24 mois avec jalons, budgets et indicateurs de succès.
 
@@ -219,14 +219,14 @@ Dans un marché suisse où la concurrence s'intensifie et où les attentes des c
 
 ---
 
-**Prêt à évaluer la maturité IA de votre PME ?** [Demandez votre audit gratuit](https://iapmesuisse.ch/audit) et recevez un diagnostic personnalisé avec des recommandations concrètes sous 48 heures.
+**Prêt à évaluer la maturité IA de votre PME ?** [Demandez votre audit gratuit](/fr/contact) et recevez un diagnostic personnalisé avec des recommandations concrètes sous 48 heures.
 
 ---
 
 ### Articles connexes
 
 - [Intelligence artificielle pour PME suisses : guide complet 2026](/fr/blog/intelligence-artificielle-pme-suisses-guide-complet-2026) — Article pilier
-- [Budget IA pour PME suisse : de 500 à 50'000 CHF](/fr/blog/budget-ia-pme-suisse)
+- [Budget IA pour PME suisse : de 500 à 50'000 CHF](/fr/contact)
 - [Les outils IA testés et approuvés pour PME suisses](/fr/blog/outils-ia-pme-suisses)
 
 ### Ressource externe

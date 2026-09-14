@@ -139,7 +139,7 @@ L'IA di un CRM è valida quanto i dati che le vengono forniti. Prima di ogni imp
 - Installazione e configurazione della soluzione
 - Configurazione dei pipeline di vendita
 - Attivazione delle funzionalità IA (scoring, predizione, automazione)
-- Integrazione con gli strumenti esistenti (email, telefonia, [contabilità](/it/blog/automazione-contabilita-ia), sito web)
+- Integrazione con gli strumenti esistenti (email, telefonia, [contabilità](/it/blog/automatiser-comptabilite-ia), sito web)
 - Migrazione dei dati
 
 **Budget tipico di integrazione**: 5'000 – 20'000 CHF a seconda della complessità
@@ -198,7 +198,7 @@ Dopo 3 mesi, valutate i seguenti KPI:
 
 Un CRM intelligente raggiunge il massimo potenziale quando è connesso agli altri strumenti dell'azienda:
 
-- **[Marketing automatizzato](/it/blog/marketing-automatizzato-ia-pmi)**: sincronizzazione dei lead generati dal marketing con il CRM per un follow-up senza interruzioni
+- **[Marketing automatizzato](/it/blog/marketing-automatise-ia-pme)**: sincronizzazione dei lead generati dal marketing con il CRM per un follow-up senza interruzioni
 - **IA vocale**: registrazione e analisi automatica delle chiamate commerciali nel CRM
 - **Contabilità**: sincronizzazione delle fatture e dei pagamenti per una visione a 360° del cliente
 - **Sito web**: tracciamento dei visitatori e identificazione delle aziende interessate
@@ -219,15 +219,15 @@ L'investimento, tipicamente tra 10'000 e 30'000 CHF il primo anno per una PMI da
 
 ---
 
-**Pronti a trasformare il vostro approccio commerciale?** [Richiedete il vostro audit gratuito](https://iapmesuisse.ch/audit) e individuate il CRM intelligente adatto alla vostra PMI.
+**Pronti a trasformare il vostro approccio commerciale?** [Richiedete il vostro audit gratuito](/it/contact) e individuate il CRM intelligente adatto alla vostra PMI.
 
 ---
 
 ### Articoli correlati
 
-- [Automazione dei processi con IA: guida pratica per PMI svizzere](/it/blog/automazione-processi-ia-guida-pratica-pmi-svizzere) — Articolo pilastro
-- [Marketing automatizzato con IA per PMI svizzere](/it/blog/marketing-automatizzato-ia-pmi)
-- [Gli strumenti IA testati e approvati per PMI svizzere](/it/blog/strumenti-ia-pmi-svizzere)
+- [Automazione dei processi con IA: guida pratica per PMI svizzere](/it/blog/automatisation-processus-ia-guide-pratique-pme-suisses) — Articolo pilastro
+- [Marketing automatizzato con IA per PMI svizzere](/it/blog/marketing-automatise-ia-pme)
+- [Gli strumenti IA testati e approvati per PMI svizzere](/it/blog/outils-ia-pme-suisses)
 
 ### Risorsa esterna
 

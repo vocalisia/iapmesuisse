@@ -110,4 +110,4 @@ Die Toolkosten für eine Plattform wie Asana oder Monday.com liegen je nach Plan
 
 ---
 
-**Möchten Sie wissen, welche KI-Lösung am besten zu Ihren Projektprozessen passt?** Buchen Sie ein [kostenloses 30-Minuten-Beratungsgespräch](/contact) — wir analysieren Ihre aktuelle Situation und zeigen Ihnen einen konkreten Implementierungsplan.
+**Möchten Sie wissen, welche KI-Lösung am besten zu Ihren Projektprozessen passt?** Buchen Sie ein [kostenloses 30-Minuten-Beratungsgespräch](/de/contact) — wir analysieren Ihre aktuelle Situation und zeigen Ihnen einen konkreten Implementierungsplan.

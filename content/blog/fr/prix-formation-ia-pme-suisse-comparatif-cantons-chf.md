@@ -70,7 +70,7 @@ Tous les cantons romands et alémaniques disposent de dispositifs de soutien à 
 
 Pour InnoSuisse, l'IA est explicitement reconnue comme thématique stratégique 2024-2027. Une PME romande peut financer une partie significative d'un programme accompagnement IA via ces dispositifs combinés.
 
-Pour estimer rapidement votre budget global IA (formation + outils + accompagnement), consultez notre [guide budget IA PME](/fr/blog/budget-ia-pme-suisse).
+Pour estimer rapidement votre budget global IA (formation + outils + accompagnement), consultez notre [guide budget IA PME](/fr/contact).
 
 ## Comparatif inter-cantonal des prix marché
 

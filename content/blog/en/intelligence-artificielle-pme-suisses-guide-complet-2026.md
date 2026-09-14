@@ -248,4 +248,4 @@ The key to success lies in a **methodical approach**: start with an audit, ident
 
 At IA PME Suisse, we support Swiss companies of all sizes and sectors in this transformation. From the initial audit to team training, through technical deployment and performance monitoring, our mission is to make AI accessible, profitable, and compliant for every Swiss SME.
 
-**Take the first step today.** [Request your free AI audit](https://iapmesuisse.ch/audit-ia-gratuit) and discover how artificial intelligence can transform your business.
+**Take the first step today.** [Request your free AI audit](/en/contact) and discover how artificial intelligence can transform your business.

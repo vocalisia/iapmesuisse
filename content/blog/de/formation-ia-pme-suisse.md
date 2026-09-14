@@ -167,4 +167,4 @@ Gesamtbudget: 15'000 bis 40'000 CHF für 15 Personen – oft amortisiert innerha
 
 ---
 
-Für eine individuelle Beratung zur Schulung und Implementierung von KI in Ihrem Schweizer KMU besuchen Sie [iapmesuisse.ch](https://iapmesuisse.ch) – oder entdecken Sie unsere Programme zur [praktischen KI-Schulung für Teams](/fr/blog/formation-ia-revendeur).
+Für eine individuelle Beratung zur Schulung und Implementierung von KI in Ihrem Schweizer KMU besuchen Sie [iapmesuisse.ch](https://iapmesuisse.ch/de) – oder entdecken Sie unsere Programme zur [praktischen KI-Schulung für Teams](/fr/blog/formation-ia-revendeur).

@@ -210,7 +210,7 @@ The key is to start at the right scale, systematically measure results, and adju
 
 ---
 
-**Need to establish your personalized AI budget?** [Request your free audit](https://iapmesuisse.ch/audit) and receive a tailored budget estimate with ROI projections.
+**Need to establish your personalized AI budget?** [Request your free audit](/en/contact) and receive a tailored budget estimate with ROI projections.
 
 ---
 

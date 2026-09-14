@@ -116,7 +116,7 @@ In una PMI, ogni collaboratore ricopre più ruoli. È difficile trovare tempo pe
 
 **Modulo 3 — Strategia e governance (mezza giornata per i manager)**: Guidare una transizione IA, misurare il ROI, definire le regole di utilizzo interne, gestire i rischi (confidenzialità, bias, qualità).
 
-Presso [iapmesuisse.ch](https://iapmesuisse.ch), offriamo questi programmi adattati specificamente alle PMI svizzere, in italiano, tedesco e inglese, con esempi tratti da settori rappresentativi dell'economia elvetica (industria, servizi B2B, commercio, sanità).
+Presso [iapmesuisse.ch](https://iapmesuisse.ch/it), offriamo questi programmi adattati specificamente alle PMI svizzere, in italiano, tedesco e inglese, con esempi tratti da settori rappresentativi dell'economia elvetica (industria, servizi B2B, commercio, sanità).
 
 ---
 

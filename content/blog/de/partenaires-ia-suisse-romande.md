@@ -230,7 +230,7 @@ Nimm dir d'Zyt für e gründligi Uswahl, fordere verifizierbari Referenze und st
 
 ---
 
-**Möchtsch du e Empfehlung für de richtige KI-Partner für dini Projekt?** [Fordere dini gratis Audit aa](https://iapmesuisse.ch/audit) und erhalte personalisierti Partnerempfehlige für dini Branche und dini Budget.
+**Möchtsch du e Empfehlung für de richtige KI-Partner für dini Projekt?** [Fordere dini gratis Audit aa](/de/contact) und erhalte personalisierti Partnerempfehlige für dini Branche und dini Budget.
 
 ---
 
@@ -238,7 +238,7 @@ Nimm dir d'Zyt für e gründligi Uswahl, fordere verifizierbari Referenze und st
 
 - [Digitale Transformation mit KI für KMU i de Welschschwiiz](/fr/blog/transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026) — Leitartikel
 - [Fallstudie: KMU i de Welschschwiiz, wo vo KI profitiert händ](/fr/blog/etudes-cas-pme-romandes-ia)
-- [KI-Budget für Schweizer KMU: vo 500 bis 50'000 CHF](/fr/blog/budget-ia-pme-suisse)
+- [KI-Budget für Schweizer KMU: vo 500 bis 50'000 CHF](/fr/contact)
 
 ### Externi Ressource
 

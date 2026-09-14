@@ -14,7 +14,7 @@ image: "/images/blog/iapme-autocontrol-20260620/de-ia-assurance-courtage-suisse-
 
 Die Schweizer Versicherungswirtschaft steht für **CHF 200 Milliarden Jahresprämien** und zählt zu den wettbewerbsintensivsten Finanzsektoren Europas. Was bislang ein von Tradition und manuellen Prozessen geprägtes Feld war, wird durch künstliche Intelligenz auf allen Ebenen transformiert: Zeichnung, Schadenmanagement, Betrugserkennung, Kundenservice und FINMA-Konformität. Für unabhängige Makler und kleine Schweizer Versicherer ist KI kein Luxus mehr — sie ist zum entscheidenden Wettbewerbsvorteil gegenüber den Grosskonzernen geworden.
 
-> Für den allgemeinen Kontext: [Pillar-Guide zur KI-Automatisierung für Schweizer KMU](/de/automatisierung-ia-kmu-schweiz).
+> Für den allgemeinen Kontext: [Pillar-Guide zur KI-Automatisierung für Schweizer KMU](/de/automatisation-ia-pme-suisse).
 
 ## 1. Vier vorrangige KI-Anwendungen in der Schweizer Versicherung
 
@@ -88,12 +88,12 @@ KI im Versicherungsbereich ersetzt keine Berater — sie entlastet sie von repet
 
 ## Weiterführende Ressourcen
 
-- [Pillar-Guide: KI-Automatisierung für Schweizer KMU](/de/automatisierung-ia-kmu-schweiz)
+- [Pillar-Guide: KI-Automatisierung für Schweizer KMU](/de/automatisation-ia-pme-suisse)
 - [DSB und nDSG im Umgang mit KI: praktische Pflichten](/de/blog/dpo-nlpd-ia-obligations-pratiques-pme-suisse)
-- [Autonome KI-Agenten für Schweizer KMU](/de/blog/autonome-ki-agenten-kmu-schweiz-2026)
-- [KI-Sprachassistent für KMU](/de/blog/ki-sprachassistent-kmu-leitfaden)
-- [ROI der KI für Schweizer KMU](/de/blog/roi-kuenstliche-intelligenz-kmu-schweiz)
+- [Autonome KI-Agenten für Schweizer KMU](/de/blog/agents-ia-autonomes-pme-suisse-2026)
+- [KI-Sprachassistent für KMU](/de/blog/assistant-vocal-ia-pme-guide-complet)
+- [ROI der KI für Schweizer KMU](/de/blog/roi-ki-digitale-transformation-kmu-2026)
 
 ---
 
-**Möchten Sie KI in Ihrem Maklerbüro oder Ihrer Versicherungsagentur einführen?** Nutzen Sie unser [kostenloses 30-Minuten-Beratungsgespräch](/contact), um gemeinsam Ihre konkreten Anwendungsfälle zu identifizieren und einen realistischen Einführungsplan zu erarbeiten.
+**Möchten Sie KI in Ihrem Maklerbüro oder Ihrer Versicherungsagentur einführen?** Nutzen Sie unser [kostenloses 30-Minuten-Beratungsgespräch](/de/contact), um gemeinsam Ihre konkreten Anwendungsfälle zu identifizieren und einen realistischen Einführungsplan zu erarbeiten.

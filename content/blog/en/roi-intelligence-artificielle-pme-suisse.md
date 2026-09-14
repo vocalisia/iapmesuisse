@@ -267,4 +267,4 @@ Your Swiss SME deserves a profitable AI investment. The calculation tools exist.
 
 - [AI Strategy for Swiss SMEs: The Complete Action Plan 2026](/fr/blog/strategie-ia-pme-suisse-2026)
 - [AI for Finance and Accounting in Swiss SMEs 2026](/fr/blog/intelligence-artificielle-finance-comptabilite-pme-suisse)
-- [AI Budget for Swiss SMEs: How Much to Plan and How to Optimize](/fr/blog/budget-ia-pme-suisse)
+- [AI Budget for Swiss SMEs: How Much to Plan and How to Optimize](/fr/contact)

@@ -269,4 +269,4 @@ KMU, die heute in die Automatisierung ihrer Finanzverwaltung investieren, schaff
 
 - [ROI von KI für Schweizer KMU: Zahlen und Berechnungsmethode 2026](/fr/blog/roi-intelligence-artificielle-pme-suisse)
 - [Automatisierung von Prozessen durch KI: Praxisleitfaden für Schweizer KMU](/fr/blog/automatisation-processus-ia-guide-pratique-pme-suisses)
-- [KI-Budget für Schweizer KMU: Wie viel einplanen und wie optimieren](/fr/blog/budget-ia-pme-suisse)
+- [KI-Budget für Schweizer KMU: Wie viel einplanen und wie optimieren](/fr/contact)

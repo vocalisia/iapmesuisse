@@ -11,7 +11,7 @@ image: "/images/blog/iapme-autocontrol-20260620/en-ia-restauration-pme-suisse-gu
 
 The Swiss restaurant industry faces a double structural pressure: **staff shortages** (CHF 4.5 billion in lost revenue in 2024 according to GastroSuisse) and **cost inflation** (food, energy, wages). Artificial intelligence is not a silver bullet, but it frees up hours spent on administrative tasks and improves the customer relationship without replacing the essential: human hospitality.
 
-> For the general context, see the [pillar guide on AI automation for Swiss SMEs](/en/ai-automation-swiss-sme).
+> For the general context, see the [pillar guide on AI automation for Swiss SMEs](/en/automatisation-ia-pme-suisse).
 
 ## 1. Five AI Applications Tailored to Swiss Hospitality
 
@@ -103,7 +103,7 @@ Ready to transform your SME with AI? [Contact our experts for a free 30-minute a
 
 ## Further Reading
 
-- [Pillar guide: AI Automation for Swiss SMEs](/en/ai-automation-swiss-sme)
+- [Pillar guide: AI Automation for Swiss SMEs](/en/automatisation-ia-pme-suisse)
 - [AI Voice Assistant for SMEs: complete guide](/en/blog/assistant-vocal-ia-pme-guide-complet)
 - [AI for Digital Marketing of Swiss SMEs](/en/blog/ia-marketing-digital-pme-suisse-2026)
 - [WhatsApp Business Automation with AI](/en/blog/automatisation-whatsapp-business-ia-pme-suisse)

@@ -255,7 +255,7 @@ Nos experts accompagnent les PME suisses pour :
 
 **Réservez un audit gratuit de 30 minutes** — sans engagement — pour faire le point sur la situation de votre PME.
 
-[Demander votre audit gratuit](/contact)
+[Demander votre audit gratuit](/fr/contact)
 
 ---
 

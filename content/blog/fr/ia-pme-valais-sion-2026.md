@@ -167,4 +167,4 @@ Cela dépend de votre secteur, mais les deux cas d'usage à ROI le plus rapide s
 
 L'IA n'est pas un projet à "démarrer quand on aura le temps". Les PME qui attendent perdent chaque mois l'avantage concurrentiel que leurs concurrents construisent. Le meilleur moment pour démarrer était il y a deux ans. Le deuxième meilleur moment, c'est maintenant.
 
-[Contactez-nous pour un audit gratuit de 30 minutes](https://iapmesuisse.ch/contact) — spécialement conçu pour les PME du Valais, Sion, Martigny et Sierre.
+[Contactez-nous pour un audit gratuit de 30 minutes](https://iapmesuisse.ch/fr/contact) — spécialement conçu pour les PME du Valais, Sion, Martigny et Sierre.

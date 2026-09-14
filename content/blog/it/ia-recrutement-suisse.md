@@ -218,7 +218,7 @@ L'essenziale è adottare un approccio etico, trasparente e conforme alla nLPD, p
 
 ---
 
-**Volete modernizzare il vostro processo di reclutamento?** [Richiedete il vostro audit gratuito](https://iapmesuisse.ch/audit) e ricevete raccomandazioni adattate al vostro volume di reclutamento e budget.
+**Volete modernizzare il vostro processo di reclutamento?** [Richiedete il vostro audit gratuito](/it/contact) e ricevete raccomandazioni adattate al vostro volume di reclutamento e budget.
 
 ---
 

@@ -270,4 +270,4 @@ Les PME qui investissent aujourd'hui dans l'automatisation de leur finance const
 
 - [ROI de l'IA pour les PME suisses : chiffres et méthode de calcul 2026](/fr/blog/roi-intelligence-artificielle-pme-suisse)
 - [Automatisation des processus par IA : guide pratique pour PME suisses](/fr/blog/automatisation-processus-ia-guide-pratique-pme-suisses)
-- [Budget IA pour PME suisse : combien prévoir et comment optimiser](/fr/blog/budget-ia-pme-suisse)
+- [Budget IA pour PME suisse : combien prévoir et comment optimiser](/fr/contact)

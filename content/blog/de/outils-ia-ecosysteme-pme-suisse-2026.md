@@ -116,7 +116,7 @@ In einem KMU trägt jeder Mitarbeitende mehrere Hüte. Es ist schwierig, Zeit f�
 
 **Modul 3 – Strategie und Governance (Halbtägig für Manager)**: Steuerung einer KI-Transformation, Messung des ROI, Definition interner Nutzungsregeln, Umgang mit Risiken (Vertraulichkeit, Bias, Qualität).
 
-Bei [iapmesuisse.ch](https://iapmesuisse.ch) bieten wir diese Programme speziell für Schweizer KMU an, in Deutsch, Französisch und Englisch, mit Beispielen aus repräsentativen Branchen der Schweizer Wirtschaft (Industrie, B2B-Dienstleistungen, Handel, Gesundheit).
+Bei [iapmesuisse.ch](https://iapmesuisse.ch/de) bieten wir diese Programme speziell für Schweizer KMU an, in Deutsch, Französisch und Englisch, mit Beispielen aus repräsentativen Branchen der Schweizer Wirtschaft (Industrie, B2B-Dienstleistungen, Handel, Gesundheit).
 
 ---
 

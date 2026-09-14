@@ -327,14 +327,14 @@ Le dénominateur commun de ces succès n'est ni la technologie ni le budget, mai
 
 ---
 
-**Prêt à écrire votre propre étude de cas ?** [Demandez votre audit gratuit](https://iapmesuisse.ch/audit) et identifiez les opportunités IA concrètes pour votre entreprise.
+**Prêt à écrire votre propre étude de cas ?** [Demandez votre audit gratuit](/fr/contact) et identifiez les opportunités IA concrètes pour votre entreprise.
 
 ---
 
 ### Articles connexes
 
 - [Transformation digitale IA des PME romandes](/fr/blog/transformation-digitale-ia-pme-romandes-etudes-cas-strategies-2026) — Article pilier
-- [Budget IA pour PME suisse : de 500 à 50'000 CHF](/fr/blog/budget-ia-pme-suisse)
+- [Budget IA pour PME suisse : de 500 à 50'000 CHF](/fr/contact)
 - [Partenaires IA de confiance en Suisse romande](/fr/blog/partenaires-ia-suisse-romande)
 
 ### Ressource externe

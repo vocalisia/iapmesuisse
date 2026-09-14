@@ -18,7 +18,7 @@ Questo articolo presenta una selezione di strumenti IA che abbiamo testato, valu
 
 Prima di entrare nel dettaglio delle nostre raccomandazioni, precisiamo i criteri specifici al contesto svizzero che guidano la nostra selezione:
 
-- **Conformità nLPD**: lo strumento consente di rispettare la [nuova legge sulla protezione dei dati](/it/blog/nlpd-ia-obblighi-pmi)?
+- **Conformità nLPD**: lo strumento consente di rispettare la [nuova legge sulla protezione dei dati](/it/blog/nlpd-ia-obligations-pme)?
 - **Hosting dei dati**: i dati sono ospitati in Svizzera o in Europa?
 - **Supporto in italiano**: è disponibile un supporto clienti in italiano?
 - **Fatturazione in CHF**: lo strumento offre una fatturazione in franchi svizzeri?
@@ -58,7 +58,7 @@ Prima di entrare nel dettaglio delle nostre raccomandazioni, precisiamo i criter
 - **Prezzo**: da 800 CHF/mese (Professional) con funzionalità IA
 - **Punti di forza**: interfaccia intuitiva, IA integrata nativamente (riassunti, scoring, redazione), ecosistema completo
 - **Limiti**: costo elevato per funzionalità avanzate, hosting UE (non Svizzera)
-- **La nostra opinione**: miglior rapporto funzionalità/accessibilità per le PMI con 10-80 collaboratori. [Scopri di più sui CRM intelligenti](/it/blog/crm-intelligente-ia).
+- **La nostra opinione**: miglior rapporto funzionalità/accessibilità per le PMI con 10-80 collaboratori. [Scopri di più sui CRM intelligenti](/it/blog/crm-intelligent-ia).
 
 ### Salesforce Einstein
 
@@ -76,7 +76,7 @@ Prima di entrare nel dettaglio delle nostre raccomandazioni, precisiamo i criter
 - **Prezzo**: da 45 CHF/mese (Pro) + moduli aggiuntivi
 - **Punti di forza**: soluzione 100% svizzera, conformità IVA e fiscale svizzera, integrazione bancaria, OCR intelligente per le fatture
 - **Limiti**: funzionalità IA ancora limitate (principalmente OCR e categorizzazione)
-- **La nostra opinione**: base indispensabile per la contabilità delle PMI svizzere. [Scopri come automatizzare la tua contabilità con l'IA](/it/blog/automatizzare-contabilita-ia).
+- **La nostra opinione**: base indispensabile per la contabilità delle PMI svizzere. [Scopri come automatizzare la tua contabilità con l'IA](/it/blog/automatiser-comptabilite-ia).
 
 ### Yokoy
 
@@ -138,7 +138,7 @@ Prima di entrare nel dettaglio delle nostre raccomandazioni, precisiamo i criter
 - **Prezzo**: da 490 CHF/mese
 - **Punti di forza**: soluzione in italiano, personalizzazione vocale, integrazione CRM, disponibilità 24/7
 - **Limiti**: richiede una fase di configurazione e addestramento
-- **La nostra opinione**: soluzione ideale per le PMI di servizi con un alto volume di chiamate. [Scopri di più sull'IA vocale](/it/blog/ia-vocale-accoglienza-telefonica).
+- **La nostra opinione**: soluzione ideale per le PMI di servizi con un alto volume di chiamate. [Scopri di più sull'IA vocale](/it/blog/ia-vocale-accueil-telephonique).
 
 ### Otter.ai Business
 
@@ -180,7 +180,7 @@ Prima di entrare nel dettaglio delle nostre raccomandazioni, precisiamo i criter
 
 ## Come scegliere: la nostra metodologia
 
-1. **Identificate le vostre priorità** tramite un [audit di maturità IA](/it/blog/audit-ia-maturita-pmi).
+1. **Identificate le vostre priorità** tramite un [audit di maturità IA](/it/blog/audit-ia-maturite-pme).
 2. **Valutate la conformità** di ogni strumento rispetto alla nLPD.
 3. **Testate prima di impegnarvi**: la maggior parte degli strumenti offre una prova gratuita di 14-30 giorni.
 4. **Calcolate il ROI atteso** prima di ogni investimento.
@@ -190,19 +190,19 @@ Prima di entrare nel dettaglio delle nostre raccomandazioni, precisiamo i criter
 
 Il panorama degli strumenti IA per le PMI evolve rapidamente. Le soluzioni presentate in questo articolo sono state selezionate per la loro maturità, affidabilità e pertinenza per il mercato svizzero nel 2026. Tuttavia, la scelta di uno strumento non deve mai precedere la definizione di un bisogno chiaro e di un obiettivo misurabile.
 
-Iniziate con uno o due strumenti che corrispondono alle vostre priorità, misurate i risultati e ampliate progressivamente il vostro ecosistema IA. Questo approccio iterativo, combinato con un [budget pianificato correttamente](/it/blog/budget-ia-pmi-svizzera), massimizza le vostre possibilità di successo.
+Iniziate con uno o due strumenti che corrispondono alle vostre priorità, misurate i risultati e ampliate progressivamente il vostro ecosistema IA. Questo approccio iterativo, combinato con un [budget pianificato correttamente](/it/contact), massimizza le vostre possibilità di successo.
 
 ---
 
-**Volete identificare gli strumenti IA più adatti alla vostra PMI?** [Richiedete il vostro audit gratuito](https://iapmesuisse.ch/audit) e ricevete raccomandazioni personalizzate entro 48 ore.
+**Volete identificare gli strumenti IA più adatti alla vostra PMI?** [Richiedete il vostro audit gratuito](/it/contact) e ricevete raccomandazioni personalizzate entro 48 ore.
 
 ---
 
 ### Articoli correlati
 
-- [Intelligenza artificiale per PMI svizzere: guida completa 2026](/it/blog/intelligenza-artificiale-pmi-svizzere-guida-completa-2026) — Articolo pilastro
-- [Budget IA per PMI svizzere: da 500 a 50'000 CHF](/it/blog/budget-ia-pmi-svizzera)
-- [Formazione IA per dirigenti: da dove iniziare](/it/blog/formazione-ia-dirigenti)
+- [Intelligenza artificiale per PMI svizzere: guida completa 2026](/it/blog/intelligence-artificielle-pme-suisses-guide-complet-2026) — Articolo pilastro
+- [Budget IA per PMI svizzere: da 500 a 50'000 CHF](/it/contact)
+- [Formazione IA per dirigenti: da dove iniziare](/it/blog/formation-ia-dirigeants)
 
 ### Risorsa esterna
 

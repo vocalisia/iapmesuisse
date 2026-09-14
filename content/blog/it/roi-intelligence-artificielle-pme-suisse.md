@@ -267,4 +267,4 @@ La tua PMI svizzera merita un investimento IA redditizio. Gli strumenti di calco
 
 - [Strategia IA per PMI svizzere: il piano d'azione completo 2026](/fr/blog/strategie-ia-pme-suisse-2026)
 - [IA per la finanza e contabilità delle PMI svizzere 2026](/fr/blog/intelligence-artificielle-finance-comptabilite-pme-suisse)
-- [Budget IA per PMI svizzere: quanto prevedere e come ottimizzare](/fr/blog/budget-ia-pme-suisse)
+- [Budget IA per PMI svizzere: quanto prevedere e come ottimizzare](/fr/contact)

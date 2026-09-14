@@ -13,7 +13,7 @@ export default function ContactFunnel({ locale }: { locale: string }) {
   const [open, setOpen] = useState(false), t = copy[locale as keyof typeof copy] ?? copy.fr;
   return <section id="contact-projet" data-contact-funnel className={s.funnel} aria-label={t.title}><div className={s.container}>
     <h2>{t.title}</h2><p>{t.body}</p><p className={s.note}>{t.steps}</p><div className={s.actions}>
-      {locale === 'fr' ? <button type="button" className={s.primary} aria-expanded={open} aria-controls="footer-diagnostic" onClick={() => setOpen(!open)}>{open ? t.close : t.start}</button> : <Link className={s.primary} href="/fr/ressources#agent-sur-mesure">{t.start}</Link>}
+      {locale === 'fr' ? <button type="button" className={s.primary} aria-expanded={open} aria-controls="footer-diagnostic" onClick={() => setOpen(!open)}>{open ? t.close : t.start}</button> : <Link className={s.primary} href={`/${locale}/ressources#agent-sur-mesure`}>{t.start}</Link>}
       <Link className={s.secondary} href={`/${locale}/contact`}>{t.contact}</Link>
     </div>{open && <div id="footer-diagnostic" className={s.panel}><AgentDiagnostic placement="site_footer" /></div>}
   </div></section>;

@@ -158,7 +158,7 @@ L'essentiel est de ne pas attendre un incident pour agir. Une démarche proactiv
 
 ---
 
-**Vous souhaitez évaluer la conformité nLPD de vos projets IA ?** [Demandez votre audit gratuit](https://iapmesuisse.ch/audit) et bénéficiez d'un diagnostic personnalisé en 48 heures.
+**Vous souhaitez évaluer la conformité nLPD de vos projets IA ?** [Demandez votre audit gratuit](/fr/contact) et bénéficiez d'un diagnostic personnalisé en 48 heures.
 
 ---
 
@@ -166,7 +166,7 @@ L'essentiel est de ne pas attendre un incident pour agir. Une démarche proactiv
 
 - [Intelligence artificielle pour PME suisses : guide complet 2026](/fr/blog/intelligence-artificielle-pme-suisses-guide-complet-2026) — Article pilier
 - [Audit IA : évaluer la maturité numérique de votre PME](/fr/blog/audit-ia-maturite-pme)
-- [Budget IA pour PME suisse : de 500 à 50'000 CHF](/fr/blog/budget-ia-pme-suisse)
+- [Budget IA pour PME suisse : de 500 à 50'000 CHF](/fr/contact)
 
 ### Ressource externe
 

@@ -235,7 +235,7 @@ La chiave del successo risiede in un approccio progressivo e misurato: inizia co
 
 ---
 
-**Pronto ad automatizzare il tuo marketing?** [Richiedi il tuo audit gratuito](https://iapmesuisse.ch/audit) e ricevi un piano marketing personalizzato per la tua PMI.
+**Pronto ad automatizzare il tuo marketing?** [Richiedi il tuo audit gratuito](/it/contact) e ricevi un piano marketing personalizzato per la tua PMI.
 
 ---
 

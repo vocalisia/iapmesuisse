@@ -119,7 +119,7 @@ In an SME, every employee wears multiple hats. It’s challenging to allocate ti
 
 **Module 3 — Strategy and Governance (half-day for managers)**: Manage an AI transition, measure ROI, define internal usage rules, and handle risks (confidentiality, bias, quality).
 
-At [iapmesuisse.ch](https://iapmesuisse.ch), we offer these programs tailored specifically for Swiss SMEs, in French, German, and English, with examples from representative sectors of the Swiss economy (industry, B2B services, retail, healthcare).
+At [iapmesuisse.ch](https://iapmesuisse.ch/en), we offer these programs tailored specifically for Swiss SMEs, in French, German, and English, with examples from representative sectors of the Swiss economy (industry, B2B services, retail, healthcare).
 
 ---
 

@@ -157,7 +157,7 @@ Das Wichtigste ist, nicht auf einen Vorfall zu warten, um zu handeln. Ein proakt
 
 ---
 
-**Möchten Sie die nLPD-Konformität Ihrer KI-Projekte bewerten?** [Fordern Sie Ihr kostenloses Audit an](https://iapmesuisse.ch/audit) und erhalten Sie eine personalisierte Diagnose innerhalb von 48 Stunden.
+**Möchten Sie die nLPD-Konformität Ihrer KI-Projekte bewerten?** [Fordern Sie Ihr kostenloses Audit an](/de/contact) und erhalten Sie eine personalisierte Diagnose innerhalb von 48 Stunden.
 
 ---
 
@@ -165,8 +165,8 @@ Das Wichtigste ist, nicht auf einen Vorfall zu warten, um zu handeln. Ein proakt
 
 - [Künstliche Intelligenz für Schweizer KMU: Der vollständige Leitfaden 2026](/fr/blog/intelligence-artificielle-pme-suisses-guide-complet-2026) — Hauptartikel  
 - [KI-Audit: Die digitale Reife Ihres KMU bewerten](/fr/blog/audit-ia-maturite-pme)  
-- [KI-Budget für Schweizer KMU: von 500 bis 50'000 CHF](/fr/blog/budget-ia-pme-suisse)  
+- [KI-Budget für Schweizer KMU: von 500 bis 50'000 CHF](/fr/contact)
 
 ### Externe Ressource
 
-- [Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter (EDÖB) — Leitfaden nLPD](https://www.edoeb.admin.ch/edoeb/de/home.html)  
+- [Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter (EDÖB) — Leitfaden nLPD](https://www.edoeb.admin.ch/edoeb/de/home.html)

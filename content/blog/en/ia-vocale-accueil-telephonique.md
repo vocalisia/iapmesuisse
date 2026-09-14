@@ -207,7 +207,7 @@ The technology is now mature enough to provide a natural and fluent experience i
 
 ---
 
-**Interested in testing a voice AI assistant for your SME?** [Request your free audit](https://iapmesuisse.ch/audit) and discover how many calls you’re losing each month.
+**Interested in testing a voice AI assistant for your SME?** [Request your free audit](/en/contact) and discover how many calls you’re losing each month.
 
 ---
 

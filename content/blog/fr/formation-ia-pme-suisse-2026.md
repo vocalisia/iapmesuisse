@@ -142,4 +142,4 @@ La FADP n'impose pas de formation spécifique IA, mais elle exige que les person
 
 La formation IA de vos équipes est l'investissement le moins risqué et le plus rapidement rentable dans votre parcours IA. Le point de départ : identifier les deux ou trois postes dans votre PME où l'IA peut créer le plus d'impact à court terme.
 
-[Contactez-nous pour un audit gratuit de 30 minutes](https://iapmesuisse.ch/contact) — nous identifions ensemble les besoins de formation prioritaires de votre PME suisse.
+[Contactez-nous pour un audit gratuit de 30 minutes](https://iapmesuisse.ch/fr/contact) — nous identifions ensemble les besoins de formation prioritaires de votre PME suisse.

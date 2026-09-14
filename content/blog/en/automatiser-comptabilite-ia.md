@@ -224,14 +224,14 @@ The key to success lies in a gradual approach: start with the most repetitive ta
 
 ---
 
-**Ready to automate your accounting?** [Request your free audit](https://iapmesuisse.ch/audit) and identify the potential gains for your business.
+**Ready to automate your accounting?** [Request your free audit](/en/contact) and identify the potential gains for your business.
 
 ---
 
 ### Related Articles
 
 - [Process Automation with AI: A Practical Guide for Swiss SMEs](/fr/blog/automatisation-processus-ia-guide-pratique-pme-suisses) — Pillar article
-- [AI Budget for Swiss SMEs: From CHF 500 to 50,000](/fr/blog/budget-ia-pme-suisse)
+- [AI Budget for Swiss SMEs: From CHF 500 to 50,000](/fr/contact)
 - [Intelligent CRM: Boost Your Sales with AI](/fr/blog/crm-intelligent-ia)
 
 ### External Resource

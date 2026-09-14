@@ -14,7 +14,7 @@ image: "/images/blog/iapme-autocontrol-20260620/de-ia-bien-etre-qvt-pme-suisse-2
 
 Die Kosten von **Burnout und Absentismus** betragen in der Schweiz mehr als **CHF 10 Milliarden pro Jahr**, wie das SECO in seiner Studie 2025 belegt. Für Grossunternehmen ist das ein statistisches Problem. Für ein KMU mit 15 bis 50 Mitarbeitenden ist die Abwesenheit einer einzigen Schlüsselperson eine operative Krise. KI bietet heute konkrete Werkzeuge, um schwache Signale frühzeitig zu erkennen, Belastungen gleichmässiger zu verteilen und ein humaneres — nicht weniger humanes — Arbeitsumfeld zu gestalten. Der Schlüssel liegt in der richtigen ethischen Haltung: KI als Unterstützungsinstrument, nie als Überwachungsmittel.
 
-> Zum allgemeinen Kontext: [Pilotleitfaden zur KI-Automatisierung für Schweizer KMU](/de/automatisierung-ia-kmu-schweiz).
+> Zum allgemeinen Kontext: [Pilotleitfaden zur KI-Automatisierung für Schweizer KMU](/de/automatisation-ia-pme-suisse).
 
 ## 1. Drei KI-Anwendungen für das Wohlbefinden in KMU
 
@@ -30,7 +30,7 @@ Tools wie **Leapsome**, **Lattice** oder **Peakon** nutzen KI, um regelmässige,
 
 ### Intelligenter Ausgleich der Arbeitsbelastung
 
-KI analysiert die effektive Arbeitsbelastung je Mitarbeitendem in Echtzeit: zugewiesene Aufgaben, Deadlines, Kalenderauslastung, parallele Projekte. Zeichnet sich ein Ungleichgewicht ab, warnt das System die Führungskraft mit einem konkreten Vorschlag zur Umverteilung. Das ist besonders wertvoll in Phasen intensiver Projektarbeit, wo Überlastung für Einzelpersonen oft unsichtbar bleibt, bis sie zu Fehlern oder Ausfall führt. Weitere Infos: [KI und Projektmanagement Schweizer KMU](/de/blog/ki-projektmanagement-kmu-schweiz-2026).
+KI analysiert die effektive Arbeitsbelastung je Mitarbeitendem in Echtzeit: zugewiesene Aufgaben, Deadlines, Kalenderauslastung, parallele Projekte. Zeichnet sich ein Ungleichgewicht ab, warnt das System die Führungskraft mit einem konkreten Vorschlag zur Umverteilung. Das ist besonders wertvoll in Phasen intensiver Projektarbeit, wo Überlastung für Einzelpersonen oft unsichtbar bleibt, bis sie zu Fehlern oder Ausfall führt. Weitere Infos: [KI und Projektmanagement Schweizer KMU](/de/blog/ia-gestion-projets-pme-suisse-2026).
 
 ## 2. Drei Praxisbeispiele aus Schweizer KMU
 
@@ -84,12 +84,12 @@ Ab etwa 10 bis 15 Mitarbeitenden ist der Einsatz wirtschaftlich sinnvoll. Viele 
 
 ## Weiterführende Informationen
 
-- [Pilotleitfaden: KI-Automatisierung für Schweizer KMU](/de/automatisierung-ia-kmu-schweiz)
-- [KI für HR und Rekrutierung in der Schweiz](/de/blog/ki-hr-rekrutierung-schweiz-2026)
-- [KI und Projektmanagement Schweizer KMU](/de/blog/ki-projektmanagement-kmu-schweiz-2026)
-- [Microsoft Copilot für Schweizer KMU](/de/blog/microsoft-copilot-365-kmu-schweiz-leitfaden-2026)
+- [Pilotleitfaden: KI-Automatisierung für Schweizer KMU](/de/automatisation-ia-pme-suisse)
+- [KI für HR und Rekrutierung in der Schweiz](/de/blog/ia-rh-recrutement-automatise-suisse-2026)
+- [KI und Projektmanagement Schweizer KMU](/de/blog/ia-gestion-projets-pme-suisse-2026)
+- [Microsoft Copilot für Schweizer KMU](/de/blog/copilot-microsoft-365-pme-suisse-guide-2026)
 - [Datenschutz und nDSG im KI-Einsatz](/de/blog/dpo-nlpd-ia-obligations-pratiques-pme-suisse)
 
 ---
 
-**Möchten Sie das Wohlbefinden und die Produktivität Ihres Teams mit KI-Unterstützung verbessern?** Vereinbaren Sie jetzt Ihr [kostenloses 30-Minuten-Beratungsgespräch](/contact) — wir zeigen Ihnen, welche Tools zu Ihrer Unternehmenskultur und Ihrer Teamgrösse passen, und wie Sie die Einführung gesetzeskonform und mitarbeiterorientiert gestalten.
+**Möchten Sie das Wohlbefinden und die Produktivität Ihres Teams mit KI-Unterstützung verbessern?** Vereinbaren Sie jetzt Ihr [kostenloses 30-Minuten-Beratungsgespräch](/de/contact) — wir zeigen Ihnen, welche Tools zu Ihrer Unternehmenskultur und Ihrer Teamgrösse passen, und wie Sie die Einführung gesetzeskonform und mitarbeiterorientiert gestalten.

@@ -120,7 +120,7 @@ Oui, dès que ces outils traitent des données personnelles de clients, fourniss
 
 Choisir une agence IA pour votre PME ne se fait pas sur catalogue. Le premier filtre le plus efficace reste un entretien de 30 minutes pour évaluer la compréhension que l'agence a de votre métier et de vos contraintes spécifiques.
 
-[Contactez-nous pour un audit gratuit de 30 minutes](https://iapmesuisse.ch/contact) — sans engagement, sans présentation commerciale générique, avec un interlocuteur qui connaît le tissu PME de Suisse romande.
+[Contactez-nous pour un audit gratuit de 30 minutes](https://iapmesuisse.ch/fr/contact) — sans engagement, sans présentation commerciale générique, avec un interlocuteur qui connaît le tissu PME de Suisse romande.
 
 ---
 

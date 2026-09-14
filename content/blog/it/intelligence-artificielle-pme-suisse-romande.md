@@ -175,4 +175,4 @@ In pratica per le PMI della Svizzera italiana: verificare che i fornitori IA osp
 
 Le PMI della Svizzera italiana hanno tutto ciò che serve per trarre il massimo dall'intelligenza artificiale: una cultura dell'eccellenza, la vicinanza alle migliori scuole universitarie d'Europa e un tessuto economico diversificato ricco di casi d'uso. Il momento di agire è ora.
 
-Per un accompagnamento personalizzato adatto al vostro settore e al vostro cantone, consultate [iapmesuisse.ch](https://iapmesuisse.ch).
+Per un accompagnamento personalizzato adatto al vostro settore e al vostro cantone, consultate [iapmesuisse.ch](https://iapmesuisse.ch/it).

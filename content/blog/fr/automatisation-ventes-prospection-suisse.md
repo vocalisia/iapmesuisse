@@ -44,7 +44,7 @@ La meilleure première automatisation n’est pas une séquence sortante. C’es
 
 Cette séquence rend les erreurs visibles. Si la même information manque toujours, le problème est le formulaire ou le script de qualification. Si les actions restent ouvertes, le problème est une règle d’attribution ou de capacité. Si les rendez-vous ne sont pas confirmés, le problème est la préparation de l’échange. L’outil n’est alors qu’un support d’observation.
 
-Pour cadrer les entrées et les sorties, commencez par notre [audit de workflow IA pour PME suisse](/fr/blog/audit-workflow-ia-pme-suisse). Lorsque le flux est stable, l’article sur l’[agent IA commercial pour PME suisse romande](/fr/blog/agent-ia-commercial-pme-suisse-romande) explique où une assistance peut aider sans automatiser la relation.
+Pour cadrer les entrées et les sorties, commencez par notre [audit de workflow IA pour PME suisse](/fr/blog/audit-workflow-ia-pme-suisse). Lorsque le flux est stable, l’article sur l’agent IA commercial pour PME suisse romande explique où une assistance peut aider sans automatiser la relation.
 
 ## Ce que l’IA peut préparer, et ce qu’elle ne doit pas décider
 
