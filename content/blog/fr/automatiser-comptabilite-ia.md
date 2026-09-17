@@ -192,6 +192,8 @@ Les outils suisses comme Bexio et Abacus gèrent nativement ces particularités.
 
 Depuis 2022, les bulletins de versement traditionnels ont été remplacés par les QR-factures. Les outils comptables suisses intègrent la lecture automatique du QR code, permettant une saisie quasi instantanée des factures fournisseurs.
 
+Pour vérifier le parcours complet — devis, émission, paiement, rapprochement et exception — consultez aussi notre [guide de choix d’un logiciel de facturation avec QR-facture](/fr/blog/logiciel-facturation-qr-facture-suisse).
+
 ### Archivage conforme
 
 L'Ordonnance concernant la tenue et la conservation des livres de comptes (Olico) impose des exigences spécifiques d'archivage que votre solution comptable doit respecter : conservation pendant 10 ans, intégrité des documents, traçabilité des modifications.
