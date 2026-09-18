@@ -9,6 +9,13 @@ export function proxy(request: Parameters<typeof handleI18nRouting>[0]) {
   if (response.status === 307) {
     const location = response.headers.get('location');
     if (location) {
+      // Root "/" redirect depends on Accept-Language (fr default) →
+      // must stay temporary and declare Vary so caches/crawlers don't pin one locale.
+      if (request.nextUrl.pathname === '/') {
+        const rootRedirect = NextResponse.redirect(location, { status: 307 });
+        rootRedirect.headers.set('Vary', 'Accept-Language');
+        return rootRedirect;
+      }
       return NextResponse.redirect(location, { status: 308 });
     }
   }
