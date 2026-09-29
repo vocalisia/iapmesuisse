@@ -102,6 +102,7 @@
     "about": "About",
     "blog": "Blog",
     "contact": "Contact",
+    "rendezvous": "Book a meeting",
     "resources": "Resources",
     "mentions": "Legal notice",
     "privacy_page": "Privacy policy",
@@ -166,7 +167,9 @@
     },
     "cta_title": "Ready to transform your SME?",
     "cta_description": "Contact us for a free audit and discover how AI can accelerate your business.",
-    "cta_button": "Get in touch"
+    "cta_button": "Get in touch",
+    "reviews_title": "Client reviews",
+    "reviews_description": "Reviews shown here are submitted by our clients on trustrewiews.ch and checked before publication. Worked with us? Your feedback helps companies that are still deciding."
   },
   "services": {
     "title": "Our services",

@@ -85,6 +85,7 @@ export default function Footer() {
               <li><Link href="/consulting" className="text-sm text-gray-300 transition-colors hover:text-white">{nav('consulting')}</Link></li>
               <li><Link href="/evenements-ia" className="text-sm text-gray-300 transition-colors hover:text-white">{nav('evenements')}</Link></li>
               <li><Link href="/contact" className="text-sm text-gray-300 transition-colors hover:text-white">{nav('contact')}</Link></li>
+              <li><Link href="/rendez-vous" className="text-sm text-gray-300 transition-colors hover:text-white">{nav('rendezvous')}</Link></li>
             </ul>
           </div>
 

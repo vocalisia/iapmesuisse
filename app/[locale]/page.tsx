@@ -3,6 +3,7 @@ import { Link } from '@/i18n/routing';
 import { getAlternates } from '@/lib/metadata';
 import ServiceCard from '@/components/ServiceCard';
 import CTA from '@/components/CTA';
+import TrustRewiews from '@/components/TrustRewiews';
 import Image from 'next/image';
 import { buildHomeFaqSchema } from '@/lib/structured-data';
 
@@ -235,6 +236,17 @@ export default async function HomePage({
           </div>
         </section>
       )}
+
+      {/* Avis clients vérifiés (trustrewiews.ch) */}
+      <section className="bg-gray-light px-4 py-16 sm:px-6 sm:py-20 lg:px-8">
+        <div className="mx-auto max-w-4xl">
+          <h2 className="text-2xl font-extrabold text-primary sm:text-3xl">{tHome('reviews_title')}</h2>
+          <p className="mt-3 text-gray-700">{tHome('reviews_description')}</p>
+          <div className="mt-8">
+            <TrustRewiews siteKey="iapmesuisse-ch" />
+          </div>
+        </div>
+      </section>
 
       {/* Final CTA */}
       <CTA

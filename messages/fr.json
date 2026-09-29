@@ -102,6 +102,7 @@
     "about": "À propos",
     "blog": "Blog",
     "contact": "Contact",
+    "rendezvous": "Prendre rendez-vous",
     "resources": "Ressources",
     "mentions": "Mentions légales",
     "privacy_page": "Confidentialité",
@@ -166,7 +167,9 @@
     },
     "cta_title": "Prêt à transformer votre PME?",
     "cta_description": "Contactez-nous pour un audit gratuit et découvrez comment l'IA peut booster votre entreprise.",
-    "cta_button": "Nous contacter"
+    "cta_button": "Nous contacter",
+    "reviews_title": "Avis clients",
+    "reviews_description": "Les avis publiés ici sont déposés par nos clients sur trustrewiews.ch, puis contrôlés avant publication. Vous avez travaillé avec nous ? Votre retour aide les entreprises qui hésitent."
   },
   "services": {
     "title": "Nos services",

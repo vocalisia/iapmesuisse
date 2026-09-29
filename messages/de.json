@@ -102,6 +102,7 @@
     "about": "Über uns",
     "blog": "Blog",
     "contact": "Kontakt",
+    "rendezvous": "Termin buchen",
     "resources": "Ressourcen",
     "mentions": "Impressum",
     "privacy_page": "Datenschutz",
@@ -166,7 +167,9 @@
     },
     "cta_title": "Bereit, Ihr KMU zu transformieren?",
     "cta_description": "Kontaktieren Sie uns für ein kostenloses Audit und erfahren Sie, wie KI Ihr Unternehmen voranbringen kann.",
-    "cta_button": "Kontakt aufnehmen"
+    "cta_button": "Kontakt aufnehmen",
+    "reviews_title": "Kundenbewertungen",
+    "reviews_description": "Die hier gezeigten Bewertungen stammen von unseren Kundinnen und Kunden auf trustrewiews.ch und werden vor der Veröffentlichung geprüft. Ihr Feedback hilft Unternehmen, die noch zögern."
   },
   "services": {
     "title": "Unsere Dienstleistungen",

@@ -73,11 +73,17 @@ export const LEGACY_BLOG_REDIRECTS: Record<string, Record<string, string>> = {
     'ia-pme-valais-sion': '/villes/sion',
     // This article exists only in French; retain the content rather than return a dead localized URL.
     'ia-pme-geneve-cas-usage-2026': '/fr/blog/ia-pme-geneve-cas-usage-2026',
+    // This CRM article is published in German only; preserve the article rather than serve a 404 on its old Italian route.
+    'crm-implementierung-kmu-schweiz-beispiel': '/de/blog/crm-implementierung-kmu-schweiz-beispiel',
     'agence-ia-pour-pme-2026-04-14': '/blog/agence-ia-pme-suisse-comparatif',
     'internet-haute-vitesse-2026-04-13': '/blog/optimiser-internet-haute-vitesse-pme-suisses',
     'subventions-pme-suisse-2026-04-14': '/blog/subventions-digitalisation-suisse',
   },
   fr: {
+    // Legacy article slugs kept in external links and GSC; each target is the current article on the same subject.
+    'agent-ia-commercial-pme-suisse-romande': '/blog/agent-ia-vente-prospection-suisse',
+    'ia-cyber-risques-pme-suisse-2026': '/blog/ia-cybersecurite-pme-suisse-2026',
+    'registre-usages-ia-pme-suisse-nlpd': '/blog/audit-ia-gratuit-pme-suisse-checklist-nlpd',
     'agent-ia-documentation-interne-pme': '/blog/ia-gestion-documentaire-suisse-guide-2026',
     'ia-fiduciaire-pme-suisse-controles': '/blog/ia-fiduciaire-comptable-suisse-guide-2026',
     'subventions-pme-suisse-ou-chercher': '/blog/ia-subventions-aides-digitalisation-pme-suisse-2026',
