@@ -144,8 +144,19 @@ export default function Header() {
         {/* Right side: Quiz CTA + language switcher + mobile toggle */}
         <div className="flex flex-none items-center gap-2">
           <Link
+            href="/rendez-vous"
+            aria-label={t('rendezvous')}
+            className="inline-flex items-center gap-1.5 whitespace-nowrap rounded-lg bg-[#FF0000] px-3 py-2 text-xs font-semibold text-white shadow-sm transition-all duration-200 hover:bg-red-700 hover:shadow-md xl:px-4 xl:text-sm"
+          >
+            <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+              <path strokeLinecap="round" strokeLinejoin="round" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+            </svg>
+            {/* Entre lg et xl, la navigation occupe toute la largeur : icone seule. */}
+            <span className="lg:hidden xl:inline">{t('rendezvous')}</span>
+          </Link>
+          <Link
             href="/quiz/maturite-ia"
-            className="hidden rounded-lg bg-[#FF0000] px-3 py-2 text-xs font-semibold text-white shadow-sm transition-all duration-200 hover:bg-red-700 hover:shadow-md xl:inline-flex xl:items-center xl:gap-1.5 xl:px-4 xl:text-sm"
+            className="hidden rounded-lg border-2 border-[#FF0000] px-3 py-1.5 text-xs font-semibold text-[#FF0000] transition-all duration-200 hover:bg-[#FF0000] hover:text-white xl:inline-flex xl:items-center xl:gap-1.5 xl:px-4 xl:text-sm"
           >
             <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
               <path strokeLinecap="round" strokeLinejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4" />
@@ -166,8 +177,17 @@ export default function Header() {
 
             <nav className="fixed left-0 right-0 top-20 z-50 max-h-[calc(100dvh-5rem)] overflow-y-auto border-t border-gray-200 bg-white px-4 py-4 shadow-xl">
               <Link
-                href="/quiz/maturite-ia"
+                href="/rendez-vous"
                 className="mb-3 flex min-h-11 items-center justify-center gap-2 rounded-lg bg-[#FF0000] px-4 py-3 text-base font-semibold text-white shadow-sm transition-all duration-200 hover:bg-red-700"
+              >
+                <svg className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                </svg>
+                {t('rendezvous')}
+              </Link>
+              <Link
+                href="/quiz/maturite-ia"
+                className="mb-3 flex min-h-11 items-center justify-center gap-2 rounded-lg border-2 border-[#FF0000] px-4 py-3 text-base font-semibold text-[#FF0000] transition-all duration-200 hover:bg-[#FF0000] hover:text-white"
               >
                 <svg className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
                   <path strokeLinecap="round" strokeLinejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4" />
