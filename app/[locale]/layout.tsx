@@ -102,7 +102,7 @@ export default async function LocaleLayout({
         {/* Consent Mode v2 + GA4. Do not remove or change without explicit owner approval. */}
         <script
           dangerouslySetInnerHTML={{
-            __html: `(function(){var id='${GA4_ID}';window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}window.gtag=gtag;var c=typeof localStorage!=='undefined'?localStorage.getItem('cookie-consent'):null;gtag('consent','default',{analytics_storage:c==='rejected'?'denied':'granted',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',wait_for_update:500});gtag('js',new Date());gtag('config',id);var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id='+id;document.head.appendChild(s);})();`,
+            __html: `(function(){var id='${GA4_ID}';window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}window.gtag=gtag;var c=typeof localStorage!=='undefined'?localStorage.getItem('cookie-consent'):null;gtag('consent','default',{analytics_storage:c==='accepted'?'granted':'denied',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',wait_for_update:500});gtag('js',new Date());gtag('config',id);var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id='+id;document.head.appendChild(s);})();`,
           }}
         />
         <SchemaMarkup locale={locale} />
