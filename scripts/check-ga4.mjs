@@ -26,4 +26,17 @@ if (!found) {
   console.error(`GA4 guard failed: missing ${requiredId}`);
   process.exit(1);
 }
+
+const consentLayoutPath = join("app", "[locale]", "layout.tsx");
+const consentLayout = readFileSync(consentLayoutPath, "utf8");
+const consentDefault =
+  "analytics_storage:c==='accepted'?'granted':'denied'";
+
+if (!consentLayout.includes(consentDefault)) {
+  console.error(
+    "GA4 guard failed: analytics storage must default to denied until explicit acceptance",
+  );
+  process.exit(1);
+}
+
 console.log(`GA4 guard OK: ${requiredId}`);
