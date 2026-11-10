@@ -77,6 +77,7 @@ export default async function HomePage({
           src="/images/iapmesuisse-home-consultation-20260908.png"
           alt=""
           fill
+          sizes="100vw"
           className="object-cover opacity-20"
           priority
         />
