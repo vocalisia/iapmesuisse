@@ -160,6 +160,22 @@ Here’s a list of concrete questions to ask any potential partner, whether an a
 
 ---
 
+## What to ask an AI agency before approving a pilot
+
+In a [published case study](https://iosys.swiss/case-studies/order-processing-automation/), Swiss provider iosys describes how a CNC manufacturer in Central Switzerland moved from typing emailed PDF orders into its ERP to extracting order data automatically. Staff still reviewed exceptions and performed spot checks. The provider reports that weekly processing time fell from 20 hours to two. The manufacturer is unnamed, and the figures come from iosys.
+
+If an agency proposes a similar project, ask it to test three orders with your team before rollout.
+
+| Test order | What the agency should show |
+|---|---|
+| A standard order | The item, quantity and requested delivery date land in the correct ERP fields. |
+| An unfamiliar format or an unknown item | The order goes to a named reviewer with the original PDF and the field that needs checking. |
+| An order sent twice | The second submission is flagged and does not create a duplicate ERP entry. |
+
+Agree how you will measure processing time before the pilot starts. Include time spent reviewing exceptions and correcting entries. Keep the original document available so that a reviewer can trace an error back to its source.
+
+[Book an AI diagnostic to discuss your pilot](/en/rendez-vous/audit-ia?pilot=iapme_en_agency_comparison_pilot#agenda)
+
 ## Common Mistakes Made by Swiss SMEs
 
 ### Mistake 1: Starting with Technology Instead of the Problem
